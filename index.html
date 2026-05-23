@@ -14,909 +14,164 @@
     --mid: #2a2a2a;
     --text-muted: #666;
   }
-
   * { margin: 0; padding: 0; box-sizing: border-box; }
-
   html { scroll-behavior: smooth; }
+  body { background: var(--black); color: var(--white); font-family: 'Space Mono', monospace; cursor: none; overflow-x: hidden; }
 
-  body {
-    background: var(--black);
-    color: var(--white);
-    font-family: 'Space Mono', monospace;
-    cursor: none;
-    overflow-x: hidden;
-  }
+  .cursor { width: 12px; height: 12px; background: var(--red); border-radius: 50%; position: fixed; top: 0; left: 0; pointer-events: none; z-index: 9999; mix-blend-mode: difference; }
+  .cursor-ring { width: 36px; height: 36px; border: 1px solid var(--white); border-radius: 50%; position: fixed; top: 0; left: 0; pointer-events: none; z-index: 9998; transition: all 0.08s ease; mix-blend-mode: difference; }
 
-  /* CUSTOM CURSOR */
-  .cursor {
-    width: 12px; height: 12px;
-    background: var(--red);
-    border-radius: 50%;
-    position: fixed;
-    top: 0; left: 0;
-    pointer-events: none;
-    z-index: 9999;
-    transition: transform 0.15s ease;
-    mix-blend-mode: difference;
-  }
-  .cursor-ring {
-    width: 36px; height: 36px;
-    border: 1px solid var(--white);
-    border-radius: 50%;
-    position: fixed;
-    top: 0; left: 0;
-    pointer-events: none;
-    z-index: 9998;
-    transition: all 0.08s ease;
-    mix-blend-mode: difference;
-  }
-
-  /* NOISE OVERLAY */
-  body::before {
-    content: '';
-    position: fixed;
-    inset: 0;
-    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
-    pointer-events: none;
-    z-index: 1000;
-    opacity: 0.4;
-  }
-
-  /* NAV */
-  nav {
-    position: fixed;
-    top: 0; left: 0; right: 0;
-    z-index: 500;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 40px;
-    background: linear-gradient(to bottom, rgba(10,10,10,0.95), transparent);
-    backdrop-filter: blur(2px);
-  }
-
-  .logo {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 2rem;
-    letter-spacing: 0.15em;
-    color: var(--white);
-    text-decoration: none;
-    position: relative;
-  }
+  nav { position: fixed; top: 0; left: 0; right: 0; z-index: 500; display: flex; justify-content: space-between; align-items: center; padding: 20px 40px; background: linear-gradient(to bottom, rgba(10,10,10,0.95), transparent); backdrop-filter: blur(2px); }
+  .logo { font-family: 'Bebas Neue', sans-serif; font-size: 2rem; letter-spacing: 0.15em; color: var(--white); text-decoration: none; }
   .logo span { color: var(--red); }
-
-  .nav-links {
-    display: flex;
-    gap: 32px;
-    list-style: none;
-  }
-  .nav-links a {
-    color: var(--text-muted);
-    text-decoration: none;
-    font-size: 0.7rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    transition: color 0.2s;
-  }
+  .nav-links { display: flex; gap: 32px; list-style: none; }
+  .nav-links a { color: var(--text-muted); text-decoration: none; font-size: 0.7rem; letter-spacing: 0.2em; text-transform: uppercase; transition: color 0.2s; }
   .nav-links a:hover { color: var(--white); }
+  .cart-btn { background: none; border: 1px solid var(--mid); color: var(--white); font-family: 'Space Mono', monospace; font-size: 0.7rem; letter-spacing: 0.15em; padding: 10px 20px; cursor: none; transition: all 0.2s; position: relative; }
+  .cart-btn:hover { background: var(--white); color: var(--black); }
+  .cart-count { position: absolute; top: -8px; right: -8px; background: var(--red); color: var(--white); width: 18px; height: 18px; border-radius: 50%; font-size: 0.6rem; display: flex; align-items: center; justify-content: center; }
 
-  .nav-right {
-    display: flex;
-    align-items: center;
-    gap: 24px;
-  }
+  .hero { min-height: 100vh; display: flex; flex-direction: column; justify-content: flex-end; padding: 0 40px 80px; position: relative; overflow: hidden; }
+  .hero-bg { position: absolute; inset: 0; background: radial-gradient(ellipse at 70% 40%, rgba(230,50,34,0.08) 0%, transparent 60%), radial-gradient(ellipse at 20% 80%, rgba(230,50,34,0.05) 0%, transparent 50%), var(--black); }
+  .hero-label { font-size: 0.65rem; letter-spacing: 0.3em; color: var(--red); text-transform: uppercase; margin-bottom: 16px; opacity: 0; animation: fadeUp 0.8s 0.2s forwards; }
+  .hero-title { font-family: 'Bebas Neue', sans-serif; font-size: clamp(5rem, 15vw, 14rem); line-height: 0.9; letter-spacing: -0.02em; position: relative; z-index: 1; opacity: 0; animation: fadeUp 0.8s 0.4s forwards; }
+  .hero-title .outline { -webkit-text-stroke: 1px var(--white); color: transparent; }
+  .hero-sub { display: flex; justify-content: space-between; align-items: flex-end; margin-top: 40px; opacity: 0; animation: fadeUp 0.8s 0.6s forwards; }
+  .hero-desc { font-size: 0.75rem; color: var(--text-muted); line-height: 1.8; max-width: 320px; }
+  .hero-cta { background: var(--red); color: var(--white); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.2em; padding: 18px 48px; cursor: none; transition: all 0.2s; text-decoration: none; display: inline-block; }
+  .hero-cta:hover { background: var(--white); color: var(--black); transform: translateY(-2px); }
+  .hero-ticker { position: absolute; bottom: 0; left: 0; right: 0; background: var(--red); padding: 10px 0; overflow: hidden; white-space: nowrap; }
+  .ticker-inner { display: inline-flex; animation: ticker 20s linear infinite; }
+  .ticker-inner span { font-family: 'Bebas Neue', sans-serif; font-size: 0.9rem; letter-spacing: 0.3em; padding: 0 40px; color: var(--white); }
 
-  .cart-btn {
-    background: none;
-    border: 1px solid var(--mid);
-    color: var(--white);
-    font-family: 'Space Mono', monospace;
-    font-size: 0.7rem;
-    letter-spacing: 0.15em;
-    padding: 10px 20px;
-    cursor: none;
-    transition: all 0.2s;
-    position: relative;
-  }
-  .cart-btn:hover {
-    background: var(--white);
-    color: var(--black);
-  }
-  .cart-count {
-    position: absolute;
-    top: -8px; right: -8px;
-    background: var(--red);
-    color: var(--white);
-    width: 18px; height: 18px;
-    border-radius: 50%;
-    font-size: 0.6rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+  .shop-section { padding: 100px 40px 40px; }
+  .section-header { display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 40px; border-bottom: 1px solid var(--mid); padding-bottom: 24px; }
+  .section-title { font-family: 'Bebas Neue', sans-serif; font-size: 3rem; letter-spacing: 0.1em; }
+  .filters { display: flex; gap: 8px; flex-wrap: wrap; }
+  .filter-btn { background: none; border: 1px solid var(--mid); color: var(--text-muted); font-family: 'Space Mono', monospace; font-size: 0.65rem; letter-spacing: 0.15em; padding: 8px 16px; cursor: none; transition: all 0.2s; text-transform: uppercase; }
+  .filter-btn:hover, .filter-btn.active { background: var(--white); color: var(--black); border-color: var(--white); }
 
-  /* HERO */
-  .hero {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    padding: 0 40px 80px;
-    position: relative;
-    overflow: hidden;
-  }
+  .product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 2px; }
+  .product-card { background: var(--gray); position: relative; overflow: hidden; cursor: none; }
+  .product-img { width: 100%; aspect-ratio: 3/4; background: var(--mid); position: relative; overflow: hidden; }
+  .product-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease; }
+  .product-card:hover .product-img img { transform: scale(1.05); }
+  .product-overlay { position: absolute; inset: 0; background: rgba(10,10,10,0.85); display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity 0.3s ease; }
+  .product-card:hover .product-overlay { opacity: 1; }
+  .quick-add { background: var(--white); color: var(--black); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1rem; letter-spacing: 0.2em; padding: 14px 32px; cursor: none; transition: all 0.2s; }
+  .quick-add:hover { background: var(--red); color: var(--white); }
+  .product-info { padding: 16px; }
+  .product-category { font-size: 0.6rem; letter-spacing: 0.25em; color: var(--text-muted); text-transform: uppercase; margin-bottom: 6px; }
+  .product-name { font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.1em; margin-bottom: 8px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .product-bottom { display: flex; justify-content: space-between; align-items: center; }
+  .product-price { font-size: 0.85rem; font-weight: 700; }
+  .product-sizes { display: flex; gap: 4px; flex-wrap: wrap; }
+  .size-tag { font-size: 0.55rem; border: 1px solid var(--mid); padding: 2px 6px; color: var(--text-muted); }
 
-  .hero-bg {
-    position: absolute;
-    inset: 0;
-    background:
-      radial-gradient(ellipse at 70% 40%, rgba(230,50,34,0.08) 0%, transparent 60%),
-      radial-gradient(ellipse at 20% 80%, rgba(230,50,34,0.05) 0%, transparent 50%),
-      var(--black);
-  }
-
-  .hero-label {
-    font-size: 0.65rem;
-    letter-spacing: 0.3em;
-    color: var(--red);
-    text-transform: uppercase;
-    margin-bottom: 16px;
-    opacity: 0;
-    animation: fadeUp 0.8s 0.2s forwards;
-  }
-
-  .hero-title {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: clamp(5rem, 15vw, 14rem);
-    line-height: 0.9;
-    letter-spacing: -0.02em;
-    position: relative;
-    z-index: 1;
-    opacity: 0;
-    animation: fadeUp 0.8s 0.4s forwards;
-  }
-
-  .hero-title .outline {
-    -webkit-text-stroke: 1px var(--white);
-    color: transparent;
-  }
-
-  .hero-sub {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    margin-top: 40px;
-    opacity: 0;
-    animation: fadeUp 0.8s 0.6s forwards;
-  }
-
-  .hero-desc {
-    font-size: 0.75rem;
-    color: var(--text-muted);
-    line-height: 1.8;
-    max-width: 320px;
-  }
-
-  .hero-cta {
-    background: var(--red);
-    color: var(--white);
-    border: none;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.1rem;
-    letter-spacing: 0.2em;
-    padding: 18px 48px;
-    cursor: none;
-    transition: all 0.2s;
-    text-decoration: none;
-    display: inline-block;
-  }
-  .hero-cta:hover {
-    background: var(--white);
-    color: var(--black);
-    transform: translateY(-2px);
-  }
-
-  .hero-ticker {
-    position: absolute;
-    bottom: 0; left: 0; right: 0;
-    background: var(--red);
-    padding: 10px 0;
-    overflow: hidden;
-    white-space: nowrap;
-  }
-  .ticker-inner {
-    display: inline-flex;
-    animation: ticker 20s linear infinite;
-  }
-  .ticker-inner span {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 0.9rem;
-    letter-spacing: 0.3em;
-    padding: 0 40px;
-    color: var(--white);
-  }
-
-  /* FILTERS */
-  .shop-section {
-    padding: 100px 40px 40px;
-  }
-
-  .section-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    margin-bottom: 40px;
-    border-bottom: 1px solid var(--mid);
-    padding-bottom: 24px;
-  }
-
-  .section-title {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 3rem;
-    letter-spacing: 0.1em;
-  }
-
-  .filters {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-  }
-
-  .filter-btn {
-    background: none;
-    border: 1px solid var(--mid);
-    color: var(--text-muted);
-    font-family: 'Space Mono', monospace;
-    font-size: 0.65rem;
-    letter-spacing: 0.15em;
-    padding: 8px 16px;
-    cursor: none;
-    transition: all 0.2s;
-    text-transform: uppercase;
-  }
-  .filter-btn:hover,
-  .filter-btn.active {
-    background: var(--white);
-    color: var(--black);
-    border-color: var(--white);
-  }
-
-  /* PRODUCT GRID */
-  .product-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 2px;
-  }
-
-  .product-card {
-    background: var(--gray);
-    position: relative;
-    overflow: hidden;
-    cursor: none;
-    group: true;
-  }
-
-  .product-img {
-    width: 100%;
-    aspect-ratio: 3/4;
-    background: var(--mid);
-    position: relative;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .product-img-placeholder {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 4rem;
-    color: var(--mid);
-    letter-spacing: 0.1em;
-    transition: transform 0.4s ease;
-  }
-
-  .product-card:hover .product-img-placeholder {
-    transform: scale(1.05);
-  }
-
-  .product-badge {
-    position: absolute;
-    top: 12px; left: 12px;
-    background: var(--red);
-    color: var(--white);
-    font-size: 0.6rem;
-    letter-spacing: 0.2em;
-    padding: 4px 10px;
-    text-transform: uppercase;
-  }
-
-  .product-overlay {
-    position: absolute;
-    inset: 0;
-    background: rgba(10,10,10,0.85);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-  }
-
-  .product-card:hover .product-overlay {
-    opacity: 1;
-  }
-
-  .quick-add {
-    background: var(--white);
-    color: var(--black);
-    border: none;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1rem;
-    letter-spacing: 0.2em;
-    padding: 14px 32px;
-    cursor: none;
-    transition: all 0.2s;
-  }
-  .quick-add:hover {
-    background: var(--red);
-    color: var(--white);
-  }
-
-  .product-info {
-    padding: 16px;
-  }
-
-  .product-category {
-    font-size: 0.6rem;
-    letter-spacing: 0.25em;
-    color: var(--text-muted);
-    text-transform: uppercase;
-    margin-bottom: 6px;
-  }
-
-  .product-name {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.1rem;
-    letter-spacing: 0.1em;
-    margin-bottom: 8px;
-  }
-
-  .product-bottom {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .product-price {
-    font-size: 0.85rem;
-    font-weight: 700;
-  }
-
-  .product-sizes {
-    display: flex;
-    gap: 4px;
-  }
-
-  .size-tag {
-    font-size: 0.55rem;
-    border: 1px solid var(--mid);
-    padding: 2px 6px;
-    color: var(--text-muted);
-  }
-
-  /* CART SIDEBAR */
-  .cart-overlay {
-    position: fixed;
-    inset: 0;
-    background: rgba(0,0,0,0.7);
-    z-index: 800;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.3s;
-    backdrop-filter: blur(4px);
-  }
-  .cart-overlay.open {
-    opacity: 1;
-    pointer-events: all;
-  }
-
-  .cart-sidebar {
-    position: fixed;
-    top: 0; right: 0;
-    width: 420px;
-    height: 100vh;
-    background: var(--gray);
-    z-index: 900;
-    transform: translateX(100%);
-    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-    display: flex;
-    flex-direction: column;
-    border-left: 1px solid var(--mid);
-  }
-  .cart-sidebar.open {
-    transform: translateX(0);
-  }
-
-  .cart-header {
-    padding: 32px;
-    border-bottom: 1px solid var(--mid);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .cart-title {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.8rem;
-    letter-spacing: 0.15em;
-  }
-
-  .close-btn {
-    background: none;
-    border: none;
-    color: var(--white);
-    font-size: 1.5rem;
-    cursor: none;
-    padding: 4px;
-    transition: color 0.2s;
-  }
+  .cart-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 800; opacity: 0; pointer-events: none; transition: opacity 0.3s; backdrop-filter: blur(4px); }
+  .cart-overlay.open { opacity: 1; pointer-events: all; }
+  .cart-sidebar { position: fixed; top: 0; right: 0; width: 420px; height: 100vh; background: var(--gray); z-index: 900; transform: translateX(100%); transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1); display: flex; flex-direction: column; border-left: 1px solid var(--mid); }
+  .cart-sidebar.open { transform: translateX(0); }
+  .cart-header { padding: 32px; border-bottom: 1px solid var(--mid); display: flex; justify-content: space-between; align-items: center; }
+  .cart-title { font-family: 'Bebas Neue', sans-serif; font-size: 1.8rem; letter-spacing: 0.15em; }
+  .close-btn { background: none; border: none; color: var(--white); font-size: 1.5rem; cursor: none; padding: 4px; transition: color 0.2s; }
   .close-btn:hover { color: var(--red); }
-
-  .cart-items {
-    flex: 1;
-    overflow-y: auto;
-    padding: 24px 32px;
-  }
-  .cart-items::-webkit-scrollbar { width: 2px; }
-  .cart-items::-webkit-scrollbar-track { background: var(--mid); }
-  .cart-items::-webkit-scrollbar-thumb { background: var(--red); }
-
-  .cart-empty {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    gap: 16px;
-    color: var(--text-muted);
-  }
-  .cart-empty-icon {
-    font-size: 3rem;
-    opacity: 0.3;
-  }
-  .cart-empty p {
-    font-size: 0.75rem;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-  }
-
-  .cart-item {
-    display: flex;
-    gap: 16px;
-    padding: 16px 0;
-    border-bottom: 1px solid var(--mid);
-    animation: fadeIn 0.3s ease;
-  }
-
-  .cart-item-img {
-    width: 70px; height: 90px;
-    background: var(--mid);
-    flex-shrink: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.2rem;
-    color: var(--black);
-  }
-
+  .cart-items { flex: 1; overflow-y: auto; padding: 24px 32px; }
+  .cart-empty { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; gap: 16px; color: var(--text-muted); }
+  .cart-empty-icon { font-size: 3rem; opacity: 0.3; }
+  .cart-empty p { font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; }
+  .cart-item { display: flex; gap: 16px; padding: 16px 0; border-bottom: 1px solid var(--mid); animation: fadeIn 0.3s ease; }
+  .cart-item-img { width: 70px; height: 90px; background: var(--mid); flex-shrink: 0; overflow: hidden; }
+  .cart-item-img img { width: 100%; height: 100%; object-fit: cover; }
   .cart-item-details { flex: 1; }
-
-  .cart-item-name {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1rem;
-    letter-spacing: 0.1em;
-    margin-bottom: 4px;
-  }
-
-  .cart-item-meta {
-    font-size: 0.6rem;
-    color: var(--text-muted);
-    letter-spacing: 0.15em;
-    margin-bottom: 12px;
-  }
-
-  .cart-item-controls {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
-
-  .qty-btn {
-    background: var(--mid);
-    border: none;
-    color: var(--white);
-    width: 24px; height: 24px;
-    font-family: 'Space Mono', monospace;
-    font-size: 0.8rem;
-    cursor: none;
-    transition: background 0.2s;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+  .cart-item-name { font-family: 'Bebas Neue', sans-serif; font-size: 1rem; letter-spacing: 0.1em; margin-bottom: 4px; }
+  .cart-item-meta { font-size: 0.6rem; color: var(--text-muted); letter-spacing: 0.15em; margin-bottom: 12px; }
+  .cart-item-controls { display: flex; align-items: center; gap: 12px; }
+  .qty-btn { background: var(--mid); border: none; color: var(--white); width: 24px; height: 24px; font-family: 'Space Mono', monospace; font-size: 0.8rem; cursor: none; transition: background 0.2s; display: flex; align-items: center; justify-content: center; }
   .qty-btn:hover { background: var(--red); }
-
-  .qty-value {
-    font-size: 0.75rem;
-    min-width: 16px;
-    text-align: center;
-  }
-
-  .remove-btn {
-    background: none;
-    border: none;
-    color: var(--text-muted);
-    font-size: 0.6rem;
-    letter-spacing: 0.15em;
-    cursor: none;
-    text-transform: uppercase;
-    margin-left: auto;
-    transition: color 0.2s;
-  }
+  .qty-value { font-size: 0.75rem; min-width: 16px; text-align: center; }
+  .remove-btn { background: none; border: none; color: var(--text-muted); font-size: 0.6rem; letter-spacing: 0.15em; cursor: none; text-transform: uppercase; margin-left: auto; transition: color 0.2s; }
   .remove-btn:hover { color: var(--red); }
+  .cart-item-price { font-size: 0.85rem; font-weight: 700; align-self: flex-start; margin-top: 4px; }
+  .cart-footer { padding: 32px; border-top: 1px solid var(--mid); }
+  .cart-total-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; }
+  .cart-total-label { font-size: 0.7rem; letter-spacing: 0.2em; color: var(--text-muted); text-transform: uppercase; }
+  .cart-total-amount { font-family: 'Bebas Neue', sans-serif; font-size: 1.8rem; letter-spacing: 0.1em; }
+  .checkout-btn { width: 100%; background: var(--red); color: var(--white); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.25em; padding: 18px; cursor: none; transition: all 0.2s; margin-bottom: 12px; }
+  .checkout-btn:hover { background: var(--white); color: var(--black); }
+  .continue-btn { width: 100%; background: none; border: 1px solid var(--mid); color: var(--text-muted); font-family: 'Space Mono', monospace; font-size: 0.65rem; letter-spacing: 0.2em; padding: 14px; cursor: none; transition: all 0.2s; text-transform: uppercase; }
+  .continue-btn:hover { border-color: var(--white); color: var(--white); }
 
-  .cart-item-price {
-    font-size: 0.85rem;
-    font-weight: 700;
-    align-self: flex-start;
-    margin-top: 4px;
-  }
-
-  .cart-footer {
-    padding: 32px;
-    border-top: 1px solid var(--mid);
-  }
-
-  .cart-total-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 24px;
-  }
-
-  .cart-total-label {
-    font-size: 0.7rem;
-    letter-spacing: 0.2em;
-    color: var(--text-muted);
-    text-transform: uppercase;
-  }
-
-  .cart-total-amount {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.8rem;
-    letter-spacing: 0.1em;
-  }
-
-  .checkout-btn {
-    width: 100%;
-    background: var(--red);
-    color: var(--white);
-    border: none;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.1rem;
-    letter-spacing: 0.25em;
-    padding: 18px;
-    cursor: none;
-    transition: all 0.2s;
-    margin-bottom: 12px;
-  }
-  .checkout-btn:hover {
-    background: var(--white);
-    color: var(--black);
-  }
-
-  .continue-btn {
-    width: 100%;
-    background: none;
-    border: 1px solid var(--mid);
-    color: var(--text-muted);
-    font-family: 'Space Mono', monospace;
-    font-size: 0.65rem;
-    letter-spacing: 0.2em;
-    padding: 14px;
-    cursor: none;
-    transition: all 0.2s;
-    text-transform: uppercase;
-  }
-  .continue-btn:hover {
-    border-color: var(--white);
-    color: var(--white);
-  }
-
-  /* CHECKOUT MODAL */
-  .checkout-modal {
-    position: fixed;
-    inset: 0;
-    background: rgba(0,0,0,0.9);
-    z-index: 1000;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.3s;
-    backdrop-filter: blur(8px);
-  }
-  .checkout-modal.open {
-    opacity: 1;
-    pointer-events: all;
-  }
-
-  .checkout-box {
-    background: var(--gray);
-    border: 1px solid var(--mid);
-    width: 100%;
-    max-width: 600px;
-    max-height: 90vh;
-    overflow-y: auto;
-    transform: translateY(20px);
-    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-  }
-  .checkout-modal.open .checkout-box {
-    transform: translateY(0);
-  }
-
-  .checkout-header {
-    padding: 32px 40px;
-    border-bottom: 1px solid var(--mid);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .checkout-title {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 2rem;
-    letter-spacing: 0.15em;
-  }
-
+  .checkout-modal { position: fixed; inset: 0; background: rgba(0,0,0,0.9); z-index: 1000; display: flex; align-items: center; justify-content: center; opacity: 0; pointer-events: none; transition: opacity 0.3s; backdrop-filter: blur(8px); }
+  .checkout-modal.open { opacity: 1; pointer-events: all; }
+  .checkout-box { background: var(--gray); border: 1px solid var(--mid); width: 100%; max-width: 600px; max-height: 90vh; overflow-y: auto; transform: translateY(20px); transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1); }
+  .checkout-modal.open .checkout-box { transform: translateY(0); }
+  .checkout-header { padding: 32px 40px; border-bottom: 1px solid var(--mid); display: flex; justify-content: space-between; align-items: center; }
+  .checkout-title { font-family: 'Bebas Neue', sans-serif; font-size: 2rem; letter-spacing: 0.15em; }
   .checkout-body { padding: 40px; }
-
-  .form-section {
-    margin-bottom: 32px;
-  }
-
-  .form-section-title {
-    font-size: 0.65rem;
-    letter-spacing: 0.25em;
-    color: var(--red);
-    text-transform: uppercase;
-    margin-bottom: 20px;
-  }
-
-  .form-row {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 12px;
-    margin-bottom: 12px;
-  }
+  .form-section { margin-bottom: 32px; }
+  .form-section-title { font-size: 0.65rem; letter-spacing: 0.25em; color: var(--red); text-transform: uppercase; margin-bottom: 20px; }
+  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 12px; }
   .form-row.full { grid-template-columns: 1fr; }
-
-  .form-group {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-  }
-
-  .form-label {
-    font-size: 0.6rem;
-    letter-spacing: 0.2em;
-    color: var(--text-muted);
-    text-transform: uppercase;
-  }
-
-  .form-input {
-    background: var(--mid);
-    border: 1px solid transparent;
-    color: var(--white);
-    font-family: 'Space Mono', monospace;
-    font-size: 0.8rem;
-    padding: 12px 16px;
-    transition: border-color 0.2s;
-    outline: none;
-    cursor: none;
-  }
-  .form-input:focus {
-    border-color: var(--red);
-  }
-  .form-input::placeholder {
-    color: var(--text-muted);
-    font-size: 0.7rem;
-  }
-
-  .order-summary {
-    background: var(--black);
-    border: 1px solid var(--mid);
-    padding: 24px;
-    margin-bottom: 24px;
-  }
-
-  .order-summary-title {
-    font-size: 0.6rem;
-    letter-spacing: 0.25em;
-    color: var(--text-muted);
-    text-transform: uppercase;
-    margin-bottom: 16px;
-  }
-
-  .summary-line {
-    display: flex;
-    justify-content: space-between;
-    font-size: 0.75rem;
-    margin-bottom: 8px;
-  }
-
-  .summary-line.total {
-    border-top: 1px solid var(--mid);
-    padding-top: 12px;
-    margin-top: 12px;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.2rem;
-    letter-spacing: 0.1em;
-  }
-
-  .place-order-btn {
-    width: 100%;
-    background: var(--red);
-    color: var(--white);
-    border: none;
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.2rem;
-    letter-spacing: 0.25em;
-    padding: 20px;
-    cursor: none;
-    transition: all 0.2s;
-  }
-  .place-order-btn:hover {
-    background: var(--white);
-    color: var(--black);
-  }
-
-  /* SUCCESS */
-  .success-screen {
-    display: none;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 80px 40px;
-    text-align: center;
-    gap: 20px;
-  }
+  .form-group { display: flex; flex-direction: column; gap: 8px; }
+  .form-label { font-size: 0.6rem; letter-spacing: 0.2em; color: var(--text-muted); text-transform: uppercase; }
+  .form-input { background: var(--mid); border: 1px solid transparent; color: var(--white); font-family: 'Space Mono', monospace; font-size: 0.8rem; padding: 12px 16px; transition: border-color 0.2s; outline: none; cursor: none; }
+  .form-input:focus { border-color: var(--red); }
+  .form-input::placeholder { color: var(--text-muted); font-size: 0.7rem; }
+  .order-summary { background: var(--black); border: 1px solid var(--mid); padding: 24px; margin-bottom: 24px; }
+  .order-summary-title { font-size: 0.6rem; letter-spacing: 0.25em; color: var(--text-muted); text-transform: uppercase; margin-bottom: 16px; }
+  .summary-line { display: flex; justify-content: space-between; font-size: 0.75rem; margin-bottom: 8px; }
+  .summary-line.total { border-top: 1px solid var(--mid); padding-top: 12px; margin-top: 12px; font-family: 'Bebas Neue', sans-serif; font-size: 1.2rem; letter-spacing: 0.1em; }
+  .place-order-btn { width: 100%; background: var(--red); color: var(--white); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.2rem; letter-spacing: 0.25em; padding: 20px; cursor: none; transition: all 0.2s; }
+  .place-order-btn:hover { background: var(--white); color: var(--black); }
+  .success-screen { display: none; flex-direction: column; align-items: center; justify-content: center; padding: 80px 40px; text-align: center; gap: 20px; }
   .success-screen.show { display: flex; }
   .checkout-form.hide { display: none; }
+  .success-icon { width: 80px; height: 80px; border: 2px solid var(--red); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 2rem; animation: popIn 0.5s cubic-bezier(0.16, 1, 0.3, 1); }
+  .success-title { font-family: 'Bebas Neue', sans-serif; font-size: 2.5rem; letter-spacing: 0.15em; }
+  .success-text { font-size: 0.75rem; color: var(--text-muted); line-height: 1.8; max-width: 320px; }
 
-  .success-icon {
-    width: 80px; height: 80px;
-    border: 2px solid var(--red);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 2rem;
-    animation: popIn 0.5s cubic-bezier(0.16, 1, 0.3, 1);
-  }
+  footer { margin-top: 100px; border-top: 1px solid var(--mid); padding: 60px 40px; display: flex; justify-content: space-between; align-items: flex-end; }
+  .footer-logo { font-family: 'Bebas Neue', sans-serif; font-size: 4rem; letter-spacing: 0.1em; line-height: 1; -webkit-text-stroke: 1px var(--mid); color: transparent; }
+  .footer-info { font-size: 0.65rem; color: var(--text-muted); letter-spacing: 0.15em; line-height: 2; text-align: right; }
 
-  .success-title {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 2.5rem;
-    letter-spacing: 0.15em;
-  }
-
-  .success-text {
-    font-size: 0.75rem;
-    color: var(--text-muted);
-    line-height: 1.8;
-    max-width: 320px;
-  }
-
-  /* FOOTER */
-  footer {
-    margin-top: 100px;
-    border-top: 1px solid var(--mid);
-    padding: 60px 40px;
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-  }
-
-  .footer-logo {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 4rem;
-    letter-spacing: 0.1em;
-    line-height: 1;
-    -webkit-text-stroke: 1px var(--mid);
-    color: transparent;
-  }
-
-  .footer-info {
-    font-size: 0.65rem;
-    color: var(--text-muted);
-    letter-spacing: 0.15em;
-    line-height: 2;
-    text-align: right;
-  }
-
-  /* ANIMATIONS */
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(30px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateX(10px); }
-    to { opacity: 1; transform: translateX(0); }
-  }
-
-  @keyframes ticker {
-    from { transform: translateX(0); }
-    to { transform: translateX(-50%); }
-  }
-
-  @keyframes popIn {
-    from { transform: scale(0.5); opacity: 0; }
-    to { transform: scale(1); opacity: 1; }
-  }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes fadeIn { from { opacity: 0; transform: translateX(10px); } to { opacity: 1; transform: translateX(0); } }
+  @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+  @keyframes popIn { from { transform: scale(0.5); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 </style>
 </head>
 <body>
-
 <div class="cursor" id="cursor"></div>
 <div class="cursor-ring" id="cursorRing"></div>
 
-<!-- NAV -->
 <nav>
   <a href="#" class="logo">RE<span>FIT</span></a>
   <ul class="nav-links">
     <li><a href="#shop">Shop</a></li>
     <li><a href="#about">O nás</a></li>
-    <li><a href="#">Veľkosti</a></li>
   </ul>
-  <div class="nav-right">
-    <button class="cart-btn" onclick="toggleCart()">
-      KOŠÍK
-      <span class="cart-count" id="cartCount">0</span>
-    </button>
-  </div>
+  <button class="cart-btn" onclick="toggleCart()">
+    KOŠÍK <span class="cart-count" id="cartCount">0</span>
+  </button>
 </nav>
 
-<!-- HERO -->
 <section class="hero">
   <div class="hero-bg"></div>
   <p class="hero-label">Vintage · Streetwear · Resell</p>
-  <h1 class="hero-title">
-    RE<span class="outline">FIT</span>
-  </h1>
+  <h1 class="hero-title">RE<span class="outline">FIT</span></h1>
   <div class="hero-sub">
     <p class="hero-desc">Unikátne vintage kúsky vybrané ručne. Každý kus je originál — keď je preč, je preč.</p>
     <a href="#shop" class="hero-cta">Prezrieť kolekciu</a>
   </div>
   <div class="hero-ticker">
     <div class="ticker-inner">
-      <span>VINTAGE DROP</span><span>·</span>
-      <span>REFIT ORIGINALS</span><span>·</span>
-      <span>STREETWEAR</span><span>·</span>
-      <span>LIMITED PIECES</span><span>·</span>
-      <span>HANDPICKED</span><span>·</span>
-      <span>VINTAGE DROP</span><span>·</span>
-      <span>REFIT ORIGINALS</span><span>·</span>
-      <span>STREETWEAR</span><span>·</span>
-      <span>LIMITED PIECES</span><span>·</span>
-      <span>HANDPICKED</span><span>·</span>
+      <span>VINTAGE DROP</span><span>·</span><span>REFIT ORIGINALS</span><span>·</span><span>STREETWEAR</span><span>·</span><span>LIMITED PIECES</span><span>·</span><span>HANDPICKED</span><span>·</span>
+      <span>VINTAGE DROP</span><span>·</span><span>REFIT ORIGINALS</span><span>·</span><span>STREETWEAR</span><span>·</span><span>LIMITED PIECES</span><span>·</span><span>HANDPICKED</span><span>·</span>
     </div>
   </div>
 </section>
 
-<!-- SHOP -->
 <section class="shop-section" id="shop">
   <div class="section-header">
     <h2 class="section-title">KOLEKCIA</h2>
@@ -924,26 +179,24 @@
       <button class="filter-btn active" onclick="filterProducts('all', this)">Všetko</button>
       <button class="filter-btn" onclick="filterProducts('jacket', this)">Bundy</button>
       <button class="filter-btn" onclick="filterProducts('hoodie', this)">Hoodies</button>
+      <button class="filter-btn" onclick="filterProducts('sweatshirt', this)">Sweatshirts</button>
       <button class="filter-btn" onclick="filterProducts('tee', this)">Tričká</button>
       <button class="filter-btn" onclick="filterProducts('pants', this)">Nohavice</button>
+      <button class="filter-btn" onclick="filterProducts('shirt', this)">Košele</button>
     </div>
   </div>
-  <div class="product-grid" id="productGrid">
-    <!-- Products injected by JS -->
-  </div>
+  <div class="product-grid" id="productGrid"></div>
 </section>
 
-<!-- FOOTER -->
 <footer id="about">
   <div class="footer-logo">REFIT</div>
   <div class="footer-info">
     <p>Vintage Streetwear</p>
     <p>Každý kus ručne vybraný</p>
-    <p style="margin-top:16px; color: #444;">© 2025 REFIT</p>
+    <p style="margin-top:16px;color:#444;">© 2025 REFIT</p>
   </div>
 </footer>
 
-<!-- CART SIDEBAR -->
 <div class="cart-overlay" id="cartOverlay" onclick="toggleCart()"></div>
 <div class="cart-sidebar" id="cartSidebar">
   <div class="cart-header">
@@ -966,304 +219,170 @@
   </div>
 </div>
 
-<!-- CHECKOUT MODAL -->
 <div class="checkout-modal" id="checkoutModal">
   <div class="checkout-box">
     <div class="checkout-header">
       <span class="checkout-title">OBJEDNÁVKA</span>
       <button class="close-btn" onclick="closeCheckout()">×</button>
     </div>
-
     <div class="checkout-form checkout-body" id="checkoutForm">
-
-      <div class="order-summary" id="orderSummary">
-        <!-- filled by JS -->
-      </div>
-
+      <div class="order-summary" id="orderSummary"></div>
       <div class="form-section">
         <p class="form-section-title">Kontaktné údaje</p>
         <div class="form-row">
-          <div class="form-group">
-            <label class="form-label">Meno</label>
-            <input type="text" class="form-input" placeholder="Ján" id="firstName">
-          </div>
-          <div class="form-group">
-            <label class="form-label">Priezvisko</label>
-            <input type="text" class="form-input" placeholder="Novák" id="lastName">
-          </div>
+          <div class="form-group"><label class="form-label">Meno</label><input type="text" class="form-input" placeholder="Ján" id="firstName"></div>
+          <div class="form-group"><label class="form-label">Priezvisko</label><input type="text" class="form-input" placeholder="Novák" id="lastName"></div>
         </div>
-        <div class="form-row full">
-          <div class="form-group">
-            <label class="form-label">Email</label>
-            <input type="email" class="form-input" placeholder="jan@email.sk" id="email">
-          </div>
-        </div>
-        <div class="form-row full">
-          <div class="form-group">
-            <label class="form-label">Telefón</label>
-            <input type="text" class="form-input" placeholder="+421 9XX XXX XXX" id="phone">
-          </div>
-        </div>
+        <div class="form-row full"><div class="form-group"><label class="form-label">Email</label><input type="email" class="form-input" placeholder="jan@email.sk" id="email"></div></div>
+        <div class="form-row full"><div class="form-group"><label class="form-label">Telefón</label><input type="text" class="form-input" placeholder="+421 9XX XXX XXX" id="phone"></div></div>
       </div>
-
       <div class="form-section">
         <p class="form-section-title">Doručovacia adresa</p>
-        <div class="form-row full">
-          <div class="form-group">
-            <label class="form-label">Ulica a číslo</label>
-            <input type="text" class="form-input" placeholder="Hlavná 12" id="street">
-          </div>
-        </div>
+        <div class="form-row full"><div class="form-group"><label class="form-label">Ulica a číslo</label><input type="text" class="form-input" placeholder="Hlavná 12" id="street"></div></div>
         <div class="form-row">
-          <div class="form-group">
-            <label class="form-label">Mesto</label>
-            <input type="text" class="form-input" placeholder="Bratislava" id="city">
-          </div>
-          <div class="form-group">
-            <label class="form-label">PSČ</label>
-            <input type="text" class="form-input" placeholder="811 01" id="zip">
-          </div>
+          <div class="form-group"><label class="form-label">Mesto</label><input type="text" class="form-input" placeholder="Bratislava" id="city"></div>
+          <div class="form-group"><label class="form-label">PSČ</label><input type="text" class="form-input" placeholder="811 01" id="zip"></div>
         </div>
       </div>
-
       <div class="form-section">
         <p class="form-section-title">Platba</p>
-        <div class="form-row full">
-          <div class="form-group">
-            <label class="form-label">Číslo karty</label>
-            <input type="text" class="form-input" placeholder="1234 5678 9012 3456" id="cardNum" maxlength="19">
-          </div>
-        </div>
+        <div class="form-row full"><div class="form-group"><label class="form-label">Číslo karty</label><input type="text" class="form-input" placeholder="1234 5678 9012 3456" id="cardNum" maxlength="19"></div></div>
         <div class="form-row">
-          <div class="form-group">
-            <label class="form-label">Platnosť</label>
-            <input type="text" class="form-input" placeholder="MM/RR" id="cardExp" maxlength="5">
-          </div>
-          <div class="form-group">
-            <label class="form-label">CVV</label>
-            <input type="text" class="form-input" placeholder="123" id="cardCvv" maxlength="3">
-          </div>
+          <div class="form-group"><label class="form-label">Platnosť</label><input type="text" class="form-input" placeholder="MM/RR" id="cardExp" maxlength="5"></div>
+          <div class="form-group"><label class="form-label">CVV</label><input type="text" class="form-input" placeholder="123" id="cardCvv" maxlength="3"></div>
         </div>
       </div>
-
       <button class="place-order-btn" onclick="placeOrder()">DOKONČIŤ OBJEDNÁVKU →</button>
     </div>
-
     <div class="success-screen" id="successScreen">
       <div class="success-icon">✓</div>
       <h2 class="success-title">OBJEDNÁVKA PRIJATÁ</h2>
       <p class="success-text">Ďakujeme za tvoju objednávku. Potvrdenie sme ti poslali na email. Tovar odošleme do 2–3 pracovných dní.</p>
       <button class="checkout-btn" style="width:auto;padding:16px 40px;" onclick="closeCheckout()">Späť do shopu</button>
     </div>
-
   </div>
 </div>
 
 <script>
-  // --- CURSOR ---
-  const cursor = document.getElementById('cursor');
-  const ring = document.getElementById('cursorRing');
-  let mx = 0, my = 0, rx = 0, ry = 0;
-  document.addEventListener('mousemove', e => {
-    mx = e.clientX; my = e.clientY;
-    cursor.style.left = mx - 6 + 'px';
-    cursor.style.top = my - 6 + 'px';
-  });
-  function animRing() {
-    rx += (mx - rx) * 0.12;
-    ry += (my - ry) * 0.12;
-    ring.style.left = rx - 18 + 'px';
-    ring.style.top = ry - 18 + 'px';
-    requestAnimationFrame(animRing);
-  }
-  animRing();
+const PRODUCTS = [{"id":15872975438211,"name":"1991 Born To Die Tultex Jesus Christ Sweatshirt - XL Black Cotton","price":179.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C1EB2330-E1D8-4012-97F4-807C79668A1F.webp?v=1774956690","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/1991-born-to-die-harley-davidson-sweatshirt-mens-black-x-large-81585-a"},{"id":15864957403523,"name":"Versace Jeans Couture Graphic Sweatshirt - Small Black Cotton Blend","price":82.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-versace-jeans-couture-sweatshirt-mens-black-small-397276"},{"id":15864946622851,"name":"Just Cavalli Graphic Sweatshirt - Medium Black Cotton Blend","price":82.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-just-cavalli-sweatshirt-mens-black-medium-397189"},{"id":15972705272195,"name":"Adventure Team Marlboro Sweatshirt - Large Grey Cotton Blend","price":79.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/965AA292-4093-4838-89D7-F4FDF715CF74.webp?v=1779092189","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/adventure-team-marlboro-sweatshirt-mens-grey-large-94772-a"},{"id":15935469355395,"name":"Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend","price":79.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007"},{"id":15916194824579,"name":"Wisconsin Harley-Davidson Harley Davidson Sweatshirt - XL Black Cotton","price":74.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/5AC313F1-43B5-4847-9507-83318D398323.webp?v=1776868145","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/wisconsin-harley-davidson-harley-davidson-sweatshirt-mens-black-x-large-89260-a"},{"id":15950903181699,"name":"American Flag Chaps Ralph Lauren Spellout Sweatshirt - XL Grey Cotton Blend","price":69.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/4F4343E7-9CD1-41BA-BE71-ADFC9CDC5253.webp?v=1778143191","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/american-flag-chaps-ralph-lauren-sweatshirt-mens-grey-x-large-91255-a"},{"id":15950889582979,"name":"90S Faded Avirex Graphic Sweatshirt - Large Red Cotton","price":69.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/DD9815B9-767C-4BF2-9BF1-72FEE04934AC.webp?v=1778142930","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/90s-faded-avirex-sweatshirt-mens-red-large-91131-a"},{"id":15950693171587,"name":"Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend","price":69.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a"},{"id":15921465196931,"name":"Looney Tunes Characters Warner Bros Comic Cartoon Style Sweatshirt - XL Grey Cotton","price":69.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/4AEEA37D-D474-43F4-89B5-5D6F938B2BA6.webp?v=1777032042","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-x-large-88578-a"},{"id":15921463329155,"name":"Walt Disney World Disney Cartoon Sweatshirt - XL Purple Cotton Blend","price":69.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/8F4E1D14-B238-4E52-A3BE-ED6DDED68EFE.webp?v=1777032019","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/walt-disney-world-disney-sweatshirt-mens-purple-x-large-88588-a"},{"id":15921453236611,"name":"90S Christmas Looney Tunes Tultex Cartoon Sweatshirt - Large Grey Cotton Blend","price":69.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/6171299B-6E3F-46BB-83C0-A02800057A92.webp?v=1777031898","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/90s-christmas-looney-tunes-tultex-sweatshirt-mens-grey-large-88561-a"},{"id":15921452122499,"name":"90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton","price":69.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a"},{"id":15921451008387,"name":"90S Yale Betty Boop Unbranded Raglan Sweatshirt - Medium Grey Cotton Blend","price":69.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/0B184B74-F29B-444E-862B-CBC269F8BD0B.webp?v=1777031875","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/90s-yale-betty-boop-unbranded-sweatshirt-mens-grey-medium-88546-a"},{"id":15910937657731,"name":"90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend","price":67.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a"},{"id":15964912222595,"name":"Original Fit Carhartt Sweatshirt - Medium Grey Cotton","price":64.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/original-fit-carhartt-sweatshirt-mens-grey-medium-98314-a"},{"id":15950926807427,"name":"Reverse Weave Cal State Champion Sweatshirt - Medium Navy Cotton","price":64.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/B0C5C70E-5745-40D5-A371-F9067CB0AA95.webp?v=1778143668","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-cal-state-champion-sweatshirt-mens-navy-medium-91545-a"},{"id":15950694482307,"name":"Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend","price":64.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a"},{"id":15919736291715,"name":"Florida Nike Sweatshirt - 3XL Blue Cotton Blend","price":64.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4276_441fd69d-79a4-4499-ac1b-d3ab99d2886b.jpg?v=1776956897","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-florida-nike-sweatshirt-mens-blue-xxx-large-397580"},{"id":15919716106627,"name":"Reverse Weave Kentucky Champion Sweatshirt - XL Grey Cotton Blend","price":64.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mixed_17.4.26179_b9c3ea78-5e59-42a8-9faa-13191b2c4c1a.jpg?v=1776956374","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-reverse-weave-kentucky-champion-sweatshirt-mens-grey-x-large-397406"},{"id":15916274188675,"name":"Made In USA 90S Nike Sweatshirt - Medium Grey Cotton","price":64.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a"},{"id":15910938247555,"name":"1977 Essentials Sweatshirt - Large Grey Cotton","price":64.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/1977-essentials-sweatshirt-mens-grey-large-86464-a"},{"id":15894742401411,"name":"Faded 90S Champion Reverse Weave Sweatshirt - XL Green Cotton","price":64.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/AC8CD23A-AB16-4AAE-B75F-16B6F68D2B89.webp?v=1776071205","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/faded-90s-champion-sweatshirt-mens-green-x-large-86278-a"},{"id":15894741614979,"name":"Made In USA 80S Champion Cleveland Browns Sweatshirt - XL Brown Acrylic Blend","price":64.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/F10542A9-6DC5-4019-9C64-5557FDF66C02.webp?v=1776071201","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-80s-champion-sweatshirt-mens-brown-x-large-86279-a"},{"id":15876889280899,"name":"Carhartt Sweatshirt - 2XL Navy Cotton","price":64.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/827F39C5-4080-44E2-B49D-EA7601FB2903.webp?v=1775142835","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-navy-xx-large-84878-a"},{"id":15950883783043,"name":"Reebok Spellout Sweatshirt - Large Green Cotton","price":62.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a"},{"id":15839838863747,"name":"Made in USA Miami Dolphins Nutmeg NFL Sweatshirt - XL Block Colour Cotton Blend","price":61.74,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/aimee_mixed_rail_13.3.26244_52cdd1e7-c9df-4dd1-80d8-a735c4b3d61b.jpg?v=1774005517","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-made-in-usa-miami-dolphins-nutmeg-sweatshirt-mens-block-colour-x-large-396254"},{"id":15950900658563,"name":"90S Tommy Hilfiger Spellout Sweatshirt - Large White Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/227C3D64-2DE1-4691-AA21-6C19AE8DA2B0.webp?v=1778143117","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/90s-tommy-hilfiger-sweatshirt-mens-white-large-91236-a"},{"id":15950849114499,"name":"Polo By Ralph Lauren Striped Sweatshirt - Large Black Acrylic","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/57751E35-615D-4372-BAF3-17610286D352.webp?v=1778142369","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-black-large-90955-a"},{"id":15950703067523,"name":"Green Bay Packers Looney Tunes Nfl Sweatshirt - Medium Black Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/04EA8736-6A52-4853-8CB7-B47C3AE799CB.webp?v=1778140595","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-looney-tunes-sweatshirt-mens-black-medium-90389-a"},{"id":15921452482947,"name":"Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Red Cotton Blend","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/A1DF393E-CE9E-4F21-B19A-EA314DC529A7.webp?v=1777031889","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-red-small-88551-a"},{"id":15918943568259,"name":"Awar Vans Graphic Sweatshirt - Medium Black Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/8A834154-D2AC-4951-8ADE-06D8742943C5.webp?v=1776933584","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/awar-vans-sweatshirt-mens-black-medium-87856-a"},{"id":15916203770243,"name":"Texas Motor Speedway Nascar Sweatshirt - XL Navy Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/6FC60B46-F21B-4D07-B471-710DBBDA16BE.webp?v=1776868336","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/texas-motor-speedway-nascar-sweatshirt-mens-navy-x-large-87391-a"},{"id":15916161532291,"name":"Earnhardt Chase Authentics Graphic Sweatshirt - XL Black Polyester Blend","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/F93297AD-54EB-4221-9AA7-C038895E0D7E.webp?v=1776867649","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/earnhardt-chase-authentics-sweatshirt-mens-black-x-large-87392-a"},{"id":15910938739075,"name":"Denver Broncos Logo 7 Graphic Sweatshirt - Medium Navy Cotton Blend","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/9520532C-63F3-4079-885A-1DAA720DC6E4.webp?v=1776674613","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/denver-broncos-logo-7-sweatshirt-mens-navy-medium-86537-a"},{"id":15910938673539,"name":"Raiders Nutmeg Football Sweatshirt - XL White Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/337536EB-E40A-4481-BFE2-17E2AD1B97D7.webp?v=1776674607","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/raiders-nutmeg-sweatshirt-mens-white-x-large-86523-a"},{"id":15910938509699,"name":"San Francisco 49Ers Nutmeg Football Sweatshirt - XL Red Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/813F664D-2E8D-4D38-B4C0-0112B9B315FC.webp?v=1776674604","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/san-francisco-49ers-nutmeg-sweatshirt-mens-red-x-large-86522-a"},{"id":15910918848899,"name":"Made In USA Guess Sweatshirt - Large Navy Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/4D417FF5-BA54-433D-B9B3-67CD3FF2BA3D.webp?v=1776674028","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-guess-sweatshirt-mens-navy-large-86069-a"},{"id":15894679945603,"name":"Bad Babes Burn Rubber Harley Davidson Graphic Sweatshirt - XL Grey Cotton Blend","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/6D735FA9-616A-4BFD-AD7C-918EB6E2AE89.webp?v=1776069951","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/bad-babes-burn-rubber-harley-davidson-sweatshirt-mens-grey-x-large-85693-a"},{"id":15889673617795,"name":"Carolina Panthers Nfl Football Sweatshirt - Large Black Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C68D036B-E94D-41ED-B91B-CFD608DFF944.webp?v=1775809563","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carolina-panthers-nfl-sweatshirt-mens-black-large-85077-a"},{"id":15889673552259,"name":"Michigan Wolverines Lee Sport College Sweatshirt - Large Navy Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/D949C940-C029-4DB7-B365-153954211F38.webp?v=1775809561","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/michigan-wolverines-lee-sport-sweatshirt-mens-navy-large-85076-a"},{"id":15885957104003,"name":"Mickey Mouse Mickey Unlimited Graphic Sweatshirt - XL Red Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/53D5C6AA-6E45-4CEC-8749-C260EC470118.webp?v=1775642616","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/mickey-mouse-mickey-unlimited-sweatshirt-mens-red-x-large-84335-a"},{"id":15876240703875,"name":"Emporio Armani Sweatshirt - Small Red Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/7FAEDD66-B2F7-455C-A027-B928056E6382.webp?v=1775118958","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/emporio-armani-sweatshirt-mens-red-small-82687-a"},{"id":15872971833731,"name":"Penn State Crable College Sweatshirt - XL Navy Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/475222A3-1E17-4F02-A390-CB81765C5F96.webp?v=1774956465","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/penn-state-crable-sweatshirt-mens-navy-x-large-81694-a"},{"id":15872968589699,"name":"Wisconsin Badgers Logo Athletics College Sweatshirt - Large Red Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C1EC13FF-C2A4-4315-99A1-7B9862A9FDF1.webp?v=1774956405","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/wisconsin-badgers-logo-athletics-sweatshirt-mens-red-large-81671-a"},{"id":15872950010243,"name":"San Francisco 49Ers Nutmeg Nfl Sweatshirt - Large Red Cotton","price":59.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/04FEC48F-26B4-4EC4-B109-A7C5AC956C11.webp?v=1774955601","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/san-francisco-49ers-nutmeg-sweatshirt-mens-red-large-81699-a"},{"id":15894679650691,"name":"Harley Davidson Graphic Sweatshirt - Small Black Cotton","price":57.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/239CFE66-CB70-4147-BA97-1A1FFC5C2AFF.webp?v=1776069935","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-small-85686-a"},{"id":15977968796035,"name":"Comrades Marathon Reebok Graphic Sweatshirt - Large Purple Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/9B7160E6-6C67-4AAD-83E2-AAE8A4A2D8C8.webp?v=1779263842","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/comrades-marathon-reebok-sweatshirt-mens-purple-large-95223-a"},{"id":15955065405827,"name":"Nike Sweatshirt - Large Red Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/7F63B375-A1F7-448A-AD9D-46C85590FE2D.webp?v=1778234562","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/nike-sweatshirt-mens-red-large-92480-a"},{"id":15955027460483,"name":"Nike Sweatshirt - Large Navy Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/88704F2D-0EDF-499F-83AC-6AE52E45FE96.webp?v=1778233982","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/nike-sweatshirt-mens-navy-large-92518-a"},{"id":15955026575747,"name":"Nike Sweatshirt - XL Navy Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/E9D0C516-2D4A-460E-81C6-1CD03DC2B316.webp?v=1778233970","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/nike-sweatshirt-mens-navy-x-large-92473-a"},{"id":15950927004035,"name":"Reverse Weave Nebraska Champion College Sweatshirt - XL Blue Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/8C626E09-DF42-4FA5-9FA7-C7210B304ED4.webp?v=1778143673","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-nebraska-champion-sweatshirt-mens-blue-x-large-91547-a"},{"id":15950917501315,"name":"True Religion Spellout Sweatshirt - XL Black Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/407C1A34-54F7-471D-9548-B551D114598B.webp?v=1778143523","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/true-religion-sweatshirt-mens-black-x-large-91487-a"},{"id":15950909145475,"name":"Made In USA Reverse Weave Champion Sweatshirt - Small Navy Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/27480327-8A56-4D69-A0D4-C7C7BCCA257C.webp?v=1778143349","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-reverse-weave-champion-sweatshirt-mens-navy-small-91528-a"},{"id":15950849442179,"name":"Polo By Ralph Lauren Sweatshirt - XL Red Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/E9C94600-E1FC-45F5-ABB7-33EE99FC8D67.webp?v=1778142376","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-red-x-large-90957-a"},{"id":15950846624131,"name":"Polo By Ralph Lauren Spellout Sweatshirt - Small Grey Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/8B504C7C-0C47-465D-BEBF-DEEE297BF6D4.webp?v=1778142330","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-grey-small-90941-a"},{"id":15950702346627,"name":"Made In USA Dallas Cowboys Salem Nfl Sweatshirt - XL Black Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/550F2F3D-5A40-4C70-8FEC-3FE79E60240B.webp?v=1778140586","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-dallas-cowboys-salem-sweatshirt-mens-black-x-large-90386-a"},{"id":15950701003139,"name":"Chicago Bulls Chicago Bulls Nba Sweatshirt - Medium Teal Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/EA803C5A-1BA1-4E84-9BD6-56A70D595DC4.webp?v=1778140570","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/chicago-bulls-chicago-bulls-sweatshirt-mens-teal-medium-90377-a"},{"id":15950691795331,"name":"Made In USA University Of Michigan Salem College Sweatshirt - XL Navy Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/8B317FF4-CEAC-4FE9-99B3-C950E954E337.webp?v=1778140481","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-university-of-michigan-salem-sweatshirt-mens-navy-x-large-90360-a"},{"id":15939926032771,"name":"Patagonia Collared Sweatshirt - XL Navy Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26366_7d9f128a-239f-4276-8845-047b66b269e0.jpg?v=1777636023","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-patagonia-sweatshirt-mens-navy-x-large-398326"},{"id":15921663574403,"name":"90S Faded Camel Sweatshirt - 2XL Grey Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/7FFEF1EB-E8D8-4E44-8BD3-2F8992B96048.webp?v=1777034776","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/90s-faded-camel-sweatshirt-mens-grey-xx-large-88931-a"},{"id":15921460216195,"name":"Walt Disney World Disney Graphic Sweatshirt - Large Green Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/75A4BFD9-7287-4C67-9B1F-98FF4F8CB275.webp?v=1777031980","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/walt-disney-world-disney-sweatshirt-mens-green-large-88557-a"},{"id":15921459298691,"name":"Donald Duck Disney Cartoon Sweatshirt - Small Grey Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/7D8E069D-F555-4888-8AAB-4831679DD010.webp?v=1777031968","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/donald-duck-disney-sweatshirt-mens-grey-small-88554-a"},{"id":15921451893123,"name":"Walt Disney World 25Th Anniversary Mickey Inc Graphic Sweatshirt - Large Red Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/76262CFF-3794-4E86-81D8-7DCE3424FB20.webp?v=1777031883","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/walt-disney-world-25th-anniversary-mickey-inc-sweatshirt-mens-red-large-88549-a"},{"id":15919748514179,"name":"Baltimore Ravens Nike Football Sweatshirt - 2XL Grey Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/40B8441C-619D-4350-8758-D81AABCBE195.webp?v=1776957326","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/baltimore-ravens-nike-sweatshirt-mens-grey-xx-large-88433-a"},{"id":15916271010179,"name":"Nike Sweatshirt - XL Grey Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/10B17622-CEC3-4F70-BA7E-043A191F86B5.webp?v=1776869417","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/nike-sweatshirt-mens-grey-x-large-87524-a"},{"id":15916249448835,"name":"Surfer Oakley Graphic Sweatshirt - Large Black Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/7F707A57-8FA5-4FEE-9975-C885B0920337.webp?v=1776869156","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/surfer-oakley-sweatshirt-mens-black-large-87258-a"},{"id":15916218581379,"name":"Oakley Spellout Sweatshirt - Medium Red Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/987DD81E-7E05-44DB-8648-AAF954E4F32E.webp?v=1776868598","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/oakley-sweatshirt-mens-red-medium-87284-a"},{"id":15916204753283,"name":"Nascar Sweatshirt - XL Brown Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/1CF4DCF3-E15B-4160-B70F-4EAA196438B1.webp?v=1776868350","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/nascar-sweatshirt-mens-brown-x-large-87399-a"},{"id":15916194234755,"name":"Motorcycle Harley Davidson Spellout Sweatshirt - Large Black Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/A9D9A74C-A50C-4902-BBEF-923743A666F4.webp?v=1776868132","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/motorcycle-harley-davidson-sweatshirt-mens-black-large-89255-a"},{"id":15900969468291,"name":"True Religion Graphic Sweatshirt - Medium Grey Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/E5CA6F15-1149-4BBA-AE32-D1C1C9D924C0.webp?v=1776332969","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/true-religion-sweatshirt-mens-grey-medium-86174-a"},{"id":15894702424451,"name":"Pacsun Camo Sweatshirt - Small Camo Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/1FF40E3B-29B0-4813-B8DC-0CFEF41113CF.webp?v=1776070510","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/pacsun-sweatshirt-mens-camo-small-86010-a"},{"id":15886530314627,"name":"Polo By Ralph Lauren Sweatshirt - XL Grey Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/00A0AB37-68E7-4C48-AC57-9FD7DFC03D81.webp?v=1775662226","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-grey-x-large-86888-a"},{"id":15886529200515,"name":"Polo By Ralph Lauren Sweatshirt - Large Brown Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/F73791DF-A82C-418D-BFFA-A68AA6DA92F2.webp?v=1775662208","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-brown-large-86882-a"},{"id":15885974110595,"name":"Nike Sweatshirt - XL Grey Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/CA936C3F-1AF9-4655-854C-64FD1BF65895.webp?v=1775643019","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/nike-sweatshirt-mens-grey-x-large-84524-a"},{"id":15885973455235,"name":"Nebraska Nike College Sweatshirt - Medium Grey Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/8CE85042-6472-45F3-8266-02F0168B0308.webp?v=1775642984","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/nebraska-nike-sweatshirt-mens-grey-medium-84508-a"},{"id":15885956809091,"name":"Taz Looney Tunes Cartoon Sweatshirt - Large Green Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/059F533D-EFEE-4425-953D-65062D858A96.webp?v=1775642597","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/taz-looney-tunes-sweatshirt-mens-green-large-84327-a"},{"id":15885955662211,"name":"Nike Sweatshirt - XL Red Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/243BC41F-7DE4-416C-B507-EBE924CB31BE.webp?v=1775642529","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/nike-sweatshirt-mens-red-x-large-84511-a"},{"id":15885954974083,"name":"Mickey Mouse Mickey Unlimited Cartoon Sweatshirt - XL Navy Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/ABA026B8-66CC-4896-8961-FA7B663F774C.webp?v=1775642492","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/mickey-mouse-mickey-unlimited-sweatshirt-mens-navy-x-large-84345-a"},{"id":15885905625475,"name":"Diesel Salt And Pepper Sweatshirt - Small Blue Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C29C6DEA-4F0F-4CF6-8F84-ADCBF09E6F9D.webp?v=1775641206","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/diesel-sweatshirt-mens-blue-small-83734-a"},{"id":15876918968707,"name":"Green Bay Packers Pro Player Made In USA Graphic Sweatshirt - Medium Green Cotton Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/1131951B-296E-4350-BDFC-B43F85A04669.webp?v=1775143645","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-pro-player-sweatshirt-mens-green-medium-82715-a"},{"id":15876909236611,"name":"Baker University Jansport College Sweatshirt - Large Grey Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/DBEFF893-F609-428C-A02A-20A921EC9B62.webp?v=1775143368","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/baker-university-jansport-sweatshirt-mens-grey-large-82742-a"},{"id":15876909007235,"name":"Green Bay Packers Lee Sport Football Sweatshirt - XL Green Polyester Blend","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/A579F6EE-9A89-4B09-842D-528CB7C6F6D0.webp?v=1775143355","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-lee-sport-sweatshirt-mens-green-x-large-82736-a"},{"id":15874301723011,"name":"Oregon State Nike College Sweatshirt - Large Black Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/CE2821F6-1EBD-4AFF-8FA7-E7F0A2447C25.webp?v=1775034496","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/oregon-state-nike-sweatshirt-mens-black-large-82491-a"},{"id":15874283929987,"name":"Midnight Rider Harley Davidson Graphic Sweatshirt - Large Black Cotton","price":54.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C9552788-A2D9-4907-92F4-EDD25E6395D4.webp?v=1775034182","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/midnight-rider-harley-davidson-sweatshirt-mens-black-large-81905-a"},{"id":15950902919555,"name":"Wisconsin Adidas College Sweatshirt - XL Red Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/55E9BD7A-D2DE-4C07-BA9C-842CCDC981E3.webp?v=1778143187","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/wisconsin-adidas-sweatshirt-mens-red-x-large-91254-a"},{"id":15950901510531,"name":"Lacoste Sweatshirt - Medium Green Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/6CAC1111-516A-46FD-A784-6E6A6BC495B5.webp?v=1778143147","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/lacoste-sweatshirt-mens-green-medium-91247-a"},{"id":15950878245251,"name":"Team Adidas Sweatshirt - XL Navy Cotton Blend","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/A5826FA2-A54C-433E-A948-7A38364289FC.webp?v=1778142693","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/team-adidas-sweatshirt-mens-navy-x-large-91264-a"},{"id":15950699299203,"name":"Made In USA Green Bay Packers Fruit Of The Loom Nfl Sweatshirt - XL Black Cotton Blend","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/2E8EE0E2-9B12-41B1-8938-F54FA95C6EFB.webp?v=1778140556","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-green-bay-packers-fruit-of-the-loom-sweatshirt-mens-black-x-large-90372-a"},{"id":15950693728643,"name":"Green Bay Packers Pro Player Nfl Sweatshirt - XL Green Polyester Blend","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/42DD12A0-CC1C-4C7A-8EB1-9F60338D5F4F.webp?v=1778140502","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-pro-player-sweatshirt-mens-green-x-large-90361-a"},{"id":15916244599171,"name":"Carhartt Spellout Sweatshirt - Small Orange Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/0B6F57E8-CD91-4C37-95CB-1E5E3543C5DA.webp?v=1776869053","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-orange-small-87160-a"},{"id":15916244435331,"name":"Carhartt Sweatshirt - Medium Grey Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/DDC9AFE6-7E3D-425D-B35F-BE986B43BC6D.webp?v=1776869050","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-grey-medium-87159-a"},{"id":15916214485379,"name":"Carhartt Sweatshirt - XL Grey Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/15AEA6AF-1DCE-4483-87F6-4D81A829134F.webp?v=1776868539","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-grey-x-large-87187-a"},{"id":15916212158851,"name":"Carhartt Sweatshirt - Medium Black Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/B8FAD4FF-05BD-45F0-82AE-87AFD9CF0C03.webp?v=1776868494","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-black-medium-87188-a"},{"id":15910937887107,"name":"Adidas Sweatshirt - Large Blue Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/DB842FBB-E011-4DEC-BF51-6812C7FB7DEB.webp?v=1776674566","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/adidas-sweatshirt-mens-blue-large-86508-a"},{"id":15910937428355,"name":"Adidas Sweatshirt - Medium Black Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/B8C7A753-A98C-48F1-83A8-ED7B9C45F996.webp?v=1776674545","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/adidas-sweatshirt-mens-black-medium-86493-a"},{"id":15910937198979,"name":"Adidas Sweatshirt - Large Grey Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/2ADE1C17-EB9A-4E0C-A72F-9E02FDAB47C1.webp?v=1776674531","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/none-adidas-sweatshirt-mens-grey-large-86480-a"},{"id":15910935495043,"name":"Adidas Sweatshirt - Medium Grey Cotton Blend","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/DF036969-E559-48A9-BD7B-F4B8ED95BEB2.webp?v=1776674460","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/adidas-sweatshirt-mens-grey-medium-86504-a"},{"id":15910935232899,"name":"Nike Sweatshirt - Large Grey Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/FD7CC751-679B-4B3D-985E-E8690F0775D7.webp?v=1776674448","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/nike-sweatshirt-mens-grey-large-86500-a"},{"id":15910935167363,"name":"Tommy Hilfiger Sweatshirt - XL Navy Cotton Blend","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/4FFD47AC-6134-4DF0-B5F7-B3C1A25DC54B.webp?v=1776674445","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/tommy-hilfiger-sweatshirt-mens-navy-x-large-86499-a"},{"id":15910934937987,"name":"Adidas Sweatshirt - Medium Grey Cotton Blend","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C5E08A43-403A-4919-8CD6-E61111A24488.webp?v=1776674436","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/adidas-sweatshirt-mens-grey-medium-86490-a"},{"id":15910934544771,"name":"Levis Spellout Sweatshirt - Large Black Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/3A3F0A7A-29E4-452E-A9C0-7AAE5CD6D9F7.webp?v=1776674419","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/levis-sweatshirt-mens-black-large-86485-a"},{"id":15910934512003,"name":"Helly Hansen Graphic Sweatshirt - Large Black Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/CABC137D-A261-4CF2-9D48-74BB26875618.webp?v=1776674416","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/helly-hansen-sweatshirt-mens-black-large-86484-a"},{"id":15910934020483,"name":"Yankees Adidas College Sweatshirt - Medium Grey Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/6B4434E6-1DB2-4D67-9DF0-2B7CBEC2E2EA.webp?v=1776674392","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/yankees-adidas-sweatshirt-mens-grey-medium-86468-a"},{"id":15910933954947,"name":"Adidas Football Sweatshirt - XL Green Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/2AEE92F9-87E9-4FB9-87B4-093CEFE1D800.webp?v=1776674390","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/adidas-sweatshirt-mens-green-x-large-86467-a"},{"id":15894691250563,"name":"Faded Carhartt Sweatshirt - 2XL Green Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C7F796C8-A64B-4CF7-A690-8F8AC6C83E6D.webp?v=1776070296","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/faded-carhartt-sweatshirt-mens-green-xx-large-85919-a"},{"id":15872962003331,"name":"Carhartt Sweatshirt - 2XL Black Cotton","price":52.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C50002F1-20D4-49E9-B046-D289C7C287E7.webp?v=1774956088","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-black-xx-large-81970-a"},{"id":15977985966467,"name":"West Virginia Nike College Sweatshirt - XL Grey Cotton","price":51.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/8BCE462D-F7C9-4EC0-96F6-77851970D112.webp?v=1779264306","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/west-virginia-nike-sweatshirt-mens-grey-x-large-95100-a"},{"id":15950847508867,"name":"Polo By Ralph Lauren Sweatshirt - XL Blue Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/9C883F95-0788-4319-ACA1-D00595F21F81.webp?v=1778142343","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-blue-x-large-90945-a"},{"id":15950845968771,"name":"Polo By Ralph Lauren Sweatshirt - Medium Grey Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/BE128F1C-54F9-426B-A99F-5AFE7957F821.webp?v=1778142322","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-grey-medium-90938-a"},{"id":15950693958019,"name":"Made In USA Green Bay Packers Pro Player Nfl Sweatshirt - XL Green Cotton Blend","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/6117A1D1-7CD8-4BA6-9A97-7485922FD494.webp?v=1778140505","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-green-bay-packers-pro-player-sweatshirt-mens-green-x-large-90363-a"},{"id":15950692483459,"name":"Made In USA Washington Redskins Logo 7 Graphic Sweatshirt - Medium Burgundy Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/B9CB6476-4B5F-41E1-B249-C3F37A9CCC92.webp?v=1778140489","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-washington-redskins-logo-7-sweatshirt-mens-burgundy-medium-90368-a"},{"id":15916344705411,"name":"Harley Davidson Graphic Sweatshirt - Medium Black Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/F8F657F9-AAD7-484D-871F-D321F998AB40.webp?v=1776870812","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-88127-a"},{"id":15916344508803,"name":"Motorcycles Harley Davidson Graphic Sweatshirt - Medium Black Cotton Blend","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/AA2B6547-EB22-4DFB-8A6D-BF230159282B.webp?v=1776870806","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/motorcycles-harley-davidson-sweatshirt-mens-black-medium-88125-a"},{"id":15916241715587,"name":"Carhartt Sweatshirt - Large Black Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/187DDE81-A665-4E14-9D41-11089F58F2C6.webp?v=1776868986","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-black-large-89273-a"},{"id":15916202426755,"name":"California Crusing Sun Graphic Sweatshirt - XL Black Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C4A700F6-509F-40C1-B20D-2EA627DEBE60.webp?v=1776868314","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/california-crusing-sun-sweatshirt-mens-black-x-large-87382-a"},{"id":15894742827395,"name":"90S Reverse Weave Champion Sweatshirt - XL Green Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C9711216-0487-4B82-992E-B1E72B91204D.webp?v=1776071206","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/90s-reverse-weave-champion-sweatshirt-mens-green-x-large-86274-a"},{"id":15885956841859,"name":"Disney Mickey Unlimited Graphic Sweatshirt - XL Black Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/F5A27904-DCD9-4C80-95B6-1EBC69F5BB6D.webp?v=1775642600","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/disney-mickey-unlimited-sweatshirt-mens-black-x-large-84328-a"},{"id":15885956546947,"name":"Mickey Mouse Mickey Unlimited Cartoon Sweatshirt - XL Blue Cotton Blend","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C897A74C-BA9D-4666-9375-9259E2B293B6.webp?v=1775642582","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/mickey-mouse-mickey-unlimited-sweatshirt-mens-blue-x-large-84322-a"},{"id":15885955105155,"name":"Tweety Bird Looney Tunes Cartoon Sweatshirt - Large Navy Cotton Blend","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/6FF229B4-689A-4355-8543-6C8952AE8FC3.webp?v=1775642499","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/tweety-bird-looney-tunes-sweatshirt-mens-navy-large-84343-a"},{"id":15885954908547,"name":"Winnie The Pooh Disney Cartoon Sweatshirt - Large Red Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/EB8B400D-E78D-48F3-9109-0B0E64FADFFF.webp?v=1775642489","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/winnie-the-pooh-disney-sweatshirt-mens-red-large-84330-a"},{"id":15876918870403,"name":"Green Bay Packers Fruit Of The Loom Made In USA Graphic Sweatshirt - XL Green Cotton Blend","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/94899526-A609-47CD-9EE1-ABF9477DF700.webp?v=1775143643","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-fruit-of-the-loom-sweatshirt-mens-green-x-large-82713-a"},{"id":15876909367683,"name":"Green Bay Packers Champion Football Sweatshirt - XL Green Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/5DD877B2-67D3-4D5E-8E0D-061225A162C8.webp?v=1775143377","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-champion-sweatshirt-mens-green-x-large-82741-a"},{"id":15876909269379,"name":"Indiana Basketball Starter Sweatshirt - Large Red Cotton Blend","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/76965089-DFB9-4860-9DD0-782627CA6520.webp?v=1775143372","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/indiana-basketball-starter-sweatshirt-mens-red-large-82743-a"},{"id":15876908810627,"name":"Green Bay Packers Lee Sport Made In USA Graphic Sweatshirt - XL Green Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/0CA85139-D5FF-4C02-8261-E648748B4586.webp?v=1775143350","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-lee-sport-sweatshirt-mens-green-x-large-82714-a"},{"id":15873008992643,"name":"David Bowie 1990 Tour Russell Athletic Sweatshirt - Large Black Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/E142C675-2E92-4148-8CB0-23637EEFD9EA.webp?v=1774957891","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/david-bowie-1990-tour-russell-athletic-sweatshirt-mens-black-large-81158-a"},{"id":15872974717315,"name":"1970s/1980s Le Coq Sportif Sweatshirt - Small Cream Cotton","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/598D87AB-32B2-45DA-81E8-BC455B96AAD6.webp?v=1774956648","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/le-coq-sportif-sweatshirt-mens-cream-small-81561-a"},{"id":15872972915075,"name":"2001 Sturgis Hanes Graphic Sweatshirt - XL Black Cotton Blend","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/2EA5255A-3D81-4AAA-9118-2CDD98F2BDB8.webp?v=1774956544","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/2001-sturgis-hanes-sweatshirt-mens-black-x-large-81658-a"},{"id":15864676548995,"name":"Rusty Wallace Chase Authentics Nascar Sweatshirt - XS Navy Cotton Blend","price":49.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/ele_vintage_reshoot_19.3204_43f4a5f7-bce1-4edb-b57c-9e6695c94abb.jpg?v=1774615418","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-rusty-wallace-chase-authentics-sweatshirt-mens-navy-x-small-397103"},{"id":15950798193027,"name":"Carhartt Sweatshirt - Small Black Cotton","price":47.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/F07132E9-C405-4E85-A988-1CC4B41F5F25.webp?v=1778141617","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-black-small-90713-a"},{"id":15950700675459,"name":"Green Bay Packers Nfl Sweatshirt - XL Grey Cotton","price":47.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/A7FA3F8A-CAF2-463D-B493-FCC4964E6678.webp?v=1778140567","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-nfl-sweatshirt-mens-grey-x-large-90376-a"},{"id":15950700347779,"name":"Made In USA Green Bay Packers Lee Sport Nfl Sweatshirt - XL Green Cotton","price":47.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/5E220F58-3288-4428-96D0-D550BB8CFC2D.webp?v=1778140564","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-green-bay-packers-lee-sport-sweatshirt-mens-green-x-large-90375-a"},{"id":15950697038211,"name":"Green Bay Packers Gildan Nfl Sweatshirt - 2XL Green Cotton Blend","price":47.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/EC614430-3E84-46CB-9695-8AFB039CCFE5.webp?v=1778140537","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-gildan-sweatshirt-mens-green-xx-large-90396-a"},{"id":15950693433731,"name":"Green Bay Packers Reebok Nfl Sweatshirt - Large Grey Cotton","price":47.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/8B78D0D4-D8AC-482D-A395-A1E54E0297DE.webp?v=1778140499","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-reebok-sweatshirt-mens-grey-large-90358-a"},{"id":15950692778371,"name":"Green Bay Packers Logo Athletics Nfl Sweatshirt - XL Green Cotton","price":47.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C798E8B9-2658-47CA-A609-D0EFEE5ECC43.webp?v=1778140491","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-logo-athletics-sweatshirt-mens-green-x-large-90356-a"},{"id":15950692221315,"name":"Green Bay Packers Logo 7 Nfl Sweatshirt - Large Green Cotton","price":47.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/135E7ABA-4DCF-4353-AF24-B06C8EDF91A9.webp?v=1778140486","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-logo-7-sweatshirt-mens-green-large-90370-a"},{"id":15950691565955,"name":"Chargers Logo Athletics Nfl Sweatshirt - Large Grey Polyester Blend","price":47.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/E13D20AA-0031-4981-9277-C866F0CE54CF.webp?v=1778140488","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/chargers-logo-athletics-sweatshirt-mens-grey-large-90359-a"},{"id":15885957202307,"name":"Tweety Looney Tunes Cartoon Sweatshirt - Large Navy Polyester Blend","price":47.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/B2850974-A0F0-4887-BF3C-803239FF42E1.webp?v=1775642619","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/tweety-looney-tunes-sweatshirt-mens-navy-large-84336-a"},{"id":15692529828227,"name":"Colmar Sweatshirt - 2XL Khaki Cotton Blend","price":45.49,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26362_4582f2ba-9f1d-4553-a5f0-28cde0417e02.jpg?v=1771231409","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-colmar-sweatshirt-mens-khaki-xx-large-394073"},{"id":15977984917891,"name":"New York Knicks Nba Sweatshirt - Small Grey Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/4963A1E7-07A6-4BBC-B205-29F4C68778D0.webp?v=1779264249","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/new-york-knicks-nba-sweatshirt-mens-grey-small-95102-a"},{"id":15977984590211,"name":"Made In USA Nutmeg Miami Dolphins Sweatshirt - XL Grey Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/CA905558-B7EF-42B9-A0BD-B6486F7D5E04.webp?v=1779264234","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-grey-x-large-95077-a"},{"id":15977974268291,"name":"Jerzees Camo Sweatshirt - XL Beige Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/7EB9D648-D4C6-4CBB-8468-168B014BC04C.webp?v=1779263947","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/jerzees-sweatshirt-mens-beige-x-large-95217-a"},{"id":15977969648003,"name":"Diesel Spellout Sweatshirt - Medium Grey Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C497444B-CB0E-49BC-8C07-EB1A55F4097E.webp?v=1779263858","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/diesel-sweatshirt-mens-grey-medium-95225-a"},{"id":15964873687427,"name":"Reverse Weave Champion Sweatshirt - Large Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/1638145B-6A2B-4B10-84FF-AA9272E610EE.webp?v=1778685031","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-black-large-98270-a"},{"id":15964873556355,"name":"Reverse Weave Champion Spellout Sweatshirt - Large Red Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/E39BF6C5-CB63-41F9-AC34-67E7E229BC5E.webp?v=1778685025","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-red-large-98268-a"},{"id":15964873458051,"name":"Srjc Athletics Champion College Sweatshirt - 2XL Grey Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/654EA69D-B90C-4770-981F-08E3122727E4.webp?v=1778685020","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/srjc-athletics-champion-sweatshirt-mens-grey-xx-large-98264-a"},{"id":15964873425283,"name":"Champion Spellout Sweatshirt - Large Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/215C0FF7-7363-45D7-85D0-4B402BE6BA34.webp?v=1778685017","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/champion-sweatshirt-mens-black-large-98256-a"},{"id":15964873392515,"name":"Reverse Weave Champion Sweatshirt - Medium Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/F52949FD-045E-4B4B-B000-8AB1A4A1A839.webp?v=1778685015","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-black-medium-98250-a"},{"id":15964873130371,"name":"Reverse Weave Champion Sweatshirt - XL Grey Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/51801838-B4E4-4C0E-BF4C-2B769C7FEDC5.webp?v=1778685006","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-grey-x-large-98245-a"},{"id":15964872737155,"name":"Reverse Weave Champion Sweatshirt - Medium Blue Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/5432C7E0-E10B-441A-91D7-7F081C047C01.webp?v=1778684996","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-blue-medium-98261-a"},{"id":15964872638851,"name":"Reverse Weave Champion Sweatshirt - XL Blue Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/939A417E-0053-4E0D-A649-3201564ABBE6.webp?v=1778684991","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-blue-x-large-98259-a"},{"id":15964872475011,"name":"Champion Sweatshirt - Small Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/4A6E55CD-4AF3-483C-87EF-7FB1998B7C4F.webp?v=1778684984","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/champion-sweatshirt-mens-black-small-98255-a"},{"id":15964865495427,"name":"Adidas Spellout Sweatshirt - XL Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/77C5E8BB-95F2-4A83-B31D-D485D5DC91B8.webp?v=1778684817","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/adidas-sweatshirt-mens-black-x-large-98734-a"},{"id":15964862284163,"name":"Adidas Striped Sweatshirt - Small Navy Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/0C88DAAD-14A0-4002-93D5-44829B346C4A.webp?v=1778684798","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/adidas-sweatshirt-mens-navy-small-98727-a"},{"id":15964861628803,"name":"Tommy Hilfiger Sweatshirt - Medium Beige Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/64B7E403-FBDD-45B4-9F2A-C4BFC730123C.webp?v=1778684787","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/tommy-hilfiger-sweatshirt-mens-beige-medium-98712-a"},{"id":15964860645763,"name":"Puerto Vallarta Hard Rock Cafe Graphic Sweatshirt - Large Blue Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/03C284B0-5886-4AE0-A4F5-461C08649A91.webp?v=1778684764","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/puerto-vallarta-hard-rock-cafe-sweatshirt-mens-blue-large-98715-a"},{"id":15955247989123,"name":"Skull Design Ecko Unltd Graphic Sweatshirt - Small Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/88FEFCAF-B3FB-4363-ABEE-E99DF4E6FFC7.webp?v=1778237808","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/skull-design-ecko-unltd-sweatshirt-mens-black-small-93198-a"},{"id":15950927102339,"name":"Reverse Weave Lbi Champion College Sweatshirt - Medium Navy Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/11C0DA84-925F-4B2E-8287-EF1825F54A61.webp?v=1778143678","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-lbi-champion-sweatshirt-mens-navy-medium-91549-a"},{"id":15950926283139,"name":"Red River Champion College Sweatshirt - XL Grey Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/DEBA6C42-1457-40F1-9680-D91EE8AAF92E.webp?v=1778143648","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/red-river-champion-sweatshirt-mens-grey-x-large-91538-a"},{"id":15950926217603,"name":"Reverse Weave Champion Sweatshirt - Small Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/1D25DD7D-5AFE-4FFC-AF1D-FA11624B1BC1.webp?v=1778143645","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-black-small-91537-a"},{"id":15950925660547,"name":"Green Bay Packers Champion Nfl Sweatshirt - Medium Green Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/4368346D-AB12-4FE8-BF13-CD00532EC459.webp?v=1778143631","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-champion-sweatshirt-mens-green-medium-91532-a"},{"id":15950838989187,"name":"Polo By Ralph Lauren Sweatshirt - Medium Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/F6F2EC62-ABF2-4419-9FEB-47E3C4229C77.webp?v=1778142216","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-black-medium-90961-a"},{"id":15950833680771,"name":"Polo Golf Ralph Lauren Crest Sweatshirt - Large Navy Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/D9DCBE7D-A32F-423A-A3E5-0D838863DC73.webp?v=1778142151","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/polo-golf-ralph-lauren-sweatshirt-mens-navy-large-90962-a"},{"id":15950704968067,"name":"Nfc Central Division Champs Unbranded Nfl Sweatshirt - XL Green Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/DD514D01-102A-4118-86C4-C2EC2B6D880C.webp?v=1778140604","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/nfc-central-division-champs-unbranded-sweatshirt-mens-green-x-large-90393-a"},{"id":15950702150019,"name":"Made In USA Wildcats Team Edition College Sweatshirt - Medium Purple Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/26DF736B-5B89-4293-B571-6E59BDE1063E.webp?v=1778140584","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-wildcats-team-edition-sweatshirt-mens-purple-medium-90382-a"},{"id":15950701494659,"name":"St. Louis Rams Lee Sport Nfl Sweatshirt - Medium Blue Polyester Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/54B71BE6-04A7-4F18-A14E-7B68BE413A85.webp?v=1778140575","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/st-louis-rams-lee-sport-sweatshirt-mens-blue-medium-90380-a"},{"id":15950699692419,"name":"Pittsburgh Panthers Majestic Ncaa Sweatshirt - Large Navy Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/80FE62A9-18C2-4C68-AC38-5C698804F93B.webp?v=1778140560","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/pittsburgh-panthers-majestic-sweatshirt-mens-navy-large-90373-a"},{"id":15950698971523,"name":"Green Bay Packers Tee Jays Nfl Sweatshirt - Large Green Polyester Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/366279F4-1F5A-4048-93BC-394DB6CC1877.webp?v=1778140554","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-tee-jays-sweatshirt-mens-green-large-90395-a"},{"id":15950698643843,"name":"Green Bay Packers Fruit Of The Loom Nfl Sweatshirt - XL Green Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/93D59FFE-F27C-467E-B1CD-22516269952B.webp?v=1778140552","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/green-bay-packers-fruit-of-the-loom-sweatshirt-mens-green-x-large-90398-a"},{"id":15950696644995,"name":"Reebok Spellout Sweatshirt - XL Burgundy Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/B2FF0932-3F16-455C-BBCC-E03ABF418FD1.webp?v=1778140533","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reebok-sweatshirt-mens-burgundy-x-large-90371-a"},{"id":15950694220163,"name":"Made In USA Philadelphia Eagles Pro Player Nfl Sweatshirt - XL Teal Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/26380E7B-AFEF-41AB-B13B-9BD52EFD8D2E.webp?v=1778140507","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-philadelphia-eagles-pro-player-sweatshirt-mens-teal-x-large-90364-a"},{"id":15950693007747,"name":"Made In USA Steamboat Mv Sport College Sweatshirt - Large Blue Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/03758E25-0448-4FF4-BEAB-FEEDDE5846EB.webp?v=1778140494","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/made-in-usa-steamboat-mv-sport-sweatshirt-mens-blue-large-90357-a"},{"id":15935557927299,"name":"Napapijri Graphic Sweatshirt - XL Green Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4398_2a1d10f5-fedf-45fd-b606-68317ca4a9e8.jpg?v=1777473090","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-napapijri-sweatshirt-mens-green-x-large-398244"},{"id":15919728394627,"name":"Guess Sweatshirt - Large Beige Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4143_dfcdb67a-deda-41da-8a09-639b0022b73e.jpg?v=1776956762","sizes":["Default Title"],"category":"hoodie","url":"https://www.thrifted.com/products/vintage-guess-sweatshirt-mens-beige-large-397528"},{"id":15918942847363,"name":"Quiksilver Sweatshirt - Large Blue Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/CEF65FC5-A120-42DF-B3C2-64BBB4907A25.webp?v=1776933572","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/quiksilver-sweatshirt-mens-blue-large-87849-a"},{"id":15916338053507,"name":"Reverse Weave Champion Spellout Sweatshirt - Medium Grey Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/89C5953E-C14F-4629-A21C-3AE2BBF91683.webp?v=1776870682","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-grey-medium-89130-a"},{"id":15916337889667,"name":"Champion Sweatshirt - XL Yellow Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/FAF1C777-1580-4CE8-BFA1-9DD03201D042.webp?v=1776870679","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/champion-sweatshirt-mens-yellow-x-large-89129-a"},{"id":15916334645635,"name":"Reverse Weave Champion Spellout Sweatshirt - Medium Blue Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/5EEC2951-146F-42C9-AF34-486BDE787F23_795fdbaa-32a0-4a5a-bc24-bc512a59a182.webp?v=1776870622","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-blue-medium-89119-a"},{"id":15916334449027,"name":"Reverse Weave Champion Spellout Sweatshirt - Large Black Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/262DC08C-D758-4C30-AC27-E580E20E991D.webp?v=1776870619","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-black-large-89118-a"},{"id":15916333433219,"name":"Reverse Weave Champion Spellout Sweatshirt - Medium Blue Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/5EEC2951-146F-42C9-AF34-486BDE787F23.webp?v=1776870604","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-blue-medium-89128-a"},{"id":15916333040003,"name":"Reverse Weave Champion Spellout Sweatshirt - Large Grey Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/1C71C877-09DA-472F-9B15-437A02ED9EDE.webp?v=1776870598","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-grey-large-89123-a"},{"id":15916244238723,"name":"Carhartt Sweatshirt - XL Grey Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/21F6B6B5-B54B-46FE-A73E-80720D9BD7B1.webp?v=1776869045","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-grey-x-large-89297-a"},{"id":15916244107651,"name":"Carhartt Sweatshirt - Large Brown Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/68ADC9DF-37C8-4967-9A0B-0341F4A5F897.webp?v=1776869042","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-brown-large-89296-a"},{"id":15916244009347,"name":"Carhartt Spellout Sweatshirt - XL Cream Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/CBFE8FA3-4599-45E7-A314-76B130B26C09.webp?v=1776869038","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-cream-x-large-89295-a"},{"id":15916226511235,"name":"Carhartt Sweatshirt - XL Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/489BADDB-62E9-4825-8701-11FFE54E5F3C.webp?v=1776868710","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-black-x-large-89299-a"},{"id":15916225855875,"name":"Carhartt Sweatshirt - XS Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/A21C8B85-96DD-4240-A6B9-5A41BF8FD882.webp?v=1776868700","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/carhartt-sweatshirt-mens-black-x-small-89281-a"},{"id":15916162056579,"name":"Cole Campbell 22 Unbranded Graphic Sweatshirt - Medium Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/B0E44A8A-94F4-4D6B-B474-097905862D9F.webp?v=1776867655","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/cole-campbell-22-unbranded-sweatshirt-mens-black-medium-87394-a"},{"id":15910938968451,"name":"Browns Nfl Sweatshirt - Large Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/9013E578-6C75-4527-A6A4-075947DBDA02.webp?v=1776674626","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/browns-nfl-sweatshirt-mens-black-large-86542-a"},{"id":15910938870147,"name":"Baltimore Ravens Tultex Graphic Sweatshirt - XL Black Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/23DE2D2A-A422-4584-94E7-66B0CFE623E0.webp?v=1776674622","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/baltimore-ravens-tultex-sweatshirt-mens-black-x-large-86536-a"},{"id":15910938837379,"name":"Minnesota Vikings Majestic Football Sweatshirt - Large Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/949FD36E-F249-4D3C-B258-CE93BFA913F1.webp?v=1776674619","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/minnesota-vikings-majestic-sweatshirt-mens-black-large-86539-a"},{"id":15910938706307,"name":"Steelers Lee Sport Football Sweatshirt - Medium Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/DEE30F3E-90BE-4131-A15A-EED9FEAFFD7B.webp?v=1776674610","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/steelers-lee-sport-sweatshirt-mens-black-medium-86524-a"},{"id":15910938411395,"name":"Red Sox Vs Yankees Lee Sport Graphic Sweatshirt - Large Red Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C0CA4C65-64A6-4F76-96D9-60F03BDAD2AD.webp?v=1776674598","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/red-sox-vs-yankees-lee-sport-sweatshirt-mens-red-large-86520-a"},{"id":15910938378627,"name":"New York Giants Puma Football Sweatshirt - Large Blue Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/C2CF77D1-B489-48B8-A342-BBB0F796BD61.webp?v=1776674595","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/new-york-giants-puma-sweatshirt-mens-blue-large-86519-a"},{"id":15910937002371,"name":"Seahawks Nfl Football Sweatshirt - Large Navy Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/56013A00-AEB7-445A-A8ED-EC84AE66F023.webp?v=1776674515","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/seahawks-nfl-sweatshirt-mens-navy-large-86535-a"},{"id":15910936904067,"name":"Penn State Nittany Lions Lee Sport College Sweatshirt - XL Blue Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/2BAD0A71-71D2-49CB-8D90-BCE3C6017945.webp?v=1776674512","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/penn-state-nittany-lions-lee-sport-sweatshirt-mens-blue-x-large-86534-a"},{"id":15910936871299,"name":"St. Louis Rams Puma Football Sweatshirt - Large Blue Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/2DD6F493-04DA-49CF-8D1D-FD0F4C444C50.webp?v=1776674509","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/st-louis-rams-puma-sweatshirt-mens-blue-large-86533-a"},{"id":15910936772995,"name":"Cincinnati Bengals Nfl Football Sweatshirt - 2XL Black Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/FF31C043-509F-42B1-AD1C-B1F8C3E4B19A.webp?v=1776674506","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/cincinnati-bengals-nfl-sweatshirt-mens-black-xx-large-86532-a"},{"id":15910936674691,"name":"Chicago World Champions 2005 Fruit Of The Loom Graphic Sweatshirt - 2XL Black Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/9BDCF21C-271A-4296-94CE-291DB6615D3C.webp?v=1776674502","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/chicago-world-champions-2005-fruit-of-the-loom-sweatshirt-mens-black-xx-large-86530-a"},{"id":15910936543619,"name":"Bears Nfl Football Sweatshirt - XL Black Cotton","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/8A08B5ED-BAB2-4CB0-BF6F-E641F7B81298.webp?v=1776674498","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/bears-nfl-sweatshirt-mens-black-x-large-86529-a"},{"id":15910936183171,"name":"Miami Dolphins Logo Athletics Football Sweatshirt - XL Green Cotton Blend","price":44.99,"image":"https://cdn.shopify.com/s/files/1/0556/1841/files/AE38A7B2-62DD-4B64-8267-3D429B09D44D.webp?v=1776674489","sizes":["Default Title"],"category":"sweatshirt","url":"https://www.thrifted.com/products/miami-dolphins-logo-athletics-sweatshirt-mens-green-x-large-86518-a"}];
 
-  // --- PRODUCTS ---
-  const products = [
-    { id:1, name:'Carhartt Work Jacket', category:'jacket', price:65, sizes:['S','M','L'], badge:'NEW', color:'#3a3a2a' },
-    { id:2, name:'Vintage Hoodie 90s', category:'hoodie', price:38, sizes:['M','L','XL'], badge:null, color:'#2a2a3a' },
-    { id:3, name:'Washed Graphic Tee', category:'tee', price:22, sizes:['S','M','L','XL'], badge:'HOT', color:'#3a2a2a' },
-    { id:4, name:'Corduroy Overshirt', category:'jacket', price:48, sizes:['M','L'], badge:null, color:'#2a3a2a' },
-    { id:5, name:'Baggy Cargo Pants', category:'pants', price:44, sizes:['S','M','L'], badge:'NEW', color:'#2a2a2a' },
-    { id:6, name:'Faded Zip Hoodie', category:'hoodie', price:35, sizes:['M','XL'], badge:null, color:'#3a3a3a' },
-    { id:7, name:'Vintage Band Tee', category:'tee', price:28, sizes:['S','M','L'], badge:null, color:'#2a2a2a' },
-    { id:8, name:'Levi\'s 501 Vintage', category:'pants', price:52, sizes:['30','32','34'], badge:'RARE', color:'#1a2a3a' },
-  ];
+// CURSOR
+const cursor = document.getElementById('cursor');
+const ring = document.getElementById('cursorRing');
+let mx=0,my=0,rx=0,ry=0;
+document.addEventListener('mousemove',e=>{mx=e.clientX;my=e.clientY;cursor.style.left=mx-6+'px';cursor.style.top=my-6+'px';});
+function animRing(){rx+=(mx-rx)*0.12;ry+=(my-ry)*0.12;ring.style.left=rx-18+'px';ring.style.top=ry-18+'px';requestAnimationFrame(animRing);}
+animRing();
 
-  let cart = [];
-  let activeFilter = 'all';
+let cart=[];
 
-  function renderProducts(filter) {
-    const grid = document.getElementById('productGrid');
-    const filtered = filter === 'all' ? products : products.filter(p => p.category === filter);
-    grid.innerHTML = filtered.map(p => `
-      <div class="product-card" data-id="${p.id}">
-        <div class="product-img" style="background:${p.color}">
-          <span class="product-img-placeholder">${p.name.split(' ').map(w=>w[0]).join('').slice(0,3)}</span>
-          ${p.badge ? `<span class="product-badge">${p.badge}</span>` : ''}
-          <div class="product-overlay">
-            <button class="quick-add" onclick="addToCart(${p.id})">PRIDAŤ DO KOŠÍKA</button>
-          </div>
-        </div>
-        <div class="product-info">
-          <p class="product-category">${getCategoryName(p.category)}</p>
-          <p class="product-name">${p.name}</p>
-          <div class="product-bottom">
-            <span class="product-price">${p.price} €</span>
-            <div class="product-sizes">${p.sizes.map(s=>`<span class="size-tag">${s}</span>`).join('')}</div>
-          </div>
+function getCategoryName(cat){return{jacket:'Bunda',hoodie:'Hoodie',sweatshirt:'Sweatshirt',tee:'Tričko',pants:'Nohavice',shirt:'Košeľa',other:'Oblečenie'}[cat]||'Oblečenie';}
+
+function renderProducts(filter){
+  const grid=document.getElementById('productGrid');
+  const filtered=filter==='all'?PRODUCTS:PRODUCTS.filter(p=>p.category===filter);
+  grid.innerHTML=filtered.map(p=>`
+    <div class="product-card">
+      <div class="product-img">
+        <img src="${p.image}" alt="${p.name}" loading="lazy" onerror="this.style.display='none'">
+        <div class="product-overlay">
+          <button class="quick-add" onclick="addToCart(${p.id})">PRIDAŤ DO KOŠÍKA</button>
         </div>
       </div>
-    `).join('');
-  }
-
-  function getCategoryName(cat) {
-    return { jacket:'Bunda', hoodie:'Hoodie', tee:'Tričko', pants:'Nohavice' }[cat] || cat;
-  }
-
-  function filterProducts(filter, btn) {
-    activeFilter = filter;
-    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    renderProducts(filter);
-  }
-
-  // --- CART ---
-  function addToCart(id) {
-    const product = products.find(p => p.id === id);
-    const existing = cart.find(i => i.id === id);
-    if (existing) {
-      existing.qty++;
-    } else {
-      cart.push({ ...product, qty: 1 });
-    }
-    updateCart();
-    if (!document.getElementById('cartSidebar').classList.contains('open')) {
-      toggleCart();
-    }
-  }
-
-  function updateCart() {
-    const count = cart.reduce((a, i) => a + i.qty, 0);
-    const total = cart.reduce((a, i) => a + i.price * i.qty, 0);
-    document.getElementById('cartCount').textContent = count;
-    document.getElementById('cartTotal').textContent = total + ' €';
-
-    const itemsEl = document.getElementById('cartItems');
-    const empty = document.getElementById('cartEmpty');
-
-    if (cart.length === 0) {
-      empty.style.display = 'flex';
-      itemsEl.querySelectorAll('.cart-item').forEach(el => el.remove());
-      return;
-    }
-    empty.style.display = 'none';
-
-    const existing = itemsEl.querySelectorAll('.cart-item');
-    existing.forEach(el => el.remove());
-
-    cart.forEach(item => {
-      const el = document.createElement('div');
-      el.className = 'cart-item';
-      el.dataset.id = item.id;
-      el.innerHTML = `
-        <div class="cart-item-img" style="background:${item.color};color:#666">${item.name.split(' ').map(w=>w[0]).join('').slice(0,3)}</div>
-        <div class="cart-item-details">
-          <p class="cart-item-name">${item.name}</p>
-          <p class="cart-item-meta">${getCategoryName(item.category)} · ${item.sizes[0]}</p>
-          <div class="cart-item-controls">
-            <button class="qty-btn" onclick="changeQty(${item.id}, -1)">−</button>
-            <span class="qty-value">${item.qty}</span>
-            <button class="qty-btn" onclick="changeQty(${item.id}, 1)">+</button>
-            <button class="remove-btn" onclick="removeItem(${item.id})">Odstrániť</button>
-          </div>
+      <div class="product-info">
+        <p class="product-category">${getCategoryName(p.category)}</p>
+        <p class="product-name">${p.name}</p>
+        <div class="product-bottom">
+          <span class="product-price">${p.price.toFixed(2)} £</span>
+          <div class="product-sizes">${(p.sizes||[]).slice(0,4).map(s=>`<span class="size-tag">${s}</span>`).join('')}</div>
         </div>
-        <span class="cart-item-price">${item.price * item.qty} €</span>
-      `;
-      itemsEl.appendChild(el);
-    });
-  }
+      </div>
+    </div>
+  `).join('');
+}
 
-  function changeQty(id, delta) {
-    const item = cart.find(i => i.id === id);
-    if (!item) return;
-    item.qty += delta;
-    if (item.qty <= 0) cart = cart.filter(i => i.id !== id);
-    updateCart();
-  }
+function filterProducts(filter,btn){
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  renderProducts(filter);
+}
 
-  function removeItem(id) {
-    cart = cart.filter(i => i.id !== id);
-    updateCart();
-  }
+function addToCart(id){
+  const p=PRODUCTS.find(x=>x.id===id);
+  const ex=cart.find(x=>x.id===id);
+  if(ex)ex.qty++;else cart.push({...p,qty:1});
+  updateCart();
+  if(!document.getElementById('cartSidebar').classList.contains('open'))toggleCart();
+}
 
-  function toggleCart() {
-    const sidebar = document.getElementById('cartSidebar');
-    const overlay = document.getElementById('cartOverlay');
-    sidebar.classList.toggle('open');
-    overlay.classList.toggle('open');
-  }
-
-  // --- CHECKOUT ---
-  function openCheckout() {
-    if (cart.length === 0) return;
-    const modal = document.getElementById('checkoutModal');
-    const summary = document.getElementById('orderSummary');
-    const total = cart.reduce((a, i) => a + i.price * i.qty, 0);
-
-    summary.innerHTML = `
-      <p class="order-summary-title">Zhrnutie objednávky</p>
-      ${cart.map(i => `<div class="summary-line"><span>${i.name} ×${i.qty}</span><span>${i.price * i.qty} €</span></div>`).join('')}
-      <div class="summary-line"><span>Doprava</span><span>3.50 €</span></div>
-      <div class="summary-line total"><span>CELKOM</span><span>${(total + 3.5).toFixed(2)} €</span></div>
+function updateCart(){
+  const count=cart.reduce((a,i)=>a+i.qty,0);
+  const total=cart.reduce((a,i)=>a+i.price*i.qty,0);
+  document.getElementById('cartCount').textContent=count;
+  document.getElementById('cartTotal').textContent=total.toFixed(2)+' £';
+  const el=document.getElementById('cartItems');
+  el.querySelectorAll('.cart-item').forEach(e=>e.remove());
+  document.getElementById('cartEmpty').style.display=cart.length?'none':'flex';
+  cart.forEach(item=>{
+    const d=document.createElement('div');
+    d.className='cart-item';
+    d.innerHTML=`
+      <div class="cart-item-img"><img src="${item.image}" alt="${item.name}" style="width:100%;height:100%;object-fit:cover"></div>
+      <div class="cart-item-details">
+        <p class="cart-item-name">${item.name}</p>
+        <p class="cart-item-meta">${getCategoryName(item.category)}</p>
+        <div class="cart-item-controls">
+          <button class="qty-btn" onclick="changeQty(${item.id},-1)">−</button>
+          <span class="qty-value">${item.qty}</span>
+          <button class="qty-btn" onclick="changeQty(${item.id},1)">+</button>
+          <button class="remove-btn" onclick="removeItem(${item.id})">Odstrániť</button>
+        </div>
+      </div>
+      <span class="cart-item-price">${(item.price*item.qty).toFixed(2)} £</span>
     `;
-
-    toggleCart();
-    modal.classList.add('open');
-  }
-
-  function closeCheckout() {
-    document.getElementById('checkoutModal').classList.remove('open');
-    document.getElementById('checkoutForm').classList.remove('hide');
-    document.getElementById('successScreen').classList.remove('show');
-  }
-
-  function placeOrder() {
-    const fields = ['firstName','lastName','email','phone','street','city','zip','cardNum','cardExp','cardCvv'];
-    const empty = fields.filter(f => !document.getElementById(f).value.trim());
-    if (empty.length > 0) {
-      document.getElementById(empty[0]).focus();
-      document.getElementById(empty[0]).style.borderColor = '#e63222';
-      setTimeout(() => document.getElementById(empty[0]).style.borderColor = '', 2000);
-      return;
-    }
-    document.getElementById('checkoutForm').classList.add('hide');
-    document.getElementById('successScreen').classList.add('show');
-    cart = [];
-    updateCart();
-  }
-
-  // --- CARD FORMAT ---
-  document.addEventListener('DOMContentLoaded', () => {
-    renderProducts('all');
-
-    const cardNum = document.getElementById('cardNum');
-    if (cardNum) {
-      cardNum.addEventListener('input', e => {
-        let v = e.target.value.replace(/\D/g, '').substring(0, 16);
-        e.target.value = v.replace(/(.{4})/g, '$1 ').trim();
-      });
-    }
-
-    const cardExp = document.getElementById('cardExp');
-    if (cardExp) {
-      cardExp.addEventListener('input', e => {
-        let v = e.target.value.replace(/\D/g, '').substring(0, 4);
-        if (v.length >= 2) v = v.slice(0,2) + '/' + v.slice(2);
-        e.target.value = v;
-      });
-    }
+    el.appendChild(d);
   });
+}
+
+function changeQty(id,d){const i=cart.find(x=>x.id===id);if(!i)return;i.qty+=d;if(i.qty<=0)cart=cart.filter(x=>x.id!==id);updateCart();}
+function removeItem(id){cart=cart.filter(x=>x.id!==id);updateCart();}
+function toggleCart(){document.getElementById('cartSidebar').classList.toggle('open');document.getElementById('cartOverlay').classList.toggle('open');}
+
+function openCheckout(){
+  if(!cart.length)return;
+  const total=cart.reduce((a,i)=>a+i.price*i.qty,0);
+  document.getElementById('orderSummary').innerHTML=`
+    <p class="order-summary-title">Zhrnutie objednávky</p>
+    ${cart.map(i=>`<div class="summary-line"><span>${i.name} ×${i.qty}</span><span>${(i.price*i.qty).toFixed(2)} £</span></div>`).join('')}
+    <div class="summary-line"><span>Doprava</span><span>3.50 £</span></div>
+    <div class="summary-line total"><span>CELKOM</span><span>${(total+3.5).toFixed(2)} £</span></div>
+  `;
+  toggleCart();
+  document.getElementById('checkoutModal').classList.add('open');
+}
+
+function closeCheckout(){
+  document.getElementById('checkoutModal').classList.remove('open');
+  document.getElementById('checkoutForm').classList.remove('hide');
+  document.getElementById('successScreen').classList.remove('show');
+}
+
+function placeOrder(){
+  const fields=['firstName','lastName','email','phone','street','city','zip','cardNum','cardExp','cardCvv'];
+  const empty=fields.find(f=>!document.getElementById(f).value.trim());
+  if(empty){document.getElementById(empty).focus();document.getElementById(empty).style.borderColor='#e63222';setTimeout(()=>document.getElementById(empty).style.borderColor='',2000);return;}
+  document.getElementById('checkoutForm').classList.add('hide');
+  document.getElementById('successScreen').classList.add('show');
+  cart=[];updateCart();
+}
+
+document.addEventListener('DOMContentLoaded',()=>{
+  renderProducts('all');
+  const cn=document.getElementById('cardNum');
+  if(cn)cn.addEventListener('input',e=>{let v=e.target.value.replace(/\D/g,'').substring(0,16);e.target.value=v.replace(/(.{4})/g,'$1 ').trim();});
+  const ce=document.getElementById('cardExp');
+  if(ce)ce.addEventListener('input',e=>{let v=e.target.value.replace(/\D/g,'').substring(0,4);if(v.length>=2)v=v.slice(0,2)+'/'+v.slice(2);e.target.value=v;});
+});
 </script>
 </body>
 </html>
