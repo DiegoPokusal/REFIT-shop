@@ -1,3 +1,4 @@
+
 const fs = require('fs');
 
 const products = JSON.parse(fs.readFileSync('products.json', 'utf8'));
@@ -6,9 +7,6 @@ const products = JSON.parse(fs.readFileSync('products.json', 'utf8'));
 const available = products.filter(p => p.available && p.image && p.price > 0);
 
 console.log(`📦 Dostupných produktov: ${available.length} z ${products.length}`);
-
-// Vezmi max 200 produktov pre stránku (performance)
-const display = available.slice(0, 50);
 
 // Mapuj kategorie
 function getCategory(p) {
@@ -30,10 +28,20 @@ function getCategoryName(cat) {
   return { jacket:'Bunda', hoodie:'Hoodie', sweatshirt:'Sweatshirt', tee:'Tričko', pants:'Nohavice', shirt:'Košeľa', other:'Oblečenie' }[cat] || 'Oblečenie';
 }
 
+const jackets = available.filter(p => getCategory(p) === 'jacket').slice(0, 20);
+const hoodies = available.filter(p => getCategory(p) === 'hoodie').slice(0, 20);
+const sweatshirts = available.filter(p => getCategory(p) === 'sweatshirt').slice(0, 20);
+const tees = available.filter(p => getCategory(p) === 'tee').slice(0, 20);
+const pants = available.filter(p => getCategory(p) === 'pants').slice(0, 20);
+const shirts = available.filter(p => getCategory(p) === 'shirt').slice(0, 20);
+const display = [...jackets, ...hoodies, ...sweatshirts, ...tees, ...pants, ...shirts];
+
+console.log(`👕 Bundy: ${jackets.length} | Hoodies: ${hoodies.length} | Sweatshirts: ${sweatshirts.length} | Tričká: ${tees.length} | Nohavice: ${pants.length} | Košele: ${shirts.length}`);
+
 const productData = display.map(p => ({
   id: p.id,
   name: p.name,
-  price: p.price,
+  price: Math.ceil(p.price * 1.30),
   image: p.image,
   sizes: p.sizes || [],
   category: getCategory(p),
@@ -335,7 +343,7 @@ function renderProducts(filter){
         <p class="product-category">\${getCategoryName(p.category)}</p>
         <p class="product-name">\${p.name}</p>
         <div class="product-bottom">
-          <span class="product-price">\${p.price.toFixed(2)} £</span>
+          <span class="product-price">\${p.price} €</span>
           <div class="product-sizes">\${(p.sizes||[]).slice(0,4).map(s=>\`<span class="size-tag">\${s}</span>\`).join('')}</div>
         </div>
       </div>
@@ -361,7 +369,7 @@ function updateCart(){
   const count=cart.reduce((a,i)=>a+i.qty,0);
   const total=cart.reduce((a,i)=>a+i.price*i.qty,0);
   document.getElementById('cartCount').textContent=count;
-  document.getElementById('cartTotal').textContent=total.toFixed(2)+' £';
+  document.getElementById('cartTotal').textContent=total+' €';
   const el=document.getElementById('cartItems');
   el.querySelectorAll('.cart-item').forEach(e=>e.remove());
   document.getElementById('cartEmpty').style.display=cart.length?'none':'flex';
@@ -380,7 +388,7 @@ function updateCart(){
           <button class="remove-btn" onclick="removeItem(\${item.id})">Odstrániť</button>
         </div>
       </div>
-      <span class="cart-item-price">\${(item.price*item.qty).toFixed(2)} £</span>
+      <span class="cart-item-price">\${item.price*item.qty} €</span>
     \`;
     el.appendChild(d);
   });
@@ -395,9 +403,9 @@ function openCheckout(){
   const total=cart.reduce((a,i)=>a+i.price*i.qty,0);
   document.getElementById('orderSummary').innerHTML=\`
     <p class="order-summary-title">Zhrnutie objednávky</p>
-    \${cart.map(i=>\`<div class="summary-line"><span>\${i.name} ×\${i.qty}</span><span>\${(i.price*i.qty).toFixed(2)} £</span></div>\`).join('')}
-    <div class="summary-line"><span>Doprava</span><span>3.50 £</span></div>
-    <div class="summary-line total"><span>CELKOM</span><span>\${(total+3.5).toFixed(2)} £</span></div>
+    \${cart.map(i=>\`<div class="summary-line"><span>\${i.name} ×\${i.qty}</span><span>\${i.price*i.qty} €</span></div>\`).join('')}
+    <div class="summary-line"><span>Doprava</span><span>3.50 €</span></div>
+    <div class="summary-line total"><span>CELKOM</span><span>\${(total+3.5).toFixed(2)} €</span></div>
   \`;
   toggleCart();
   document.getElementById('checkoutModal').classList.add('open');
