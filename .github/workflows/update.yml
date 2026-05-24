@@ -33,5 +33,3 @@ jobs:
           git add index.html products.json
           git diff --staged --quiet || git commit -m "Auto update products"
           git push
-update2.yml
-Zobrazuje sa položka update2.yml
