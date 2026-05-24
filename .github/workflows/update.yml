@@ -1,0 +1,56 @@
+Žiadne vybraté položky 
+
+Prejsť na obsah
+Používanie služby Gmail s čítačkami obrazovky
+1 z 5 893
+(bez predmetu)
+Doručené
+
+Maros Vojt. <maros.vojtkuliak.29.3.2004@gmail.com>
+Prílohy
+11:13 (pred 0 minútami)
+komu: mne
+
+
+
+
+Odoslané z iPhonu
+ Jedna príloha
+  •  Skontrolované Gmailom
+name: Update REFIT Shop
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # každú hodinu
+  workflow_dispatch:      # možnosť spustiť manuálne
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Run scraper
+        run: node scraper.js
+
+      - name: Generate site
+        run: node generate.js
+
+      - name: Commit and push
+        run: |
+          git config user.email "maros.vojtkuliak.29.3.2004@gmail.com"
+          git config user.name "DiegoPokusal"
+          git add index.html products.json
+          git diff --staged --quiet || git commit -m "Auto update products"
+          git push
+update.yml
+Zobrazuje sa položka update.yml
