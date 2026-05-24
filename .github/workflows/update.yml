@@ -2,13 +2,13 @@
 
 Prejsť na obsah
 Používanie služby Gmail s čítačkami obrazovky
-1 z 5 893
+1 z 5 897
 (bez predmetu)
 Doručené
 
 Maros Vojt. <maros.vojtkuliak.29.3.2004@gmail.com>
 Prílohy
-11:13 (pred 0 minútami)
+11:27 (pred 0 minútami)
 komu: mne
 
 
@@ -21,8 +21,8 @@ name: Update REFIT Shop
 
 on:
   schedule:
-    - cron: '0 * * * *'  # každú hodinu
-  workflow_dispatch:      # možnosť spustiť manuálne
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -52,5 +52,5 @@ jobs:
           git add index.html products.json
           git diff --staged --quiet || git commit -m "Auto update products"
           git push
-update.yml
-Zobrazuje sa položka update.yml
+update2.yml
+Zobrazuje sa položka update2.yml
