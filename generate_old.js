@@ -43,6 +43,7 @@ console.log(`👕 Bundy: ${jackets.length} | Hoodies: ${hoodies.length} | Sweats
 const productData = display.map(p => ({
   id: p.id,
   name: p.name,
+  price: p.price,
   image: p.image,
   sizes: p.sizes || [],
   category: getCategory(p),
