@@ -1086,6 +1086,18 @@
   ],
   "hoodie": [
     {
+      "id": 15964913369475,
+      "name": "Carhartt Hoodie - Large Red Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-large-98326-a",
+      "available": true
+    },
+    {
       "id": 15935543181699,
       "name": "Moschino Spellout Hoodie - Small Black Cotton Blend",
       "price": 138,
@@ -1312,21 +1324,21 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/since-1889-carhartt-hoodie-mens-brown-x-large-98328-a",
       "available": true
-    },
-    {
-      "id": 15964913435011,
-      "name": "Carhartt Hoodie - XL Red Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/89EEF6B1-07CA-452F-A8E1-8D9B94865DD0.webp?v=1778685766",
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-x-large-98327-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15916274188675,
+      "name": "Made In USA 90S Nike Sweatshirt - Medium Grey Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a",
+      "available": true
+    },
     {
       "id": 15864957403523,
       "name": "Versace Jeans Couture Graphic Sweatshirt - Small Black Cotton Blend",
@@ -1554,21 +1566,21 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-florida-nike-sweatshirt-mens-blue-xxx-large-397580",
       "available": true
-    },
-    {
-      "id": 15919716106627,
-      "name": "Reverse Weave Kentucky Champion Sweatshirt - XL Grey Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mixed_17.4.26179_b9c3ea78-5e59-42a8-9faa-13191b2c4c1a.jpg?v=1776956374",
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vintage-reverse-weave-kentucky-champion-sweatshirt-mens-grey-x-large-397406",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15968027050371,
+      "name": "2007 Australia Tour Wwe Raw Live T-Shirt - XL Black Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2784117E-5001-4AC4-9B90-1B7DBC3F2F37.webp?v=1778830837",
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/2007-australia-tour-wwe-t-shirt-mens-black-x-large-94384-a",
+      "available": true
+    },
     {
       "id": 15950792130947,
       "name": "Polo Jeans Ralph Lauren 67 Long Sleeve T-Shirt - XL Navy Cotton",
@@ -1795,18 +1807,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-long-sleeve-t-shirt-mens-black-large-394093",
-      "available": true
-    },
-    {
-      "id": 15692528222595,
-      "name": "Play Comme Des Garcons T-Shirt - Large Grey Cotton",
-      "price": 105,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26352_2939c6d4-3ff6-4632-8ec8-3c8096926943.jpg?v=1771231400",
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-play-comme-des-garcons-t-shirt-mens-grey-large-394069",
       "available": true
     }
   ],
