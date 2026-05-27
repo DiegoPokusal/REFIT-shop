@@ -1086,6 +1086,23 @@
   ],
   "hoodie": [
     {
+      "id": 15977969746307,
+      "name": "High Country Harley Davidson Full Zip Graphic Hoodie - 2XL Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7B8E55DF-ACD7-4C32-88B9-DFCAA8712AE4.webp?v=1779263862",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B8E55DF-ACD7-4C32-88B9-DFCAA8712AE4.webp?v=1779263862",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/647C4791-5331-4C62-89B1-07DDF111C077.webp?v=1779263861",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/42889024-A6FD-42D6-B5F2-932A5CB25D7F.webp?v=1779263862"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/high-country-harley-davidson-hoodie-mens-black-xx-large-95226-a",
+      "available": true
+    },
+    {
       "id": 15964917432707,
       "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
       "price": 116,
@@ -1407,26 +1424,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-black-large-88136-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15916341100931,
-      "name": "Battlefield Gettysburg Harley Davidson Graphic Hoodie - XL Black Cotton",
-      "price": 121,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/00FC80C9-093D-46F8-97EE-F4E761C4B940.webp?v=1776870736",
+      "id": 15921451008387,
+      "name": "90S Yale Betty Boop Unbranded Raglan Sweatshirt - Medium Grey Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B184B74-F29B-444E-862B-CBC269F8BD0B.webp?v=1777031875",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/00FC80C9-093D-46F8-97EE-F4E761C4B940.webp?v=1776870736",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0CFFDF79-8B51-4C05-9D96-278E2A460E33.webp?v=1776870736",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/28F99F1F-EBDD-428F-921B-6616060F73AB.webp?v=1776870736"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B184B74-F29B-444E-862B-CBC269F8BD0B.webp?v=1777031875",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EF644CFB-4FE8-407A-BE52-D73756C0C148.webp?v=1777031875",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DC6F53AF-49AA-441F-9EEE-DBF9CBFCCA98.webp?v=1777031876"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/battlefield-gettysburg-harley-davidson-hoodie-mens-black-x-large-88122-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-yale-betty-boop-unbranded-sweatshirt-mens-grey-medium-88546-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15910937657731,
       "name": "90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend",
@@ -1749,26 +1766,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-christmas-looney-tunes-tultex-sweatshirt-mens-grey-large-88561-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15921452122499,
-      "name": "90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
+      "id": 15935499960707,
+      "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7186A8B4-68C9-438D-A615-282766C1076B.webp?v=1777031886",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08AF220C-3BEA-4928-8625-565AFFC4848E.webp?v=1777031886"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4115_7958c475-8fb6-48ee-a27b-eb97a72776cc.jpg?v=1777472599",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/WOMENS_5a9e9029-9804-4120-ad44-d4b11547f142.webp?v=1777472598"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-t-shirt-womens-white-medium-398073",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15916222480771,
       "name": "Grateful Dead Jester Fruit Of The Loom Single Stitch T-Shirt - XL Multicoloured Cotton",
@@ -1857,7 +1874,7 @@
     {
       "id": 15692536807811,
       "name": "Dolce & Gabbana Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 103,
+      "price": 105,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26412_c4681c48-dfc9-40da-90d9-4583cca98497.jpg?v=1771231459",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26412_c4681c48-dfc9-40da-90d9-4583cca98497.jpg?v=1771231459",
@@ -1874,7 +1891,7 @@
     {
       "id": 15692528222595,
       "name": "Play Comme Des Garcons T-Shirt - Large Grey Cotton",
-      "price": 103,
+      "price": 105,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26352_2939c6d4-3ff6-4632-8ec8-3c8096926943.jpg?v=1771231400",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26352_2939c6d4-3ff6-4632-8ec8-3c8096926943.jpg?v=1771231400",
@@ -2090,23 +2107,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-moncler-t-shirt-mens-multicoloured-large-397176",
-      "available": true
-    },
-    {
-      "id": 15935548948867,
-      "name": "Armani Jeans V-neck Long Sleeve T-Shirt - 2XL Brown Cotton",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4270_c755c608-db43-4307-8d6f-d591e3740137.jpg?v=1777473004",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4270_c755c608-db43-4307-8d6f-d591e3740137.jpg?v=1777473004",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4271_8765fe27-6a62-4ed4-b822-d0a478e34f7e.jpg?v=1777473003",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_6d81859c-1613-4ea0-81e6-e0861077aef1.webp?v=1777473003"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-armani-jeans-long-sleeve-t-shirt-mens-brown-xx-large-398211",
       "available": true
     }
   ],
