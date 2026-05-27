@@ -1086,6 +1086,23 @@
   ],
   "hoodie": [
     {
+      "id": 15964917432707,
+      "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9A1548C-3E4D-4419-9E6C-E10F386B80F4.webp?v=1778685860",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/978547FD-D602-4108-9BB0-A0F06739723E.webp?v=1778685861"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
+      "available": true
+    },
+    {
       "id": 15964917367171,
       "name": "Carhartt Spellout Hoodie - XL Navy Cotton",
       "price": 116,
@@ -1407,26 +1424,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/battlefield-gettysburg-harley-davidson-hoodie-mens-black-x-large-88122-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15977969746307,
-      "name": "High Country Harley Davidson Full Zip Graphic Hoodie - 2XL Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7B8E55DF-ACD7-4C32-88B9-DFCAA8712AE4.webp?v=1779263862",
+      "id": 15910937657731,
+      "name": "90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend",
+      "price": 121,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B8E55DF-ACD7-4C32-88B9-DFCAA8712AE4.webp?v=1779263862",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/647C4791-5331-4C62-89B1-07DDF111C077.webp?v=1779263861",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/42889024-A6FD-42D6-B5F2-932A5CB25D7F.webp?v=1779263862"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/19BE483B-E1E1-464C-8E0E-1038472BF887.webp?v=1776674557",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD22E655-93F8-4BF8-B0B4-03F66FB000BC.webp?v=1776674558"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/high-country-harley-davidson-hoodie-mens-black-xx-large-95226-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15982016496003,
       "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
@@ -1749,26 +1766,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15921451008387,
-      "name": "90S Yale Betty Boop Unbranded Raglan Sweatshirt - Medium Grey Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B184B74-F29B-444E-862B-CBC269F8BD0B.webp?v=1777031875",
+      "id": 15916222480771,
+      "name": "Grateful Dead Jester Fruit Of The Loom Single Stitch T-Shirt - XL Multicoloured Cotton",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/157331AB-95D8-48CC-9C8B-13259C7D3649.webp?v=1776868627",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B184B74-F29B-444E-862B-CBC269F8BD0B.webp?v=1777031875",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EF644CFB-4FE8-407A-BE52-D73756C0C148.webp?v=1777031875",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DC6F53AF-49AA-441F-9EEE-DBF9CBFCCA98.webp?v=1777031876"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/157331AB-95D8-48CC-9C8B-13259C7D3649.webp?v=1776868627",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0CEDC459-90A4-4F3F-94F4-7B803A32ED0E.webp?v=1776868627",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FC57A4C8-EA23-4610-9507-35EF61BC4FD3.webp?v=1776868628"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-yale-betty-boop-unbranded-sweatshirt-mens-grey-medium-88546-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/grateful-dead-jester-fruit-of-the-loom-t-shirt-mens-multicoloured-x-large-87797-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15874412872067,
       "name": "Nature Graphics Harlequin Single Stitch T-Shirt - Medium Black Cotton",
@@ -2090,23 +2107,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-armani-jeans-long-sleeve-t-shirt-mens-brown-xx-large-398211",
-      "available": true
-    },
-    {
-      "id": 15935499960707,
-      "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4115_7958c475-8fb6-48ee-a27b-eb97a72776cc.jpg?v=1777472599",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/WOMENS_5a9e9029-9804-4120-ad44-d4b11547f142.webp?v=1777472598"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-t-shirt-womens-white-medium-398073",
       "available": true
     }
   ],
