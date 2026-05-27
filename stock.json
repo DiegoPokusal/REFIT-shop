@@ -1086,6 +1086,18 @@
   ],
   "hoodie": [
     {
+      "id": 15964913598851,
+      "name": "Since 1889 Carhartt Spellout Hoodie - XL Brown Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DD149598-6DF4-4F97-98DB-AFF62DF05037.webp?v=1778685768",
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/since-1889-carhartt-hoodie-mens-brown-x-large-98328-a",
+      "available": true
+    },
+    {
       "id": 15964913435011,
       "name": "Carhartt Hoodie - XL Red Cotton",
       "price": 116,
@@ -1312,21 +1324,21 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98320-a",
       "available": true
-    },
-    {
-      "id": 15964913926531,
-      "name": "Joe'S Automotive Carhartt Hoodie - XL Navy Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B1CF5F76-E4EE-478F-8D4F-98B5CA626AB4.webp?v=1778685775",
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/joes-automotive-carhartt-hoodie-mens-navy-x-large-98334-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15919736291715,
+      "name": "Florida Nike Sweatshirt - 3XL Blue Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4276_441fd69d-79a4-4499-ac1b-d3ab99d2886b.jpg?v=1776956897",
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/vintage-florida-nike-sweatshirt-mens-blue-xxx-large-397580",
+      "available": true
+    },
     {
       "id": 15994026819971,
       "name": "90S Made In USA Long Gone Philadelphia Flyers Aop Sweatshirt - XL Grey Cotton",
@@ -1554,21 +1566,21 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reverse-weave-cal-state-champion-sweatshirt-mens-navy-medium-91545-a",
       "available": true
-    },
-    {
-      "id": 15950694482307,
-      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15692536807811,
+      "name": "Dolce & Gabbana Long Sleeve T-Shirt - Large Black Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26412_c4681c48-dfc9-40da-90d9-4583cca98497.jpg?v=1771231459",
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-long-sleeve-t-shirt-mens-black-large-394093",
+      "available": true
+    },
     {
       "id": 15692528222595,
       "name": "Play Comme Des Garcons T-Shirt - Large Grey Cotton",
@@ -1795,18 +1807,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
-      "available": true
-    },
-    {
-      "id": 15950888665475,
-      "name": "Waffle Knit Avirex Spellout Long Sleeve T-Shirt - XL Grey Cotton Blend",
-      "price": 106,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A2375264-BC87-44BC-8EA5-4E21FC1DAEB6.webp?v=1778142907",
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/waffle-knit-avirex-long-sleeve-t-shirt-mens-grey-x-large-91121-a",
       "available": true
     }
   ],
