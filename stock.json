@@ -1086,6 +1086,23 @@
   ],
   "hoodie": [
     {
+      "id": 15964917236099,
+      "name": "Carhartt Hoodie - Large Brown Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8A46E60D-EF29-4288-8996-A0D64AFE7519.webp?v=1778685855",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8A46E60D-EF29-4288-8996-A0D64AFE7519.webp?v=1778685855",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE47B39B-D352-4B35-AC34-71EBF08456FC.webp?v=1778685856",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FCE4D8A7-3473-43DA-A897-90F0DF9338DC.webp?v=1778685856"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-brown-large-98319-a",
+      "available": true
+    },
+    {
       "id": 15964916941187,
       "name": "Carhartt Hoodie - Small Black Cotton",
       "price": 116,
@@ -1407,26 +1424,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964917367171,
-      "name": "Carhartt Spellout Hoodie - XL Navy Cotton",
+      "id": 15964912222595,
+      "name": "Original Fit Carhartt Sweatshirt - Medium Grey Cotton",
       "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FDF93101-1404-4646-A862-B7B0A8AD9459.webp?v=1778685858",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FDF93101-1404-4646-A862-B7B0A8AD9459.webp?v=1778685858",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E31A353E-D365-464C-832F-639F53AFEFC2.webp?v=1778685858",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/026DD6AB-2C93-4F8E-BFD2-9D40A281D16E.webp?v=1778685858"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/70A2D0E3-4B9F-4BC3-BA79-34CE500014F4.webp?v=1778685740",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A44C023-9D96-4E98-A6CC-073A55EFF0E3.webp?v=1778685741"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-navy-x-large-98329-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/original-fit-carhartt-sweatshirt-mens-grey-medium-98314-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15950926807427,
       "name": "Reverse Weave Cal State Champion Sweatshirt - Medium Navy Cotton",
@@ -1749,26 +1766,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15982016496003,
-      "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
+      "id": 15950891680131,
+      "name": "Polo Bear Ralph Lauren Long Sleeve T-Shirt - Medium White Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B4351744-90B2-4FF7-9893-76F4E98BC574.webp?v=1778142993",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AF7170DC-4C33-46BB-87E8-42183A65BAED.webp?v=1779441066",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C149BB02-A924-44AB-9A81-CF17BC96D0F2.webp?v=1779441066"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B4351744-90B2-4FF7-9893-76F4E98BC574.webp?v=1778142993",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/82FB206C-8A7C-42EA-837C-7759E05C66FB.webp?v=1778142993",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3F4E2701-A68D-4756-8F48-98AB40A407D2.webp?v=1778142993"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-white-medium-91159-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15968026329475,
       "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
@@ -2090,23 +2107,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/grateful-dead-jester-fruit-of-the-loom-t-shirt-mens-multicoloured-x-large-87797-a",
-      "available": true
-    },
-    {
-      "id": 15874412872067,
-      "name": "Nature Graphics Harlequin Single Stitch T-Shirt - Medium Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/55C6971E-54C4-42A7-AC50-E736AA5E2391.webp?v=1775038150",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/55C6971E-54C4-42A7-AC50-E736AA5E2391.webp?v=1775038150",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7E975B4A-206B-4818-AA3F-B3ABE964DDC1.webp?v=1775038150",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F6DBE93-68CE-424C-974A-F97ACABE1E6C.webp?v=1775038150"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/nature-graphics-harlequin-t-shirt-mens-black-medium-83434-a",
       "available": true
     }
   ],
