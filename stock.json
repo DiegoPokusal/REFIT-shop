@@ -1086,6 +1086,23 @@
   ],
   "hoodie": [
     {
+      "id": 15874301952387,
+      "name": "Nike Hoodie - Large Green Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/64719533-E3F0-4C82-B57E-0C6988962D9C.webp?v=1775034500",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD6799A4-211D-4C3F-BF31-C18195B70E81.webp?v=1775034500"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-82487-a",
+      "available": true
+    },
+    {
       "id": 15874279309699,
       "name": "Appleton Harley-Davidson Harley Davidson Graphic Hoodie - 2XL Black Cotton",
       "price": 123,
@@ -1407,26 +1424,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-black-large-85691-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15894679781763,
-      "name": "Waukon Harley Davidson Graphic Hoodie - Medium Grey Cotton Blend",
+      "id": 15921465196931,
+      "name": "Looney Tunes Characters Warner Bros Comic Cartoon Style Sweatshirt - XL Grey Cotton",
       "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A45AD4A2-437F-4733-86FA-1FBFE3458F97.webp?v=1776069944",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4AEEA37D-D474-43F4-89B5-5D6F938B2BA6.webp?v=1777032042",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A45AD4A2-437F-4733-86FA-1FBFE3458F97.webp?v=1776069944",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0A1D592-D6DB-4FCF-8205-B3C3F73EDEAB.webp?v=1776069944",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AA6229E5-CB9B-491B-B9E5-30C8CBB089B4.webp?v=1776069945"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4AEEA37D-D474-43F4-89B5-5D6F938B2BA6.webp?v=1777032042",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8BEA083-94AD-4D69-8DF9-6B786C4C195A.webp?v=1777032042",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/169B0B17-12F3-41AA-9D46-9214F98C6A94.webp?v=1777032042"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/waukon-harley-davidson-hoodie-mens-grey-medium-85690-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-x-large-88578-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15921463329155,
       "name": "Walt Disney World Disney Cartoon Sweatshirt - XL Purple Cotton Blend",
@@ -1634,7 +1651,7 @@
     {
       "id": 15864957403523,
       "name": "Versace Jeans Couture Graphic Sweatshirt - Small Black Cotton Blend",
-      "price": 141,
+      "price": 135,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733",
@@ -1651,7 +1668,7 @@
     {
       "id": 15864946622851,
       "name": "Just Cavalli Graphic Sweatshirt - Medium Black Cotton Blend",
-      "price": 141,
+      "price": 135,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
@@ -1749,47 +1766,47 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-faded-avirex-sweatshirt-mens-red-large-91131-a",
       "available": true
-    },
-    {
-      "id": 15950693171587,
-      "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/108F4C38-29AA-4F37-8BC7-7FB8A8451546.webp?v=1778140496",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1B3196CE-9980-4414-9608-02C791D65D6B.webp?v=1778140497"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a",
-      "available": true
     }
   ],
   "tee": [
     {
-      "id": 15876218093955,
-      "name": "Beavis And Butthead Mtv 1993 All Sport Single Stitch T-Shirt - Large White Cotton",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/92F8AD26-5C6F-48AD-8DDA-3B092348F53A.webp?v=1775118223",
+      "id": 15864673010051,
+      "name": "Chicgao Brown Bombers Underground Railroad T-Shirt - XL White Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_vintage_reshoot_19.3100_362b7d99-e075-4b31-9c3b-f2054bc8fb5d.jpg?v=1774615318",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/92F8AD26-5C6F-48AD-8DDA-3B092348F53A.webp?v=1775118223",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7CFFFA3-B310-4431-AB95-69E083B2E427.webp?v=1775118223",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/36E0EF53-1BF5-4601-926C-80AECA1B8D3F.webp?v=1775118224"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_vintage_reshoot_19.3100_362b7d99-e075-4b31-9c3b-f2054bc8fb5d.jpg?v=1774615318",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_vintage_reshoot_19.3102_16048b73-f163-4819-9699-70b7a7444411.jpg?v=1774615318",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_vintage_reshoot_19.3101_fb02e641-b689-42fd-adc9-c2175ac9b42e.jpg?v=1774615318"
       ],
       "sizes": [
         "Default Title"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/beavis-and-butthead-mtv-1993-all-sport-t-shirt-mens-white-large-83915-a",
+      "url": "https://www.thrifted.com/products/vintage-chicgao-brown-bombers-underground-railroad-t-shirt-mens-white-x-large-397062",
+      "available": true
+    },
+    {
+      "id": 15876228120963,
+      "name": "Barbra Streisand 1994 Concert Tour Anvil Single Stitch T-Shirt - XL White Cotton",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4DB56131-35F3-4AA1-8227-77F43D807304.webp?v=1775118570",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DB56131-35F3-4AA1-8227-77F43D807304.webp?v=1775118570",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E3D82D7A-8CB8-464C-BA06-B9A2A786D945.webp?v=1775118570",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/44A75523-2ADB-478C-AEF1-45D8C522105B.webp?v=1775118571"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/barbra-streisand-1994-concert-tour-anvil-t-shirt-mens-white-x-large-83982-a",
       "available": true
     },
     {
       "id": 15864944591235,
       "name": "Moschino Graphic T-Shirt - Large Multicoloured Cotton",
-      "price": 138,
+      "price": 132,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3121_65ed581a-4ad1-4645-b756-fc65625d7cc8.jpg?v=1774624481",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3121_65ed581a-4ad1-4645-b756-fc65625d7cc8.jpg?v=1774624481",
@@ -1855,6 +1872,57 @@
       "available": true
     },
     {
+      "id": 15995255128451,
+      "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/14AE7C1C-2E62-4DA9-9454-9D6F44F6F591.webp?v=1779954660",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/26C3B55F-DE0B-4E6E-844F-542224E157FC.webp?v=1779954660"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
+      "available": true
+    },
+    {
+      "id": 15995251556739,
+      "name": "Grateful Dead Liquid Blue Graphic T-Shirt - Large Multicoloured Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A8CCD43A-413C-4AAE-8B6E-6D260B718F91.webp?v=1779954647",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A8CCD43A-413C-4AAE-8B6E-6D260B718F91.webp?v=1779954647",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63ED9A06-B0FB-4483-B46A-66C75BC6DB67.webp?v=1779954646",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/59472792-D570-4DCD-AB42-5C45B7D759AB.webp?v=1779954647"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97082-a",
+      "available": true
+    },
+    {
+      "id": 15995240022403,
+      "name": "Grateful Dead Liquid Blue Graphic T-Shirt - Large Multicoloured Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FE3F3161-DC33-422E-BD1D-904795ACE070.webp?v=1779954562",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE3F3161-DC33-422E-BD1D-904795ACE070.webp?v=1779954562",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7834BD57-D6DD-4E99-90F8-C4F4522F83A6.webp?v=1779954562",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/60F8956E-A12B-41F6-A126-26F58242BD37.webp?v=1779954562"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97073-a",
+      "available": true
+    },
+    {
       "id": 15874412872067,
       "name": "Nature Graphics Harlequin Single Stitch T-Shirt - Medium Black Cotton",
       "price": 116,
@@ -1889,23 +1957,6 @@
       "available": true
     },
     {
-      "id": 15968026329475,
-      "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F44D80B8-8888-4589-9708-A8DED6C99E05.webp?v=1778830810",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F77DEDAB-389D-4407-AD95-C66798ECA8CB.webp?v=1778830811"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
-      "available": true
-    },
-    {
       "id": 15950888665475,
       "name": "Waffle Knit Avirex Spellout Long Sleeve T-Shirt - XL Grey Cotton Blend",
       "price": 106,
@@ -1937,40 +1988,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-long-sleeve-t-shirt-mens-black-large-394093",
-      "available": true
-    },
-    {
-      "id": 15692528222595,
-      "name": "Play Comme Des Garcons T-Shirt - Large Grey Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26352_2939c6d4-3ff6-4632-8ec8-3c8096926943.jpg?v=1771231400",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26352_2939c6d4-3ff6-4632-8ec8-3c8096926943.jpg?v=1771231400",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26353_950691e2-1c27-40de-b823-29fefaac28d3.jpg?v=1771231401",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26354_92738679-0b2f-483f-8645-738aa3428765.jpg?v=1771231401"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-play-comme-des-garcons-t-shirt-mens-grey-large-394069",
-      "available": true
-    },
-    {
-      "id": 15968027050371,
-      "name": "2007 Australia Tour Wwe Raw Live T-Shirt - XL Black Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2784117E-5001-4AC4-9B90-1B7DBC3F2F37.webp?v=1778830837",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2784117E-5001-4AC4-9B90-1B7DBC3F2F37.webp?v=1778830837",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E387F984-887B-45CF-BAF6-BA95F0ABEDBB.webp?v=1778830837",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/333E216A-2A8F-4816-B93A-47FF9FE8A885.webp?v=1778830837"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/2007-australia-tour-wwe-t-shirt-mens-black-x-large-94384-a",
       "available": true
     },
     {
@@ -2090,23 +2107,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/philadelphia-eagles-salem-t-shirt-mens-black-x-large-87794-a",
-      "available": true
-    },
-    {
-      "id": 15916209308035,
-      "name": "Ronnie Van Zant Lynyrd Skynyrd Band Single Stitch T-Shirt - Large Black Cotton",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2FEEE0F1-EFFF-4B28-9CFA-953CBAC95115.webp?v=1776868431",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2FEEE0F1-EFFF-4B28-9CFA-953CBAC95115.webp?v=1776868431",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/34AA8DFC-7DE0-4005-8113-0EAAF3D39448.webp?v=1776868431",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DDDD9D8-35C1-4B65-94D6-64A2C42BBC6D.webp?v=1776868431"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/ronnie-van-zant-lynyrd-skynyrd-band-t-shirt-mens-black-large-87726-a",
       "available": true
     }
   ],
