@@ -1086,6 +1086,23 @@
   ],
   "hoodie": [
     {
+      "id": 15950845378947,
+      "name": "Polo By Ralph Lauren Colour Block Spellout Hoodie - Medium Green Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED3213CB-5814-458E-B05F-582584BD8D1A.webp?v=1778142311",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CA2A1E3-71EE-43D9-A8D5-1FD11D35A7F4.webp?v=1778142312"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-green-medium-90935-a",
+      "available": true
+    },
+    {
       "id": 15919765520771,
       "name": "USc Trojans Nike College Hoodie - Large Red Cotton",
       "price": 123,
@@ -1407,26 +1424,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-84644-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15950876868995,
-      "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
+      "id": 15916194824579,
+      "name": "Wisconsin Harley-Davidson Harley Davidson Sweatshirt - XL Black Cotton",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5AC313F1-43B5-4847-9507-83318D398323.webp?v=1776868145",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E74E3BD0-5908-4F61-B62A-7B7D73F2100E.webp?v=1778142668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D8E2D9-01FA-4A75-A11D-A99CB54F8262.webp?v=1778142668"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5AC313F1-43B5-4847-9507-83318D398323.webp?v=1776868145",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/11A38532-9A3D-4791-BF67-7AD335EEBFEA.webp?v=1776868145",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/81DFBD76-F22A-43C9-8F81-6C20A995D59A.webp?v=1776868145"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/faded-avirex-hoodie-mens-grey-medium-91136-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/wisconsin-harley-davidson-harley-davidson-sweatshirt-mens-black-x-large-89260-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15950903181699,
       "name": "American Flag Chaps Ralph Lauren Spellout Sweatshirt - XL Grey Cotton Blend",
@@ -1749,26 +1766,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/adventure-team-marlboro-sweatshirt-mens-grey-large-94772-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15935469355395,
-      "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
+      "id": 15964904161667,
+      "name": "K.T. Oslin Concert Falcon Chemisiers Graphic T-Shirt - XL White Cotton",
       "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E8ED46A-11AB-4374-87AA-EDDC75650915.webp?v=1778685623",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4115_ae869931-d027-4e00-8b52-2e49be4852f6.jpg?v=1777472249",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_4589513d-e56f-429a-b587-59e0dc66c1af.webp?v=1777472249"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E8ED46A-11AB-4374-87AA-EDDC75650915.webp?v=1778685623",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9E797B57-A2AE-4E94-AC70-EBAF93CAAB6F.webp?v=1778685623",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0072C41C-A345-4CB8-8C86-151D0C1B5CEC.webp?v=1778685624"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/k-t-oslin-concert-falcon-chemisiers-t-shirt-mens-white-x-large-94157-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15935478858115,
       "name": "Moncler Graphic T-Shirt - XL Black Cotton",
@@ -2090,23 +2107,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
-      "available": true
-    },
-    {
-      "id": 15873109885315,
-      "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89D409F-CC4C-4875-A6CC-6C9DEA43E962.webp?v=1774961873",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8F10A35-41EF-4EC0-91C5-DD24F7AD4CB8.webp?v=1774961873"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
       "available": true
     }
   ],
