@@ -1086,6 +1086,23 @@
   ],
   "hoodie": [
     {
+      "id": 15876235395459,
+      "name": "Polo By Ralph Lauren Hoodie - Large Grey Cotton",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E365CE64-B82D-443D-80A5-C9BA43D727B0.webp?v=1775118867",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E365CE64-B82D-443D-80A5-C9BA43D727B0.webp?v=1775118867",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/15354101-1939-4140-8436-6AE9C391D1C3.webp?v=1775118867",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/12A8664A-E9DA-4C63-BF7A-B232909B2A9E.webp?v=1775118867"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-84644-a",
+      "available": true
+    },
+    {
       "id": 15950876868995,
       "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
       "price": 123,
@@ -1407,26 +1424,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/vintage-moschino-hoodie-mens-black-small-398190",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15894678438275,
-      "name": "Custom Patches Grand Canyon Harley Davidson Graphic Hoodie - Large Black Cotton Blend",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5E6548DB-69B8-4044-8354-DCFFE4BD1AB0.webp?v=1776069881",
+      "id": 15972705272195,
+      "name": "Adventure Team Marlboro Sweatshirt - Large Grey Cotton Blend",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/965AA292-4093-4838-89D7-F4FDF715CF74.webp?v=1779092189",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5E6548DB-69B8-4044-8354-DCFFE4BD1AB0.webp?v=1776069881",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC795987-C6A2-497F-AB1B-523D823BE46B.webp?v=1776069881",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E53EAA7D-4DD4-4B5D-B26F-F5434856099D.webp?v=1776069882"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/965AA292-4093-4838-89D7-F4FDF715CF74.webp?v=1779092189",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/00FC7E0E-1516-4207-95A2-6EB6CE86F821.webp?v=1779092190",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/73FB8785-C858-48F0-85EC-5EAC9595F760.webp?v=1779092190"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/custom-patches-grand-canyon-harley-davidson-hoodie-mens-black-large-85710-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/adventure-team-marlboro-sweatshirt-mens-grey-large-94772-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15935469355395,
       "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
@@ -1749,26 +1766,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-sweatshirt-mens-black-small-397276",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15864946622851,
-      "name": "Just Cavalli Graphic Sweatshirt - Medium Black Cotton Blend",
-      "price": 135,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
+      "id": 15916223070595,
+      "name": "Billy Ray Cyrus 1992 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton Blend",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3161_cbd752dc-1416-4fc7-a926-22a18d19f4aa.jpg?v=1774624518",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3162_1c7b6c3b-b7f7-46e0-89f5-a398204e026c.jpg?v=1774624518"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B04F609A-657A-4A07-B876-6D148EA914B5.webp?v=1776868636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BFBC8DF-91F0-4543-94D5-3213E1E5824C.webp?v=1776868638"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vintage-just-cavalli-sweatshirt-mens-black-medium-397189",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15873109885315,
       "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
@@ -2090,23 +2107,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-long-sleeve-t-shirt-mens-navy-x-large-90751-a",
-      "available": true
-    },
-    {
-      "id": 15876907925891,
-      "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5C6DA7F-77F2-49D7-B21E-051C459B09DC.webp?v=1775143308",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DBE3403-82AA-4259-8A38-30EA345E096B.webp?v=1775143308"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
       "available": true
     }
   ],
