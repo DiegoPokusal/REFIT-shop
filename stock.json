@@ -1086,6 +1086,23 @@
   ],
   "hoodie": [
     {
+      "id": 15894679781763,
+      "name": "Waukon Harley Davidson Graphic Hoodie - Medium Grey Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A45AD4A2-437F-4733-86FA-1FBFE3458F97.webp?v=1776069944",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A45AD4A2-437F-4733-86FA-1FBFE3458F97.webp?v=1776069944",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0A1D592-D6DB-4FCF-8205-B3C3F73EDEAB.webp?v=1776069944",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AA6229E5-CB9B-491B-B9E5-30C8CBB089B4.webp?v=1776069945"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/waukon-harley-davidson-hoodie-mens-grey-medium-85690-a",
+      "available": true
+    },
+    {
       "id": 15874301952387,
       "name": "Nike Hoodie - Large Green Cotton",
       "price": 123,
@@ -1407,26 +1424,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/usc-trojans-nike-hoodie-mens-red-large-88440-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15894679814531,
-      "name": "Harley Davidson Graphic Hoodie - Large Black Cotton",
+      "id": 15950693171587,
+      "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
       "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/835E3FCF-FFBE-47FE-9D18-18368DD3F8A3.webp?v=1776069946",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/835E3FCF-FFBE-47FE-9D18-18368DD3F8A3.webp?v=1776069946",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E5331B1-85D7-4A64-90BF-9765E85348D9.webp?v=1776069946",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FED15612-ED4B-411B-BD57-966E46E80AA3.webp?v=1776069947"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/108F4C38-29AA-4F37-8BC7-7FB8A8451546.webp?v=1778140496",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1B3196CE-9980-4414-9608-02C791D65D6B.webp?v=1778140497"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-black-large-85691-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15921465196931,
       "name": "Looney Tunes Characters Warner Bros Comic Cartoon Style Sweatshirt - XL Grey Cotton",
@@ -1749,26 +1766,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/american-flag-chaps-ralph-lauren-sweatshirt-mens-grey-x-large-91255-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15950889582979,
-      "name": "90S Faded Avirex Graphic Sweatshirt - Large Red Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DD9815B9-767C-4BF2-9BF1-72FEE04934AC.webp?v=1778142930",
+      "id": 15916209308035,
+      "name": "Ronnie Van Zant Lynyrd Skynyrd Band Single Stitch T-Shirt - Large Black Cotton",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2FEEE0F1-EFFF-4B28-9CFA-953CBAC95115.webp?v=1776868431",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD9815B9-767C-4BF2-9BF1-72FEE04934AC.webp?v=1778142930",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/123618D7-79DF-4173-8C80-DAC472F506E3.webp?v=1778142929",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1154AE5B-69F5-4D88-937E-C702DF3EA66C.webp?v=1778142930"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2FEEE0F1-EFFF-4B28-9CFA-953CBAC95115.webp?v=1776868431",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/34AA8DFC-7DE0-4005-8113-0EAAF3D39448.webp?v=1776868431",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DDDD9D8-35C1-4B65-94D6-64A2C42BBC6D.webp?v=1776868431"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-faded-avirex-sweatshirt-mens-red-large-91131-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/ronnie-van-zant-lynyrd-skynyrd-band-t-shirt-mens-black-large-87726-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15864673010051,
       "name": "Chicgao Brown Bombers Underground Railroad T-Shirt - XL White Cotton",
@@ -2090,23 +2107,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-moncler-t-shirt-mens-black-x-large-398044",
-      "available": true
-    },
-    {
-      "id": 15916236177795,
-      "name": "Philadelphia Eagles Salem Single Stitch T-Shirt - XL Black Cotton",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BDB39C62-6087-4E87-8994-AFF7B9C02731.webp?v=1776868866",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BDB39C62-6087-4E87-8994-AFF7B9C02731.webp?v=1776868866",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C27BFCD2-F91C-4EBB-A0E0-FD55EE956DC1.webp?v=1776868866",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19FDEA16-B259-4644-8F22-9738FA242C2D.webp?v=1776868866"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/philadelphia-eagles-salem-t-shirt-mens-black-x-large-87794-a",
       "available": true
     }
   ],
