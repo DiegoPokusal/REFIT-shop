@@ -1086,6 +1086,23 @@
   ],
   "hoodie": [
     {
+      "id": 15894678438275,
+      "name": "Custom Patches Grand Canyon Harley Davidson Graphic Hoodie - Large Black Cotton Blend",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5E6548DB-69B8-4044-8354-DCFFE4BD1AB0.webp?v=1776069881",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5E6548DB-69B8-4044-8354-DCFFE4BD1AB0.webp?v=1776069881",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC795987-C6A2-497F-AB1B-523D823BE46B.webp?v=1776069881",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E53EAA7D-4DD4-4B5D-B26F-F5434856099D.webp?v=1776069882"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/custom-patches-grand-canyon-harley-davidson-hoodie-mens-black-large-85710-a",
+      "available": true
+    },
+    {
       "id": 15876235395459,
       "name": "Polo By Ralph Lauren Hoodie - Large Grey Cotton",
       "price": 130,
@@ -1256,6 +1273,23 @@
       "available": true
     },
     {
+      "id": 15998336467331,
+      "name": "Motorcycles Harley Davidson Graphic Hoodie - XL Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F3D69005-36A8-4003-B117-397F7F673DC5.webp?v=1780060578",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F3D69005-36A8-4003-B117-397F7F673DC5.webp?v=1780060578",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/23B16269-D6CA-414E-8FEC-B9417B106B41.webp?v=1780060578",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A54D873B-5F3A-458F-9EAA-B58138E12060.webp?v=1780060579"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-hoodie-mens-black-x-large-97716-a",
+      "available": true
+    },
+    {
       "id": 15977969746307,
       "name": "High Country Harley Davidson Full Zip Graphic Hoodie - 2XL Black Cotton",
       "price": 116,
@@ -1390,43 +1424,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-x-large-98327-a",
       "available": true
-    },
-    {
-      "id": 15964913369475,
-      "name": "Carhartt Hoodie - Large Red Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/750E2FE8-7525-40E2-AA94-7072B61A967B.webp?v=1778685763",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/657C0CD4-AD19-44AB-AE79-03AE4237116D.webp?v=1778685763"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-large-98326-a",
-      "available": true
-    },
-    {
-      "id": 15935543181699,
-      "name": "Moschino Spellout Hoodie - Small Black Cotton Blend",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4180_d47bd385-9a3a-4995-bb4b-3500dcfc53e9.jpg?v=1777472951",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4180_d47bd385-9a3a-4995-bb4b-3500dcfc53e9.jpg?v=1777472951",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4181_bec6adff-67c4-4930-b0b1-eb193d0a81c9.jpg?v=1777472951",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_7e0c76ed-b8c3-46fe-9694-e466f7c7cdad.webp?v=1777472951"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/vintage-moschino-hoodie-mens-black-small-398190",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15864946622851,
+      "name": "Just Cavalli Graphic Sweatshirt - Medium Black Cotton Blend",
+      "price": 135,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3161_cbd752dc-1416-4fc7-a926-22a18d19f4aa.jpg?v=1774624518",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3162_1c7b6c3b-b7f7-46e0-89f5-a398204e026c.jpg?v=1774624518"
+      ],
+      "sizes": [
+        "Default Title"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/vintage-just-cavalli-sweatshirt-mens-black-medium-397189",
+      "available": true
+    },
     {
       "id": 15972705272195,
       "name": "Adventure Team Marlboro Sweatshirt - Large Grey Cotton Blend",
@@ -1749,26 +1766,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-reverse-weave-kentucky-champion-sweatshirt-mens-grey-x-large-397406",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15864957403523,
-      "name": "Versace Jeans Couture Graphic Sweatshirt - Small Black Cotton Blend",
-      "price": 135,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733",
+      "id": 15998313791875,
+      "name": "Supreme T-Shirt - Medium White Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/63B433F9-B982-4553-866A-ADB4440309E5.webp?v=1780060293",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3419_4b6bc794-e287-4d1e-92da-2d37ab6bacfe.jpg?v=1774624733",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_8f36d0bb-ca86-4fc8-a599-94c0499aa59e.webp?v=1774624732"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63B433F9-B982-4553-866A-ADB4440309E5.webp?v=1780060293",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E0BE285-AD9C-4502-9BEA-C4B5FCE5934F.webp?v=1780060293",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F41BC1B7-529B-4D57-9706-E0E053B7937C.webp?v=1780060294"
       ],
       "sizes": [
         "Default Title"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-sweatshirt-mens-black-small-397276",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/supreme-t-shirt-mens-white-medium-97472-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15916223070595,
       "name": "Billy Ray Cyrus 1992 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton Blend",
@@ -1855,20 +1872,20 @@
       "available": true
     },
     {
-      "id": 15916209308035,
-      "name": "Ronnie Van Zant Lynyrd Skynyrd Band Single Stitch T-Shirt - Large Black Cotton",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2FEEE0F1-EFFF-4B28-9CFA-953CBAC95115.webp?v=1776868431",
+      "id": 15876907925891,
+      "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2FEEE0F1-EFFF-4B28-9CFA-953CBAC95115.webp?v=1776868431",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/34AA8DFC-7DE0-4005-8113-0EAAF3D39448.webp?v=1776868431",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DDDD9D8-35C1-4B65-94D6-64A2C42BBC6D.webp?v=1776868431"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5C6DA7F-77F2-49D7-B21E-051C459B09DC.webp?v=1775143308",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DBE3403-82AA-4259-8A38-30EA345E096B.webp?v=1775143308"
       ],
       "sizes": [
         "Default Title"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/ronnie-van-zant-lynyrd-skynyrd-band-t-shirt-mens-black-large-87726-a",
+      "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
       "available": true
     },
     {
@@ -2076,37 +2093,20 @@
       "available": true
     },
     {
-      "id": 15692536807811,
-      "name": "Dolce & Gabbana Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26412_c4681c48-dfc9-40da-90d9-4583cca98497.jpg?v=1771231459",
+      "id": 15968027050371,
+      "name": "2007 Australia Tour Wwe Raw Live T-Shirt - XL Black Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2784117E-5001-4AC4-9B90-1B7DBC3F2F37.webp?v=1778830837",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26412_c4681c48-dfc9-40da-90d9-4583cca98497.jpg?v=1771231459",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26413_72aeec57-f67f-44e1-9554-4450fc24ac91.jpg?v=1771231458",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_10.02.26414_95a2619e-4ac0-49e2-a6b1-aa5434b35336.jpg?v=1771231458"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2784117E-5001-4AC4-9B90-1B7DBC3F2F37.webp?v=1778830837",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E387F984-887B-45CF-BAF6-BA95F0ABEDBB.webp?v=1778830837",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/333E216A-2A8F-4816-B93A-47FF9FE8A885.webp?v=1778830837"
       ],
       "sizes": [
         "Default Title"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-long-sleeve-t-shirt-mens-black-large-394093",
-      "available": true
-    },
-    {
-      "id": 15950792130947,
-      "name": "Polo Jeans Ralph Lauren 67 Long Sleeve T-Shirt - XL Navy Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0A5A4446-7BB0-4504-B127-26C8CE77E0DB.webp?v=1778141521",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A5A4446-7BB0-4504-B127-26C8CE77E0DB.webp?v=1778141521",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/62375998-AE68-467E-A526-55A85688334F.webp?v=1778141522",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6FE7114C-D12B-4529-A7CB-3D13017A2A96.webp?v=1778141523"
-      ],
-      "sizes": [
-        "Default Title"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-long-sleeve-t-shirt-mens-navy-x-large-90751-a",
+      "url": "https://www.thrifted.com/products/2007-australia-tour-wwe-t-shirt-mens-black-x-large-94384-a",
       "available": true
     }
   ],
