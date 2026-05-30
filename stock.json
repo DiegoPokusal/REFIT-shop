@@ -2,6 +2,23 @@
   "jacket": [],
   "hoodie": [
     {
+      "id": 15964913369475,
+      "name": "Carhartt Hoodie - Large Red Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/750E2FE8-7525-40E2-AA94-7072B61A967B.webp?v=1778685763",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/657C0CD4-AD19-44AB-AE79-03AE4237116D.webp?v=1778685763"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-large-98326-a",
+      "available": true
+    },
+    {
       "id": 15964913107331,
       "name": "Carhartt Spellout Hoodie - Medium Black Cotton",
       "price": 116,
@@ -323,26 +340,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-brown-large-98319-a",
       "available": true
-    },
-    {
-      "id": 15964916941187,
-      "name": "Carhartt Hoodie - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD_390e48f4-9823-437b-8bb7-f92e795b5663.webp?v=1778685844",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD_390e48f4-9823-437b-8bb7-f92e795b5663.webp?v=1778685844",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B650924E-BADE-458F-9CE1-81884B7D1FDD_c887a049-49fd-45aa-897b-3765b7f7e844.webp?v=1778685847",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DBB7135-8FB1-4D2C-BC3C-0ADF8F2BECD4_2b9fb15b-663b-4ade-be50-7848337d683a.webp?v=1778685846"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98320-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15950694482307,
+      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9E2EF43-5490-4C0C-9AF5-907C948D092C.webp?v=1778140510",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/08EE7634-71BD-489C-B56C-F6889C8503AF.webp?v=1778140511"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
+      "available": true
+    },
     {
       "id": 15916274188675,
       "name": "Made In USA 90S Nike Sweatshirt - Medium Grey Cotton",
@@ -665,26 +682,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/original-fit-carhartt-sweatshirt-mens-grey-medium-98314-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15950926807427,
-      "name": "Reverse Weave Cal State Champion Sweatshirt - Medium Navy Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B0C5C70E-5745-40D5-A371-F9067CB0AA95.webp?v=1778143668",
+      "id": 15950901608835,
+      "name": "90S Made In USA Tommy Jeans Striped Long Sleeve T-Shirt - Medium Blue Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0C5C70E-5745-40D5-A371-F9067CB0AA95.webp?v=1778143668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/339FECCA-C2C2-4230-AF25-DF81043E1FAC.webp?v=1778143668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A1866625-D8DA-4392-80BE-A97332796649.webp?v=1778143668"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/142A63BB-7229-4AD6-8980-785B3985189E.webp?v=1778143149",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA88F31C-0553-4D55-AEA3-C9DA13623243.webp?v=1778143151"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/reverse-weave-cal-state-champion-sweatshirt-mens-navy-medium-91545-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/90s-made-in-usa-tommy-jeans-long-sleeve-t-shirt-mens-blue-medium-91248-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15935553110403,
       "name": "Aquascutum Graphic T-Shirt - Medium White Cotton",
@@ -1006,23 +1023,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
-      "available": true
-    },
-    {
-      "id": 15964909175171,
-      "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27CB28C-539D-4028-8889-2CC79F029B6A.webp?v=1778685675",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F3DB9DD-8AA3-476F-9E4A-4B8BF4E9C710.webp?v=1778685675"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/team-usa-1992-usa-olympics-t-shirt-mens-grey-large-94190-a",
       "available": true
     }
   ],
