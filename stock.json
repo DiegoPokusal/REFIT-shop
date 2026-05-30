@@ -2,6 +2,23 @@
   "jacket": [],
   "hoodie": [
     {
+      "id": 15950848819587,
+      "name": "Polo By Ralph Lauren Spellout Hoodie - Large Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B15D378-502A-4C3B-BD12-248F328EFE4C.webp?v=1778142363",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3BD6B95-454C-44FE-BC1E-DF9422EDFBE3.webp?v=1778142364"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-black-large-90952-a",
+      "available": true
+    },
+    {
       "id": 15916193120643,
       "name": "Harley Davidson Graphic Hoodie - Large Grey Cotton Blend",
       "price": 116,
@@ -323,26 +340,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
       "available": true
-    },
-    {
-      "id": 15964911174019,
-      "name": "Rain Defender Carhartt Spellout Hoodie - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C288C349-D136-4BC9-A776-0B344D73BD6A.webp?v=1778685722",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F6F18919-5539-431E-9CE3-EB9D1553BC59.webp?v=1778685723"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15950703067523,
+      "name": "Green Bay Packers Looney Tunes Nfl Sweatshirt - Medium Black Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/04EA8736-6A52-4853-8CB7-B47C3AE799CB.webp?v=1778140595",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/04EA8736-6A52-4853-8CB7-B47C3AE799CB.webp?v=1778140595",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/407089A1-7A0E-4CAD-96DB-16C8D5C95F7E.webp?v=1778140594",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D791D586-801A-4AE1-B915-FB5038EDC103.webp?v=1778140595"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/green-bay-packers-looney-tunes-sweatshirt-mens-black-medium-90389-a",
+      "available": true
+    },
     {
       "id": 15921452482947,
       "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Red Cotton Blend",
@@ -665,26 +682,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-tommy-hilfiger-sweatshirt-mens-white-large-91236-a",
       "available": true
-    },
-    {
-      "id": 15950849114499,
-      "name": "Polo By Ralph Lauren Striped Sweatshirt - Large Black Acrylic",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/57751E35-615D-4372-BAF3-17610286D352.webp?v=1778142369",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/57751E35-615D-4372-BAF3-17610286D352.webp?v=1778142369",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1DA8B170-ED8B-407E-BBCE-FA33E36FAFB9.webp?v=1778142369",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/46AA22FA-9893-4128-8854-7DA213409EAC.webp?v=1778142369"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-black-large-90955-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15874411856259,
+      "name": "Sex Pistols The Roxx Single Stitch T-Shirt - Medium Black Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/229B10E6-EC8E-47C3-A946-C8FF004BCA08.webp?v=1775038085",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/229B10E6-EC8E-47C3-A946-C8FF004BCA08.webp?v=1775038085",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1F84B297-655C-4382-A567-9ACB4ED701A1.webp?v=1775038084",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A8D29DD-6438-4F4A-8C2B-4A6DA5E52315.webp?v=1775038085"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/sex-pistols-the-roxx-t-shirt-mens-black-medium-83393-a",
+      "available": true
+    },
     {
       "id": 15955064422787,
       "name": "Made In USA Nike Long Sleeve T-Shirt - Large Black Cotton",
@@ -1006,23 +1023,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/dallas-cowboys-salem-t-shirt-mens-black-large-87792-a",
-      "available": true
-    },
-    {
-      "id": 15876217536899,
-      "name": "Engelbert Humperdinck World Tour 1991 Screen Stars Single Stitch T-Shirt - Large White Cotton Blend",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DD2D4AE8-1033-460F-A81A-853DF3980C5A.webp?v=1775118197",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD2D4AE8-1033-460F-A81A-853DF3980C5A.webp?v=1775118197",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/28131E70-4B89-47F1-A140-C997CBD3C1BE.webp?v=1775118196",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0338DA68-4E7B-4070-8C54-5984F42CDC9E.webp?v=1775118196"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/engelbert-world-tour-1991-screen-stars-t-shirt-mens-white-large-83902-a",
       "available": true
     }
   ],
