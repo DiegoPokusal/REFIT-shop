@@ -2,6 +2,23 @@
   "jacket": [],
   "hoodie": [
     {
+      "id": 15964917236099,
+      "name": "Carhartt Hoodie - Large Brown Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8A46E60D-EF29-4288-8996-A0D64AFE7519.webp?v=1778685855",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8A46E60D-EF29-4288-8996-A0D64AFE7519.webp?v=1778685855",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE47B39B-D352-4B35-AC34-71EBF08456FC.webp?v=1778685856",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FCE4D8A7-3473-43DA-A897-90F0DF9338DC.webp?v=1778685856"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-brown-large-98319-a",
+      "available": true
+    },
+    {
       "id": 15964916941187,
       "name": "Carhartt Hoodie - Small Black Cotton",
       "price": 116,
@@ -323,26 +340,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-black-large-88136-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964917432707,
-      "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
+      "id": 15964912222595,
+      "name": "Original Fit Carhartt Sweatshirt - Medium Grey Cotton",
       "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9A1548C-3E4D-4419-9E6C-E10F386B80F4.webp?v=1778685860",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/978547FD-D602-4108-9BB0-A0F06739723E.webp?v=1778685861"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/70A2D0E3-4B9F-4BC3-BA79-34CE500014F4.webp?v=1778685740",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A44C023-9D96-4E98-A6CC-073A55EFF0E3.webp?v=1778685741"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/original-fit-carhartt-sweatshirt-mens-grey-medium-98314-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15950926807427,
       "name": "Reverse Weave Cal State Champion Sweatshirt - Medium Navy Cotton",
@@ -665,26 +682,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
       "available": true
-    },
-    {
-      "id": 15982016496003,
-      "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AF7170DC-4C33-46BB-87E8-42183A65BAED.webp?v=1779441066",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C149BB02-A924-44AB-9A81-CF17BC96D0F2.webp?v=1779441066"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15968026329475,
+      "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F44D80B8-8888-4589-9708-A8DED6C99E05.webp?v=1778830810",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F77DEDAB-389D-4407-AD95-C66798ECA8CB.webp?v=1778830811"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
+      "available": true
+    },
     {
       "id": 15964909175171,
       "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
@@ -1006,23 +1023,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-white-medium-91159-a",
-      "available": true
-    },
-    {
-      "id": 15876907925891,
-      "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5C6DA7F-77F2-49D7-B21E-051C459B09DC.webp?v=1775143308",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DBE3403-82AA-4259-8A38-30EA345E096B.webp?v=1775143308"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
       "available": true
     }
   ],
