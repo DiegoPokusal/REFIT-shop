@@ -227,8 +227,6 @@ const html = `<!DOCTYPE html>
       <button class="filter-btn" onclick="filterProducts('hoodie', this)">Hoodies</button>
       <button class="filter-btn" onclick="filterProducts('sweatshirt', this)">Sweatshirts</button>
       <button class="filter-btn" onclick="filterProducts('tee', this)">Tričká</button>
-      <button class="filter-btn" onclick="filterProducts('pants', this)">Nohavice</button>
-      <button class="filter-btn" onclick="filterProducts('shirt', this)">Košele</button>
     </div>
   </div>
   <div class="product-grid" id="productGrid"></div>
