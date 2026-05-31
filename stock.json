@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15929996018051,
+      "name": "Christian Dior Striped Blazer - Medium Grey Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26109_5295395c-9a83-4630-93f9-5e87f940d3eb.jpg?v=1777363574",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_492caa45-d422-45fc-9d57-503b0d19e6b5.webp?v=1777363573"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-medium-397967",
+      "available": true
+    },
+    {
       "id": 15929995428227,
       "name": "Giorgio Armani Blazer - Large Khaki Wool",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397981",
       "available": true
-    },
-    {
-      "id": 15929997164931,
-      "name": "Yves Saint Laurent Blazer - Large Navy Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26134_5b6ffbf7-921c-4b53-9545-a5e78de9f054.jpg?v=1777363593",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26134_5b6ffbf7-921c-4b53-9545-a5e78de9f054.jpg?v=1777363593",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26135_b1a8d674-78e6-4432-be93-927bd3256470.jpg?v=1777363594",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_5c761885-15a7-415a-b468-e201b510a653.webp?v=1777363593"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-navy-large-397977",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964911174019,
+      "name": "Rain Defender Carhartt Spellout Hoodie - Small Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C288C349-D136-4BC9-A776-0B344D73BD6A.webp?v=1778685722",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F6F18919-5539-431E-9CE3-EB9D1553BC59.webp?v=1778685723"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
+      "available": true
+    },
     {
       "id": 15950848819587,
       "name": "Polo By Ralph Lauren Spellout Hoodie - Large Black Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/deleeuw-lumber-carhartt-hoodie-mens-navy-medium-98316-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964912386435,
-      "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
+      "id": 15950849114499,
+      "name": "Polo By Ralph Lauren Striped Sweatshirt - Large Black Acrylic",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/57751E35-615D-4372-BAF3-17610286D352.webp?v=1778142369",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7980BC90-DB91-45CD-A6A2-E72925DA115C.webp?v=1778685743",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0DE883E-7243-4A85-906C-85D38803ACBA.webp?v=1778685743"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/57751E35-615D-4372-BAF3-17610286D352.webp?v=1778142369",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1DA8B170-ED8B-407E-BBCE-FA33E36FAFB9.webp?v=1778142369",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/46AA22FA-9893-4128-8854-7DA213409EAC.webp?v=1778142369"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-black-large-90955-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15950703067523,
       "name": "Green Bay Packers Looney Tunes Nfl Sweatshirt - Medium Black Cotton",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15950900658563,
-      "name": "90S Tommy Hilfiger Spellout Sweatshirt - Large White Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/227C3D64-2DE1-4691-AA21-6C19AE8DA2B0.webp?v=1778143117",
+      "id": 15876217536899,
+      "name": "Engelbert Humperdinck World Tour 1991 Screen Stars Single Stitch T-Shirt - Large White Cotton Blend",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DD2D4AE8-1033-460F-A81A-853DF3980C5A.webp?v=1775118197",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/227C3D64-2DE1-4691-AA21-6C19AE8DA2B0.webp?v=1778143117",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E1D6E5E-6C35-44B7-807B-39684FB15B6B.webp?v=1778143117",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5702DF87-9549-49C4-997D-1B617F3F89B7.webp?v=1778143119"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD2D4AE8-1033-460F-A81A-853DF3980C5A.webp?v=1775118197",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/28131E70-4B89-47F1-A140-C997CBD3C1BE.webp?v=1775118196",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0338DA68-4E7B-4070-8C54-5984F42CDC9E.webp?v=1775118196"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-tommy-hilfiger-sweatshirt-mens-white-large-91236-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/engelbert-world-tour-1991-screen-stars-t-shirt-mens-white-large-83902-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15874411856259,
       "name": "Sex Pistols The Roxx Single Stitch T-Shirt - Medium Black Cotton",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/new-york-rangers-starter-t-shirt-mens-black-large-87793-a",
-      "available": true
-    },
-    {
-      "id": 15916235850115,
-      "name": "Dallas Cowboys Salem Single Stitch T-Shirt - Large Black Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/76E9D5BF-4E80-4230-A92A-105CE42D1C6F.webp?v=1776868861",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/76E9D5BF-4E80-4230-A92A-105CE42D1C6F.webp?v=1776868861",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/22A105C3-D51D-4397-A2E6-B23AD77EDDB9.webp?v=1776868860",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0ABD142-1D94-4E0E-8495-4AB38A729CA8.webp?v=1776868861"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/dallas-cowboys-salem-t-shirt-mens-black-large-87792-a",
       "available": true
     }
   ],
