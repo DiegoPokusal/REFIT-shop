@@ -2,6 +2,23 @@
   "jacket": [],
   "hoodie": [
     {
+      "id": 15964916941187,
+      "name": "Carhartt Hoodie - Small Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD_390e48f4-9823-437b-8bb7-f92e795b5663.webp?v=1778685844",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD_390e48f4-9823-437b-8bb7-f92e795b5663.webp?v=1778685844",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B650924E-BADE-458F-9CE1-81884B7D1FDD_c887a049-49fd-45aa-897b-3765b7f7e844.webp?v=1778685847",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DBB7135-8FB1-4D2C-BC3C-0ADF8F2BECD4_2b9fb15b-663b-4ade-be50-7848337d683a.webp?v=1778685846"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98320-a",
+      "available": true
+    },
+    {
       "id": 15964913369475,
       "name": "Carhartt Hoodie - Large Red Cotton Blend",
       "price": 116,
@@ -323,26 +340,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
       "available": true
-    },
-    {
-      "id": 15964917236099,
-      "name": "Carhartt Hoodie - Large Brown Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8A46E60D-EF29-4288-8996-A0D64AFE7519.webp?v=1778685855",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8A46E60D-EF29-4288-8996-A0D64AFE7519.webp?v=1778685855",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE47B39B-D352-4B35-AC34-71EBF08456FC.webp?v=1778685856",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FCE4D8A7-3473-43DA-A897-90F0DF9338DC.webp?v=1778685856"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-brown-large-98319-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15950926807427,
+      "name": "Reverse Weave Cal State Champion Sweatshirt - Medium Navy Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B0C5C70E-5745-40D5-A371-F9067CB0AA95.webp?v=1778143668",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0C5C70E-5745-40D5-A371-F9067CB0AA95.webp?v=1778143668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/339FECCA-C2C2-4230-AF25-DF81043E1FAC.webp?v=1778143668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A1866625-D8DA-4392-80BE-A97332796649.webp?v=1778143668"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/reverse-weave-cal-state-champion-sweatshirt-mens-navy-medium-91545-a",
+      "available": true
+    },
     {
       "id": 15950694482307,
       "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
@@ -665,26 +682,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
       "available": true
-    },
-    {
-      "id": 15964912222595,
-      "name": "Original Fit Carhartt Sweatshirt - Medium Grey Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/70A2D0E3-4B9F-4BC3-BA79-34CE500014F4.webp?v=1778685740",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A44C023-9D96-4E98-A6CC-073A55EFF0E3.webp?v=1778685741"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/original-fit-carhartt-sweatshirt-mens-grey-medium-98314-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15964909175171,
+      "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27CB28C-539D-4028-8889-2CC79F029B6A.webp?v=1778685675",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F3DB9DD-8AA3-476F-9E4A-4B8BF4E9C710.webp?v=1778685675"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/team-usa-1992-usa-olympics-t-shirt-mens-grey-large-94190-a",
+      "available": true
+    },
     {
       "id": 15950901608835,
       "name": "90S Made In USA Tommy Jeans Striped Long Sleeve T-Shirt - Medium Blue Cotton",
@@ -841,7 +858,7 @@
     {
       "id": 15873109885315,
       "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
-      "price": 145,
+      "price": 139,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
@@ -1006,23 +1023,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
-      "available": true
-    },
-    {
-      "id": 15968026329475,
-      "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F44D80B8-8888-4589-9708-A8DED6C99E05.webp?v=1778830810",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F77DEDAB-389D-4407-AD95-C66798ECA8CB.webp?v=1778830811"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
       "available": true
     }
   ],
