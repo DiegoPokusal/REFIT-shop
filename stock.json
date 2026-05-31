@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15929997721987,
+      "name": "Christian Dior Checked Blazer - Medium Navy Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26145_fd3daab0-66bc-437c-820a-1fd6db422e72.jpg?v=1777363603",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26145_fd3daab0-66bc-437c-820a-1fd6db422e72.jpg?v=1777363603",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26146_0443fbeb-8531-4f20-92f6-5407757d8476.jpg?v=1777363604",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_04acf6c5-175e-4606-9f21-c018d5918270.webp?v=1777363603"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397981",
+      "available": true
+    },
+    {
       "id": 15929997164931,
       "name": "Yves Saint Laurent Blazer - Large Navy Wool",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-medium-397984",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15929997787523,
-      "name": "Christian Dior Blazer - Medium Navy Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26147_8d5b57b9-60ab-4bdd-b6a2-c83338c775c4.jpg?v=1777363603",
+      "id": 15964912419203,
+      "name": "Deleeuw Lumber Carhartt Hoodie - Medium Navy Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDAB1E8E-DD8F-4032-A0E9-8E56C9E222E0.webp?v=1778685745",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26147_8d5b57b9-60ab-4bdd-b6a2-c83338c775c4.jpg?v=1777363603",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26148_32518469-8fe3-4246-8944-07704ebc2948.jpg?v=1777363603",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_10775a33-5560-466a-994f-2df0498efe41.webp?v=1777363603"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDAB1E8E-DD8F-4032-A0E9-8E56C9E222E0.webp?v=1778685745",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F13A0CF-C345-43DF-AEAE-FBBD8DF67FF4.webp?v=1778685746",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AD94DD14-CCCC-48CF-A37E-771F22CF4B44.webp?v=1778685746"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397982",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/deleeuw-lumber-carhartt-hoodie-mens-navy-medium-98316-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15964912386435,
       "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-medium-98325-a",
       "available": true
-    },
-    {
-      "id": 15964912517507,
-      "name": "Carhartt Hoodie - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD.webp?v=1778685749",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD.webp?v=1778685749",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B650924E-BADE-458F-9CE1-81884B7D1FDD.webp?v=1778685748",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DBB7135-8FB1-4D2C-BC3C-0ADF8F2BECD4.webp?v=1778685748"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98321-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15950883783043,
+      "name": "Reebok Spellout Sweatshirt - Large Green Cotton",
+      "price": 114,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/77AFE057-2B05-478B-BF59-8EA17C5C4636.webp?v=1778142798",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EF27F0C4-284E-456F-8D8A-E70AB0233870.webp?v=1778142799"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a",
+      "available": true
+    },
     {
       "id": 15950900658563,
       "name": "90S Tommy Hilfiger Spellout Sweatshirt - Large White Cotton",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15910938247555,
-      "name": "1977 Essentials Sweatshirt - Large Grey Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
+      "id": 15916236013955,
+      "name": "New York Rangers Starter Single Stitch T-Shirt - Large Black Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/751FA865-0F01-440F-AABD-748D5DF87176.webp?v=1776674589",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/87A837E1-C765-4C45-AAC2-51C6390FCB77.webp?v=1776674589"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0954BE63-BE74-40DF-9289-D83A333B5CA4.webp?v=1776868863",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/66B06C25-F776-4BE8-A187-71DCCC47ECEA.webp?v=1776868864"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/1977-essentials-sweatshirt-mens-grey-large-86464-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/new-york-rangers-starter-t-shirt-mens-black-large-87793-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15916235850115,
       "name": "Dallas Cowboys Salem Single Stitch T-Shirt - Large Black Cotton",
@@ -1112,23 +1129,6 @@
       "available": true
     },
     {
-      "id": 15873109885315,
-      "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89D409F-CC4C-4875-A6CC-6C9DEA43E962.webp?v=1774961873",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8F10A35-41EF-4EC0-91C5-DD24F7AD4CB8.webp?v=1774961873"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
-      "available": true
-    },
-    {
       "id": 15864944591235,
       "name": "Moschino Graphic T-Shirt - Large Multicoloured Cotton",
       "price": 132,
@@ -1143,6 +1143,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-moncler-t-shirt-mens-multicoloured-large-397176",
+      "available": true
+    },
+    {
+      "id": 15873109885315,
+      "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89D409F-CC4C-4875-A6CC-6C9DEA43E962.webp?v=1774961873",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8F10A35-41EF-4EC0-91C5-DD24F7AD4CB8.webp?v=1774961873"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
       "available": true
     },
     {
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-aquascutum-t-shirt-mens-white-medium-398224",
-      "available": true
-    },
-    {
-      "id": 15919737995651,
-      "name": "Oakland Athletics Bulletin Athletic MLB T-Shirt - Large White Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4330_e3a60352-91ea-4e36-8fda-0c0572ce63e3.jpg?v=1776956949",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4330_e3a60352-91ea-4e36-8fda-0c0572ce63e3.jpg?v=1776956949",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4332_82fc97e7-2234-4972-b61d-d85144a59242.jpg?v=1776956949",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4331_a11e795c-3182-4fe4-aa7e-08d870512798.jpg?v=1776956949"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-oakland-athletics-bulletin-athletic-t-shirt-mens-white-large-397600",
       "available": true
     }
   ],
