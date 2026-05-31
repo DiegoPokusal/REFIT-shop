@@ -29,11 +29,9 @@ const jackets = available.filter(p => getCategory(p) === 'jacket').slice(0, 20);
 const hoodies = available.filter(p => getCategory(p) === 'hoodie').slice(0, 20);
 const sweatshirts = available.filter(p => getCategory(p) === 'sweatshirt').slice(0, 20);
 const tees = available.filter(p => getCategory(p) === 'tee').slice(0, 20);
-const pants = available.filter(p => getCategory(p) === 'pants').slice(0, 20);
-const shirts = available.filter(p => getCategory(p) === 'shirt').slice(0, 20);
-const display = [...jackets, ...hoodies, ...sweatshirts, ...tees, ...pants, ...shirts];
+const display = [...jackets, ...hoodies, ...sweatshirts, ...tees,];
 
-console.log(`👕 Bundy: ${jackets.length} | Hoodies: ${hoodies.length} | Sweatshirts: ${sweatshirts.length} | Tričká: ${tees.length} | Nohavice: ${pants.length} | Košele: ${shirts.length}`);
+console.log(`👕 Bundy: ${jackets.length} | Hoodies: ${hoodies.length} | Sweatshirts: ${sweatshirts.length} | Tričká: ${tees.length}`);
 
 const productData = display.map(p => ({
   id: p.id,
