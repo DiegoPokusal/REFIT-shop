@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15950927921539,
+      "name": "Canvas Tommy Hilfiger Spellout Anorak Windbreaker - Small Green Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AAF45E7C-80A1-4D75-BC7F-57B1D0E97744.webp?v=1778143709",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AAF45E7C-80A1-4D75-BC7F-57B1D0E97744.webp?v=1778143709",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/28309210-2485-4EDE-97CF-C3A459FAC153.webp?v=1778143709",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9171D6F5-65B9-4E82-A12F-22F9570EA6F5.webp?v=1778143710"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/canvas-tommy-hilfiger-windbreaker-mens-green-small-91565-a",
+      "available": true
+    },
+    {
       "id": 15950758314371,
       "name": "Summit Series The North Face Waterproof Ski Jacket - Medium Red Nylon",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-brown-large-94068-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15960024940931,
-      "name": "Guess Puffer - Medium Green Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/09A5CCCA-DDC1-406F-8F62-ED2350580C3D.webp?v=1778487706",
+      "id": 15894679781763,
+      "name": "Waukon Harley Davidson Graphic Hoodie - Medium Grey Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A45AD4A2-437F-4733-86FA-1FBFE3458F97.webp?v=1776069944",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/09A5CCCA-DDC1-406F-8F62-ED2350580C3D.webp?v=1778487706",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/333FC03F-A33F-4411-8522-520B900CF43E.webp?v=1778487707",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D1C90D2-7353-45B9-9476-3622389EB423.webp?v=1778487707"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A45AD4A2-437F-4733-86FA-1FBFE3458F97.webp?v=1776069944",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0A1D592-D6DB-4FCF-8205-B3C3F73EDEAB.webp?v=1776069944",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AA6229E5-CB9B-491B-B9E5-30C8CBB089B4.webp?v=1776069945"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/guess-puffer-mens-green-medium-94035-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/waukon-harley-davidson-hoodie-mens-grey-medium-85690-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15874301952387,
       "name": "Nike Hoodie - Large Green Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/usc-trojans-nike-hoodie-mens-red-large-88440-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15894679814531,
-      "name": "Harley Davidson Graphic Hoodie - Large Black Cotton",
+      "id": 15921452122499,
+      "name": "90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton",
       "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/835E3FCF-FFBE-47FE-9D18-18368DD3F8A3.webp?v=1776069946",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/835E3FCF-FFBE-47FE-9D18-18368DD3F8A3.webp?v=1776069946",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E5331B1-85D7-4A64-90BF-9765E85348D9.webp?v=1776069946",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FED15612-ED4B-411B-BD57-966E46E80AA3.webp?v=1776069947"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7186A8B4-68C9-438D-A615-282766C1076B.webp?v=1777031886",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/08AF220C-3BEA-4928-8625-565AFFC4848E.webp?v=1777031886"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-black-large-85691-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15921451008387,
       "name": "90S Yale Betty Boop Unbranded Raglan Sweatshirt - Medium Grey Cotton Blend",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15921453236611,
-      "name": "90S Christmas Looney Tunes Tultex Cartoon Sweatshirt - Large Grey Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6171299B-6E3F-46BB-83C0-A02800057A92.webp?v=1777031898",
+      "id": 15995240022403,
+      "name": "Grateful Dead Liquid Blue Graphic T-Shirt - Large Multicoloured Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FE3F3161-DC33-422E-BD1D-904795ACE070.webp?v=1779954562",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6171299B-6E3F-46BB-83C0-A02800057A92.webp?v=1777031898",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DAD9C05-A6DA-4511-86A0-FF35C525E616.webp?v=1777031898",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD33A0EE-03E1-44BC-918A-D0AC7C91F7C2.webp?v=1777031899"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE3F3161-DC33-422E-BD1D-904795ACE070.webp?v=1779954562",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7834BD57-D6DD-4E99-90F8-C4F4522F83A6.webp?v=1779954562",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/60F8956E-A12B-41F6-A126-26F58242BD37.webp?v=1779954562"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-christmas-looney-tunes-tultex-sweatshirt-mens-grey-large-88561-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97073-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15874412872067,
       "name": "Nature Graphics Harlequin Single Stitch T-Shirt - Medium Black Cotton",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
-      "available": true
-    },
-    {
-      "id": 15995251556739,
-      "name": "Grateful Dead Liquid Blue Graphic T-Shirt - Large Multicoloured Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A8CCD43A-413C-4AAE-8B6E-6D260B718F91.webp?v=1779954647",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A8CCD43A-413C-4AAE-8B6E-6D260B718F91.webp?v=1779954647",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/63ED9A06-B0FB-4483-B46A-66C75BC6DB67.webp?v=1779954646",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/59472792-D570-4DCD-AB42-5C45B7D759AB.webp?v=1779954647"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97082-a",
       "available": true
     }
   ],
