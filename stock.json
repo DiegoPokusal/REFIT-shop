@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15930003292547,
+      "name": "Christian Dior Pinstripe Blazer - Large Black Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26177_8a26d346-ab33-4141-9f2b-1758a998e6d2.jpg?v=1777363642",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26177_8a26d346-ab33-4141-9f2b-1758a998e6d2.jpg?v=1777363642",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26178_26c68faa-604d-485b-a2c9-d30a8e4943ab.jpg?v=1777363642",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_e6fc40c7-fb44-4def-9751-e8cf9d67f1f0.webp?v=1777363642"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-large-397995",
+      "available": true
+    },
+    {
       "id": 15930002407811,
       "name": "Yves Saint Laurent Striped Blazer - Medium Brown Wool",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/summit-series-the-north-face-ski-jacket-mens-red-medium-90573-a",
       "available": true
-    },
-    {
-      "id": 15950740980099,
-      "name": "Cropped 10X Detroit Style Camo Jacket - Large Camo Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D58794E3-E3D4-413B-9FA8-A88BB412FDD2.webp?v=1778140932",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/20D6932A-15DD-4515-8508-3EFBA386473E.webp?v=1778140932"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/cropped-10x-jacket-mens-camo-large-90531-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964917432707,
+      "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9A1548C-3E4D-4419-9E6C-E10F386B80F4.webp?v=1778685860",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/978547FD-D602-4108-9BB0-A0F06739723E.webp?v=1778685861"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
+      "available": true
+    },
     {
       "id": 15964917236099,
       "name": "Carhartt Hoodie - Large Brown Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-82487-a",
       "available": true
-    },
-    {
-      "id": 15916341657987,
-      "name": "Orlando Harley Davidson Graphic Hoodie - Large Black Cotton",
-      "price": 121,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/04A5726A-027B-467D-8EE7-C168FF627735.webp?v=1776870747",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/04A5726A-027B-467D-8EE7-C168FF627735.webp?v=1776870747",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DD6A924-1281-4659-ADB7-745E35B30552.webp?v=1776870747",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/51796C08-B075-4F54-BAA8-81D05C67DF60.webp?v=1776870748"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-black-large-88136-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15982016496003,
+      "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AF7170DC-4C33-46BB-87E8-42183A65BAED.webp?v=1779441066",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C149BB02-A924-44AB-9A81-CF17BC96D0F2.webp?v=1779441066"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
+      "available": true
+    },
     {
       "id": 15964912222595,
       "name": "Original Fit Carhartt Sweatshirt - Medium Grey Cotton",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-yale-betty-boop-unbranded-sweatshirt-mens-grey-medium-88546-a",
       "available": true
-    },
-    {
-      "id": 15910937657731,
-      "name": "90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend",
-      "price": 121,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19BE483B-E1E1-464C-8E0E-1038472BF887.webp?v=1776674557",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD22E655-93F8-4BF8-B0B4-03F66FB000BC.webp?v=1776674558"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15876907925891,
+      "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5C6DA7F-77F2-49D7-B21E-051C459B09DC.webp?v=1775143308",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DBE3403-82AA-4259-8A38-30EA345E096B.webp?v=1775143308"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
+      "available": true
+    },
     {
       "id": 15968026329475,
       "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/nature-graphics-harlequin-t-shirt-mens-black-medium-83434-a",
-      "available": true
-    },
-    {
-      "id": 15950891680131,
-      "name": "Polo Bear Ralph Lauren Long Sleeve T-Shirt - Medium White Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B4351744-90B2-4FF7-9893-76F4E98BC574.webp?v=1778142993",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B4351744-90B2-4FF7-9893-76F4E98BC574.webp?v=1778142993",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/82FB206C-8A7C-42EA-837C-7759E05C66FB.webp?v=1778142993",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3F4E2701-A68D-4756-8F48-98AB40A407D2.webp?v=1778142993"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-white-medium-91159-a",
       "available": true
     }
   ],
