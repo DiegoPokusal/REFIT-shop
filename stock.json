@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15916255904131,
+      "name": "80S Made In USA The North Face Puffer - Large Blue Down",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B13398E9-06AD-4D39-A6EC-CE3BD4986409.webp?v=1776869212",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/64EA95CC-A616-49FC-A326-63CAB0BED465.webp?v=1776869213"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/80s-made-in-usa-the-north-face-puffer-mens-blue-large-87229-a",
+      "available": true
+    },
+    {
       "id": 15916253741443,
       "name": "The North Face Jacket - Medium Brown Polyester",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/biker-street-steel-jacket-mens-black-medium-88943-a",
       "available": true
-    },
-    {
-      "id": 15919573139843,
-      "name": "Port Authority Jacket - Large Black Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A5D7D07C-679A-4B08-B5F5-B44E88B4776C.webp?v=1776948311",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5D7D07C-679A-4B08-B5F5-B44E88B4776C.webp?v=1776948311",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/81BEE726-66E0-456A-9594-D21DB5E2CBA5.webp?v=1776948312",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3FF8BE6E-8E56-4DF5-8868-7A59F2B8CD2F.webp?v=1776948312"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/port-authority-jacket-mens-black-large-89158-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15950876868995,
+      "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E74E3BD0-5908-4F61-B62A-7B7D73F2100E.webp?v=1778142668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D8E2D9-01FA-4A75-A11D-A99CB54F8262.webp?v=1778142668"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/faded-avirex-hoodie-mens-grey-medium-91136-a",
+      "available": true
+    },
     {
       "id": 15950845378947,
       "name": "Polo By Ralph Lauren Colour Block Spellout Hoodie - Medium Green Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/custom-patches-grand-canyon-harley-davidson-hoodie-mens-black-large-85710-a",
       "available": true
-    },
-    {
-      "id": 15876235395459,
-      "name": "Polo By Ralph Lauren Hoodie - Large Grey Cotton",
-      "price": 126,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E365CE64-B82D-443D-80A5-C9BA43D727B0.webp?v=1775118867",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E365CE64-B82D-443D-80A5-C9BA43D727B0.webp?v=1775118867",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/15354101-1939-4140-8436-6AE9C391D1C3.webp?v=1775118867",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12A8664A-E9DA-4C63-BF7A-B232909B2A9E.webp?v=1775118867"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-84644-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15864946622851,
+      "name": "Just Cavalli Graphic Sweatshirt - Medium Black Cotton Blend",
+      "price": 136,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3161_cbd752dc-1416-4fc7-a926-22a18d19f4aa.jpg?v=1774624518",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3162_1c7b6c3b-b7f7-46e0-89f5-a398204e026c.jpg?v=1774624518"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/vintage-just-cavalli-sweatshirt-mens-black-medium-397189",
+      "available": true
+    },
     {
       "id": 15950889582979,
       "name": "90S Faded Avirex Graphic Sweatshirt - Large Red Cotton",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007",
       "available": true
-    },
-    {
-      "id": 15864957403523,
-      "name": "Versace Jeans Couture Graphic Sweatshirt - Small Black Cotton Blend",
-      "price": 136,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3419_4b6bc794-e287-4d1e-92da-2d37ab6bacfe.jpg?v=1774624733",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_8f36d0bb-ca86-4fc8-a599-94c0499aa59e.webp?v=1774624732"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-sweatshirt-mens-black-small-397276",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15935499960707,
+      "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4115_7958c475-8fb6-48ee-a27b-eb97a72776cc.jpg?v=1777472599",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/WOMENS_5a9e9029-9804-4120-ad44-d4b11547f142.webp?v=1777472598"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-t-shirt-womens-white-medium-398073",
+      "available": true
+    },
     {
       "id": 15998313791875,
       "name": "Supreme T-Shirt - Medium White Cotton",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-moncler-t-shirt-mens-multicoloured-large-397176",
-      "available": true
-    },
-    {
-      "id": 15873109885315,
-      "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89D409F-CC4C-4875-A6CC-6C9DEA43E962.webp?v=1774961873",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8F10A35-41EF-4EC0-91C5-DD24F7AD4CB8.webp?v=1774961873"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
       "available": true
     }
   ],
