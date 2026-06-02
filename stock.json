@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15960027496835,
+      "name": "Patagonia Puffer - Large Brown Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0FD1C7ED-DF4F-4334-BAAE-56F498420CD8.webp?v=1778487893",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0FD1C7ED-DF4F-4334-BAAE-56F498420CD8.webp?v=1778487893",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E967696B-29BA-4599-95E5-233DCDC3226C.webp?v=1778487893",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CD19C06-C2C7-4F19-B730-BA6E42018BD1.webp?v=1778487893"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-brown-large-94068-a",
+      "available": true
+    },
+    {
       "id": 15960024940931,
       "name": "Guess Puffer - Medium Green Polyester",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/80s-made-in-usa-the-north-face-puffer-mens-blue-large-87229-a",
       "available": true
-    },
-    {
-      "id": 15916253741443,
-      "name": "The North Face Jacket - Medium Brown Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9057679-C9A1-4CEB-A58B-DACED85B2EAE.webp?v=1776869204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8E0057C-9C93-4505-AB15-CAAC06576D5C.webp?v=1776869204"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-brown-medium-87226-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15919765520771,
+      "name": "USc Trojans Nike College Hoodie - Large Red Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A645B69A-D021-4554-8EF9-7CFA05B21738.webp?v=1776957834",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A645B69A-D021-4554-8EF9-7CFA05B21738.webp?v=1776957834",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4FE315C6-7EE8-409B-922D-D147D44DA504.webp?v=1776957833",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EC6F2FDD-0241-4E67-9145-5E4B21D7192E.webp?v=1776957834"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/usc-trojans-nike-hoodie-mens-red-large-88440-a",
+      "available": true
+    },
     {
       "id": 15894679814531,
       "name": "Harley Davidson Graphic Hoodie - Large Black Cotton",
@@ -377,23 +394,6 @@
       "available": true
     },
     {
-      "id": 15874301952387,
-      "name": "Nike Hoodie - Large Green Cotton",
-      "price": 119,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/64719533-E3F0-4C82-B57E-0C6988962D9C.webp?v=1775034500",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD6799A4-211D-4C3F-BF31-C18195B70E81.webp?v=1775034500"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-82487-a",
-      "available": true
-    },
-    {
       "id": 15916341657987,
       "name": "Orlando Harley Davidson Graphic Hoodie - Large Black Cotton",
       "price": 121,
@@ -408,6 +408,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-black-large-88136-a",
+      "available": true
+    },
+    {
+      "id": 15874301952387,
+      "name": "Nike Hoodie - Large Green Cotton",
+      "price": 119,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/64719533-E3F0-4C82-B57E-0C6988962D9C.webp?v=1775034500",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD6799A4-211D-4C3F-BF31-C18195B70E81.webp?v=1775034500"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-82487-a",
       "available": true
     },
     {
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/faded-avirex-hoodie-mens-grey-medium-91136-a",
       "available": true
-    },
-    {
-      "id": 15950845378947,
-      "name": "Polo By Ralph Lauren Colour Block Spellout Hoodie - Medium Green Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED3213CB-5814-458E-B05F-582584BD8D1A.webp?v=1778142311",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CA2A1E3-71EE-43D9-A8D5-1FD11D35A7F4.webp?v=1778142312"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-green-medium-90935-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15950693171587,
+      "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/108F4C38-29AA-4F37-8BC7-7FB8A8451546.webp?v=1778140496",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1B3196CE-9980-4414-9608-02C791D65D6B.webp?v=1778140497"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a",
+      "available": true
+    },
     {
       "id": 15921453236611,
       "name": "90S Christmas Looney Tunes Tultex Cartoon Sweatshirt - Large Grey Cotton Blend",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-just-cavalli-sweatshirt-mens-black-medium-397189",
       "available": true
-    },
-    {
-      "id": 15950889582979,
-      "name": "90S Faded Avirex Graphic Sweatshirt - Large Red Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DD9815B9-767C-4BF2-9BF1-72FEE04934AC.webp?v=1778142930",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD9815B9-767C-4BF2-9BF1-72FEE04934AC.webp?v=1778142930",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/123618D7-79DF-4173-8C80-DAC472F506E3.webp?v=1778142929",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1154AE5B-69F5-4D88-937E-C702DF3EA66C.webp?v=1778142930"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-faded-avirex-sweatshirt-mens-red-large-91131-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15995255128451,
+      "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/14AE7C1C-2E62-4DA9-9454-9D6F44F6F591.webp?v=1779954660",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/26C3B55F-DE0B-4E6E-844F-542224E157FC.webp?v=1779954660"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
+      "available": true
+    },
     {
       "id": 15995251556739,
       "name": "Grateful Dead Liquid Blue Graphic T-Shirt - Large Multicoloured Cotton",
@@ -1114,7 +1131,7 @@
     {
       "id": 15968026329475,
       "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
@@ -1131,7 +1148,7 @@
     {
       "id": 15950901608835,
       "name": "90S Made In USA Tommy Jeans Striped Long Sleeve T-Shirt - Medium Blue Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
@@ -1148,7 +1165,7 @@
     {
       "id": 15964909175171,
       "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
@@ -1165,7 +1182,7 @@
     {
       "id": 15935553110403,
       "name": "Aquascutum Graphic T-Shirt - Medium White Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4329_0431efad-ed9e-4ebf-93d8-b9c13275cf35.jpg?v=1777473042",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4329_0431efad-ed9e-4ebf-93d8-b9c13275cf35.jpg?v=1777473042",
@@ -1182,7 +1199,7 @@
     {
       "id": 15919737995651,
       "name": "Oakland Athletics Bulletin Athletic MLB T-Shirt - Large White Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4330_e3a60352-91ea-4e36-8fda-0c0572ce63e3.jpg?v=1776956949",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4330_e3a60352-91ea-4e36-8fda-0c0572ce63e3.jpg?v=1776956949",
@@ -1199,7 +1216,7 @@
     {
       "id": 15916236013955,
       "name": "New York Rangers Starter Single Stitch T-Shirt - Large Black Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
@@ -1216,7 +1233,7 @@
     {
       "id": 15916235850115,
       "name": "Dallas Cowboys Salem Single Stitch T-Shirt - Large Black Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/76E9D5BF-4E80-4230-A92A-105CE42D1C6F.webp?v=1776868861",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/76E9D5BF-4E80-4230-A92A-105CE42D1C6F.webp?v=1776868861",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-t-shirt-womens-white-medium-398073",
-      "available": true
-    },
-    {
-      "id": 15998313791875,
-      "name": "Supreme T-Shirt - Medium White Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/63B433F9-B982-4553-866A-ADB4440309E5.webp?v=1780060293",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/63B433F9-B982-4553-866A-ADB4440309E5.webp?v=1780060293",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E0BE285-AD9C-4502-9BEA-C4B5FCE5934F.webp?v=1780060293",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F41BC1B7-529B-4D57-9706-E0E053B7937C.webp?v=1780060294"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/supreme-t-shirt-mens-white-medium-97472-a",
       "available": true
     }
   ],
