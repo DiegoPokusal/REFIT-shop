@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15916253741443,
+      "name": "The North Face Jacket - Medium Brown Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9057679-C9A1-4CEB-A58B-DACED85B2EAE.webp?v=1776869204",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8E0057C-9C93-4505-AB15-CAAC06576D5C.webp?v=1776869204"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-brown-medium-87226-a",
+      "available": true
+    },
+    {
       "id": 15960027496835,
       "name": "Patagonia Puffer - Large Brown Polyester",
       "price": 145,
@@ -222,23 +239,6 @@
       "available": true
     },
     {
-      "id": 15929997164931,
-      "name": "Yves Saint Laurent Blazer - Large Navy Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26134_5b6ffbf7-921c-4b53-9545-a5e78de9f054.jpg?v=1777363593",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26134_5b6ffbf7-921c-4b53-9545-a5e78de9f054.jpg?v=1777363593",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26135_b1a8d674-78e6-4432-be93-927bd3256470.jpg?v=1777363594",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_5c761885-15a7-415a-b468-e201b510a653.webp?v=1777363593"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-navy-large-397977",
-      "available": true
-    },
-    {
       "id": 15929996018051,
       "name": "Christian Dior Striped Blazer - Medium Grey Wool",
       "price": 145,
@@ -253,6 +253,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-medium-397967",
+      "available": true
+    },
+    {
+      "id": 15929997164931,
+      "name": "Yves Saint Laurent Blazer - Large Navy Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26134_5b6ffbf7-921c-4b53-9545-a5e78de9f054.jpg?v=1777363593",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26134_5b6ffbf7-921c-4b53-9545-a5e78de9f054.jpg?v=1777363593",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26135_b1a8d674-78e6-4432-be93-927bd3256470.jpg?v=1777363594",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_5c761885-15a7-415a-b468-e201b510a653.webp?v=1777363593"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-navy-large-397977",
       "available": true
     },
     {
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/port-authority-jacket-mens-black-large-89158-a",
       "available": true
-    },
-    {
-      "id": 15916255904131,
-      "name": "80S Made In USA The North Face Puffer - Large Blue Down",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B13398E9-06AD-4D39-A6EC-CE3BD4986409.webp?v=1776869212",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/64EA95CC-A616-49FC-A326-63CAB0BED465.webp?v=1776869213"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/80s-made-in-usa-the-north-face-puffer-mens-blue-large-87229-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15950845378947,
+      "name": "Polo By Ralph Lauren Colour Block Spellout Hoodie - Medium Green Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED3213CB-5814-458E-B05F-582584BD8D1A.webp?v=1778142311",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CA2A1E3-71EE-43D9-A8D5-1FD11D35A7F4.webp?v=1778142312"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-green-medium-90935-a",
+      "available": true
+    },
     {
       "id": 15919765520771,
       "name": "USc Trojans Nike College Hoodie - Large Red Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-84644-a",
       "available": true
-    },
-    {
-      "id": 15950876868995,
-      "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E74E3BD0-5908-4F61-B62A-7B7D73F2100E.webp?v=1778142668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D8E2D9-01FA-4A75-A11D-A99CB54F8262.webp?v=1778142668"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/faded-avirex-hoodie-mens-grey-medium-91136-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15950889582979,
+      "name": "90S Faded Avirex Graphic Sweatshirt - Large Red Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DD9815B9-767C-4BF2-9BF1-72FEE04934AC.webp?v=1778142930",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD9815B9-767C-4BF2-9BF1-72FEE04934AC.webp?v=1778142930",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/123618D7-79DF-4173-8C80-DAC472F506E3.webp?v=1778142929",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1154AE5B-69F5-4D88-937E-C702DF3EA66C.webp?v=1778142930"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-faded-avirex-sweatshirt-mens-red-large-91131-a",
+      "available": true
+    },
     {
       "id": 15950693171587,
       "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-sweatshirt-mens-black-small-397276",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15864946622851,
-      "name": "Just Cavalli Graphic Sweatshirt - Medium Black Cotton Blend",
-      "price": 136,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
+      "id": 15998313791875,
+      "name": "Supreme T-Shirt - Medium White Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/63B433F9-B982-4553-866A-ADB4440309E5.webp?v=1780060293",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3161_cbd752dc-1416-4fc7-a926-22a18d19f4aa.jpg?v=1774624518",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3162_1c7b6c3b-b7f7-46e0-89f5-a398204e026c.jpg?v=1774624518"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63B433F9-B982-4553-866A-ADB4440309E5.webp?v=1780060293",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E0BE285-AD9C-4502-9BEA-C4B5FCE5934F.webp?v=1780060293",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F41BC1B7-529B-4D57-9706-E0E053B7937C.webp?v=1780060294"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vintage-just-cavalli-sweatshirt-mens-black-medium-397189",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/supreme-t-shirt-mens-white-medium-97472-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15995255128451,
       "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
-      "available": true
-    },
-    {
-      "id": 15935499960707,
-      "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4115_7958c475-8fb6-48ee-a27b-eb97a72776cc.jpg?v=1777472599",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/WOMENS_5a9e9029-9804-4120-ad44-d4b11547f142.webp?v=1777472598"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-t-shirt-womens-white-medium-398073",
       "available": true
     }
   ],
