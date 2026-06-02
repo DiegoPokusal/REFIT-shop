@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15950740980099,
+      "name": "Cropped 10X Detroit Style Camo Jacket - Large Camo Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D58794E3-E3D4-413B-9FA8-A88BB412FDD2.webp?v=1778140932",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/20D6932A-15DD-4515-8508-3EFBA386473E.webp?v=1778140932"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/cropped-10x-jacket-mens-camo-large-90531-a",
+      "available": true
+    },
+    {
       "id": 15930003292547,
       "name": "Christian Dior Pinstripe Blazer - Large Black Wool",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/canvas-tommy-hilfiger-windbreaker-mens-green-small-91565-a",
       "available": true
-    },
-    {
-      "id": 15950758314371,
-      "name": "Summit Series The North Face Waterproof Ski Jacket - Medium Red Nylon",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE26DDB3-5A8A-4584-839A-633E214C4E01.webp?v=1778141138",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE26DDB3-5A8A-4584-839A-633E214C4E01.webp?v=1778141138",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/380087B4-AEA6-481B-8B32-739DDA6C688E.webp?v=1778141138",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/811E7685-8DEB-4068-980E-FA9D94D5AC00.webp?v=1778141138"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/summit-series-the-north-face-ski-jacket-mens-red-medium-90573-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15916341657987,
+      "name": "Orlando Harley Davidson Graphic Hoodie - Large Black Cotton",
+      "price": 121,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/04A5726A-027B-467D-8EE7-C168FF627735.webp?v=1776870747",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/04A5726A-027B-467D-8EE7-C168FF627735.webp?v=1776870747",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DD6A924-1281-4659-ADB7-745E35B30552.webp?v=1776870747",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/51796C08-B075-4F54-BAA8-81D05C67DF60.webp?v=1776870748"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-black-large-88136-a",
+      "available": true
+    },
     {
       "id": 15964917432707,
       "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/waukon-harley-davidson-hoodie-mens-grey-medium-85690-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15874301952387,
-      "name": "Nike Hoodie - Large Green Cotton",
-      "price": 119,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
+      "id": 15910937657731,
+      "name": "90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend",
+      "price": 121,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/64719533-E3F0-4C82-B57E-0C6988962D9C.webp?v=1775034500",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD6799A4-211D-4C3F-BF31-C18195B70E81.webp?v=1775034500"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/19BE483B-E1E1-464C-8E0E-1038472BF887.webp?v=1776674557",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD22E655-93F8-4BF8-B0B4-03F66FB000BC.webp?v=1776674558"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-82487-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15982016496003,
       "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15921451008387,
-      "name": "90S Yale Betty Boop Unbranded Raglan Sweatshirt - Medium Grey Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B184B74-F29B-444E-862B-CBC269F8BD0B.webp?v=1777031875",
+      "id": 15950891680131,
+      "name": "Polo Bear Ralph Lauren Long Sleeve T-Shirt - Medium White Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B4351744-90B2-4FF7-9893-76F4E98BC574.webp?v=1778142993",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B184B74-F29B-444E-862B-CBC269F8BD0B.webp?v=1777031875",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EF644CFB-4FE8-407A-BE52-D73756C0C148.webp?v=1777031875",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DC6F53AF-49AA-441F-9EEE-DBF9CBFCCA98.webp?v=1777031876"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B4351744-90B2-4FF7-9893-76F4E98BC574.webp?v=1778142993",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/82FB206C-8A7C-42EA-837C-7759E05C66FB.webp?v=1778142993",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3F4E2701-A68D-4756-8F48-98AB40A407D2.webp?v=1778142993"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-yale-betty-boop-unbranded-sweatshirt-mens-grey-medium-88546-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-white-medium-91159-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15876907925891,
       "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97073-a",
-      "available": true
-    },
-    {
-      "id": 15874412872067,
-      "name": "Nature Graphics Harlequin Single Stitch T-Shirt - Medium Black Cotton",
-      "price": 112,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/55C6971E-54C4-42A7-AC50-E736AA5E2391.webp?v=1775038150",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/55C6971E-54C4-42A7-AC50-E736AA5E2391.webp?v=1775038150",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7E975B4A-206B-4818-AA3F-B3ABE964DDC1.webp?v=1775038150",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F6DBE93-68CE-424C-974A-F97ACABE1E6C.webp?v=1775038150"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/nature-graphics-harlequin-t-shirt-mens-black-medium-83434-a",
       "available": true
     }
   ],
