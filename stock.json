@@ -1,37 +1,190 @@
 {
   "jacket": [
     {
-      "id": 15916255904131,
-      "name": "80S Made In USA The North Face Puffer - Large Blue Down",
+      "id": 15876920017283,
+      "name": "Unbranded Flight Leather Jacket - Medium Brown Leather",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3381F179-63B3-400E-9D30-83F6D686AD06.webp?v=1775143699",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B13398E9-06AD-4D39-A6EC-CE3BD4986409.webp?v=1776869212",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/64EA95CC-A616-49FC-A326-63CAB0BED465.webp?v=1776869213"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/80s-made-in-usa-the-north-face-puffer-mens-blue-large-87229-a",
-      "available": true
-    },
-    {
-      "id": 15916253741443,
-      "name": "The North Face Jacket - Medium Brown Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9057679-C9A1-4CEB-A58B-DACED85B2EAE.webp?v=1776869204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8E0057C-9C93-4505-AB15-CAAC06576D5C.webp?v=1776869204"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3381F179-63B3-400E-9D30-83F6D686AD06.webp?v=1775143699",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4702D22C-F1A5-443A-ABE1-9BFCF990694E.webp?v=1775143698",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/22C8B13C-66AF-4C6D-A6ED-D18C3A52098B.webp?v=1775143699"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-brown-medium-87226-a",
+      "url": "https://www.thrifted.com/products/unbranded-leather-jacket-mens-brown-medium-83180-a",
+      "available": true
+    },
+    {
+      "id": 15876912546179,
+      "name": "Made In USA Patagonia Fleece Jacket - Large Grey Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4FE04118-7032-497A-941F-E347C469C36C.webp?v=1775143511",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4FE04118-7032-497A-941F-E347C469C36C.webp?v=1775143511",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6770B368-B2B4-48F1-A57D-C68D903F0E43.webp?v=1775143511",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AD8AA4EC-9B26-4652-BCD9-6D51EA7A22FB.webp?v=1775143511"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/made-in-usa-patagonia-fleece-jacket-mens-grey-large-83088-a",
+      "available": true
+    },
+    {
+      "id": 15876912120195,
+      "name": "Tommy Hilfiger Leather Jacket - Large Black Leather",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1D7F21B1-1155-49FF-A100-D07D30B619DE.webp?v=1775143485",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1D7F21B1-1155-49FF-A100-D07D30B619DE.webp?v=1775143485",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD514267-7FE1-4BD1-9A39-42581307A0EB.webp?v=1775143485",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/54BD0636-DEDC-4FAD-9A8C-1349D5DC2E7C.webp?v=1775143485"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/tommy-hilfiger-leather-jacket-mens-black-large-83188-a",
+      "available": true
+    },
+    {
+      "id": 15876910612867,
+      "name": "Made In USA Patagonia Fleece Jacket - Large Grey Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4B2FBABF-A915-4FF5-9704-15C4EF93F0B4.webp?v=1775143430",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4B2FBABF-A915-4FF5-9704-15C4EF93F0B4.webp?v=1775143430",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DB0E7C84-0945-4F21-BC1E-8CB3B771968C.webp?v=1775143430",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/163A7242-5282-4F43-B30B-1C6DCD461284.webp?v=1775143430"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/made-in-usa-patagonia-fleece-jacket-mens-grey-large-82807-a",
+      "available": true
+    },
+    {
+      "id": 15876905664899,
+      "name": "Eurox Motorcycle Leather Jacket - Large Black Leather",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BAE7BA17-9D09-4E96-AAC2-694780AE9176.webp?v=1775143219",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BAE7BA17-9D09-4E96-AAC2-694780AE9176.webp?v=1775143219",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/96C6F58D-8BDF-4C47-961F-CDEC8E3DF2F3.webp?v=1775143219",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DA648EC0-7688-4A47-B79B-43845A9B15FA.webp?v=1775143219"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/eurox-leather-jacket-mens-black-large-83170-a",
+      "available": true
+    },
+    {
+      "id": 15876274684291,
+      "name": "Gant Puffer - Large Yellow Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/39124558-980D-4764-9000-C84B73F5EBA8.webp?v=1775119601",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/39124558-980D-4764-9000-C84B73F5EBA8.webp?v=1775119601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/56FC0684-6125-4552-B254-E4C78BF13366.webp?v=1775119600",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D12DC8E8-C391-45AC-ABE4-CCFDEA445217.webp?v=1775119601"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/gant-puffer-mens-yellow-large-82383-a",
+      "available": true
+    },
+    {
+      "id": 15873021346179,
+      "name": "Fond Du Lac Bears Hockey Rennoc College Varsity Jacket - Large Red Wool Blend",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/812E6010-B6C3-41C6-B4C5-33FD57BF8668.webp?v=1774958351",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/812E6010-B6C3-41C6-B4C5-33FD57BF8668.webp?v=1774958351",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2CE679D-F867-4756-97F8-4F00070E4DFF.webp?v=1774958351",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/174E0E61-34E9-4350-B4F2-F9DB98BE5FB9.webp?v=1774958351"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/fond-du-lac-bears-hockey-rennoc-varsity-jacket-mens-red-large-81027-a",
+      "available": true
+    },
+    {
+      "id": 15873021149571,
+      "name": "National Championship American Cheer Power Varsity Jacket - Medium Black Wool Blend",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/23BB80FA-73E2-428D-AFC0-E94B691C0D9E.webp?v=1774958337",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/23BB80FA-73E2-428D-AFC0-E94B691C0D9E.webp?v=1774958337",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DEE1BE61-5AEE-4AB5-BCE0-A697C12360A8.webp?v=1774958336",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/54D45D38-941E-486E-9492-DBEBCF542706.webp?v=1774958337"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/national-championship-american-cheer-power-varsity-jacket-mens-black-medium-81022-a",
+      "available": true
+    },
+    {
+      "id": 15873020952963,
+      "name": "Reform Varsity Jacket - Small Black Leather",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/079F9A70-5EFE-4F34-B195-302C760BD171.webp?v=1774958329",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/079F9A70-5EFE-4F34-B195-302C760BD171.webp?v=1774958329",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9ADE3351-E3C6-4020-894B-12404CEEB37E.webp?v=1774958329",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63ECFFC4-0221-42F2-8145-CA5B8EDA88D1.webp?v=1774958329"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/reform-varsity-jacket-mens-black-small-81019-a",
+      "available": true
+    },
+    {
+      "id": 15873020821891,
+      "name": "North Woodstock Thunder Unbranded College Varsity Jacket - Medium Black Wool Blend",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/53594552-129C-41B5-BCD0-8B1E3CD85FB6.webp?v=1774958323",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/53594552-129C-41B5-BCD0-8B1E3CD85FB6.webp?v=1774958323",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A395024E-38FA-4E73-BE66-39EE1DE9A7FE.webp?v=1774958323",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/54FC6F39-DB28-4688-9186-98CD1D6FB3ED.webp?v=1774958323"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/north-woodstock-thunder-unbranded-varsity-jacket-mens-black-medium-81032-a",
+      "available": true
+    },
+    {
+      "id": 15872991625603,
+      "name": "Outdoor Gear Cabelas Camo Jacket - Large Green Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FF720661-CCDA-4276-8B8D-93E816AE2C3F.webp?v=1774957279",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FF720661-CCDA-4276-8B8D-93E816AE2C3F.webp?v=1774957279",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC343B36-47BA-4ACA-8433-72E96F3D7DB7.webp?v=1774957279",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/285C0BBF-980C-41F4-9671-FF67EC493145.webp?v=1774957280"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/outdoor-gear-cabelas-jacket-mens-green-large-81450-a",
       "available": true
     },
     {
@@ -171,23 +324,6 @@
       "available": true
     },
     {
-      "id": 15929939526019,
-      "name": "Conbipel Suede Jacket - Large Navy Leather",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26227_3b0c516a-dfd4-48f6-b7de-10dea816494b.jpg?v=1777362492",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26227_3b0c516a-dfd4-48f6-b7de-10dea816494b.jpg?v=1777362492",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26228_7b7f0949-8a4e-4f55-9868-09efd5996ea3.jpg?v=1777362492",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_cdcdbba9-d910-4272-81a2-cb998ed33197.webp?v=1777362491"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-conbipel-suede-jacket-mens-navy-large-397841",
-      "available": true
-    },
-    {
       "id": 15929998508419,
       "name": "Yves Saint Laurent Pinstripe Blazer - Medium Navy Wool",
       "price": 145,
@@ -203,145 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-navy-medium-397985",
       "available": true
-    },
-    {
-      "id": 15929998475651,
-      "name": "Christian Dior Blazer - Medium Black Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26151_5fc7b755-6152-42fb-b531-d02b4a3a4524.jpg?v=1777363613",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26151_5fc7b755-6152-42fb-b531-d02b4a3a4524.jpg?v=1777363613",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26152_4a6d3ee0-b3be-4787-a9d9-62239668cbf4.jpg?v=1777363613",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_48270c61-93d5-40ae-8485-598a6f8dcc2a.webp?v=1777363612"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-medium-397984",
-      "available": true
-    },
-    {
-      "id": 15929997787523,
-      "name": "Christian Dior Blazer - Medium Navy Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26147_8d5b57b9-60ab-4bdd-b6a2-c83338c775c4.jpg?v=1777363603",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26147_8d5b57b9-60ab-4bdd-b6a2-c83338c775c4.jpg?v=1777363603",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26148_32518469-8fe3-4246-8944-07704ebc2948.jpg?v=1777363603",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_10775a33-5560-466a-994f-2df0498efe41.webp?v=1777363603"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397982",
-      "available": true
-    },
-    {
-      "id": 15929997721987,
-      "name": "Christian Dior Checked Blazer - Medium Navy Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26145_fd3daab0-66bc-437c-820a-1fd6db422e72.jpg?v=1777363603",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26145_fd3daab0-66bc-437c-820a-1fd6db422e72.jpg?v=1777363603",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26146_0443fbeb-8531-4f20-92f6-5407757d8476.jpg?v=1777363604",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_04acf6c5-175e-4606-9f21-c018d5918270.webp?v=1777363603"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397981",
-      "available": true
-    },
-    {
-      "id": 15929996018051,
-      "name": "Christian Dior Striped Blazer - Medium Grey Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26109_5295395c-9a83-4630-93f9-5e87f940d3eb.jpg?v=1777363574",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_492caa45-d422-45fc-9d57-503b0d19e6b5.webp?v=1777363573"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-medium-397967",
-      "available": true
-    },
-    {
-      "id": 15929997164931,
-      "name": "Yves Saint Laurent Blazer - Large Navy Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26134_5b6ffbf7-921c-4b53-9545-a5e78de9f054.jpg?v=1777363593",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26134_5b6ffbf7-921c-4b53-9545-a5e78de9f054.jpg?v=1777363593",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26135_b1a8d674-78e6-4432-be93-927bd3256470.jpg?v=1777363594",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_5c761885-15a7-415a-b468-e201b510a653.webp?v=1777363593"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-navy-large-397977",
-      "available": true
-    },
-    {
-      "id": 15929995428227,
-      "name": "Giorgio Armani Blazer - Large Khaki Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26100_d7f6c250-0426-4ba0-b72b-cc3f39d5984b.jpg?v=1777363564",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26100_d7f6c250-0426-4ba0-b72b-cc3f39d5984b.jpg?v=1777363564",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26101_95e760a0-25d5-4180-b954-d4413294d0d8.jpg?v=1777363564",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_6e43ad2a-66bd-4b22-8dfb-de6b14f7067c.webp?v=1777363564"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-giorgio-armani-blazer-mens-khaki-large-397963",
-      "available": true
-    },
-    {
-      "id": 15919773811075,
-      "name": "Biker Scott Jacket - Medium Black Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9BFFF2AE-038D-40D9-A424-735CACAE6FAD.webp?v=1776958031",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9BFFF2AE-038D-40D9-A424-735CACAE6FAD.webp?v=1776958031",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CEBA28F6-3B3C-4F59-8156-D47C2BEDB190.webp?v=1776958031",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4257B4E2-D625-44DF-B1F7-2380BBA6B1C2.webp?v=1776958031"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/biker-scott-jacket-mens-black-medium-88944-a",
-      "available": true
-    },
-    {
-      "id": 15919773548931,
-      "name": "Biker Street & Steel Jacket - Medium Black Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/313DE7CE-D815-46DC-9081-43ABC311DF09.webp?v=1776958029",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/313DE7CE-D815-46DC-9081-43ABC311DF09.webp?v=1776958029",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2C70D739-9EED-448E-8189-9C7110FEDDC6.webp?v=1776958029",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/929F8C58-1E27-4611-B1A9-F2FB87DFE08D.webp?v=1776958029"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/biker-street-steel-jacket-mens-black-medium-88943-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15876235395459,
+      "name": "Polo By Ralph Lauren Hoodie - Large Grey Cotton",
+      "price": 126,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E365CE64-B82D-443D-80A5-C9BA43D727B0.webp?v=1775118867",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E365CE64-B82D-443D-80A5-C9BA43D727B0.webp?v=1775118867",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/15354101-1939-4140-8436-6AE9C391D1C3.webp?v=1775118867",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/12A8664A-E9DA-4C63-BF7A-B232909B2A9E.webp?v=1775118867"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-84644-a",
+      "available": true
+    },
     {
       "id": 15950876868995,
       "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
@@ -664,30 +681,30 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/vintage-moschino-hoodie-mens-black-small-398190",
       "available": true
-    },
-    {
-      "id": 15894678438275,
-      "name": "Custom Patches Grand Canyon Harley Davidson Graphic Hoodie - Large Black Cotton Blend",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5E6548DB-69B8-4044-8354-DCFFE4BD1AB0.webp?v=1776069881",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5E6548DB-69B8-4044-8354-DCFFE4BD1AB0.webp?v=1776069881",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC795987-C6A2-497F-AB1B-523D823BE46B.webp?v=1776069881",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E53EAA7D-4DD4-4B5D-B26F-F5434856099D.webp?v=1776069882"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/custom-patches-grand-canyon-harley-davidson-hoodie-mens-black-large-85710-a",
-      "available": true
     }
   ],
   "sweatshirt": [
     {
+      "id": 15864957403523,
+      "name": "Versace Jeans Couture Graphic Sweatshirt - Small Black Cotton Blend",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3419_4b6bc794-e287-4d1e-92da-2d37ab6bacfe.jpg?v=1774624733",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_8f36d0bb-ca86-4fc8-a599-94c0499aa59e.webp?v=1774624732"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-sweatshirt-mens-black-small-397276",
+      "available": true
+    },
+    {
       "id": 15864946622851,
       "name": "Just Cavalli Graphic Sweatshirt - Medium Black Cotton Blend",
-      "price": 136,
+      "price": 130,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
@@ -699,6 +716,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-just-cavalli-sweatshirt-mens-black-medium-397189",
+      "available": true
+    },
+    {
+      "id": 16006460965251,
+      "name": "Harley Davidson Graphic Sweatshirt - Medium Black Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E47E824E-3CA0-4BFD-B35D-25D4D016FF72.webp?v=1780478668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/38492C0D-C9B9-4E43-96CC-B8D100C55A4B.webp?v=1780478669"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-98545-a",
       "available": true
     },
     {
@@ -801,6 +835,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
+      "available": true
+    },
+    {
+      "id": 16006462013827,
+      "name": "Factory Tour Harley Davidson Graphic Sweatshirt - Small Brown Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A28293B-D8EF-487C-92AF-989F4E135A5A.webp?v=1780478704",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A28293B-D8EF-487C-92AF-989F4E135A5A.webp?v=1780478704",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AADFC486-8A7E-466F-8742-F1B6559DC149.webp?v=1780478704",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/490A3AC5-157C-475D-AF8C-4F8D1D3B9DBB.webp?v=1780478705"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/factory-tour-harley-davidson-sweatshirt-mens-brown-small-98543-a",
       "available": true
     },
     {
@@ -957,40 +1008,6 @@
       "available": true
     },
     {
-      "id": 15950703067523,
-      "name": "Green Bay Packers Looney Tunes Nfl Sweatshirt - Medium Black Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/04EA8736-6A52-4853-8CB7-B47C3AE799CB.webp?v=1778140595",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/04EA8736-6A52-4853-8CB7-B47C3AE799CB.webp?v=1778140595",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/407089A1-7A0E-4CAD-96DB-16C8D5C95F7E.webp?v=1778140594",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D791D586-801A-4AE1-B915-FB5038EDC103.webp?v=1778140595"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/green-bay-packers-looney-tunes-sweatshirt-mens-black-medium-90389-a",
-      "available": true
-    },
-    {
-      "id": 15921452482947,
-      "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Red Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A1DF393E-CE9E-4F21-B19A-EA314DC529A7.webp?v=1777031889",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A1DF393E-CE9E-4F21-B19A-EA314DC529A7.webp?v=1777031889",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19EB1186-2096-4A89-88E0-00E3C2AF5FCE.webp?v=1777031889",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0EA12F9E-A984-4EE6-B271-39B9A1909420.webp?v=1777031890"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-red-small-88551-a",
-      "available": true
-    },
-    {
       "id": 15972705272195,
       "name": "Adventure Team Marlboro Sweatshirt - Large Grey Cotton Blend",
       "price": 138,
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/adventure-team-marlboro-sweatshirt-mens-grey-large-94772-a",
       "available": true
-    },
-    {
-      "id": 15935469355395,
-      "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4115_ae869931-d027-4e00-8b52-2e49be4852f6.jpg?v=1777472249",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_4589513d-e56f-429a-b587-59e0dc66c1af.webp?v=1777472249"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15873109885315,
+      "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89D409F-CC4C-4875-A6CC-6C9DEA43E962.webp?v=1774961873",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8F10A35-41EF-4EC0-91C5-DD24F7AD4CB8.webp?v=1774961873"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
+      "available": true
+    },
     {
       "id": 15935499960707,
       "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
@@ -1044,20 +1061,20 @@
       "available": true
     },
     {
-      "id": 15998313791875,
-      "name": "Supreme T-Shirt - Medium White Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/63B433F9-B982-4553-866A-ADB4440309E5.webp?v=1780060293",
+      "id": 16006465913219,
+      "name": "Barnett Harley-Davidson El Paso, Texas Harley Davidson Graphic Long Sleeve T-Shirt - Small Black Cotton",
+      "price": 100,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/669D60FD-386B-4E30-A612-A8C6F0338E4E.webp?v=1780478818",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/63B433F9-B982-4553-866A-ADB4440309E5.webp?v=1780060293",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E0BE285-AD9C-4502-9BEA-C4B5FCE5934F.webp?v=1780060293",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F41BC1B7-529B-4D57-9706-E0E053B7937C.webp?v=1780060294"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/669D60FD-386B-4E30-A612-A8C6F0338E4E.webp?v=1780478818",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0F38D8C2-F9F8-46C8-A50A-F075763FB40F.webp?v=1780478818",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A839365D-D098-4F75-96F8-B6C2AF272755.webp?v=1780478819"
       ],
       "sizes": [
-        "Medium"
+        "Small"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/supreme-t-shirt-mens-white-medium-97472-a",
+      "url": "https://www.thrifted.com/products/barnett-harley-davidson-el-paso-texas-harley-davidson-long-sleeve-t-shirt-mens-black-small-98577-a",
       "available": true
     },
     {
@@ -1148,7 +1165,7 @@
     {
       "id": 15876907925891,
       "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
-      "price": 109,
+      "price": 106,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
-      "available": true
-    },
-    {
-      "id": 15864944591235,
-      "name": "Moschino Graphic T-Shirt - Large Multicoloured Cotton",
-      "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3121_65ed581a-4ad1-4645-b756-fc65625d7cc8.jpg?v=1774624481",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3121_65ed581a-4ad1-4645-b756-fc65625d7cc8.jpg?v=1774624481",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3123_8f8d21cf-38b1-4ba6-946e-b947e8d1eb1d.jpg?v=1774624481",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3122_982c44c3-72b6-45b6-b885-3840a039312a.jpg?v=1774624481"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-moncler-t-shirt-mens-multicoloured-large-397176",
       "available": true
     }
   ],
