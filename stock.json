@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15930000572803,
+      "name": "Christian Dior Blazer - Large Grey Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26166_cc136d1f-05f0-4241-9fb3-90759c57aff5.jpg?v=1777363623",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_db9e07a1-e5c0-4e72-acf0-6f4bc5eaebbf.webp?v=1777363622"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-large-397990",
+      "available": true
+    },
+    {
       "id": 15929998508419,
       "name": "Yves Saint Laurent Pinstripe Blazer - Medium Navy Wool",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-large-397995",
       "available": true
-    },
-    {
-      "id": 15930002407811,
-      "name": "Yves Saint Laurent Striped Blazer - Medium Brown Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26169_6a2fb375-9b66-41ce-9dbf-9e25dad435d9.jpg?v=1777363632",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26169_6a2fb375-9b66-41ce-9dbf-9e25dad435d9.jpg?v=1777363632",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26170_c7ef4ff6-efd3-4bcf-8887-44f55d393dc2.jpg?v=1777363633",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_0fa650da-3878-448f-a264-8d2b98916cd3.webp?v=1777363631"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-brown-medium-397992",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15916193120643,
+      "name": "Harley Davidson Graphic Hoodie - Large Grey Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/88EEBA5F-D83E-4DBA-A1E2-FD24BD61125B.webp?v=1776868107",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/35369B65-7399-4040-A814-C08705D4F7B9.webp?v=1776868108"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-grey-large-89236-a",
+      "available": true
+    },
     {
       "id": 15935543181699,
       "name": "Moschino Spellout Hoodie - Small Black Cotton Blend",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15950848819587,
-      "name": "Polo By Ralph Lauren Spellout Hoodie - Large Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
+      "id": 15972705272195,
+      "name": "Adventure Team Marlboro Sweatshirt - Large Grey Cotton Blend",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/965AA292-4093-4838-89D7-F4FDF715CF74.webp?v=1779092189",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B15D378-502A-4C3B-BD12-248F328EFE4C.webp?v=1778142363",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3BD6B95-454C-44FE-BC1E-DF9422EDFBE3.webp?v=1778142364"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/965AA292-4093-4838-89D7-F4FDF715CF74.webp?v=1779092189",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/00FC7E0E-1516-4207-95A2-6EB6CE86F821.webp?v=1779092190",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/73FB8785-C858-48F0-85EC-5EAC9595F760.webp?v=1779092190"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-black-large-90952-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/adventure-team-marlboro-sweatshirt-mens-grey-large-94772-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15950900658563,
       "name": "90S Tommy Hilfiger Spellout Sweatshirt - Large White Cotton",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15950849114499,
-      "name": "Polo By Ralph Lauren Striped Sweatshirt - Large Black Acrylic",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/57751E35-615D-4372-BAF3-17610286D352.webp?v=1778142369",
+      "id": 15916223070595,
+      "name": "Billy Ray Cyrus 1992 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton Blend",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/57751E35-615D-4372-BAF3-17610286D352.webp?v=1778142369",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1DA8B170-ED8B-407E-BBCE-FA33E36FAFB9.webp?v=1778142369",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/46AA22FA-9893-4128-8854-7DA213409EAC.webp?v=1778142369"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B04F609A-657A-4A07-B876-6D148EA914B5.webp?v=1776868636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BFBC8DF-91F0-4543-94D5-3213E1E5824C.webp?v=1776868638"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-black-large-90955-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15864944591235,
       "name": "Moschino Graphic T-Shirt - Large Multicoloured Cotton",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/nike-long-sleeve-t-shirt-mens-blue-medium-87514-a",
-      "available": true
-    },
-    {
-      "id": 15955064422787,
-      "name": "Made In USA Nike Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 100,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/815BAD55-97C8-403B-9887-0B364CC0FBC6.webp?v=1778234541",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/815BAD55-97C8-403B-9887-0B364CC0FBC6.webp?v=1778234541",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1AB93C98-940D-41C6-ACF1-CABC79340DA3.webp?v=1778234542",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DE7F7E7-9900-425D-B6F7-B097E48F36BF.webp?v=1778234543"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-usa-nike-long-sleeve-t-shirt-mens-black-large-92470-a",
       "available": true
     }
   ],
