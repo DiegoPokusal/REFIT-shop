@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15950758314371,
+      "name": "Summit Series The North Face Waterproof Ski Jacket - Medium Red Nylon",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE26DDB3-5A8A-4584-839A-633E214C4E01.webp?v=1778141138",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE26DDB3-5A8A-4584-839A-633E214C4E01.webp?v=1778141138",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/380087B4-AEA6-481B-8B32-739DDA6C688E.webp?v=1778141138",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/811E7685-8DEB-4068-980E-FA9D94D5AC00.webp?v=1778141138"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/summit-series-the-north-face-ski-jacket-mens-red-medium-90573-a",
+      "available": true
+    },
+    {
       "id": 15950740980099,
       "name": "Cropped 10X Detroit Style Camo Jacket - Large Camo Cotton",
       "price": 145,
@@ -273,23 +290,6 @@
       "available": true
     },
     {
-      "id": 15872991625603,
-      "name": "Outdoor Gear Cabelas Camo Jacket - Large Green Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FF720661-CCDA-4276-8B8D-93E816AE2C3F.webp?v=1774957279",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FF720661-CCDA-4276-8B8D-93E816AE2C3F.webp?v=1774957279",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC343B36-47BA-4ACA-8433-72E96F3D7DB7.webp?v=1774957279",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/285C0BBF-980C-41F4-9671-FF67EC493145.webp?v=1774957280"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/outdoor-gear-cabelas-jacket-mens-green-large-81450-a",
-      "available": true
-    },
-    {
       "id": 15960027496835,
       "name": "Patagonia Puffer - Large Brown Polyester",
       "price": 145,
@@ -304,6 +304,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-brown-large-94068-a",
+      "available": true
+    },
+    {
+      "id": 15872991625603,
+      "name": "Outdoor Gear Cabelas Camo Jacket - Large Green Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FF720661-CCDA-4276-8B8D-93E816AE2C3F.webp?v=1774957279",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FF720661-CCDA-4276-8B8D-93E816AE2C3F.webp?v=1774957279",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC343B36-47BA-4ACA-8433-72E96F3D7DB7.webp?v=1774957279",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/285C0BBF-980C-41F4-9671-FF67EC493145.webp?v=1774957280"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/outdoor-gear-cabelas-jacket-mens-green-large-81450-a",
       "available": true
     },
     {
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/guess-puffer-mens-green-medium-94035-a",
       "available": true
-    },
-    {
-      "id": 15950927921539,
-      "name": "Canvas Tommy Hilfiger Spellout Anorak Windbreaker - Small Green Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AAF45E7C-80A1-4D75-BC7F-57B1D0E97744.webp?v=1778143709",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AAF45E7C-80A1-4D75-BC7F-57B1D0E97744.webp?v=1778143709",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/28309210-2485-4EDE-97CF-C3A459FAC153.webp?v=1778143709",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9171D6F5-65B9-4E82-A12F-22F9570EA6F5.webp?v=1778143710"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/canvas-tommy-hilfiger-windbreaker-mens-green-small-91565-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964912419203,
+      "name": "Deleeuw Lumber Carhartt Hoodie - Medium Navy Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDAB1E8E-DD8F-4032-A0E9-8E56C9E222E0.webp?v=1778685745",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDAB1E8E-DD8F-4032-A0E9-8E56C9E222E0.webp?v=1778685745",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F13A0CF-C345-43DF-AEAE-FBBD8DF67FF4.webp?v=1778685746",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AD94DD14-CCCC-48CF-A37E-771F22CF4B44.webp?v=1778685746"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/deleeuw-lumber-carhartt-hoodie-mens-navy-medium-98316-a",
+      "available": true
+    },
     {
       "id": 15964912386435,
       "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98320-a",
       "available": true
-    },
-    {
-      "id": 15964912517507,
-      "name": "Carhartt Hoodie - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD.webp?v=1778685749",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD.webp?v=1778685749",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B650924E-BADE-458F-9CE1-81884B7D1FDD.webp?v=1778685748",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DBB7135-8FB1-4D2C-BC3C-0ADF8F2BECD4.webp?v=1778685748"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98321-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15964912222595,
+      "name": "Original Fit Carhartt Sweatshirt - Medium Grey Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/70A2D0E3-4B9F-4BC3-BA79-34CE500014F4.webp?v=1778685740",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A44C023-9D96-4E98-A6CC-073A55EFF0E3.webp?v=1778685741"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/original-fit-carhartt-sweatshirt-mens-grey-medium-98314-a",
+      "available": true
+    },
     {
       "id": 15950926807427,
       "name": "Reverse Weave Cal State Champion Sweatshirt - Medium Navy Cotton",
@@ -719,23 +736,6 @@
       "available": true
     },
     {
-      "id": 16008151695747,
-      "name": "Mickey Mouse Mickey & Co. Cartoon Sweatshirt - Large Red Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1ADBC924-B04F-4336-B4D9-8345D62B8F21.webp?v=1780561698",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0D072E4-0178-4F0F-B6BD-9BB58595B5D6.webp?v=1780561699"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/mickey-mouse-mickey-co-sweatshirt-mens-red-large-99288-a",
-      "available": true
-    },
-    {
       "id": 15972705272195,
       "name": "Adventure Team Marlboro Sweatshirt - Large Grey Cotton Blend",
       "price": 138,
@@ -753,20 +753,20 @@
       "available": true
     },
     {
-      "id": 16008151105923,
-      "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Grey Cotton",
+      "id": 16008151695747,
+      "name": "Mickey Mouse Mickey & Co. Cartoon Sweatshirt - Large Red Cotton Blend",
       "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7397703-D500-4677-8443-9037AB1E4AEC.webp?v=1780561656",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/36524FCB-1714-4A4B-A2F1-3CBD8949C1AA.webp?v=1780561656"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1ADBC924-B04F-4336-B4D9-8345D62B8F21.webp?v=1780561698",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0D072E4-0178-4F0F-B6BD-9BB58595B5D6.webp?v=1780561699"
       ],
       "sizes": [
-        "Small"
+        "Large"
       ],
       "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-small-99300-a",
+      "url": "https://www.thrifted.com/products/mickey-mouse-mickey-co-sweatshirt-mens-red-large-99288-a",
       "available": true
     },
     {
@@ -784,6 +784,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007",
+      "available": true
+    },
+    {
+      "id": 16008151105923,
+      "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Grey Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7397703-D500-4677-8443-9037AB1E4AEC.webp?v=1780561656",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/36524FCB-1714-4A4B-A2F1-3CBD8949C1AA.webp?v=1780561656"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-small-99300-a",
       "available": true
     },
     {
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/factory-tour-harley-davidson-sweatshirt-mens-brown-small-98543-a",
       "available": true
-    },
-    {
-      "id": 15982016496003,
-      "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AF7170DC-4C33-46BB-87E8-42183A65BAED.webp?v=1779441066",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C149BB02-A924-44AB-9A81-CF17BC96D0F2.webp?v=1779441066"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15919737995651,
+      "name": "Oakland Athletics Bulletin Athletic MLB T-Shirt - Large White Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4330_e3a60352-91ea-4e36-8fda-0c0572ce63e3.jpg?v=1776956949",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4330_e3a60352-91ea-4e36-8fda-0c0572ce63e3.jpg?v=1776956949",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4332_82fc97e7-2234-4972-b61d-d85144a59242.jpg?v=1776956949",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4331_a11e795c-3182-4fe4-aa7e-08d870512798.jpg?v=1776956949"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/vintage-oakland-athletics-bulletin-athletic-t-shirt-mens-white-large-397600",
+      "available": true
+    },
     {
       "id": 15916236013955,
       "name": "New York Rangers Starter Single Stitch T-Shirt - Large Black Cotton",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-tommy-jeans-long-sleeve-t-shirt-mens-blue-medium-91248-a",
-      "available": true
-    },
-    {
-      "id": 15935553110403,
-      "name": "Aquascutum Graphic T-Shirt - Medium White Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4329_0431efad-ed9e-4ebf-93d8-b9c13275cf35.jpg?v=1777473042",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4329_0431efad-ed9e-4ebf-93d8-b9c13275cf35.jpg?v=1777473042",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4331_4b4d4d44-b210-4ce2-b407-64b934704ab4.jpg?v=1777473042",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4330_75d9a181-cdd3-4f3a-baad-54164a11e742.jpg?v=1777473041"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-aquascutum-t-shirt-mens-white-medium-398224",
       "available": true
     }
   ],
