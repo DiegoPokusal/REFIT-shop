@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15930003292547,
+      "name": "Christian Dior Pinstripe Blazer - Large Black Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26177_8a26d346-ab33-4141-9f2b-1758a998e6d2.jpg?v=1777363642",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26177_8a26d346-ab33-4141-9f2b-1758a998e6d2.jpg?v=1777363642",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26178_26c68faa-604d-485b-a2c9-d30a8e4943ab.jpg?v=1777363642",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_e6fc40c7-fb44-4def-9751-e8cf9d67f1f0.webp?v=1777363642"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-large-397995",
+      "available": true
+    },
+    {
       "id": 16008840577411,
       "name": "The North Face Waterproof Jacket - Medium Green Nylon",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/summit-series-the-north-face-ski-jacket-mens-red-medium-90573-a",
       "available": true
-    },
-    {
-      "id": 15950740980099,
-      "name": "Cropped 10X Detroit Style Camo Jacket - Large Camo Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D58794E3-E3D4-413B-9FA8-A88BB412FDD2.webp?v=1778140932",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/20D6932A-15DD-4515-8508-3EFBA386473E.webp?v=1778140932"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/cropped-10x-jacket-mens-camo-large-90531-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964911174019,
+      "name": "Rain Defender Carhartt Spellout Hoodie - Small Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C288C349-D136-4BC9-A776-0B344D73BD6A.webp?v=1778685722",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F6F18919-5539-431E-9CE3-EB9D1553BC59.webp?v=1778685723"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
+      "available": true
+    },
     {
       "id": 16008838775171,
       "name": "Polo By Ralph Lauren Striped Hooded Rugby Top Hoodie - Large Navy Acrylic",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/deleeuw-lumber-carhartt-hoodie-mens-navy-medium-98316-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964912386435,
-      "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
+      "id": 15950694482307,
+      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
       "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7980BC90-DB91-45CD-A6A2-E72925DA115C.webp?v=1778685743",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0DE883E-7243-4A85-906C-85D38803ACBA.webp?v=1778685743"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9E2EF43-5490-4C0C-9AF5-907C948D092C.webp?v=1778140510",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/08EE7634-71BD-489C-B56C-F6889C8503AF.webp?v=1778140511"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16008151695747,
       "name": "Mickey Mouse Mickey & Co. Cartoon Sweatshirt - Large Red Cotton Blend",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/original-fit-carhartt-sweatshirt-mens-grey-medium-98314-a",
       "available": true
-    },
-    {
-      "id": 15950926807427,
-      "name": "Reverse Weave Cal State Champion Sweatshirt - Medium Navy Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B0C5C70E-5745-40D5-A371-F9067CB0AA95.webp?v=1778143668",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0C5C70E-5745-40D5-A371-F9067CB0AA95.webp?v=1778143668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/339FECCA-C2C2-4230-AF25-DF81043E1FAC.webp?v=1778143668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A1866625-D8DA-4392-80BE-A97332796649.webp?v=1778143668"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/reverse-weave-cal-state-champion-sweatshirt-mens-navy-medium-91545-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15916235850115,
+      "name": "Dallas Cowboys Salem Single Stitch T-Shirt - Large Black Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/76E9D5BF-4E80-4230-A92A-105CE42D1C6F.webp?v=1776868861",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/76E9D5BF-4E80-4230-A92A-105CE42D1C6F.webp?v=1776868861",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/22A105C3-D51D-4397-A2E6-B23AD77EDDB9.webp?v=1776868860",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0ABD142-1D94-4E0E-8495-4AB38A729CA8.webp?v=1776868861"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/dallas-cowboys-salem-t-shirt-mens-black-large-87792-a",
+      "available": true
+    },
     {
       "id": 16008145437059,
       "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-oakland-athletics-bulletin-athletic-t-shirt-mens-white-large-397600",
-      "available": true
-    },
-    {
-      "id": 15916236013955,
-      "name": "New York Rangers Starter Single Stitch T-Shirt - Large Black Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0954BE63-BE74-40DF-9289-D83A333B5CA4.webp?v=1776868863",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/66B06C25-F776-4BE8-A187-71DCCC47ECEA.webp?v=1776868864"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/new-york-rangers-starter-t-shirt-mens-black-large-87793-a",
       "available": true
     }
   ],
