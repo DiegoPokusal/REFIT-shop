@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15930003292547,
+      "name": "Christian Dior Pinstripe Blazer - Large Black Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26177_8a26d346-ab33-4141-9f2b-1758a998e6d2.jpg?v=1777363642",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26177_8a26d346-ab33-4141-9f2b-1758a998e6d2.jpg?v=1777363642",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26178_26c68faa-604d-485b-a2c9-d30a8e4943ab.jpg?v=1777363642",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_e6fc40c7-fb44-4def-9751-e8cf9d67f1f0.webp?v=1777363642"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-large-397995",
+      "available": true
+    },
+    {
       "id": 15930002407811,
       "name": "Yves Saint Laurent Striped Blazer - Medium Brown Wool",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/canvas-tommy-hilfiger-windbreaker-mens-green-small-91565-a",
       "available": true
-    },
-    {
-      "id": 15950740980099,
-      "name": "Cropped 10X Detroit Style Camo Jacket - Large Camo Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D58794E3-E3D4-413B-9FA8-A88BB412FDD2.webp?v=1778140932",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/20D6932A-15DD-4515-8508-3EFBA386473E.webp?v=1778140932"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/cropped-10x-jacket-mens-camo-large-90531-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15935543181699,
+      "name": "Moschino Spellout Hoodie - Small Black Cotton Blend",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4180_d47bd385-9a3a-4995-bb4b-3500dcfc53e9.jpg?v=1777472951",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4180_d47bd385-9a3a-4995-bb4b-3500dcfc53e9.jpg?v=1777472951",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4181_bec6adff-67c4-4930-b0b1-eb193d0a81c9.jpg?v=1777472951",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_7e0c76ed-b8c3-46fe-9694-e466f7c7cdad.webp?v=1777472951"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/vintage-moschino-hoodie-mens-black-small-398190",
+      "available": true
+    },
     {
       "id": 15894678438275,
       "name": "Custom Patches Grand Canyon Harley Davidson Graphic Hoodie - Large Black Cotton Blend",
@@ -462,20 +479,20 @@
       "available": true
     },
     {
-      "id": 15874301952387,
-      "name": "Nike Hoodie - Large Green Cotton",
-      "price": 119,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
+      "id": 15964912386435,
+      "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/64719533-E3F0-4C82-B57E-0C6988962D9C.webp?v=1775034500",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD6799A4-211D-4C3F-BF31-C18195B70E81.webp?v=1775034500"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7980BC90-DB91-45CD-A6A2-E72925DA115C.webp?v=1778685743",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0DE883E-7243-4A85-906C-85D38803ACBA.webp?v=1778685743"
       ],
       "sizes": [
         "Large"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-82487-a",
+      "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
       "available": true
     },
     {
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-navy-large-99771-a",
       "available": true
-    },
-    {
-      "id": 16008825995651,
-      "name": "Polo Jeans Ralph Lauren Spellout Hoodie - Large Grey Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0800714D-7267-41B0-8431-967A64C3C79E.webp?v=1780582406",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0800714D-7267-41B0-8431-967A64C3C79E.webp?v=1780582406",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/691EF9A6-3AB9-42C1-B8F8-6F5DD69E8D29.webp?v=1780582406",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4394E3D5-C45A-469D-8F43-AF4883516CD9.webp?v=1780582406"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-hoodie-mens-grey-large-99762-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008151105923,
+      "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Grey Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7397703-D500-4677-8443-9037AB1E4AEC.webp?v=1780561656",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/36524FCB-1714-4A4B-A2F1-3CBD8949C1AA.webp?v=1780561656"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-small-99300-a",
+      "available": true
+    },
     {
       "id": 15864957403523,
       "name": "Versace Jeans Couture Graphic Sweatshirt - Small Black Cotton Blend",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/mickey-mouse-mickey-co-sweatshirt-mens-red-large-99288-a",
       "available": true
-    },
-    {
-      "id": 15935469355395,
-      "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4115_ae869931-d027-4e00-8b52-2e49be4852f6.jpg?v=1777472249",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_4589513d-e56f-429a-b587-59e0dc66c1af.webp?v=1777472249"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15916223070595,
+      "name": "Billy Ray Cyrus 1992 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton Blend",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B04F609A-657A-4A07-B876-6D148EA914B5.webp?v=1776868636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BFBC8DF-91F0-4543-94D5-3213E1E5824C.webp?v=1776868638"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
+      "available": true
+    },
     {
       "id": 16010028745091,
       "name": "Busy Works A Bathing Ape Graphic T-Shirt - Medium White Cotton",
@@ -1148,7 +1165,7 @@
     {
       "id": 15874412872067,
       "name": "Nature Graphics Harlequin Single Stitch T-Shirt - Medium Black Cotton",
-      "price": 112,
+      "price": 108,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/55C6971E-54C4-42A7-AC50-E736AA5E2391.webp?v=1775038150",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/55C6971E-54C4-42A7-AC50-E736AA5E2391.webp?v=1775038150",
@@ -1182,7 +1199,7 @@
     {
       "id": 16008145437059,
       "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
-      "price": 102,
+      "price": 103,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
@@ -1199,7 +1216,7 @@
     {
       "id": 16008142782851,
       "name": "Dale Earnhardt Chase Authentics Nascar T-Shirt - Medium Black Cotton",
-      "price": 102,
+      "price": 103,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/36338130-AF95-4371-8828-67712D26DE2A.webp?v=1780561232",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/36338130-AF95-4371-8828-67712D26DE2A.webp?v=1780561232",
@@ -1216,7 +1233,7 @@
     {
       "id": 16008142258563,
       "name": "Bobby Labonte Chase Authentics Nascar T-Shirt - Medium White Cotton",
-      "price": 102,
+      "price": 103,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A774FEA5-AB47-40FB-9DA7-B4BB757CDF68.webp?v=1780561197",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/A774FEA5-AB47-40FB-9DA7-B4BB757CDF68.webp?v=1780561197",
@@ -1335,7 +1352,7 @@
     {
       "id": 15873109885315,
       "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
-      "price": 139,
+      "price": 133,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
-      "available": true
-    },
-    {
-      "id": 15935499960707,
-      "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4115_7958c475-8fb6-48ee-a27b-eb97a72776cc.jpg?v=1777472599",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/WOMENS_5a9e9029-9804-4120-ad44-d4b11547f142.webp?v=1777472598"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-t-shirt-womens-white-medium-398073",
       "available": true
     }
   ],
