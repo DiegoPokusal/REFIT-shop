@@ -148,9 +148,16 @@
   @media (min-width: 600px) { .detail-modal { align-items: center; padding: 20px; } }
   .detail-modal.open { display: flex; }
   .detail-box { background: var(--gray); border: 1px solid var(--mid); width: 95%; max-width: 960px; animation: fadeUp 0.3s ease; }
-  .detail-photos { display: grid; grid-template-columns: 1fr; gap: 2px; }
-  @media (min-width: 600px) { .detail-photos { grid-template-columns: repeat(3, 1fr); } }
-  .detail-photos img { width: 100%; aspect-ratio: 3/4; object-fit: cover; }
+  .detail-carousel { position: relative; overflow: hidden; background: var(--mid); }
+  .detail-carousel-track { display: flex; transition: transform 0.35s ease; }
+  .detail-carousel-track img { min-width: 100%; width: 100%; aspect-ratio: 3/4; object-fit: cover; flex-shrink: 0; }
+  .carousel-btn { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(10,10,10,0.7); border: 1px solid rgba(255,255,255,0.2); color: var(--white); font-size: 1.2rem; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 10; transition: background 0.2s; }
+  .carousel-btn:hover { background: var(--red); }
+  .carousel-prev { left: 8px; }
+  .carousel-next { right: 8px; }
+  .carousel-dots { position: absolute; bottom: 12px; left: 50%; transform: translateX(-50%); display: flex; gap: 6px; }
+  .carousel-dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.4); cursor: pointer; transition: background 0.2s; }
+  .carousel-dot.active { background: var(--white); }
   .detail-info { padding: 20px 24px; }
   @media (min-width: 768px) { .detail-info { padding: 32px 40px; } }
   .detail-category { font-size: 0.55rem; letter-spacing: 0.2em; color: var(--text-muted); text-transform: uppercase; margin-bottom: 8px; }
@@ -342,9 +349,19 @@ function openDetail(id){
   if(!p)return;
   const imgs=(p.images||[]).filter(Boolean);
   if(!imgs.length && p.image) imgs.push(p.image);
+  let currentSlide=0;
   document.getElementById('detailBox').innerHTML=`
-    <div class="detail-photos">
-      ${imgs.slice(0,3).map(src=>`<img src="${src}" alt="${p.name}" onerror="this.style.display='none'">`).join('')}
+    <div class="detail-carousel">
+      <div class="detail-carousel-track" id="carouselTrack">
+        ${imgs.slice(0,3).map(src=>`<img src="${src}" alt="${p.name}" onerror="this.style.display='none'">`).join('')}
+      </div>
+      ${imgs.length > 1 ? `
+        <button class="carousel-btn carousel-prev" onclick="slideCarousel(-1)">&#8249;</button>
+        <button class="carousel-btn carousel-next" onclick="slideCarousel(1)">&#8250;</button>
+        <div class="carousel-dots">
+          ${imgs.slice(0,3).map((_,i)=>`<div class="carousel-dot ${i===0?'active':''}" onclick="goToSlide(${i})"></div>`).join('')}
+        </div>
+      ` : ''}
     </div>
     <div class="detail-info">
       <p class="detail-category">${getCategoryName(p.category)}</p>
@@ -354,6 +371,17 @@ function openDetail(id){
       <button class="detail-add-btn" onclick="addToCart(${p.id});closeDetail()">PRIDAŤ DO KOŠÍKA</button>
     </div>
   `;
+  window.slideCarousel = function(dir) {
+    const total = Math.min(imgs.length, 3);
+    currentSlide = (currentSlide + dir + total) % total;
+    document.getElementById('carouselTrack').style.transform = `translateX(-${currentSlide * 100}%)`;
+    document.querySelectorAll('.carousel-dot').forEach((d,i) => d.classList.toggle('active', i === currentSlide));
+  };
+  window.goToSlide = function(i) {
+    currentSlide = i;
+    document.getElementById('carouselTrack').style.transform = `translateX(-${currentSlide * 100}%)`;
+    document.querySelectorAll('.carousel-dot').forEach((d,j) => d.classList.toggle('active', j === currentSlide));
+  };
   document.getElementById('detailModal').classList.add('open');
   document.body.style.overflow='hidden';
 }
