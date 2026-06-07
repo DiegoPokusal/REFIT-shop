@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16008828060035,
+      "name": "The North Face Waterproof Ski Jacket - Large Red Gore-Tex",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FEB716DD-5FA8-46C0-BCC3-85B0A7F2F445.webp?v=1780582466",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BF60CDD-9D46-468B-9608-B1FEB2D52F33.webp?v=1780582466"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-ski-jacket-mens-red-large-100093-a",
+      "available": true
+    },
+    {
       "id": 16008827437443,
       "name": "Summit Series The North Face Jacket - Small Black Polyester",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/port-authority-jacket-mens-black-large-89158-a",
       "available": true
-    },
-    {
-      "id": 16008840577411,
-      "name": "The North Face Waterproof Jacket - Medium Green Nylon",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C0559058-003C-4111-972E-35CAF7D69447.webp?v=1780582766",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0559058-003C-4111-972E-35CAF7D69447.webp?v=1780582766",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/96A65D8E-95FC-46B2-B469-C91B9CDB44FE.webp?v=1780582766",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D08C2C63-456E-49FC-98A2-146318928690.webp?v=1780582767"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-waterproof-jacket-mens-green-medium-100083-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15919765520771,
+      "name": "USc Trojans Nike College Hoodie - Large Red Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A645B69A-D021-4554-8EF9-7CFA05B21738.webp?v=1776957834",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A645B69A-D021-4554-8EF9-7CFA05B21738.webp?v=1776957834",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4FE315C6-7EE8-409B-922D-D147D44DA504.webp?v=1776957833",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EC6F2FDD-0241-4E67-9145-5E4B21D7192E.webp?v=1776957834"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/usc-trojans-nike-hoodie-mens-red-large-88440-a",
+      "available": true
+    },
     {
       "id": 15894679814531,
       "name": "Harley Davidson Graphic Hoodie - Large Black Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-84644-a",
       "available": true
-    },
-    {
-      "id": 15950876868995,
-      "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E74E3BD0-5908-4F61-B62A-7B7D73F2100E.webp?v=1778142668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D8E2D9-01FA-4A75-A11D-A99CB54F8262.webp?v=1778142668"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/faded-avirex-hoodie-mens-grey-medium-91136-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15950694482307,
+      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9E2EF43-5490-4C0C-9AF5-907C948D092C.webp?v=1778140510",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/08EE7634-71BD-489C-B56C-F6889C8503AF.webp?v=1778140511"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
+      "available": true
+    },
     {
       "id": 15950693171587,
       "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-just-cavalli-sweatshirt-mens-black-medium-397189",
       "available": true
-    },
-    {
-      "id": 16006460965251,
-      "name": "Harley Davidson Graphic Sweatshirt - Medium Black Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E47E824E-3CA0-4BFD-B35D-25D4D016FF72.webp?v=1780478668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/38492C0D-C9B9-4E43-96CC-B8D100C55A4B.webp?v=1780478669"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-98545-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010027860355,
+      "name": "Stussy Spellout T-Shirt - Small Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/99122D99-B1D6-428F-AF5D-55DF4A77D5C6.webp?v=1780661426",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3D87BA6-C8F7-4BE7-96FE-80E002D4C325.webp?v=1780661426"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-small-100773-a",
+      "available": true
+    },
     {
       "id": 15995255128451,
       "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
@@ -1109,23 +1126,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-white-medium-91159-a",
-      "available": true
-    },
-    {
-      "id": 15876907925891,
-      "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
-      "price": 106,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5C6DA7F-77F2-49D7-B21E-051C459B09DC.webp?v=1775143308",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DBE3403-82AA-4259-8A38-30EA345E096B.webp?v=1775143308"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
       "available": true
     },
     {
