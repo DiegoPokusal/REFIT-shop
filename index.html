@@ -419,5 +419,11 @@ document.addEventListener('DOMContentLoaded',()=>{
   if(ce)ce.addEventListener('input',e=>{let v=e.target.value.replace(/\D/g,'').substring(0,4);if(v.length>=2)v=v.slice(0,2)+'/'+v.slice(2);e.target.value=v;});
 });
 </script>
+<!-- COOKIE CONSENT -->
+ <div id="cookieBanner" style="position:fixed;bottom:0;left:0;right:0;background:#1a1a1a;border-top:1px solid #2a2a2a;padding:16px 40px;display:flex;justify-content:space-between;align-items:center;z-index:3000;gap:20px">
+ <p style="font-size:0.65rem;color:#999;letter-spacing:0.1em;">Táto stránka používa nevyhnutné cookies na fungovanie košíka. <a href="/gdpr.html" style="color:#e63222;">Viac info</a></p>
+ <button onclick="document.getElementById('cookieBanner').style.display='none';localStorage.setItem('cookies','1')" style="background:#e63222;color:#fff;border:none;font-family:'Bebas Neue',sans-serif;font-size:0.9rem;letter-spacing:0.2em;padding:10px 24px;cursor:pointer;white-space:nowrap">SÚHLASÍM</button>
+ </div> 
+<script>if(localStorage.getItem('cookies'))document.getElementById('cookieBanner').style.display='none';</script>
 </body>
 </html>
