@@ -39,7 +39,8 @@
   .filters { display: flex; gap: 8px; flex-wrap: wrap; }
   .filter-btn { background: none; border: 1px solid var(--mid); color: var(--text-muted); font-family: 'Space Mono', monospace; font-size: 0.65rem; letter-spacing: 0.15em; padding: 8px 16px; cursor: none; transition: all 0.2s; text-transform: uppercase; }
   .filter-btn:hover, .filter-btn.active { background: var(--white); color: var(--black); border-color: var(--white); }
-  .product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 2px; }
+  .product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 2px; } 
+  @media (max-width: 600px) { .product-grid { grid-template-columns: repeat(2, 1fr); } }
   .product-card { background: var(--gray); position: relative; overflow: hidden; cursor: none; }
   .product-img { width: 100%; aspect-ratio: 3/4; background: var(--mid); position: relative; overflow: hidden; }
   .product-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease; }
