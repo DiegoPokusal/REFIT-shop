@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16008840577411,
+      "name": "The North Face Waterproof Jacket - Medium Green Nylon",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C0559058-003C-4111-972E-35CAF7D69447.webp?v=1780582766",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0559058-003C-4111-972E-35CAF7D69447.webp?v=1780582766",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/96A65D8E-95FC-46B2-B469-C91B9CDB44FE.webp?v=1780582766",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D08C2C63-456E-49FC-98A2-146318928690.webp?v=1780582767"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-waterproof-jacket-mens-green-medium-100083-a",
+      "available": true
+    },
+    {
       "id": 16008828060035,
       "name": "The North Face Waterproof Ski Jacket - Large Red Gore-Tex",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/biker-street-steel-jacket-mens-black-medium-88943-a",
       "available": true
-    },
-    {
-      "id": 15919573139843,
-      "name": "Port Authority Jacket - Large Black Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A5D7D07C-679A-4B08-B5F5-B44E88B4776C.webp?v=1776948311",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5D7D07C-679A-4B08-B5F5-B44E88B4776C.webp?v=1776948311",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/81BEE726-66E0-456A-9594-D21DB5E2CBA5.webp?v=1776948312",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3FF8BE6E-8E56-4DF5-8868-7A59F2B8CD2F.webp?v=1776948312"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/port-authority-jacket-mens-black-large-89158-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15950876868995,
+      "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E74E3BD0-5908-4F61-B62A-7B7D73F2100E.webp?v=1778142668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D8E2D9-01FA-4A75-A11D-A99CB54F8262.webp?v=1778142668"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/faded-avirex-hoodie-mens-grey-medium-91136-a",
+      "available": true
+    },
     {
       "id": 15919765520771,
       "name": "USc Trojans Nike College Hoodie - Large Red Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/custom-patches-grand-canyon-harley-davidson-hoodie-mens-black-large-85710-a",
       "available": true
-    },
-    {
-      "id": 15876235395459,
-      "name": "Polo By Ralph Lauren Hoodie - Large Grey Cotton",
-      "price": 126,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E365CE64-B82D-443D-80A5-C9BA43D727B0.webp?v=1775118867",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E365CE64-B82D-443D-80A5-C9BA43D727B0.webp?v=1775118867",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/15354101-1939-4140-8436-6AE9C391D1C3.webp?v=1775118867",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12A8664A-E9DA-4C63-BF7A-B232909B2A9E.webp?v=1775118867"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-84644-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16006460965251,
+      "name": "Harley Davidson Graphic Sweatshirt - Medium Black Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E47E824E-3CA0-4BFD-B35D-25D4D016FF72.webp?v=1780478668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/38492C0D-C9B9-4E43-96CC-B8D100C55A4B.webp?v=1780478669"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-98545-a",
+      "available": true
+    },
     {
       "id": 15950694482307,
       "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-sweatshirt-mens-black-small-397276",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15864946622851,
-      "name": "Just Cavalli Graphic Sweatshirt - Medium Black Cotton Blend",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
+      "id": 15876907925891,
+      "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
+      "price": 106,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3161_cbd752dc-1416-4fc7-a926-22a18d19f4aa.jpg?v=1774624518",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3162_1c7b6c3b-b7f7-46e0-89f5-a398204e026c.jpg?v=1774624518"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5C6DA7F-77F2-49D7-B21E-051C459B09DC.webp?v=1775143308",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DBE3403-82AA-4259-8A38-30EA345E096B.webp?v=1775143308"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vintage-just-cavalli-sweatshirt-mens-black-medium-397189",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16010027860355,
       "name": "Stussy Spellout T-Shirt - Small Black Cotton",
@@ -1131,7 +1148,7 @@
     {
       "id": 16008145437059,
       "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
-      "price": 102,
+      "price": 103,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
@@ -1148,7 +1165,7 @@
     {
       "id": 16008142782851,
       "name": "Dale Earnhardt Chase Authentics Nascar T-Shirt - Medium Black Cotton",
-      "price": 102,
+      "price": 103,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/36338130-AF95-4371-8828-67712D26DE2A.webp?v=1780561232",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/36338130-AF95-4371-8828-67712D26DE2A.webp?v=1780561232",
@@ -1165,7 +1182,7 @@
     {
       "id": 16008142258563,
       "name": "Bobby Labonte Chase Authentics Nascar T-Shirt - Medium White Cotton",
-      "price": 102,
+      "price": 103,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A774FEA5-AB47-40FB-9DA7-B4BB757CDF68.webp?v=1780561197",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/A774FEA5-AB47-40FB-9DA7-B4BB757CDF68.webp?v=1780561197",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/busy-works-a-bathing-ape-t-shirt-mens-white-medium-100791-a",
-      "available": true
-    },
-    {
-      "id": 16010027958659,
-      "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EEA58522-80B9-481F-9F3E-E1CE20741E1E.webp?v=1780661434",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/867DCFB0-9D3B-4248-AA96-EA9A4ED8E6B5.webp?v=1780661434"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/crown-stussy-t-shirt-womens-blue-small-100775-a",
       "available": true
     }
   ],
