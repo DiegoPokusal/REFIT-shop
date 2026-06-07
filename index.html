@@ -124,6 +124,7 @@
   .detail-modal.open { display: flex; }
   .detail-box { background: var(--gray); border: 1px solid var(--mid); width: 100%; max-width: 960px; max-height: 90vh; overflow-y: auto; animation: fadeUp 0.3s ease; }
   .detail-photos { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; }
+ @media (max-width: 600px) { .detail-photos { grid-template-columns: 1fr; } }
   .detail-photos img { width: 100%; aspect-ratio: 3/4; object-fit: cover; }
   .detail-info { padding: 32px 40px; }
   .detail-category { font-size: 0.6rem; letter-spacing: 0.25em; color: var(--text-muted); text-transform: uppercase; margin-bottom: 8px; }
