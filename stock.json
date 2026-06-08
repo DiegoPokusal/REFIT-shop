@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15950927921539,
+      "name": "Canvas Tommy Hilfiger Spellout Anorak Windbreaker - Small Green Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AAF45E7C-80A1-4D75-BC7F-57B1D0E97744.webp?v=1778143709",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AAF45E7C-80A1-4D75-BC7F-57B1D0E97744.webp?v=1778143709",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/28309210-2485-4EDE-97CF-C3A459FAC153.webp?v=1778143709",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9171D6F5-65B9-4E82-A12F-22F9570EA6F5.webp?v=1778143710"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/canvas-tommy-hilfiger-windbreaker-mens-green-small-91565-a",
+      "available": true
+    },
+    {
       "id": 15876920017283,
       "name": "Unbranded Flight Leather Jacket - Medium Brown Leather",
       "price": 145,
@@ -322,26 +339,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-brown-large-94068-a",
       "available": true
-    },
-    {
-      "id": 15960024940931,
-      "name": "Guess Puffer - Medium Green Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/09A5CCCA-DDC1-406F-8F62-ED2350580C3D.webp?v=1778487706",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/09A5CCCA-DDC1-406F-8F62-ED2350580C3D.webp?v=1778487706",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/333FC03F-A33F-4411-8522-520B900CF43E.webp?v=1778487707",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D1C90D2-7353-45B9-9476-3622389EB423.webp?v=1778487707"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/guess-puffer-mens-green-medium-94035-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16008838775171,
+      "name": "Polo By Ralph Lauren Striped Hooded Rugby Top Hoodie - Large Navy Acrylic",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/86EAD046-8AF4-4D44-91B7-15C832AFDC65.webp?v=1780582710",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/86EAD046-8AF4-4D44-91B7-15C832AFDC65.webp?v=1780582710",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6CFD41C2-1B60-4C31-BB6D-5009BBF14FD0.webp?v=1780582710",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C4C0124D-E425-42F0-A61D-F223AB06FF23.webp?v=1780582711"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-navy-large-99771-a",
+      "available": true
+    },
     {
       "id": 16014384136579,
       "name": "Quiksilver Spellout Hoodie - Large Black Cotton",
@@ -664,26 +681,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964917236099,
-      "name": "Carhartt Hoodie - Large Brown Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8A46E60D-EF29-4288-8996-A0D64AFE7519.webp?v=1778685855",
+      "id": 16008151695747,
+      "name": "Mickey Mouse Mickey & Co. Cartoon Sweatshirt - Large Red Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8A46E60D-EF29-4288-8996-A0D64AFE7519.webp?v=1778685855",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE47B39B-D352-4B35-AC34-71EBF08456FC.webp?v=1778685856",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FCE4D8A7-3473-43DA-A897-90F0DF9338DC.webp?v=1778685856"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1ADBC924-B04F-4336-B4D9-8345D62B8F21.webp?v=1780561698",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0D072E4-0178-4F0F-B6BD-9BB58595B5D6.webp?v=1780561699"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-brown-large-98319-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/mickey-mouse-mickey-co-sweatshirt-mens-red-large-99288-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15935469355395,
       "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
@@ -1006,26 +1023,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reverse-weave-cal-state-champion-sweatshirt-mens-navy-medium-91545-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15972705272195,
-      "name": "Adventure Team Marlboro Sweatshirt - Large Grey Cotton Blend",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/965AA292-4093-4838-89D7-F4FDF715CF74.webp?v=1779092189",
+      "id": 15873109885315,
+      "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
+      "price": 133,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/965AA292-4093-4838-89D7-F4FDF715CF74.webp?v=1779092189",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/00FC7E0E-1516-4207-95A2-6EB6CE86F821.webp?v=1779092190",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/73FB8785-C858-48F0-85EC-5EAC9595F760.webp?v=1779092190"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89D409F-CC4C-4875-A6CC-6C9DEA43E962.webp?v=1774961873",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8F10A35-41EF-4EC0-91C5-DD24F7AD4CB8.webp?v=1774961873"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/adventure-team-marlboro-sweatshirt-mens-grey-large-94772-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15935499960707,
       "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
@@ -1347,23 +1364,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-large-100782-a",
-      "available": true
-    },
-    {
-      "id": 15864944591235,
-      "name": "Moschino Graphic T-Shirt - Large Multicoloured Cotton",
-      "price": 126,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3121_65ed581a-4ad1-4645-b756-fc65625d7cc8.jpg?v=1774624481",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3121_65ed581a-4ad1-4645-b756-fc65625d7cc8.jpg?v=1774624481",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3123_8f8d21cf-38b1-4ba6-946e-b947e8d1eb1d.jpg?v=1774624481",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3122_982c44c3-72b6-45b6-b885-3840a039312a.jpg?v=1774624481"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-moncler-t-shirt-mens-multicoloured-large-397176",
       "available": true
     }
   ],
