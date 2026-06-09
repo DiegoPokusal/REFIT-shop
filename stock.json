@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15621239898499,
+      "name": "Bedale Barbour Checked Wax Jacket - Large Brown Cotton",
+      "price": 141,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CA6F2AFD-C82A-4AB1-9CBF-07D814DA9212.webp?v=1770217699",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA6F2AFD-C82A-4AB1-9CBF-07D814DA9212.webp?v=1770217699",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9FDA9A18-AC82-4FFE-977A-DC77985B3F4B.webp?v=1770217699",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB24B294-F865-4C94-A64F-6EA08A362E9F_e342562b-5024-4621-81e4-89401bd5f865.webp?v=1770217700"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/bedale-barbour-wax-jacket-mens-brown-large-76105-a",
+      "available": true
+    },
+    {
       "id": 15873021149571,
       "name": "National Championship American Cheer Power Varsity Jacket - Medium Black Wool Blend",
       "price": 139,
@@ -15,23 +32,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/national-championship-american-cheer-power-varsity-jacket-mens-black-medium-81022-a",
-      "available": true
-    },
-    {
-      "id": 15873020952963,
-      "name": "Reform Varsity Jacket - Small Black Leather",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/079F9A70-5EFE-4F34-B195-302C760BD171.webp?v=1774958329",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/079F9A70-5EFE-4F34-B195-302C760BD171.webp?v=1774958329",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9ADE3351-E3C6-4020-894B-12404CEEB37E.webp?v=1774958329",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/63ECFFC4-0221-42F2-8145-CA5B8EDA88D1.webp?v=1774958329"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/reform-varsity-jacket-mens-black-small-81019-a",
       "available": true
     },
     {
