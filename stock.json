@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15873020952963,
+      "name": "Reform Varsity Jacket - Small Black Leather",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/079F9A70-5EFE-4F34-B195-302C760BD171.webp?v=1774958329",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/079F9A70-5EFE-4F34-B195-302C760BD171.webp?v=1774958329",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9ADE3351-E3C6-4020-894B-12404CEEB37E.webp?v=1774958329",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63ECFFC4-0221-42F2-8145-CA5B8EDA88D1.webp?v=1774958329"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/reform-varsity-jacket-mens-black-small-81019-a",
+      "available": true
+    },
+    {
       "id": 15873020821891,
       "name": "North Woodstock Thunder Unbranded College Varsity Jacket - Medium Black Wool Blend",
       "price": 139,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/bedale-barbour-wax-jacket-mens-brown-large-76105-a",
       "available": true
-    },
-    {
-      "id": 15873021149571,
-      "name": "National Championship American Cheer Power Varsity Jacket - Medium Black Wool Blend",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/23BB80FA-73E2-428D-AFC0-E94B691C0D9E.webp?v=1774958337",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/23BB80FA-73E2-428D-AFC0-E94B691C0D9E.webp?v=1774958337",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DEE1BE61-5AEE-4AB5-BCE0-A697C12360A8.webp?v=1774958336",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/54D45D38-941E-486E-9492-DBEBCF542706.webp?v=1774958337"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/national-championship-american-cheer-power-varsity-jacket-mens-black-medium-81022-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15876878369155,
+      "name": "Nb Southern Railway Carhartt Hoodie - Large Black Cotton",
+      "price": 113,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ACB3F334-23A1-4CE0-B5E2-20E71CC18E3D.webp?v=1775142499",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ACB3F334-23A1-4CE0-B5E2-20E71CC18E3D.webp?v=1775142499",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/60B0ECBB-0A47-4F86-AF96-F1452B2C57D3.webp?v=1775142498",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1FC0CACE-DCB1-4EB2-9AFA-9748C5C844D9.webp?v=1775142499"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/nb-southern-railway-carhartt-hoodie-mens-black-large-84879-a",
+      "available": true
+    },
     {
       "id": 15876878172547,
       "name": "Carhartt Hoodie - Small Green Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-large-84871-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15876878467459,
-      "name": "Gjs Contracting Carhartt Hoodie - Large Black Cotton",
-      "price": 113,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F603FA6B-7524-4779-BCE8-C14312394E2C.webp?v=1775142501",
+      "id": 15910918848899,
+      "name": "Made In USA Guess Sweatshirt - Large Navy Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4D417FF5-BA54-433D-B9B3-67CD3FF2BA3D.webp?v=1776674028",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F603FA6B-7524-4779-BCE8-C14312394E2C.webp?v=1775142501",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7A55E39F-7C33-48E8-B37E-3ECDAEE9A6B5.webp?v=1775142501",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4F40E8A2-7D01-4BD7-BAB4-C84E54DD3127.webp?v=1775142502"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D417FF5-BA54-433D-B9B3-67CD3FF2BA3D.webp?v=1776674028",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FC8B4F13-220D-45E4-A10B-5B4612B3C13F.webp?v=1776674028",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7668C432-91BC-4945-868A-5F861E99DAE2.webp?v=1776674028"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/gjs-contracting-carhartt-hoodie-mens-black-large-84883-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-guess-sweatshirt-mens-navy-large-86069-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15889673617795,
       "name": "Carolina Panthers Nfl Football Sweatshirt - Large Black Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/awar-vans-sweatshirt-mens-black-medium-87856-a",
       "available": true
-    },
-    {
-      "id": 15910938739075,
-      "name": "Denver Broncos Logo 7 Graphic Sweatshirt - Medium Navy Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9520532C-63F3-4079-885A-1DAA720DC6E4.webp?v=1776674613",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9520532C-63F3-4079-885A-1DAA720DC6E4.webp?v=1776674613",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/03EBD5F0-BFFE-47F2-BD30-44C43486EBC5.webp?v=1776674613",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/26D8B8B5-F781-4AF0-B22F-25EB99614376.webp?v=1776674614"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/denver-broncos-logo-7-sweatshirt-mens-navy-medium-86537-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16008152514947,
+      "name": "Bugs Bunny Looney Tunes Cartoon T-Shirt - Large Black Cotton",
+      "price": 96,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B1732BA1-7FAD-4220-887E-DE20FC5096F6.webp?v=1780561757",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B1732BA1-7FAD-4220-887E-DE20FC5096F6.webp?v=1780561757",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/583D398B-EDD6-4570-AE7B-D051CD3FE118.webp?v=1780561757",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6EF0E72E-2F61-47E9-8777-4C97DA2A5E4E.webp?v=1780561757"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/bugs-bunny-looney-tunes-t-shirt-mens-black-large-99319-a",
+      "available": true
+    },
     {
       "id": 16008152023427,
       "name": "Taz Looney Tunes Cartoon Henley T-Shirt - Medium Grey Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/engelbert-world-tour-1991-screen-stars-t-shirt-mens-white-large-83902-a",
-      "available": true
-    },
-    {
-      "id": 16015494152579,
-      "name": "Ranger Ringer Camo T-Shirt - Large Camo Cotton",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/955B89BE-99BE-4055-8AA6-5466D5B8EBDD.webp?v=1780931991",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/955B89BE-99BE-4055-8AA6-5466D5B8EBDD.webp?v=1780931991",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EF2ADC1-22FC-44F1-9B2B-1B0FC5B7EDBB.webp?v=1780931991",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7A921FAE-FAA1-45C2-983D-EA8BC6E1FC8C.webp?v=1780931991"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/ranger-t-shirt-mens-camo-large-101049-a",
       "available": true
     }
   ]
