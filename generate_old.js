@@ -17,13 +17,17 @@ function getCategory(p) {
 function getCategoryName(cat) {
   return { jacket:'Bunda', hoodie:'Hoodie', sweatshirt:'Sweatshirt', tee:'Tričko', other:'Oblečenie' }[cat] || 'Oblečenie';
 }
-const jackets = available.filter(p => getCategory(p) === 'jacket').slice(0, 20);
-const hoodies = available.filter(p => getCategory(p) === 'hoodie').slice(0, 20);
-const sweatshirts = available.filter(p => getCategory(p) === 'sweatshirt').slice(0, 20);
-const tees = available.filter(p => getCategory(p) === 'tee').slice(0, 20);
-const display = [...jackets, ...hoodies, ...sweatshirts, ...tees];
-console.log(`👕 Bundy: ${jackets.length} | Hoodies: ${hoodies.length} | Sweatshirts: ${sweatshirts.length} | Tričká: ${tees.length}`);
-const productData = display.map(p => ({
+const jackets = available.filter(p => getCategory(p) === 'jacket').slice(0, 40);
+const hoodies = available.filter(p => getCategory(p) === 'hoodie').slice(0, 40);
+const sweatshirts = available.filter(p => getCategory(p) === 'sweatshirt').slice(0, 40);
+const tees = available.filter(p => getCategory(p) === 'tee').slice(0, 40);
+const allProducts = [...jackets, ...hoodies, ...sweatshirts, ...tees];
+
+const dropsProducts = allProducts.filter(p => p.price <= 80);
+const premiumProducts = allProducts.filter(p => p.price > 80 && p.price <= 145);
+
+console.log(`👕 DROPS: ${dropsProducts.length} | PREMIUM: ${premiumProducts.length}`);
+const productData = allProducts.map(p => ({
   id: p.id,
   name: p.name,
   price: p.price,
@@ -185,7 +189,7 @@ const html = `<!DOCTYPE html>
   .detail-box { background: var(--gray); border: 1px solid var(--mid); width: 95%; max-width: 960px; animation: fadeUp 0.3s ease; }
   .detail-carousel { position: relative; overflow: hidden; background: var(--mid); }
   .detail-carousel-track { display: flex; transition: transform 0.35s ease; }
-  .detail-carousel-track img { min-width: 100%; width: 100%; aspect-ratio: 4/5; object-fit: cover; flex-shrink: 0; }
+  .detail-carousel-track img { min-width: 100%; width: 100%; aspect-ratio: 3/4; object-fit: cover; flex-shrink: 0; }
   .carousel-btn { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(10,10,10,0.7); border: 1px solid rgba(255,255,255,0.2); color: var(--white); font-size: 1.2rem; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 10; transition: background 0.2s; }
   .carousel-btn:hover { background: var(--red); }
   .carousel-prev { left: 8px; }
@@ -251,16 +255,28 @@ const html = `<!DOCTYPE html>
 </section>
 <section class="shop-section" id="shop">
   <div class="section-header">
-    <h2 class="section-title">KOLEKCIA</h2>
+    <h2 class="section-title">DROPS</h2>
     <div class="filters">
-      <button class="filter-btn active" onclick="filterProducts('all', this)">Všetko</button>
-      <button class="filter-btn" onclick="filterProducts('jacket', this)">Bundy</button>
-      <button class="filter-btn" onclick="filterProducts('hoodie', this)">Hoodies</button>
-      <button class="filter-btn" onclick="filterProducts('sweatshirt', this)">Sweatshirts</button>
-      <button class="filter-btn" onclick="filterProducts('tee', this)">Tričká</button>
+      <button class="filter-btn active" onclick="filterProducts('all', this, 'drops')">Všetko</button>
+      <button class="filter-btn" onclick="filterProducts('jacket', this, 'drops')">Bundy</button>
+      <button class="filter-btn" onclick="filterProducts('hoodie', this, 'drops')">Hoodies</button>
+      <button class="filter-btn" onclick="filterProducts('sweatshirt', this, 'drops')">Sweatshirts</button>
+      <button class="filter-btn" onclick="filterProducts('tee', this, 'drops')">Tričká</button>
     </div>
   </div>
-  <div class="product-grid" id="productGrid"></div>
+  <div class="product-grid" id="dropsGrid"></div>
+
+  <div class="section-header" style="margin-top:80px;">
+    <h2 class="section-title">PREMIUM</h2>
+    <div class="filters">
+      <button class="filter-btn active" onclick="filterProducts('all', this, 'premium')">Všetko</button>
+      <button class="filter-btn" onclick="filterProducts('jacket', this, 'premium')">Bundy</button>
+      <button class="filter-btn" onclick="filterProducts('hoodie', this, 'premium')">Hoodies</button>
+      <button class="filter-btn" onclick="filterProducts('sweatshirt', this, 'premium')">Sweatshirts</button>
+      <button class="filter-btn" onclick="filterProducts('tee', this, 'premium')">Tričká</button>
+    </div>
+  </div>
+  <div class="product-grid" id="premiumGrid"></div>
 </section>
 <footer id="about">
   <div class="footer-logo">REFIT</div>
@@ -349,10 +365,15 @@ animRing();
 let cart=[];
 function getCategoryName(cat){return{jacket:'Bunda',hoodie:'Hoodie',sweatshirt:'Sweatshirt',tee:'Tričko',other:'Oblečenie'}[cat]||'Oblečenie';}
 
-function renderProducts(filter){
-  const grid=document.getElementById('productGrid');
-  const filtered=filter==='all'?PRODUCTS:PRODUCTS.filter(p=>p.category===filter);
-  grid.innerHTML=filtered.map(p=>\`
+const DROPS = PRODUCTS.filter(p => p.price <= 80);
+const PREMIUM = PRODUCTS.filter(p => p.price > 80);
+
+function renderProducts(filter, section){
+  const products = section === 'drops' ? DROPS : PREMIUM;
+  const gridId = section === 'drops' ? 'dropsGrid' : 'premiumGrid';
+  const grid = document.getElementById(gridId);
+  const filtered = filter === 'all' ? products : products.filter(p => p.category === filter);
+  grid.innerHTML = filtered.map(p=>\`
     <div class="product-card" onclick="openDetail(\${p.id})">
       <div class="product-img">
         <img src="\${p.image}" alt="\${p.name}" loading="lazy" onerror="this.style.display='none'">
@@ -373,10 +394,11 @@ function renderProducts(filter){
   \`).join('');
 }
 
-function filterProducts(filter,btn){
-  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+function filterProducts(filter, btn, section){
+  const prefix = section === 'drops' ? 'drops' : 'premium';
+  btn.closest('.section-header').querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
-  renderProducts(filter);
+  renderProducts(filter, section);
 }
 
 function openDetail(id){
