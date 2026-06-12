@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15894685876611,
+      "name": "The North Face Puffer - Large Yellow Nylon",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4C080CB3-2153-4478-BF32-8900320B461E.webp?v=1776070058",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4C080CB3-2153-4478-BF32-8900320B461E.webp?v=1776070058",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/289D04C9-4965-46FC-BB5C-15ECFF369251.webp?v=1776070058",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B4252F8E-8FA3-4A57-8993-91222352591A.webp?v=1776070058"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-yellow-large-85837-a",
+      "available": true
+    },
+    {
       "id": 15894688006531,
       "name": "The North Face Jacket - Small Black Polyester",
       "price": 145,
@@ -15,23 +32,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-black-small-85841-a",
-      "available": true
-    },
-    {
-      "id": 15876265640323,
-      "name": "Armani Exchange Biker Jacket - Medium Black Cotton Blend",
-      "price": 142,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/985C3DC3-C776-494A-80AB-B5B4783AB5FE.webp?v=1775119425",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/985C3DC3-C776-494A-80AB-B5B4783AB5FE.webp?v=1775119425",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA3757C9-7B3B-4955-8E3F-A223BCB9ED3F.webp?v=1775119425",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/033746DC-F410-41CE-B5E0-B909D0D218B6.webp?v=1775119425"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/armani-exchange-jacket-mens-black-medium-82684-a",
       "available": true
     },
     {
@@ -1006,6 +1006,23 @@
       "available": true
     },
     {
+      "id": 15894690890115,
+      "name": "Carhartt Quilted Lined Hoodie - Large Blue Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D6F7404B-96F9-4C58-840B-47D077AA0DC9.webp?v=1776070281",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D6F7404B-96F9-4C58-840B-47D077AA0DC9.webp?v=1776070281",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C76763EC-15F2-4FF5-871F-DBF4A4C9542B.webp?v=1776070281",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EBA9B4D-097C-4ADF-8783-B1AFB24C96F2.webp?v=1776070282"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-blue-large-85925-a",
+      "available": true
+    },
+    {
       "id": 15894679814531,
       "name": "Harley Davidson Graphic Hoodie - Large Black Cotton",
       "price": 123,
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-grey-large-89236-a",
       "available": true
-    },
-    {
-      "id": 15894690922883,
-      "name": "Carhartt Thermal Lined J149 Hoodie - Small Black Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EF28144-01D5-476E-A483-9551DC0AEB23.webp?v=1776070283",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EF28144-01D5-476E-A483-9551DC0AEB23.webp?v=1776070283",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9F9B956C-C9E7-4DE2-B92B-37AA6938D7A5.webp?v=1776070283",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E346843-B156-4613-83FF-DA6A49EAA18D.webp?v=1776070284"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-85913-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008133378435,
+      "name": "Made In USA Csa Atlanta Falcons Sweatshirt - Medium Black Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A4AA7F85-1785-4B31-A871-A7812B06EEDD.webp?v=1780560878",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A4AA7F85-1785-4B31-A871-A7812B06EEDD.webp?v=1780560878",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/70922CC4-714C-42D9-93C7-8EC6E0F01BF8.webp?v=1780560878",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D5C574C-FA2B-4220-B054-90ACF2F8BE02.webp?v=1780560878"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-csa-sweatshirt-mens-black-medium-99013-a",
+      "available": true
+    },
     {
       "id": 15950900658563,
       "name": "90S Tommy Hilfiger Spellout Sweatshirt - Large White Cotton",
@@ -1688,23 +1705,6 @@
       "available": true
     },
     {
-      "id": 15921452122499,
-      "name": "90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7186A8B4-68C9-438D-A615-282766C1076B.webp?v=1777031886",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08AF220C-3BEA-4928-8625-565AFFC4848E.webp?v=1777031886"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a",
-      "available": true
-    },
-    {
       "id": 15894679650691,
       "name": "Harley Davidson Graphic Sweatshirt - Small Black Cotton",
       "price": 107,
@@ -1719,6 +1719,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-small-85686-a",
+      "available": true
+    },
+    {
+      "id": 15921452122499,
+      "name": "90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7186A8B4-68C9-438D-A615-282766C1076B.webp?v=1777031886",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/08AF220C-3BEA-4928-8625-565AFFC4848E.webp?v=1777031886"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a",
       "available": true
     },
     {
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-red-large-99011-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16008134984067,
-      "name": "Made In USA Logo 7 Washington Redskins Sweatshirt - Medium Burgundy Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B312C2CD-670D-4673-AADB-A4DE8AD23651.webp?v=1780560940",
+      "id": 16010029269379,
+      "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B312C2CD-670D-4673-AADB-A4DE8AD23651.webp?v=1780560940",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A05D9A52-F19F-4FD4-9DEA-B2D751434FFA.webp?v=1780560939",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9422F2C4-425E-479E-89A0-C774383780D0.webp?v=1780560940"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E8B2A29-4229-42CD-A263-38CBB099A228.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D56D913C-E5E5-4F02-B2F3-FE1932074832.webp?v=1780661505"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-logo-7-sweatshirt-mens-burgundy-medium-99083-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/mouse-graphic-stussy-t-shirt-mens-blue-medium-100803-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16024440439171,
       "name": "Macho Man Nwo Oneita Single Stitch T-Shirt - Large Black Cotton",
@@ -2098,20 +2115,37 @@
       "available": true
     },
     {
-      "id": 16005491753347,
-      "name": "Burberry Long Sleeve T-Shirt - Medium Grey Cotton",
+      "id": 16024433918339,
+      "name": "Country America '96 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton",
       "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7CABAFD0-4859-4950-A670-8FB6E8D47956.webp?v=1780413944",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7CABAFD0-4859-4950-A670-8FB6E8D47956.webp?v=1780413944",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EA58122-93E9-4EC1-A179-8C8A20B6CC43.webp?v=1780413943",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0FD45BBE-38CA-4B2D-9C82-F46B60914456.webp?v=1780413944"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BC13883E-BA62-4088-8D98-FB646FFD22A9.webp?v=1781276472",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6CA2ADE1-BB06-426F-B4F5-806CA9FE70FF.webp?v=1781276472"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/burberry-long-sleeve-t-shirt-mens-grey-medium-97875-a",
+      "url": "https://www.thrifted.com/products/country-america-96-fruit-of-the-loom-t-shirt-mens-black-large-101999-a",
+      "available": true
+    },
+    {
+      "id": 16024419959171,
+      "name": "Everything Louder Than Everything Else World Tour 93, 94, 95 Meat Loaf Single Stitch T-Shirt - Small Black Cotton",
+      "price": 96,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/68ECC2C8-6650-49D0-A94F-DBD59C9B222F.webp?v=1781275992",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/24BC000A-97CE-42FE-8502-8104ED57E4AD.webp?v=1781275992"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/everything-louder-than-everything-else-world-tour-93-94-95-meat-loaf-t-shirt-mens-black-small-101998-a",
       "available": true
     },
     {
@@ -2146,23 +2180,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/bugs-bunny-looney-tunes-t-shirt-mens-black-large-99319-a",
-      "available": true
-    },
-    {
-      "id": 16008152023427,
-      "name": "Taz Looney Tunes Cartoon Henley T-Shirt - Medium Grey Cotton",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/746BB928-6D1E-4108-B093-B443549992EE.webp?v=1780561722",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/746BB928-6D1E-4108-B093-B443549992EE.webp?v=1780561722",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/56101AD1-2E77-4228-9BCF-794EDE7670B0.webp?v=1780561723",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/421FF982-5132-4DB5-9604-DEC91DBC0E71.webp?v=1780561723"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/taz-looney-tunes-t-shirt-mens-grey-medium-99307-a",
       "available": true
     },
     {
@@ -2285,20 +2302,20 @@
       "available": true
     },
     {
-      "id": 15998257037699,
-      "name": "Made In USA Basketball Camp Nike Graphic T-Shirt - Medium White Cotton",
+      "id": 16008152023427,
+      "name": "Taz Looney Tunes Cartoon Henley T-Shirt - Medium Grey Cotton",
       "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1A52FA93-953F-450D-A6B0-6224F76D5BDB.webp?v=1780059612",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/746BB928-6D1E-4108-B093-B443549992EE.webp?v=1780561722",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A52FA93-953F-450D-A6B0-6224F76D5BDB.webp?v=1780059612",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/89DDFDF8-657A-4B72-B948-6D3AA0614F07.webp?v=1780059612",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5DE8822-790A-48E0-951E-9BD62750BEB4.webp?v=1780059613"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/746BB928-6D1E-4108-B093-B443549992EE.webp?v=1780561722",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/56101AD1-2E77-4228-9BCF-794EDE7670B0.webp?v=1780561723",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/421FF982-5132-4DB5-9604-DEC91DBC0E71.webp?v=1780561723"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-usa-basketball-camp-nike-t-shirt-mens-white-medium-97226-a",
+      "url": "https://www.thrifted.com/products/taz-looney-tunes-t-shirt-mens-grey-medium-99307-a",
       "available": true
     },
     {
@@ -2472,20 +2489,20 @@
       "available": true
     },
     {
-      "id": 15998254121347,
-      "name": "90S Made In USA Charlotte Hornets Nba Graphic T-Shirt - Large Blue Cotton",
+      "id": 16005491753347,
+      "name": "Burberry Long Sleeve T-Shirt - Medium Grey Cotton",
       "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0A7D42B6-F68A-4682-9CF1-7D8559FF6FCA.webp?v=1780059507",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7CABAFD0-4859-4950-A670-8FB6E8D47956.webp?v=1780413944",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A7D42B6-F68A-4682-9CF1-7D8559FF6FCA.webp?v=1780059507",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/57EC3952-D9D6-4B22-9CD5-5692165B14AE.webp?v=1780059507",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2E0E9839-7ACC-4A54-AA07-F68F467D9E4B.webp?v=1780059506"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7CABAFD0-4859-4950-A670-8FB6E8D47956.webp?v=1780413944",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EA58122-93E9-4EC1-A179-8C8A20B6CC43.webp?v=1780413943",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0FD45BBE-38CA-4B2D-9C82-F46B60914456.webp?v=1780413944"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-charlotte-hornets-nba-t-shirt-mens-blue-large-97193-a",
+      "url": "https://www.thrifted.com/products/burberry-long-sleeve-t-shirt-mens-grey-medium-97875-a",
       "available": true
     },
     {
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/a3sth3tic-diesel-long-sleeve-t-shirt-mens-black-medium-100436-a",
-      "available": true
-    },
-    {
-      "id": 16006465913219,
-      "name": "Barnett Harley-Davidson El Paso, Texas Harley Davidson Graphic Long Sleeve T-Shirt - Small Black Cotton",
-      "price": 100,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/669D60FD-386B-4E30-A612-A8C6F0338E4E.webp?v=1780478818",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/669D60FD-386B-4E30-A612-A8C6F0338E4E.webp?v=1780478818",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0F38D8C2-F9F8-46C8-A50A-F075763FB40F.webp?v=1780478818",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A839365D-D098-4F75-96F8-B6C2AF272755.webp?v=1780478819"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/barnett-harley-davidson-el-paso-texas-harley-davidson-long-sleeve-t-shirt-mens-black-small-98577-a",
       "available": true
     }
   ]
