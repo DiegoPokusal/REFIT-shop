@@ -44,6 +44,22 @@
 
   .shop-section { padding: 80px 16px 40px; }
   @media (min-width: 768px) { .shop-section { padding: 100px 40px 40px; } }
+  .section-toggle { display: flex; gap: 12px; margin-bottom: 48px; }
+  .toggle-btn { flex: 1; padding: 20px 16px; border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.3rem; letter-spacing: 0.2em; cursor: pointer; transition: all 0.3s; position: relative; overflow: hidden; }
+  @media (min-width: 600px) { .toggle-btn { font-size: 1.6rem; padding: 24px 32px; } }
+  .toggle-drops { background: var(--mid); color: var(--text-muted); border: 1px solid var(--mid); }
+  .toggle-drops.active { background: var(--white); color: var(--black); border-color: var(--white); }
+  .toggle-premium { background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460); color: #aaa; border: 1px solid #333; }
+  .toggle-premium.active { background: linear-gradient(135deg, #b8860b, #daa520, #ffd700, #c0a060, #8b7536); color: var(--black); border-color: #ffd700; box-shadow: 0 0 20px rgba(218,165,32,0.4); }
+  .toggle-premium.active::before { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.15) 50%, transparent 100%); animation: shimmer 2s infinite; }
+  @keyframes shimmer { from { transform: translateX(-100%); } to { transform: translateX(100%); } }
+  .toggle-label { font-size: 0.55rem; letter-spacing: 0.2em; display: block; margin-top: 4px; }
+  .toggle-drops .toggle-label { color: var(--text-muted); }
+  .toggle-drops.active .toggle-label { color: #555; }
+  .toggle-premium .toggle-label { color: #666; }
+  .toggle-premium.active .toggle-label { color: rgba(0,0,0,0.6); }
+  .shop-panel { display: none; }
+  .shop-panel.active { display: block; }
   .section-header { display: flex; flex-direction: column; gap: 16px; margin-bottom: 24px; border-bottom: 1px solid var(--mid); padding-bottom: 20px; }
   @media (min-width: 600px) { .section-header { flex-direction: row; justify-content: space-between; align-items: flex-end; margin-bottom: 40px; } }
   .section-title { font-family: 'Bebas Neue', sans-serif; font-size: 2.5rem; letter-spacing: 0.1em; }
@@ -215,29 +231,44 @@
   </div>
 </section>
 <section class="shop-section" id="shop">
-  <div class="section-header">
-    <h2 class="section-title">DROPS</h2>
-    <div class="filters">
-      <button class="filter-btn active" onclick="filterProducts('all', this, 'drops')">Všetko</button>
-      <button class="filter-btn" onclick="filterProducts('jacket', this, 'drops')">Bundy</button>
-      <button class="filter-btn" onclick="filterProducts('hoodie', this, 'drops')">Hoodies</button>
-      <button class="filter-btn" onclick="filterProducts('sweatshirt', this, 'drops')">Sweatshirts</button>
-      <button class="filter-btn" onclick="filterProducts('tee', this, 'drops')">Tričká</button>
-    </div>
+  <div class="section-toggle">
+    <button class="toggle-btn toggle-drops active" onclick="switchSection('drops')">
+      DROPS
+      <span class="toggle-label">Do 110€ · Každodenný štýl</span>
+    </button>
+    <button class="toggle-btn toggle-premium" onclick="switchSection('premium')">
+      ✦ PREMIUM
+      <span class="toggle-label">110–145€ · Značkové kúsky</span>
+    </button>
   </div>
-  <div class="product-grid" id="dropsGrid"></div>
 
-  <div class="section-header" style="margin-top:80px;">
-    <h2 class="section-title">PREMIUM</h2>
-    <div class="filters">
-      <button class="filter-btn active" onclick="filterProducts('all', this, 'premium')">Všetko</button>
-      <button class="filter-btn" onclick="filterProducts('jacket', this, 'premium')">Bundy</button>
-      <button class="filter-btn" onclick="filterProducts('hoodie', this, 'premium')">Hoodies</button>
-      <button class="filter-btn" onclick="filterProducts('sweatshirt', this, 'premium')">Sweatshirts</button>
-      <button class="filter-btn" onclick="filterProducts('tee', this, 'premium')">Tričká</button>
+  <div class="shop-panel active" id="dropsPanel">
+    <div class="section-header">
+      <h2 class="section-title">DROPS</h2>
+      <div class="filters">
+        <button class="filter-btn active" onclick="filterProducts('all', this, 'drops')">Všetko</button>
+        <button class="filter-btn" onclick="filterProducts('jacket', this, 'drops')">Bundy</button>
+        <button class="filter-btn" onclick="filterProducts('hoodie', this, 'drops')">Hoodies</button>
+        <button class="filter-btn" onclick="filterProducts('sweatshirt', this, 'drops')">Sweatshirts</button>
+        <button class="filter-btn" onclick="filterProducts('tee', this, 'drops')">Tričká</button>
+      </div>
     </div>
+    <div class="product-grid" id="dropsGrid"></div>
   </div>
-  <div class="product-grid" id="premiumGrid"></div>
+
+  <div class="shop-panel" id="premiumPanel">
+    <div class="section-header">
+      <h2 class="section-title">✦ PREMIUM</h2>
+      <div class="filters">
+        <button class="filter-btn active" onclick="filterProducts('all', this, 'premium')">Všetko</button>
+        <button class="filter-btn" onclick="filterProducts('jacket', this, 'premium')">Bundy</button>
+        <button class="filter-btn" onclick="filterProducts('hoodie', this, 'premium')">Hoodies</button>
+        <button class="filter-btn" onclick="filterProducts('sweatshirt', this, 'premium')">Sweatshirts</button>
+        <button class="filter-btn" onclick="filterProducts('tee', this, 'premium')">Tričká</button>
+      </div>
+    </div>
+    <div class="product-grid" id="premiumGrid"></div>
+  </div>
 </section>
 <footer id="about">
   <div class="footer-logo">REFIT</div>
