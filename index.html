@@ -326,8 +326,8 @@ animRing();
 let cart=[];
 function getCategoryName(cat){return{jacket:'Bunda',hoodie:'Hoodie',sweatshirt:'Sweatshirt',tee:'Tričko',other:'Oblečenie'}[cat]||'Oblečenie';}
 
-const DROPS = PRODUCTS.filter(p => p.price <= 80);
-const PREMIUM = PRODUCTS.filter(p => p.price > 80);
+const DROPS = PRODUCTS.filter(p => p.price <= 110);
+const PREMIUM = PRODUCTS.filter(p => p.price > 110);
 
 function renderProducts(filter, section){
   const products = section === 'drops' ? DROPS : PREMIUM;
@@ -486,7 +486,8 @@ function placeOrder(){
 }
 
 document.addEventListener('DOMContentLoaded',()=>{
-  renderProducts('all');
+  renderProducts('all', 'drops');
+  renderProducts('all', 'premium');
   const cn=document.getElementById('cardNum');
   if(cn)cn.addEventListener('input',e=>{let v=e.target.value.replace(/\D/g,'').substring(0,16);e.target.value=v.replace(/(.{4})/g,'$1 ').trim();});
   const ce=document.getElementById('cardExp');
