@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15894688006531,
+      "name": "The North Face Jacket - Small Black Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/03271850-645A-4B56-AA06-0F77C1E7DD74.webp?v=1776070146",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/03271850-645A-4B56-AA06-0F77C1E7DD74.webp?v=1776070146",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27352BA-4EFF-4E94-8B07-FEBF82C3DD32.webp?v=1776070146",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2602D4ED-781C-48C9-8D45-5860B2757FCD.webp?v=1776070146"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-black-small-85841-a",
+      "available": true
+    },
+    {
       "id": 15876265640323,
       "name": "Armani Exchange Biker Jacket - Medium Black Cotton Blend",
       "price": 142,
@@ -392,23 +409,6 @@
       "available": true
     },
     {
-      "id": 15929996018051,
-      "name": "Christian Dior Striped Blazer - Medium Grey Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26109_5295395c-9a83-4630-93f9-5e87f940d3eb.jpg?v=1777363574",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_492caa45-d422-45fc-9d57-503b0d19e6b5.webp?v=1777363573"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-medium-397967",
-      "available": true
-    },
-    {
       "id": 15929997721987,
       "name": "Christian Dior Checked Blazer - Medium Navy Wool",
       "price": 145,
@@ -423,6 +423,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397981",
+      "available": true
+    },
+    {
+      "id": 15929996018051,
+      "name": "Christian Dior Striped Blazer - Medium Grey Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26109_5295395c-9a83-4630-93f9-5e87f940d3eb.jpg?v=1777363574",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_492caa45-d422-45fc-9d57-503b0d19e6b5.webp?v=1777363573"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-medium-397967",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/marlboro-jacket-mens-red-medium-86079-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15894685876611,
-      "name": "The North Face Puffer - Large Yellow Nylon",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4C080CB3-2153-4478-BF32-8900320B461E.webp?v=1776070058",
+      "id": 15894690759043,
+      "name": "Presto Carpentry Painting Roofing Carhartt Thermal Lined J149 Hoodie - Large Grey Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CCFCA55B-EEEB-43F0-A42F-6396BCE941CB.webp?v=1776070275",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4C080CB3-2153-4478-BF32-8900320B461E.webp?v=1776070058",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/289D04C9-4965-46FC-BB5C-15ECFF369251.webp?v=1776070058",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B4252F8E-8FA3-4A57-8993-91222352591A.webp?v=1776070058"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CCFCA55B-EEEB-43F0-A42F-6396BCE941CB.webp?v=1776070275",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D81B48D-54C9-4A6E-95A3-B382B488DEE6.webp?v=1776070275",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D74810E-7039-4011-9E69-8D2D2E43866A.webp?v=1776070276"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-yellow-large-85837-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/presto-carpentry-painting-roofing-carhartt-hoodie-mens-grey-large-85912-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15874301952387,
       "name": "Nike Hoodie - Large Green Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-85913-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15894690890115,
-      "name": "Carhartt Quilted Lined Hoodie - Large Blue Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D6F7404B-96F9-4C58-840B-47D077AA0DC9.webp?v=1776070281",
+      "id": 15950900658563,
+      "name": "90S Tommy Hilfiger Spellout Sweatshirt - Large White Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/227C3D64-2DE1-4691-AA21-6C19AE8DA2B0.webp?v=1778143117",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D6F7404B-96F9-4C58-840B-47D077AA0DC9.webp?v=1776070281",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C76763EC-15F2-4FF5-871F-DBF4A4C9542B.webp?v=1776070281",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EBA9B4D-097C-4ADF-8783-B1AFB24C96F2.webp?v=1776070282"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/227C3D64-2DE1-4691-AA21-6C19AE8DA2B0.webp?v=1778143117",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E1D6E5E-6C35-44B7-807B-39684FB15B6B.webp?v=1778143117",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5702DF87-9549-49C4-997D-1B617F3F89B7.webp?v=1778143119"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-blue-large-85925-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-tommy-hilfiger-sweatshirt-mens-white-large-91236-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15889673617795,
       "name": "Carolina Panthers Nfl Football Sweatshirt - Large Black Cotton",
@@ -2026,41 +2043,24 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-logo-7-sweatshirt-mens-burgundy-medium-99083-a",
       "available": true
-    },
-    {
-      "id": 16008133378435,
-      "name": "Made In USA Csa Atlanta Falcons Sweatshirt - Medium Black Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A4AA7F85-1785-4B31-A871-A7812B06EEDD.webp?v=1780560878",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A4AA7F85-1785-4B31-A871-A7812B06EEDD.webp?v=1780560878",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/70922CC4-714C-42D9-93C7-8EC6E0F01BF8.webp?v=1780560878",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D5C574C-FA2B-4220-B054-90ACF2F8BE02.webp?v=1780560878"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-csa-sweatshirt-mens-black-medium-99013-a",
-      "available": true
     }
   ],
   "tee": [
     {
-      "id": 16010029269379,
-      "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+      "id": 16024440439171,
+      "name": "Macho Man Nwo Oneita Single Stitch T-Shirt - Large Black Cotton",
+      "price": 96,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/72D326D0-0BB8-4877-B902-F9C5CFBA4026.webp?v=1781276807",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E8B2A29-4229-42CD-A263-38CBB099A228.webp?v=1780661505",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D56D913C-E5E5-4F02-B2F3-FE1932074832.webp?v=1780661505"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/72D326D0-0BB8-4877-B902-F9C5CFBA4026.webp?v=1781276807",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/62D05E92-B176-4659-A078-73AC6A798AC2.webp?v=1781276801",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1FBD16B9-1353-4B0C-A921-95AD426FF2E9.webp?v=1781276802"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/mouse-graphic-stussy-t-shirt-mens-blue-medium-100803-a",
+      "url": "https://www.thrifted.com/products/macho-man-nwo-oneita-t-shirt-mens-black-large-101919-a",
       "available": true
     },
     {
