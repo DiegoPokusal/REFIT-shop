@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15876265640323,
+      "name": "Armani Exchange Biker Jacket - Medium Black Cotton Blend",
+      "price": 142,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/985C3DC3-C776-494A-80AB-B5B4783AB5FE.webp?v=1775119425",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/985C3DC3-C776-494A-80AB-B5B4783AB5FE.webp?v=1775119425",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA3757C9-7B3B-4955-8E3F-A223BCB9ED3F.webp?v=1775119425",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/033746DC-F410-41CE-B5E0-B909D0D218B6.webp?v=1775119425"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/armani-exchange-jacket-mens-black-medium-82684-a",
+      "available": true
+    },
+    {
       "id": 15894685876611,
       "name": "The North Face Puffer - Large Yellow Nylon",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-jacket-mens-black-medium-83101-a",
       "available": true
-    },
-    {
-      "id": 15910920323459,
-      "name": "Marlboro Hunting Barn Jacket - Medium Red Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BE1780ED-06DD-4D8C-A949-73B28D6AAC75.webp?v=1776674065",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE1780ED-06DD-4D8C-A949-73B28D6AAC75.webp?v=1776674065",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CAE6A1BC-84BD-4016-8E01-F0BF81DEFEAF.webp?v=1776674065",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5E8F885-42B2-4A41-AFAA-703AB1C4AD35.webp?v=1776674065"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/marlboro-jacket-mens-red-medium-86079-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15894690922883,
+      "name": "Carhartt Thermal Lined J149 Hoodie - Small Black Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EF28144-01D5-476E-A483-9551DC0AEB23.webp?v=1776070283",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EF28144-01D5-476E-A483-9551DC0AEB23.webp?v=1776070283",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9F9B956C-C9E7-4DE2-B92B-37AA6938D7A5.webp?v=1776070283",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E346843-B156-4613-83FF-DA6A49EAA18D.webp?v=1776070284"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-85913-a",
+      "available": true
+    },
     {
       "id": 15894690759043,
       "name": "Presto Carpentry Painting Roofing Carhartt Thermal Lined J149 Hoodie - Large Grey Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/90s-willamette-softball-nike-hoodie-mens-red-large-86874-a",
       "available": true
-    },
-    {
-      "id": 15916193120643,
-      "name": "Harley Davidson Graphic Hoodie - Large Grey Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/88EEBA5F-D83E-4DBA-A1E2-FD24BD61125B.webp?v=1776868107",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/35369B65-7399-4040-A814-C08705D4F7B9.webp?v=1776868108"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-grey-large-89236-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008134984067,
+      "name": "Made In USA Logo 7 Washington Redskins Sweatshirt - Medium Burgundy Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B312C2CD-670D-4673-AADB-A4DE8AD23651.webp?v=1780560940",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B312C2CD-670D-4673-AADB-A4DE8AD23651.webp?v=1780560940",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A05D9A52-F19F-4FD4-9DEA-B2D751434FFA.webp?v=1780560939",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9422F2C4-425E-479E-89A0-C774383780D0.webp?v=1780560940"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-logo-7-sweatshirt-mens-burgundy-medium-99083-a",
+      "available": true
+    },
     {
       "id": 16008133378435,
       "name": "Made In USA Csa Atlanta Falcons Sweatshirt - Medium Black Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-fruit-of-the-loom-sweatshirt-mens-black-large-99024-a",
       "available": true
-    },
-    {
-      "id": 16008135410051,
-      "name": "Made In USA Nutmeg San Francisco 49Ers Sweatshirt - Large Red Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9250E13B-A129-46E4-A333-2FD09EFD5F7D.webp?v=1780560974",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9250E13B-A129-46E4-A333-2FD09EFD5F7D.webp?v=1780560974",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2EFA2D94-8F84-46C9-9C63-2DF1AA816DEE.webp?v=1780560974",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A317A636-44A4-48A7-B897-913145D0B7FD.webp?v=1780560975"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-red-large-99011-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16006465913219,
+      "name": "Barnett Harley-Davidson El Paso, Texas Harley Davidson Graphic Long Sleeve T-Shirt - Small Black Cotton",
+      "price": 100,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/669D60FD-386B-4E30-A612-A8C6F0338E4E.webp?v=1780478818",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/669D60FD-386B-4E30-A612-A8C6F0338E4E.webp?v=1780478818",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0F38D8C2-F9F8-46C8-A50A-F075763FB40F.webp?v=1780478818",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A839365D-D098-4F75-96F8-B6C2AF272755.webp?v=1780478819"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/barnett-harley-davidson-el-paso-texas-harley-davidson-long-sleeve-t-shirt-mens-black-small-98577-a",
+      "available": true
+    },
     {
       "id": 16010029269379,
       "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/dallas-cowboys-salem-t-shirt-mens-black-large-87792-a",
-      "available": true
-    },
-    {
-      "id": 16014356054403,
-      "name": "A3Sth3Tic Diesel Graphic Long Sleeve T-Shirt - Medium Black Cotton",
-      "price": 100,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B2FFE12A-4A1D-421E-9710-52DF65FB04FA.webp?v=1780906072",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B2FFE12A-4A1D-421E-9710-52DF65FB04FA.webp?v=1780906072",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5A289458-9496-4894-94B5-47146F2ECC29.webp?v=1780906072",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B2468091-F714-4B5E-9A8A-16D039086916.webp?v=1780906072"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/a3sth3tic-diesel-long-sleeve-t-shirt-mens-black-medium-100436-a",
       "available": true
     }
   ]
