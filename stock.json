@@ -18,6 +18,23 @@
       "available": true
     },
     {
+      "id": 15894685745539,
+      "name": "The North Face Ski Jacket - Large Red Nylon",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/66BF98CD-CFF5-4875-B7F8-3D6BD130C3C8.webp?v=1776070053",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/66BF98CD-CFF5-4875-B7F8-3D6BD130C3C8.webp?v=1776070053",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9FF0432F-F731-4EBD-B26E-04F0AEAF746A.webp?v=1776070053",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9E074F12-6260-4EAD-A5D9-D2D21F98EC65.webp?v=1776070054"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-ski-jacket-mens-red-large-85850-a",
+      "available": true
+    },
+    {
       "id": 15876248699267,
       "name": "Made In Portugal Gant Jacket - Small Brown Cotton",
       "price": 142,
@@ -35,23 +52,6 @@
       "available": true
     },
     {
-      "id": 15621239898499,
-      "name": "Bedale Barbour Checked Wax Jacket - Large Brown Cotton",
-      "price": 141,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CA6F2AFD-C82A-4AB1-9CBF-07D814DA9212.webp?v=1770217699",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA6F2AFD-C82A-4AB1-9CBF-07D814DA9212.webp?v=1770217699",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9FDA9A18-AC82-4FFE-977A-DC77985B3F4B.webp?v=1770217699",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB24B294-F865-4C94-A64F-6EA08A362E9F_e342562b-5024-4621-81e4-89401bd5f865.webp?v=1770217700"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/bedale-barbour-wax-jacket-mens-brown-large-76105-a",
-      "available": true
-    },
-    {
       "id": 15876920017283,
       "name": "Unbranded Flight Leather Jacket - Medium Brown Leather",
       "price": 139,
@@ -66,6 +66,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/unbranded-leather-jacket-mens-brown-medium-83180-a",
+      "available": true
+    },
+    {
+      "id": 15621239898499,
+      "name": "Bedale Barbour Checked Wax Jacket - Large Brown Cotton",
+      "price": 141,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CA6F2AFD-C82A-4AB1-9CBF-07D814DA9212.webp?v=1770217699",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA6F2AFD-C82A-4AB1-9CBF-07D814DA9212.webp?v=1770217699",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9FDA9A18-AC82-4FFE-977A-DC77985B3F4B.webp?v=1770217699",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB24B294-F865-4C94-A64F-6EA08A362E9F_e342562b-5024-4621-81e4-89401bd5f865.webp?v=1770217700"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/bedale-barbour-wax-jacket-mens-brown-large-76105-a",
       "available": true
     },
     {
@@ -137,23 +154,6 @@
       "available": true
     },
     {
-      "id": 16008828060035,
-      "name": "The North Face Waterproof Ski Jacket - Large Red Gore-Tex",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FEB716DD-5FA8-46C0-BCC3-85B0A7F2F445.webp?v=1780582466",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BF60CDD-9D46-468B-9608-B1FEB2D52F33.webp?v=1780582466"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-ski-jacket-mens-red-large-100093-a",
-      "available": true
-    },
-    {
       "id": 16008827437443,
       "name": "Summit Series The North Face Jacket - Small Black Polyester",
       "price": 145,
@@ -168,6 +168,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/summit-series-the-north-face-jacket-mens-black-small-100082-a",
+      "available": true
+    },
+    {
+      "id": 16008828060035,
+      "name": "The North Face Waterproof Ski Jacket - Large Red Gore-Tex",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FEB716DD-5FA8-46C0-BCC3-85B0A7F2F445.webp?v=1780582466",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BF60CDD-9D46-468B-9608-B1FEB2D52F33.webp?v=1780582466"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-ski-jacket-mens-red-large-100093-a",
       "available": true
     },
     {
@@ -596,23 +613,6 @@
       "available": true
     },
     {
-      "id": 15876911432067,
-      "name": "Patagonia Jacket - Medium Black Polyester",
-      "price": 142,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/91C5D4E7-AB7D-4281-B4E8-500979C03149.webp?v=1775143464",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/91C5D4E7-AB7D-4281-B4E8-500979C03149.webp?v=1775143464",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D40C79C-683F-4A1A-A96C-E1A42F996125.webp?v=1775143464",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/33F0324A-C663-4DC9-83D2-8240CFE17B63.webp?v=1775143465"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/patagonia-jacket-mens-black-medium-83101-a",
-      "available": true
-    },
-    {
       "id": 15894688170371,
       "name": "The North Face Gilet - Medium Red Polyester",
       "price": 145,
@@ -627,6 +627,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-gilet-mens-red-medium-85845-a",
+      "available": true
+    },
+    {
+      "id": 15876911432067,
+      "name": "Patagonia Jacket - Medium Black Polyester",
+      "price": 142,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/91C5D4E7-AB7D-4281-B4E8-500979C03149.webp?v=1775143464",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/91C5D4E7-AB7D-4281-B4E8-500979C03149.webp?v=1775143464",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D40C79C-683F-4A1A-A96C-E1A42F996125.webp?v=1775143464",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/33F0324A-C663-4DC9-83D2-8240CFE17B63.webp?v=1775143465"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-jacket-mens-black-medium-83101-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-yellow-large-85837-a",
       "available": true
-    },
-    {
-      "id": 15894688006531,
-      "name": "The North Face Jacket - Small Black Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/03271850-645A-4B56-AA06-0F77C1E7DD74.webp?v=1776070146",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/03271850-645A-4B56-AA06-0F77C1E7DD74.webp?v=1776070146",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27352BA-4EFF-4E94-8B07-FEBF82C3DD32.webp?v=1776070146",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2602D4ED-781C-48C9-8D45-5860B2757FCD.webp?v=1776070146"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-black-small-85841-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15874301952387,
+      "name": "Nike Hoodie - Large Green Cotton",
+      "price": 114,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/64719533-E3F0-4C82-B57E-0C6988962D9C.webp?v=1775034500",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD6799A4-211D-4C3F-BF31-C18195B70E81.webp?v=1775034500"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-82487-a",
+      "available": true
+    },
     {
       "id": 15982003061123,
       "name": "New York Yankees Majestic Graphic Zip Through Hoodie - Large Navy Cotton",
@@ -1227,23 +1244,6 @@
       "available": true
     },
     {
-      "id": 15964912386435,
-      "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7980BC90-DB91-45CD-A6A2-E72925DA115C.webp?v=1778685743",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0DE883E-7243-4A85-906C-85D38803ACBA.webp?v=1778685743"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
-      "available": true
-    },
-    {
       "id": 15964911174019,
       "name": "Rain Defender Carhartt Spellout Hoodie - Small Black Cotton",
       "price": 116,
@@ -1258,6 +1258,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
+      "available": true
+    },
+    {
+      "id": 15964912386435,
+      "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7980BC90-DB91-45CD-A6A2-E72925DA115C.webp?v=1778685743",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0DE883E-7243-4A85-906C-85D38803ACBA.webp?v=1778685743"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
       "available": true
     },
     {
@@ -1278,23 +1295,6 @@
       "available": true
     },
     {
-      "id": 15916193120643,
-      "name": "Harley Davidson Graphic Hoodie - Large Grey Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/88EEBA5F-D83E-4DBA-A1E2-FD24BD61125B.webp?v=1776868107",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/35369B65-7399-4040-A814-C08705D4F7B9.webp?v=1776868108"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-grey-large-89236-a",
-      "available": true
-    },
-    {
       "id": 15910958760323,
       "name": "90S Willamette Softball Nike Center Swoosh Hoodie - Large Red Cotton",
       "price": 116,
@@ -1309,6 +1309,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/90s-willamette-softball-nike-hoodie-mens-red-large-86874-a",
+      "available": true
+    },
+    {
+      "id": 15916193120643,
+      "name": "Harley Davidson Graphic Hoodie - Large Grey Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/88EEBA5F-D83E-4DBA-A1E2-FD24BD61125B.webp?v=1776868107",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/35369B65-7399-4040-A814-C08705D4F7B9.webp?v=1776868108"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-grey-large-89236-a",
       "available": true
     },
     {
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-blue-large-85925-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15894690759043,
-      "name": "Presto Carpentry Painting Roofing Carhartt Thermal Lined J149 Hoodie - Large Grey Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CCFCA55B-EEEB-43F0-A42F-6396BCE941CB.webp?v=1776070275",
+      "id": 15889673617795,
+      "name": "Carolina Panthers Nfl Football Sweatshirt - Large Black Cotton",
+      "price": 106,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C68D036B-E94D-41ED-B91B-CFD608DFF944.webp?v=1775809563",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CCFCA55B-EEEB-43F0-A42F-6396BCE941CB.webp?v=1776070275",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D81B48D-54C9-4A6E-95A3-B382B488DEE6.webp?v=1776070275",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D74810E-7039-4011-9E69-8D2D2E43866A.webp?v=1776070276"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C68D036B-E94D-41ED-B91B-CFD608DFF944.webp?v=1775809563",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EBB74967-0635-404F-80D0-7D710134323C.webp?v=1775809563",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F1018043-1942-4C25-84BE-7DD195FABF9F.webp?v=1775809563"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/presto-carpentry-painting-roofing-carhartt-hoodie-mens-grey-large-85912-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/carolina-panthers-nfl-sweatshirt-mens-black-large-85077-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15921452482947,
       "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Red Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-csa-sweatshirt-mens-black-medium-99013-a",
       "available": true
-    },
-    {
-      "id": 15950900658563,
-      "name": "90S Tommy Hilfiger Spellout Sweatshirt - Large White Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/227C3D64-2DE1-4691-AA21-6C19AE8DA2B0.webp?v=1778143117",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/227C3D64-2DE1-4691-AA21-6C19AE8DA2B0.webp?v=1778143117",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E1D6E5E-6C35-44B7-807B-39684FB15B6B.webp?v=1778143117",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5702DF87-9549-49C4-997D-1B617F3F89B7.webp?v=1778143119"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-tommy-hilfiger-sweatshirt-mens-white-large-91236-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010029269379,
+      "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E8B2A29-4229-42CD-A263-38CBB099A228.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D56D913C-E5E5-4F02-B2F3-FE1932074832.webp?v=1780661505"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/mouse-graphic-stussy-t-shirt-mens-blue-medium-100803-a",
+      "available": true
+    },
     {
       "id": 15950753431939,
       "name": "Made In USA Rugged Wear Wrangler Camo Long Sleeve T-Shirt - Medium Camo Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/barnett-harley-davidson-el-paso-texas-harley-davidson-long-sleeve-t-shirt-mens-black-small-98577-a",
-      "available": true
-    },
-    {
-      "id": 15955065045379,
-      "name": "Made In USA Michael Jordan Nike Nba T-Shirt - Medium White Cotton",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/33407CC9-9DA3-458B-931F-CBF9B457F84B.webp?v=1778234552",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/33407CC9-9DA3-458B-931F-CBF9B457F84B.webp?v=1778234552",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/71470209-04ED-459D-B107-8BBFEDC5AC88.webp?v=1778234553",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/472E9AD6-0747-45A2-BEA7-DB4E0B3BEBA3.webp?v=1778234553"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-usa-michael-jordan-nike-t-shirt-mens-white-medium-92477-a",
       "available": true
     }
   ]
