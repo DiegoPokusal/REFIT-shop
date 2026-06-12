@@ -23,8 +23,8 @@ const sweatshirts = available.filter(p => getCategory(p) === 'sweatshirt').slice
 const tees = available.filter(p => getCategory(p) === 'tee').slice(0, 40);
 const allProducts = [...jackets, ...hoodies, ...sweatshirts, ...tees];
 
-const dropsProducts = allProducts.filter(p => p.price <= 80);
-const premiumProducts = allProducts.filter(p => p.price > 80 && p.price <= 145);
+const dropsProducts = allProducts.filter(p => p.price <= 116);
+const premiumProducts = allProducts.filter(p => p.price > 116 && p.price <= 145);
 
 console.log(`👕 DROPS: ${dropsProducts.length} | PREMIUM: ${premiumProducts.length}`);
 const productData = allProducts.map(p => ({
