@@ -52,6 +52,23 @@
       "available": true
     },
     {
+      "id": 15894688170371,
+      "name": "The North Face Gilet - Medium Red Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/99876D3C-BD18-4C1A-911D-BCA50A536A10.webp?v=1776070155",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/99876D3C-BD18-4C1A-911D-BCA50A536A10.webp?v=1776070155",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C78F13DD-1119-4F2C-8E32-70D1FEECE1EC.webp?v=1776070155",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0B7421F-E702-4BBB-ABD7-43F78282F70E.webp?v=1776070155"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-gilet-mens-red-medium-85845-a",
+      "available": true
+    },
+    {
       "id": 15894685876611,
       "name": "The North Face Puffer - Large Yellow Nylon",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/tommy-hilfiger-harrington-jacket-mens-beige-medium-87478-a",
       "available": true
-    },
-    {
-      "id": 15916137841027,
-      "name": "Tommy Hilfiger Jacket - Small Navy Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7318B2F7-6C39-43BC-9E0E-B6E96D739D88.webp?v=1776867327",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7318B2F7-6C39-43BC-9E0E-B6E96D739D88.webp?v=1776867327",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/063E1F32-BF33-4F85-B607-39B7C75DABDC.webp?v=1776867327",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ADE9CD3B-2BF3-4F04-9080-82A509E1A06D.webp?v=1776867328"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-jacket-mens-navy-small-87489-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15950848819587,
+      "name": "Polo By Ralph Lauren Spellout Hoodie - Large Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B15D378-502A-4C3B-BD12-248F328EFE4C.webp?v=1778142363",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3BD6B95-454C-44FE-BC1E-DF9422EDFBE3.webp?v=1778142364"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-black-large-90952-a",
+      "available": true
+    },
     {
       "id": 15910958760323,
       "name": "90S Willamette Softball Nike Center Swoosh Hoodie - Large Red Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964912386435,
-      "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
+      "id": 16008139964803,
+      "name": "90S Made In USA Nfl Philadelphia Eagles Raglan Sweatshirt - Large Black Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12843D5D-AB66-4BDE-A013-A6972743848F.webp?v=1780561064",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7980BC90-DB91-45CD-A6A2-E72925DA115C.webp?v=1778685743",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0DE883E-7243-4A85-906C-85D38803ACBA.webp?v=1778685743"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/12843D5D-AB66-4BDE-A013-A6972743848F.webp?v=1780561064",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2F2F3FF2-10B5-4259-B384-82C8859074DE.webp?v=1780561064",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/48663D26-DC64-40A1-953D-E35E10B862F0.webp?v=1780561064"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-made-in-usa-nfl-sweatshirt-mens-black-large-99056-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16008135606659,
       "name": "Made In USA Fruit Of The Loom Green Bay Packers Sweatshirt - Large Black Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-black-large-99073-a",
       "available": true
-    },
-    {
-      "id": 16008139440515,
-      "name": "Made In USA 90S Unbranded Fighting Irish Raglan Sweatshirt - Medium Navy Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1C5F090E-7DB0-496C-A41E-6BCF53C98F72.webp?v=1780561031",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1C5F090E-7DB0-496C-A41E-6BCF53C98F72.webp?v=1780561031",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3A077AFE-F047-46CA-B512-F19A80A929D8.webp?v=1780561031",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F1AD7E0-E70B-49E4-870B-30727982C5CD.webp?v=1780561031"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-90s-unbranded-sweatshirt-mens-navy-medium-99042-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15916236013955,
+      "name": "New York Rangers Starter Single Stitch T-Shirt - Large Black Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0954BE63-BE74-40DF-9289-D83A333B5CA4.webp?v=1776868863",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/66B06C25-F776-4BE8-A187-71DCCC47ECEA.webp?v=1776868864"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/new-york-rangers-starter-t-shirt-mens-black-large-87793-a",
+      "available": true
+    },
     {
       "id": 15916235850115,
       "name": "Dallas Cowboys Salem Single Stitch T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-aquascutum-t-shirt-mens-white-medium-398224",
-      "available": true
-    },
-    {
-      "id": 15919737995651,
-      "name": "Oakland Athletics Bulletin Athletic MLB T-Shirt - Large White Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4330_e3a60352-91ea-4e36-8fda-0c0572ce63e3.jpg?v=1776956949",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4330_e3a60352-91ea-4e36-8fda-0c0572ce63e3.jpg?v=1776956949",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4332_82fc97e7-2234-4972-b61d-d85144a59242.jpg?v=1776956949",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4331_a11e795c-3182-4fe4-aa7e-08d870512798.jpg?v=1776956949"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-oakland-athletics-bulletin-athletic-t-shirt-mens-white-large-397600",
       "available": true
     }
   ]
