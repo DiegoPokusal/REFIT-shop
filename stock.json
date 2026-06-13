@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15876911432067,
+      "name": "Patagonia Jacket - Medium Black Polyester",
+      "price": 142,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/91C5D4E7-AB7D-4281-B4E8-500979C03149.webp?v=1775143464",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/91C5D4E7-AB7D-4281-B4E8-500979C03149.webp?v=1775143464",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D40C79C-683F-4A1A-A96C-E1A42F996125.webp?v=1775143464",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/33F0324A-C663-4DC9-83D2-8240CFE17B63.webp?v=1775143465"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-jacket-mens-black-medium-83101-a",
+      "available": true
+    },
+    {
       "id": 15910920323459,
       "name": "Marlboro Hunting Barn Jacket - Medium Red Cotton",
       "price": 145,
@@ -273,23 +290,6 @@
       "available": true
     },
     {
-      "id": 15761367204227,
-      "name": "Costume National Jacket - Medium Black Nylon",
-      "price": 143,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_26.02.26267_bbb85b97-97e1-4025-9996-43440b33d755.jpg?v=1772204608",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_26.02.26267_bbb85b97-97e1-4025-9996-43440b33d755.jpg?v=1772204608",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_26.02.26268_b66b6ad5-4201-4e4f-b9a6-c0d619890923.jpg?v=1772204607",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_e4d9683e-676b-47b4-b550-14a8e56beb60.webp?v=1772204607"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-costume-national-jacket-mens-black-medium-395707",
-      "available": true
-    },
-    {
       "id": 15950927921539,
       "name": "Canvas Tommy Hilfiger Spellout Anorak Windbreaker - Small Green Cotton",
       "price": 145,
@@ -304,6 +304,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/canvas-tommy-hilfiger-windbreaker-mens-green-small-91565-a",
+      "available": true
+    },
+    {
+      "id": 15761367204227,
+      "name": "Costume National Jacket - Medium Black Nylon",
+      "price": 143,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_26.02.26267_bbb85b97-97e1-4025-9996-43440b33d755.jpg?v=1772204608",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_26.02.26267_bbb85b97-97e1-4025-9996-43440b33d755.jpg?v=1772204608",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_designer_26.02.26268_b66b6ad5-4201-4e4f-b9a6-c0d619890923.jpg?v=1772204607",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_e4d9683e-676b-47b4-b550-14a8e56beb60.webp?v=1772204607"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-costume-national-jacket-mens-black-medium-395707",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/tommy-hilfiger-jacket-mens-navy-small-87489-a",
       "available": true
-    },
-    {
-      "id": 15894688170371,
-      "name": "The North Face Gilet - Medium Red Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/99876D3C-BD18-4C1A-911D-BCA50A536A10.webp?v=1776070155",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/99876D3C-BD18-4C1A-911D-BCA50A536A10.webp?v=1776070155",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C78F13DD-1119-4F2C-8E32-70D1FEECE1EC.webp?v=1776070155",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0B7421F-E702-4BBB-ABD7-43F78282F70E.webp?v=1776070155"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-gilet-mens-red-medium-85845-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15910958760323,
+      "name": "90S Willamette Softball Nike Center Swoosh Hoodie - Large Red Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CEE0B6A3-B4F5-4D36-9887-88A1D7261326.webp?v=1776675332",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CEE0B6A3-B4F5-4D36-9887-88A1D7261326.webp?v=1776675332",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/66911A4C-BF3B-412B-ADFD-DA3208EB201E.webp?v=1776675332",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/31E414E6-24E0-4088-9F9E-D59E2E1B0A52.webp?v=1776675333"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/90s-willamette-softball-nike-hoodie-mens-red-large-86874-a",
+      "available": true
+    },
     {
       "id": 15916193120643,
       "name": "Harley Davidson Graphic Hoodie - Large Grey Cotton Blend",
@@ -734,23 +751,6 @@
       "available": true
     },
     {
-      "id": 15874301952387,
-      "name": "Nike Hoodie - Large Green Cotton",
-      "price": 114,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/64719533-E3F0-4C82-B57E-0C6988962D9C.webp?v=1775034500",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD6799A4-211D-4C3F-BF31-C18195B70E81.webp?v=1775034500"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-82487-a",
-      "available": true
-    },
-    {
       "id": 15982003061123,
       "name": "New York Yankees Majestic Graphic Zip Through Hoodie - Large Navy Cotton",
       "price": 109,
@@ -765,6 +765,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/new-york-yankees-majestic-hoodie-mens-navy-large-95817-a",
+      "available": true
+    },
+    {
+      "id": 15874301952387,
+      "name": "Nike Hoodie - Large Green Cotton",
+      "price": 114,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/081CE44C-02D9-47A4-B595-BDEE05960259.webp?v=1775034499",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/64719533-E3F0-4C82-B57E-0C6988962D9C.webp?v=1775034500",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD6799A4-211D-4C3F-BF31-C18195B70E81.webp?v=1775034500"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-82487-a",
       "available": true
     },
     {
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15950848819587,
-      "name": "Polo By Ralph Lauren Spellout Hoodie - Large Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
+      "id": 16008135606659,
+      "name": "Made In USA Fruit Of The Loom Green Bay Packers Sweatshirt - Large Black Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/805AB328-F3C6-4BFF-8DC7-53EEEED3C60F.webp?v=1780560990",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B15D378-502A-4C3B-BD12-248F328EFE4C.webp?v=1778142363",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3BD6B95-454C-44FE-BC1E-DF9422EDFBE3.webp?v=1778142364"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/805AB328-F3C6-4BFF-8DC7-53EEEED3C60F.webp?v=1780560990",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E3CFFFC-C8E5-4E1A-804C-050EBE1184F4.webp?v=1780560990",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/694A5364-F307-4932-AF7D-C7C30D2AA4B6.webp?v=1780560991"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-black-large-90952-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-fruit-of-the-loom-sweatshirt-mens-black-large-99024-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16008135410051,
       "name": "Made In USA Nutmeg San Francisco 49Ers Sweatshirt - Large Red Cotton",
@@ -1909,23 +1926,6 @@
       "available": true
     },
     {
-      "id": 15950694482307,
-      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9E2EF43-5490-4C0C-9AF5-907C948D092C.webp?v=1778140510",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08EE7634-71BD-489C-B56C-F6889C8503AF.webp?v=1778140511"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
-      "available": true
-    },
-    {
       "id": 15916274188675,
       "name": "Made In USA 90S Nike Sweatshirt - Medium Grey Cotton",
       "price": 116,
@@ -1940,6 +1940,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a",
+      "available": true
+    },
+    {
+      "id": 15950694482307,
+      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9E2EF43-5490-4C0C-9AF5-907C948D092C.webp?v=1778140510",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/08EE7634-71BD-489C-B56C-F6889C8503AF.webp?v=1778140511"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
       "available": true
     },
     {
@@ -2011,23 +2028,6 @@
       "available": true
     },
     {
-      "id": 16008139964803,
-      "name": "90S Made In USA Nfl Philadelphia Eagles Raglan Sweatshirt - Large Black Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12843D5D-AB66-4BDE-A013-A6972743848F.webp?v=1780561064",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12843D5D-AB66-4BDE-A013-A6972743848F.webp?v=1780561064",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2F2F3FF2-10B5-4259-B384-82C8859074DE.webp?v=1780561064",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/48663D26-DC64-40A1-953D-E35E10B862F0.webp?v=1780561064"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-nfl-sweatshirt-mens-black-large-99056-a",
-      "available": true
-    },
-    {
       "id": 16008139440515,
       "name": "Made In USA 90S Unbranded Fighting Irish Raglan Sweatshirt - Medium Navy Cotton",
       "price": 109,
@@ -2046,6 +2046,23 @@
     }
   ],
   "tee": [
+    {
+      "id": 15916235850115,
+      "name": "Dallas Cowboys Salem Single Stitch T-Shirt - Large Black Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/76E9D5BF-4E80-4230-A92A-105CE42D1C6F.webp?v=1776868861",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/76E9D5BF-4E80-4230-A92A-105CE42D1C6F.webp?v=1776868861",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/22A105C3-D51D-4397-A2E6-B23AD77EDDB9.webp?v=1776868860",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0ABD142-1D94-4E0E-8495-4AB38A729CA8.webp?v=1776868861"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/dallas-cowboys-salem-t-shirt-mens-black-large-87792-a",
+      "available": true
+    },
     {
       "id": 16014356054403,
       "name": "A3Sth3Tic Diesel Graphic Long Sleeve T-Shirt - Medium Black Cotton",
@@ -2149,23 +2166,6 @@
       "available": true
     },
     {
-      "id": 16024433918339,
-      "name": "Country America '96 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BC13883E-BA62-4088-8D98-FB646FFD22A9.webp?v=1781276472",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6CA2ADE1-BB06-426F-B4F5-806CA9FE70FF.webp?v=1781276472"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/country-america-96-fruit-of-the-loom-t-shirt-mens-black-large-101999-a",
-      "available": true
-    },
-    {
       "id": 16024419959171,
       "name": "Everything Louder Than Everything Else World Tour 93, 94, 95 Meat Loaf Single Stitch T-Shirt - Small Black Cotton",
       "price": 96,
@@ -2180,6 +2180,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/everything-louder-than-everything-else-world-tour-93-94-95-meat-loaf-t-shirt-mens-black-small-101998-a",
+      "available": true
+    },
+    {
+      "id": 16024433918339,
+      "name": "Country America '96 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton",
+      "price": 96,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BC13883E-BA62-4088-8D98-FB646FFD22A9.webp?v=1781276472",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6CA2ADE1-BB06-426F-B4F5-806CA9FE70FF.webp?v=1781276472"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/country-america-96-fruit-of-the-loom-t-shirt-mens-black-large-101999-a",
       "available": true
     },
     {
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-oakland-athletics-bulletin-athletic-t-shirt-mens-white-large-397600",
-      "available": true
-    },
-    {
-      "id": 15916236013955,
-      "name": "New York Rangers Starter Single Stitch T-Shirt - Large Black Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0954BE63-BE74-40DF-9289-D83A333B5CA4.webp?v=1776868863",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/66B06C25-F776-4BE8-A187-71DCCC47ECEA.webp?v=1776868864"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/new-york-rangers-starter-t-shirt-mens-black-large-87793-a",
       "available": true
     }
   ]
