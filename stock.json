@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15916190957955,
+      "name": "Tommy Hilfiger Harrington Jacket - Medium Beige Cotton Blend",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AA0E3DF7-0600-4326-8BD7-F353E557C4FC.webp?v=1776868059",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AA0E3DF7-0600-4326-8BD7-F353E557C4FC.webp?v=1776868059",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E6A719C-3A43-46CA-9811-79BC0DFB1675.webp?v=1776868057",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/420DA54B-0ED7-4D86-A485-D82B7B34F143.webp?v=1776868058"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/tommy-hilfiger-harrington-jacket-mens-beige-medium-87478-a",
+      "available": true
+    },
+    {
       "id": 15916137841027,
       "name": "Tommy Hilfiger Jacket - Small Navy Polyester",
       "price": 145,
@@ -426,23 +443,6 @@
       "available": true
     },
     {
-      "id": 15930000572803,
-      "name": "Christian Dior Blazer - Large Grey Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26166_cc136d1f-05f0-4241-9fb3-90759c57aff5.jpg?v=1777363623",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_db9e07a1-e5c0-4e72-acf0-6f4bc5eaebbf.webp?v=1777363622"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-large-397990",
-      "available": true
-    },
-    {
       "id": 15929998508419,
       "name": "Yves Saint Laurent Pinstripe Blazer - Medium Navy Wool",
       "price": 145,
@@ -457,6 +457,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-navy-medium-397985",
+      "available": true
+    },
+    {
+      "id": 15930000572803,
+      "name": "Christian Dior Blazer - Large Grey Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26166_cc136d1f-05f0-4241-9fb3-90759c57aff5.jpg?v=1777363623",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_db9e07a1-e5c0-4e72-acf0-6f4bc5eaebbf.webp?v=1777363622"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-large-397990",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-black-large-87224-a",
       "available": true
-    },
-    {
-      "id": 15916215271811,
-      "name": "The North Face Jacket - Medium Grey Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/232B1A4E-7C3D-4AE6-95EC-53BD5F8608D5.webp?v=1776868551",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/232B1A4E-7C3D-4AE6-95EC-53BD5F8608D5.webp?v=1776868551",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3E51066-C3EF-46D5-B5BB-41B183C34075.webp?v=1776868550",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2D70907B-5A46-4AAA-B44A-1095A81CD528.webp?v=1776868551"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-grey-medium-87236-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964911174019,
+      "name": "Rain Defender Carhartt Spellout Hoodie - Small Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C288C349-D136-4BC9-A776-0B344D73BD6A.webp?v=1778685722",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F6F18919-5539-431E-9CE3-EB9D1553BC59.webp?v=1778685723"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
+      "available": true
+    },
     {
       "id": 15964912386435,
       "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-medium-98325-a",
       "available": true
-    },
-    {
-      "id": 15964912419203,
-      "name": "Deleeuw Lumber Carhartt Hoodie - Medium Navy Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDAB1E8E-DD8F-4032-A0E9-8E56C9E222E0.webp?v=1778685745",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDAB1E8E-DD8F-4032-A0E9-8E56C9E222E0.webp?v=1778685745",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F13A0CF-C345-43DF-AEAE-FBBD8DF67FF4.webp?v=1778685746",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AD94DD14-CCCC-48CF-A37E-771F22CF4B44.webp?v=1778685746"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/deleeuw-lumber-carhartt-hoodie-mens-navy-medium-98316-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008140128643,
+      "name": "Made In USA Nutmeg Pittsburgh Steelers Sweatshirt - Large Black Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1CFBF7BE-AA04-46A8-BD5A-794E04433F9C.webp?v=1780561079",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1CFBF7BE-AA04-46A8-BD5A-794E04433F9C.webp?v=1780561079",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9851B6DA-0F56-4EBC-915D-7326ECAED141.webp?v=1780561079",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A03FADE-4A6C-47DA-A070-6CEA1277CCAA.webp?v=1780561080"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-black-large-99073-a",
+      "available": true
+    },
     {
       "id": 16008139440515,
       "name": "Made In USA 90S Unbranded Fighting Irish Raglan Sweatshirt - Medium Navy Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16008152646019,
-      "name": "Mickey Mouse Disney Cartoon Sweatshirt - Medium Blue Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
+      "id": 15935553110403,
+      "name": "Aquascutum Graphic T-Shirt - Medium White Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4329_0431efad-ed9e-4ebf-93d8-b9c13275cf35.jpg?v=1777473042",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4166ABFC-3681-4591-B5BC-6D2E6E2724DA.webp?v=1780561768",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE3A574E-8A67-488D-A373-7DF874612C2E.webp?v=1780561769"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4329_0431efad-ed9e-4ebf-93d8-b9c13275cf35.jpg?v=1777473042",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4331_4b4d4d44-b210-4ce2-b407-64b934704ab4.jpg?v=1777473042",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4330_75d9a181-cdd3-4f3a-baad-54164a11e742.jpg?v=1777473041"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/mickey-mouse-disney-sweatshirt-mens-blue-medium-99328-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/vintage-aquascutum-t-shirt-mens-white-medium-398224",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15919737995651,
       "name": "Oakland Athletics Bulletin Athletic MLB T-Shirt - Large White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/team-usa-1992-usa-olympics-t-shirt-mens-grey-large-94190-a",
-      "available": true
-    },
-    {
-      "id": 15950901608835,
-      "name": "90S Made In USA Tommy Jeans Striped Long Sleeve T-Shirt - Medium Blue Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/142A63BB-7229-4AD6-8980-785B3985189E.webp?v=1778143149",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA88F31C-0553-4D55-AEA3-C9DA13623243.webp?v=1778143151"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-tommy-jeans-long-sleeve-t-shirt-mens-blue-medium-91248-a",
       "available": true
     }
   ]
