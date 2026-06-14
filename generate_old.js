@@ -424,7 +424,12 @@ function renderProducts(filter, section){
     </div>
   \`).join('');
 }
-
+function switchSection(section){
+  document.querySelectorAll('.shop-panel').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.toggle-btn').forEach(b=>b.classList.remove('active'));
+  document.getElementById(section+'Panel').classList.add('active');
+  document.querySelector('.toggle-'+section).classList.add('active');
+}
 function filterProducts(filter, btn, section){
   const prefix = section === 'drops' ? 'drops' : 'premium';
   btn.closest('.section-header').querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
