@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15916215271811,
+      "name": "The North Face Jacket - Medium Grey Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/232B1A4E-7C3D-4AE6-95EC-53BD5F8608D5.webp?v=1776868551",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/232B1A4E-7C3D-4AE6-95EC-53BD5F8608D5.webp?v=1776868551",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3E51066-C3EF-46D5-B5BB-41B183C34075.webp?v=1776868550",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2D70907B-5A46-4AAA-B44A-1095A81CD528.webp?v=1776868551"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-grey-medium-87236-a",
+      "available": true
+    },
+    {
       "id": 15916190957955,
       "name": "Tommy Hilfiger Harrington Jacket - Medium Beige Cotton Blend",
       "price": 145,
@@ -256,23 +273,6 @@
       "available": true
     },
     {
-      "id": 16008840577411,
-      "name": "The North Face Waterproof Jacket - Medium Green Nylon",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C0559058-003C-4111-972E-35CAF7D69447.webp?v=1780582766",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0559058-003C-4111-972E-35CAF7D69447.webp?v=1780582766",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/96A65D8E-95FC-46B2-B469-C91B9CDB44FE.webp?v=1780582766",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D08C2C63-456E-49FC-98A2-146318928690.webp?v=1780582767"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-waterproof-jacket-mens-green-medium-100083-a",
-      "available": true
-    },
-    {
       "id": 16008827437443,
       "name": "Summit Series The North Face Jacket - Small Black Polyester",
       "price": 145,
@@ -290,20 +290,20 @@
       "available": true
     },
     {
-      "id": 16008828060035,
-      "name": "The North Face Waterproof Ski Jacket - Large Red Gore-Tex",
+      "id": 16008840577411,
+      "name": "The North Face Waterproof Jacket - Medium Green Nylon",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C0559058-003C-4111-972E-35CAF7D69447.webp?v=1780582766",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FEB716DD-5FA8-46C0-BCC3-85B0A7F2F445.webp?v=1780582466",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BF60CDD-9D46-468B-9608-B1FEB2D52F33.webp?v=1780582466"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0559058-003C-4111-972E-35CAF7D69447.webp?v=1780582766",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/96A65D8E-95FC-46B2-B469-C91B9CDB44FE.webp?v=1780582766",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D08C2C63-456E-49FC-98A2-146318928690.webp?v=1780582767"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-ski-jacket-mens-red-large-100093-a",
+      "url": "https://www.thrifted.com/products/the-north-face-waterproof-jacket-mens-green-medium-100083-a",
       "available": true
     },
     {
@@ -321,6 +321,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/made-in-usa-patagonia-fleece-jacket-mens-grey-large-82807-a",
+      "available": true
+    },
+    {
+      "id": 16008828060035,
+      "name": "The North Face Waterproof Ski Jacket - Large Red Gore-Tex",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FEB716DD-5FA8-46C0-BCC3-85B0A7F2F445.webp?v=1780582466",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BF60CDD-9D46-468B-9608-B1FEB2D52F33.webp?v=1780582466"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-ski-jacket-mens-red-large-100093-a",
       "available": true
     },
     {
@@ -460,23 +477,6 @@
       "available": true
     },
     {
-      "id": 15930000572803,
-      "name": "Christian Dior Blazer - Large Grey Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26166_cc136d1f-05f0-4241-9fb3-90759c57aff5.jpg?v=1777363623",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_db9e07a1-e5c0-4e72-acf0-6f4bc5eaebbf.webp?v=1777363622"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-large-397990",
-      "available": true
-    },
-    {
       "id": 15929998475651,
       "name": "Christian Dior Blazer - Medium Black Wool",
       "price": 145,
@@ -491,6 +491,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-medium-397984",
+      "available": true
+    },
+    {
+      "id": 15930000572803,
+      "name": "Christian Dior Blazer - Large Grey Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26166_cc136d1f-05f0-4241-9fb3-90759c57aff5.jpg?v=1777363623",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_db9e07a1-e5c0-4e72-acf0-6f4bc5eaebbf.webp?v=1777363622"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-large-397990",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-brown-medium-87226-a",
       "available": true
-    },
-    {
-      "id": 15916252496259,
-      "name": "The North Face Puffer - Large Black Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E676369-85F0-49A4-8659-63480A930A8A.webp?v=1776869199",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E676369-85F0-49A4-8659-63480A930A8A.webp?v=1776869199",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A696D55F-E47A-4D97-ADBA-16EB4FAB3490.webp?v=1776869199",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/95327D9D-8825-4332-92D6-EC3890D89E77.webp?v=1776869199"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-black-large-87224-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964912419203,
+      "name": "Deleeuw Lumber Carhartt Hoodie - Medium Navy Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDAB1E8E-DD8F-4032-A0E9-8E56C9E222E0.webp?v=1778685745",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDAB1E8E-DD8F-4032-A0E9-8E56C9E222E0.webp?v=1778685745",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F13A0CF-C345-43DF-AEAE-FBBD8DF67FF4.webp?v=1778685746",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AD94DD14-CCCC-48CF-A37E-771F22CF4B44.webp?v=1778685746"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/deleeuw-lumber-carhartt-hoodie-mens-navy-medium-98316-a",
+      "available": true
+    },
     {
       "id": 15964911174019,
       "name": "Rain Defender Carhartt Spellout Hoodie - Small Black Cotton",
@@ -870,23 +887,6 @@
       "available": true
     },
     {
-      "id": 16015494054275,
-      "name": "Xtra Realtree Graphic Hoodie - Large Brown Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/464207C5-50FC-4DF6-B05A-393A150875BD.webp?v=1780931989",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/464207C5-50FC-4DF6-B05A-393A150875BD.webp?v=1780931989",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C8D1B68-8623-4214-AB42-667C9F6F5B86.webp?v=1780931988",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E1646236-83B0-46F2-A802-37D352799CF0.webp?v=1780931989"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/xtra-realtree-hoodie-mens-brown-large-101048-a",
-      "available": true
-    },
-    {
       "id": 16008133607811,
       "name": "Ohio State Majestic College Hoodie - Large Grey Cotton Blend",
       "price": 109,
@@ -901,6 +901,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/ohio-state-majestic-hoodie-mens-grey-large-99036-a",
+      "available": true
+    },
+    {
+      "id": 16015494054275,
+      "name": "Xtra Realtree Graphic Hoodie - Large Brown Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/464207C5-50FC-4DF6-B05A-393A150875BD.webp?v=1780931989",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/464207C5-50FC-4DF6-B05A-393A150875BD.webp?v=1780931989",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C8D1B68-8623-4214-AB42-667C9F6F5B86.webp?v=1780931988",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E1646236-83B0-46F2-A802-37D352799CF0.webp?v=1780931989"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/xtra-realtree-hoodie-mens-brown-large-101048-a",
       "available": true
     },
     {
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98321-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964913107331,
-      "name": "Carhartt Spellout Hoodie - Medium Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0DA50E40-AC5F-48E3-9773-A531E4DB5B43.webp?v=1778685758",
+      "id": 16008152646019,
+      "name": "Mickey Mouse Disney Cartoon Sweatshirt - Medium Blue Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DA50E40-AC5F-48E3-9773-A531E4DB5B43.webp?v=1778685758",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F4EB4662-FA45-4B0C-94AD-EF9E9ED67E4D.webp?v=1778685759",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4744DEDF-CD16-4D22-A49C-FD72C27D9271.webp?v=1778685759"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4166ABFC-3681-4591-B5BC-6D2E6E2724DA.webp?v=1780561768",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE3A574E-8A67-488D-A373-7DF874612C2E.webp?v=1780561769"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-medium-98325-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/mickey-mouse-disney-sweatshirt-mens-blue-medium-99328-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16008140128643,
       "name": "Made In USA Nutmeg Pittsburgh Steelers Sweatshirt - Large Black Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/1977-essentials-sweatshirt-mens-grey-large-86464-a",
       "available": true
-    },
-    {
-      "id": 15950883783043,
-      "name": "Reebok Spellout Sweatshirt - Large Green Cotton",
-      "price": 114,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/77AFE057-2B05-478B-BF59-8EA17C5C4636.webp?v=1778142798",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EF27F0C4-284E-456F-8D8A-E70AB0233870.webp?v=1778142799"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15950901608835,
+      "name": "90S Made In USA Tommy Jeans Striped Long Sleeve T-Shirt - Medium Blue Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/142A63BB-7229-4AD6-8980-785B3985189E.webp?v=1778143149",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA88F31C-0553-4D55-AEA3-C9DA13623243.webp?v=1778143151"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/90s-made-in-usa-tommy-jeans-long-sleeve-t-shirt-mens-blue-medium-91248-a",
+      "available": true
+    },
     {
       "id": 15935553110403,
       "name": "Aquascutum Graphic T-Shirt - Medium White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
-      "available": true
-    },
-    {
-      "id": 15964909175171,
-      "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27CB28C-539D-4028-8889-2CC79F029B6A.webp?v=1778685675",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F3DB9DD-8AA3-476F-9E4A-4B8BF4E9C710.webp?v=1778685675"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/team-usa-1992-usa-olympics-t-shirt-mens-grey-large-94190-a",
       "available": true
     }
   ]
