@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15916252496259,
+      "name": "The North Face Puffer - Large Black Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E676369-85F0-49A4-8659-63480A930A8A.webp?v=1776869199",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E676369-85F0-49A4-8659-63480A930A8A.webp?v=1776869199",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A696D55F-E47A-4D97-ADBA-16EB4FAB3490.webp?v=1776869199",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/95327D9D-8825-4332-92D6-EC3890D89E77.webp?v=1776869199"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-black-large-87224-a",
+      "available": true
+    },
+    {
       "id": 15916215271811,
       "name": "The North Face Jacket - Medium Grey Polyester",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/80s-made-in-usa-the-north-face-puffer-mens-blue-large-87229-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15916253741443,
-      "name": "The North Face Jacket - Medium Brown Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
+      "id": 15964913107331,
+      "name": "Carhartt Spellout Hoodie - Medium Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0DA50E40-AC5F-48E3-9773-A531E4DB5B43.webp?v=1778685758",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9057679-C9A1-4CEB-A58B-DACED85B2EAE.webp?v=1776869204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8E0057C-9C93-4505-AB15-CAAC06576D5C.webp?v=1776869204"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DA50E40-AC5F-48E3-9773-A531E4DB5B43.webp?v=1778685758",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F4EB4662-FA45-4B0C-94AD-EF9E9ED67E4D.webp?v=1778685759",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4744DEDF-CD16-4D22-A49C-FD72C27D9271.webp?v=1778685759"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-brown-medium-87226-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-medium-98325-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15964912419203,
       "name": "Deleeuw Lumber Carhartt Hoodie - Medium Navy Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-large-98326-a",
       "available": true
-    },
-    {
-      "id": 15964912517507,
-      "name": "Carhartt Hoodie - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD.webp?v=1778685749",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD.webp?v=1778685749",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B650924E-BADE-458F-9CE1-81884B7D1FDD.webp?v=1778685748",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DBB7135-8FB1-4D2C-BC3C-0ADF8F2BECD4.webp?v=1778685748"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98321-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15950883783043,
+      "name": "Reebok Spellout Sweatshirt - Large Green Cotton",
+      "price": 114,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/77AFE057-2B05-478B-BF59-8EA17C5C4636.webp?v=1778142798",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EF27F0C4-284E-456F-8D8A-E70AB0233870.webp?v=1778142799"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a",
+      "available": true
+    },
     {
       "id": 16008152646019,
       "name": "Mickey Mouse Disney Cartoon Sweatshirt - Medium Blue Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15910938247555,
-      "name": "1977 Essentials Sweatshirt - Large Grey Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
+      "id": 15964909175171,
+      "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/751FA865-0F01-440F-AABD-748D5DF87176.webp?v=1776674589",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/87A837E1-C765-4C45-AAC2-51C6390FCB77.webp?v=1776674589"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27CB28C-539D-4028-8889-2CC79F029B6A.webp?v=1778685675",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F3DB9DD-8AA3-476F-9E4A-4B8BF4E9C710.webp?v=1778685675"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/1977-essentials-sweatshirt-mens-grey-large-86464-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/team-usa-1992-usa-olympics-t-shirt-mens-grey-large-94190-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15950901608835,
       "name": "90S Made In USA Tommy Jeans Striped Long Sleeve T-Shirt - Medium Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/team-force-anvil-t-shirt-mens-white-medium-99093-a",
-      "available": true
-    },
-    {
-      "id": 15968026329475,
-      "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F44D80B8-8888-4589-9708-A8DED6C99E05.webp?v=1778830810",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F77DEDAB-389D-4407-AD95-C66798ECA8CB.webp?v=1778830811"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
       "available": true
     }
   ]
