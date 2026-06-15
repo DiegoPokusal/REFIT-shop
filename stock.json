@@ -1,20 +1,20 @@
 {
   "jacket": [
     {
-      "id": 15916253741443,
-      "name": "The North Face Jacket - Medium Brown Polyester",
+      "id": 15916255904131,
+      "name": "80S Made In USA The North Face Puffer - Large Blue Down",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9057679-C9A1-4CEB-A58B-DACED85B2EAE.webp?v=1776869204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8E0057C-9C93-4505-AB15-CAAC06576D5C.webp?v=1776869204"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B13398E9-06AD-4D39-A6EC-CE3BD4986409.webp?v=1776869212",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/64EA95CC-A616-49FC-A326-63CAB0BED465.webp?v=1776869213"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-brown-medium-87226-a",
+      "url": "https://www.thrifted.com/products/80s-made-in-usa-the-north-face-puffer-mens-blue-large-87229-a",
       "available": true
     },
     {
@@ -1450,6 +1450,23 @@
       "available": true
     },
     {
+      "id": 15921453236611,
+      "name": "90S Christmas Looney Tunes Tultex Cartoon Sweatshirt - Large Grey Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6171299B-6E3F-46BB-83C0-A02800057A92.webp?v=1777031898",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6171299B-6E3F-46BB-83C0-A02800057A92.webp?v=1777031898",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DAD9C05-A6DA-4511-86A0-FF35C525E616.webp?v=1777031898",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD33A0EE-03E1-44BC-918A-D0AC7C91F7C2.webp?v=1777031899"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-christmas-looney-tunes-tultex-sweatshirt-mens-grey-large-88561-a",
+      "available": true
+    },
+    {
       "id": 16008139964803,
       "name": "90S Made In USA Nfl Philadelphia Eagles Raglan Sweatshirt - Large Black Cotton",
       "price": 109,
@@ -1481,23 +1498,6 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-fruit-of-the-loom-sweatshirt-mens-black-large-99024-a",
-      "available": true
-    },
-    {
-      "id": 16008135410051,
-      "name": "Made In USA Nutmeg San Francisco 49Ers Sweatshirt - Large Red Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9250E13B-A129-46E4-A333-2FD09EFD5F7D.webp?v=1780560974",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9250E13B-A129-46E4-A333-2FD09EFD5F7D.webp?v=1780560974",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2EFA2D94-8F84-46C9-9C63-2DF1AA816DEE.webp?v=1780560974",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A317A636-44A4-48A7-B897-913145D0B7FD.webp?v=1780560975"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-red-large-99011-a",
       "available": true
     },
     {
@@ -1790,6 +1790,23 @@
       "available": true
     },
     {
+      "id": 16008135410051,
+      "name": "Made In USA Nutmeg San Francisco 49Ers Sweatshirt - Large Red Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9250E13B-A129-46E4-A333-2FD09EFD5F7D.webp?v=1780560974",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9250E13B-A129-46E4-A333-2FD09EFD5F7D.webp?v=1780560974",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2EFA2D94-8F84-46C9-9C63-2DF1AA816DEE.webp?v=1780560974",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A317A636-44A4-48A7-B897-913145D0B7FD.webp?v=1780560975"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-red-large-99011-a",
+      "available": true
+    },
+    {
       "id": 16008151105923,
       "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Grey Cotton",
       "price": 123,
@@ -2026,30 +2043,30 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a",
       "available": true
-    },
-    {
-      "id": 15950694482307,
-      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9E2EF43-5490-4C0C-9AF5-907C948D092C.webp?v=1778140510",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08EE7634-71BD-489C-B56C-F6889C8503AF.webp?v=1778140511"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
-      "available": true
     }
   ],
   "tee": [
     {
+      "id": 15968026329475,
+      "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F44D80B8-8888-4589-9708-A8DED6C99E05.webp?v=1778830810",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F77DEDAB-389D-4407-AD95-C66798ECA8CB.webp?v=1778830811"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
+      "available": true
+    },
+    {
       "id": 15964909175171,
       "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
@@ -2066,7 +2083,7 @@
     {
       "id": 15950901608835,
       "name": "90S Made In USA Tommy Jeans Striped Long Sleeve T-Shirt - Medium Blue Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
@@ -2083,7 +2100,7 @@
     {
       "id": 15935553110403,
       "name": "Aquascutum Graphic T-Shirt - Medium White Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4329_0431efad-ed9e-4ebf-93d8-b9c13275cf35.jpg?v=1777473042",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4329_0431efad-ed9e-4ebf-93d8-b9c13275cf35.jpg?v=1777473042",
@@ -2100,7 +2117,7 @@
     {
       "id": 15919737995651,
       "name": "Oakland Athletics Bulletin Athletic MLB T-Shirt - Large White Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4330_e3a60352-91ea-4e36-8fda-0c0572ce63e3.jpg?v=1776956949",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_reshoot_17.4330_e3a60352-91ea-4e36-8fda-0c0572ce63e3.jpg?v=1776956949",
@@ -2117,7 +2134,7 @@
     {
       "id": 15916236013955,
       "name": "New York Rangers Starter Single Stitch T-Shirt - Large Black Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/4490471A-6FF5-4218-BCCB-215D3DB893CF.webp?v=1776868863",
@@ -2134,7 +2151,7 @@
     {
       "id": 15916235850115,
       "name": "Dallas Cowboys Salem Single Stitch T-Shirt - Large Black Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/76E9D5BF-4E80-4230-A92A-105CE42D1C6F.webp?v=1776868861",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/76E9D5BF-4E80-4230-A92A-105CE42D1C6F.webp?v=1776868861",
@@ -2202,7 +2219,7 @@
     {
       "id": 16024440439171,
       "name": "Macho Man Nwo Oneita Single Stitch T-Shirt - Large Black Cotton",
-      "price": 96,
+      "price": 95,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/72D326D0-0BB8-4877-B902-F9C5CFBA4026.webp?v=1781276807",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/72D326D0-0BB8-4877-B902-F9C5CFBA4026.webp?v=1781276807",
@@ -2253,7 +2270,7 @@
     {
       "id": 16024419959171,
       "name": "Everything Louder Than Everything Else World Tour 93, 94, 95 Meat Loaf Single Stitch T-Shirt - Small Black Cotton",
-      "price": 96,
+      "price": 95,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
@@ -2270,7 +2287,7 @@
     {
       "id": 16024433918339,
       "name": "Country America '96 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton",
-      "price": 96,
+      "price": 95,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
@@ -2287,7 +2304,7 @@
     {
       "id": 16015494152579,
       "name": "Ranger Ringer Camo T-Shirt - Large Camo Cotton",
-      "price": 96,
+      "price": 95,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/955B89BE-99BE-4055-8AA6-5466D5B8EBDD.webp?v=1780931991",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/955B89BE-99BE-4055-8AA6-5466D5B8EBDD.webp?v=1780931991",
@@ -2304,7 +2321,7 @@
     {
       "id": 16008152514947,
       "name": "Bugs Bunny Looney Tunes Cartoon T-Shirt - Large Black Cotton",
-      "price": 96,
+      "price": 95,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B1732BA1-7FAD-4220-887E-DE20FC5096F6.webp?v=1780561757",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/B1732BA1-7FAD-4220-887E-DE20FC5096F6.webp?v=1780561757",
@@ -2440,7 +2457,7 @@
     {
       "id": 16008152023427,
       "name": "Taz Looney Tunes Cartoon Henley T-Shirt - Medium Grey Cotton",
-      "price": 96,
+      "price": 95,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/746BB928-6D1E-4108-B093-B443549992EE.webp?v=1780561722",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/746BB928-6D1E-4108-B093-B443549992EE.webp?v=1780561722",
@@ -2474,7 +2491,7 @@
     {
       "id": 15998257037699,
       "name": "Made In USA Basketball Camp Nike Graphic T-Shirt - Medium White Cotton",
-      "price": 96,
+      "price": 95,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1A52FA93-953F-450D-A6B0-6224F76D5BDB.webp?v=1780059612",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/1A52FA93-953F-450D-A6B0-6224F76D5BDB.webp?v=1780059612",
@@ -2627,7 +2644,7 @@
     {
       "id": 15998254121347,
       "name": "90S Made In USA Charlotte Hornets Nba Graphic T-Shirt - Large Blue Cotton",
-      "price": 96,
+      "price": 95,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0A7D42B6-F68A-4682-9CF1-7D8559FF6FCA.webp?v=1780059507",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/0A7D42B6-F68A-4682-9CF1-7D8559FF6FCA.webp?v=1780059507",
@@ -2661,7 +2678,7 @@
     {
       "id": 16008145437059,
       "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
@@ -2678,7 +2695,7 @@
     {
       "id": 16008142782851,
       "name": "Dale Earnhardt Chase Authentics Nascar T-Shirt - Medium Black Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/36338130-AF95-4371-8828-67712D26DE2A.webp?v=1780561232",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/36338130-AF95-4371-8828-67712D26DE2A.webp?v=1780561232",
@@ -2695,7 +2712,7 @@
     {
       "id": 16008142258563,
       "name": "Bobby Labonte Chase Authentics Nascar T-Shirt - Medium White Cotton",
-      "price": 103,
+      "price": 102,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A774FEA5-AB47-40FB-9DA7-B4BB757CDF68.webp?v=1780561197",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/A774FEA5-AB47-40FB-9DA7-B4BB757CDF68.webp?v=1780561197",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/bobby-labonte-chase-authentics-t-shirt-mens-white-medium-99146-a",
-      "available": true
-    },
-    {
-      "id": 16008140849539,
-      "name": "Team Force Anvil Graphic T-Shirt - Medium White Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/05319E22-3E3E-4F48-B707-D49488B70409.webp?v=1780561125",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/80CEDFCE-53F9-4CCC-8569-B16DA3D30EB2.webp?v=1780561126"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/team-force-anvil-t-shirt-mens-white-medium-99093-a",
       "available": true
     }
   ]
