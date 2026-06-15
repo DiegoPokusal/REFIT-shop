@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15919773811075,
+      "name": "Biker Scott Jacket - Medium Black Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9BFFF2AE-038D-40D9-A424-735CACAE6FAD.webp?v=1776958031",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9BFFF2AE-038D-40D9-A424-735CACAE6FAD.webp?v=1776958031",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CEBA28F6-3B3C-4F59-8156-D47C2BEDB190.webp?v=1776958031",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4257B4E2-D625-44DF-B1F7-2380BBA6B1C2.webp?v=1776958031"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/biker-scott-jacket-mens-black-medium-88944-a",
+      "available": true
+    },
+    {
       "id": 15919773548931,
       "name": "Biker Street & Steel Jacket - Medium Black Polyester",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-giorgio-armani-blazer-mens-khaki-large-397963",
       "available": true
-    },
-    {
-      "id": 15929939526019,
-      "name": "Conbipel Suede Jacket - Large Navy Leather",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26227_3b0c516a-dfd4-48f6-b7de-10dea816494b.jpg?v=1777362492",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26227_3b0c516a-dfd4-48f6-b7de-10dea816494b.jpg?v=1777362492",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26228_7b7f0949-8a4e-4f55-9868-09efd5996ea3.jpg?v=1777362492",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_cdcdbba9-d910-4272-81a2-cb998ed33197.webp?v=1777362491"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-conbipel-suede-jacket-mens-navy-large-397841",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964917432707,
+      "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9A1548C-3E4D-4419-9E6C-E10F386B80F4.webp?v=1778685860",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/978547FD-D602-4108-9BB0-A0F06739723E.webp?v=1778685861"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
+      "available": true
+    },
     {
       "id": 15964917236099,
       "name": "Carhartt Hoodie - Large Brown Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-large-100494-a",
       "available": true
-    },
-    {
-      "id": 16008825995651,
-      "name": "Polo Jeans Ralph Lauren Spellout Hoodie - Large Grey Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0800714D-7267-41B0-8431-967A64C3C79E.webp?v=1780582406",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0800714D-7267-41B0-8431-967A64C3C79E.webp?v=1780582406",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/691EF9A6-3AB9-42C1-B8F8-6F5DD69E8D29.webp?v=1780582406",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4394E3D5-C45A-469D-8F43-AF4883516CD9.webp?v=1780582406"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-hoodie-mens-grey-large-99762-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15964912222595,
+      "name": "Original Fit Carhartt Sweatshirt - Medium Grey Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/70A2D0E3-4B9F-4BC3-BA79-34CE500014F4.webp?v=1778685740",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A44C023-9D96-4E98-A6CC-073A55EFF0E3.webp?v=1778685741"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/original-fit-carhartt-sweatshirt-mens-grey-medium-98314-a",
+      "available": true
+    },
     {
       "id": 15950926807427,
       "name": "Reverse Weave Cal State Champion Sweatshirt - Medium Navy Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/factory-tour-harley-davidson-sweatshirt-mens-brown-small-98543-a",
       "available": true
-    },
-    {
-      "id": 15982016496003,
-      "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AF7170DC-4C33-46BB-87E8-42183A65BAED.webp?v=1779441066",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C149BB02-A924-44AB-9A81-CF17BC96D0F2.webp?v=1779441066"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16008145437059,
+      "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8E0A31AF-F750-4810-A7E4-BB68241511D3.webp?v=1780561379",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/58DB06C6-B38D-4BA2-8527-313CE1B744C6.webp?v=1780561380"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/dale-jarrett-competitors-view-t-shirt-mens-black-large-99171-a",
+      "available": true
+    },
     {
       "id": 16008142782851,
       "name": "Dale Earnhardt Chase Authentics Nascar T-Shirt - Medium Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-charlotte-hornets-nba-t-shirt-mens-blue-large-97193-a",
-      "available": true
-    },
-    {
-      "id": 15876907925891,
-      "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
-      "price": 101,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5C6DA7F-77F2-49D7-B21E-051C459B09DC.webp?v=1775143308",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DBE3403-82AA-4259-8A38-30EA345E096B.webp?v=1775143308"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
       "available": true
     }
   ]
