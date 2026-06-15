@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15916253741443,
+      "name": "The North Face Jacket - Medium Brown Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9057679-C9A1-4CEB-A58B-DACED85B2EAE.webp?v=1776869204",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8E0057C-9C93-4505-AB15-CAAC06576D5C.webp?v=1776869204"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-brown-medium-87226-a",
+      "available": true
+    },
+    {
       "id": 15916252496259,
       "name": "The North Face Puffer - Large Black Polyester",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/port-authority-jacket-mens-black-large-89158-a",
       "available": true
-    },
-    {
-      "id": 15916255904131,
-      "name": "80S Made In USA The North Face Puffer - Large Blue Down",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B13398E9-06AD-4D39-A6EC-CE3BD4986409.webp?v=1776869212",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/64EA95CC-A616-49FC-A326-63CAB0BED465.webp?v=1776869213"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/80s-made-in-usa-the-north-face-puffer-mens-blue-large-87229-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964912517507,
+      "name": "Carhartt Hoodie - Small Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD.webp?v=1778685749",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD.webp?v=1778685749",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B650924E-BADE-458F-9CE1-81884B7D1FDD.webp?v=1778685748",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DBB7135-8FB1-4D2C-BC3C-0ADF8F2BECD4.webp?v=1778685748"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98321-a",
+      "available": true
+    },
     {
       "id": 15964913107331,
       "name": "Carhartt Spellout Hoodie - Medium Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98320-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964913369475,
-      "name": "Carhartt Hoodie - Large Red Cotton Blend",
+      "id": 15910938247555,
+      "name": "1977 Essentials Sweatshirt - Large Grey Cotton",
       "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/750E2FE8-7525-40E2-AA94-7072B61A967B.webp?v=1778685763",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/657C0CD4-AD19-44AB-AE79-03AE4237116D.webp?v=1778685763"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/751FA865-0F01-440F-AABD-748D5DF87176.webp?v=1776674589",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/87A837E1-C765-4C45-AAC2-51C6390FCB77.webp?v=1776674589"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-large-98326-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/1977-essentials-sweatshirt-mens-grey-large-86464-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15950883783043,
       "name": "Reebok Spellout Sweatshirt - Large Green Cotton",
@@ -1821,23 +1838,6 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a",
-      "available": true
-    },
-    {
-      "id": 15921453236611,
-      "name": "90S Christmas Looney Tunes Tultex Cartoon Sweatshirt - Large Grey Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6171299B-6E3F-46BB-83C0-A02800057A92.webp?v=1777031898",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6171299B-6E3F-46BB-83C0-A02800057A92.webp?v=1777031898",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DAD9C05-A6DA-4511-86A0-FF35C525E616.webp?v=1777031898",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD33A0EE-03E1-44BC-918A-D0AC7C91F7C2.webp?v=1777031899"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-christmas-looney-tunes-tultex-sweatshirt-mens-grey-large-88561-a",
       "available": true
     },
     {
