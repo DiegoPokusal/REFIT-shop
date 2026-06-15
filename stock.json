@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16029354951043,
+      "name": "Nike Jacket - Medium Black Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5CC82F23-6D87-4437-AC1C-00E167DEA4E8.webp?v=1781515746",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5CC82F23-6D87-4437-AC1C-00E167DEA4E8.webp?v=1781515746",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF5CB990-CD5F-4A56-BE92-9E65B4C2673E.webp?v=1781515745",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/18AAABA6-CBBA-4A12-8E15-3E74AC7B92F1.webp?v=1781515746"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/nike-jacket-mens-black-medium-101628-a",
+      "available": true
+    },
+    {
       "id": 15916255904131,
       "name": "80S Made In USA The North Face Puffer - Large Blue Down",
       "price": 145,
@@ -15,6 +32,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/80s-made-in-usa-the-north-face-puffer-mens-blue-large-87229-a",
+      "available": true
+    },
+    {
+      "id": 15916253741443,
+      "name": "The North Face Jacket - Medium Brown Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9057679-C9A1-4CEB-A58B-DACED85B2EAE.webp?v=1776869204",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8E0057C-9C93-4505-AB15-CAAC06576D5C.webp?v=1776869204"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-brown-medium-87226-a",
       "available": true
     },
     {
@@ -86,23 +120,6 @@
       "available": true
     },
     {
-      "id": 15876911432067,
-      "name": "Patagonia Jacket - Medium Black Polyester",
-      "price": 142,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/91C5D4E7-AB7D-4281-B4E8-500979C03149.webp?v=1775143464",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/91C5D4E7-AB7D-4281-B4E8-500979C03149.webp?v=1775143464",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D40C79C-683F-4A1A-A96C-E1A42F996125.webp?v=1775143464",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/33F0324A-C663-4DC9-83D2-8240CFE17B63.webp?v=1775143465"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/patagonia-jacket-mens-black-medium-83101-a",
-      "available": true
-    },
-    {
       "id": 15910920323459,
       "name": "Marlboro Hunting Barn Jacket - Medium Red Cotton",
       "price": 145,
@@ -117,6 +134,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/marlboro-jacket-mens-red-medium-86079-a",
+      "available": true
+    },
+    {
+      "id": 15876911432067,
+      "name": "Patagonia Jacket - Medium Black Polyester",
+      "price": 142,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/91C5D4E7-AB7D-4281-B4E8-500979C03149.webp?v=1775143464",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/91C5D4E7-AB7D-4281-B4E8-500979C03149.webp?v=1775143464",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D40C79C-683F-4A1A-A96C-E1A42F996125.webp?v=1775143464",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/33F0324A-C663-4DC9-83D2-8240CFE17B63.webp?v=1775143465"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-jacket-mens-black-medium-83101-a",
       "available": true
     },
     {
@@ -185,23 +219,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-gilet-mens-red-medium-85845-a",
-      "available": true
-    },
-    {
-      "id": 15894688006531,
-      "name": "The North Face Jacket - Small Black Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/03271850-645A-4B56-AA06-0F77C1E7DD74.webp?v=1776070146",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/03271850-645A-4B56-AA06-0F77C1E7DD74.webp?v=1776070146",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27352BA-4EFF-4E94-8B07-FEBF82C3DD32.webp?v=1776070146",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2602D4ED-781C-48C9-8D45-5860B2757FCD.webp?v=1776070146"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-black-small-85841-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/biker-street-steel-jacket-mens-black-medium-88943-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15919573139843,
-      "name": "Port Authority Jacket - Large Black Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A5D7D07C-679A-4B08-B5F5-B44E88B4776C.webp?v=1776948311",
+      "id": 15964913369475,
+      "name": "Carhartt Hoodie - Large Red Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5D7D07C-679A-4B08-B5F5-B44E88B4776C.webp?v=1776948311",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/81BEE726-66E0-456A-9594-D21DB5E2CBA5.webp?v=1776948312",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3FF8BE6E-8E56-4DF5-8868-7A59F2B8CD2F.webp?v=1776948312"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/750E2FE8-7525-40E2-AA94-7072B61A967B.webp?v=1778685763",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/657C0CD4-AD19-44AB-AE79-03AE4237116D.webp?v=1778685763"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/port-authority-jacket-mens-black-large-89158-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-large-98326-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15964912517507,
       "name": "Carhartt Hoodie - Small Black Cotton",
@@ -821,7 +838,7 @@
     {
       "id": 15894690922883,
       "name": "Carhartt Thermal Lined J149 Hoodie - Small Black Cotton Blend",
-      "price": 113,
+      "price": 112,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EF28144-01D5-476E-A483-9551DC0AEB23.webp?v=1776070283",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/7EF28144-01D5-476E-A483-9551DC0AEB23.webp?v=1776070283",
@@ -838,7 +855,7 @@
     {
       "id": 15894690759043,
       "name": "Presto Carpentry Painting Roofing Carhartt Thermal Lined J149 Hoodie - Large Grey Cotton Blend",
-      "price": 113,
+      "price": 112,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CCFCA55B-EEEB-43F0-A42F-6396BCE941CB.webp?v=1776070275",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/CCFCA55B-EEEB-43F0-A42F-6396BCE941CB.webp?v=1776070275",
@@ -1161,7 +1178,7 @@
     {
       "id": 15894690890115,
       "name": "Carhartt Quilted Lined Hoodie - Large Blue Cotton",
-      "price": 113,
+      "price": 112,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D6F7404B-96F9-4C58-840B-47D077AA0DC9.webp?v=1776070281",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/D6F7404B-96F9-4C58-840B-47D077AA0DC9.webp?v=1776070281",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-brown-large-98319-a",
       "available": true
-    },
-    {
-      "id": 15964916941187,
-      "name": "Carhartt Hoodie - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD_390e48f4-9823-437b-8bb7-f92e795b5663.webp?v=1778685844",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD_390e48f4-9823-437b-8bb7-f92e795b5663.webp?v=1778685844",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B650924E-BADE-458F-9CE1-81884B7D1FDD_c887a049-49fd-45aa-897b-3765b7f7e844.webp?v=1778685847",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DBB7135-8FB1-4D2C-BC3C-0ADF8F2BECD4_2b9fb15b-663b-4ade-be50-7848337d683a.webp?v=1778685846"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98320-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15950694482307,
+      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9E2EF43-5490-4C0C-9AF5-907C948D092C.webp?v=1778140510",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/08EE7634-71BD-489C-B56C-F6889C8503AF.webp?v=1778140511"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
+      "available": true
+    },
     {
       "id": 15910938247555,
       "name": "1977 Essentials Sweatshirt - Large Grey Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reverse-weave-cal-state-champion-sweatshirt-mens-navy-medium-91545-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15916274188675,
-      "name": "Made In USA 90S Nike Sweatshirt - Medium Grey Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
+      "id": 16008140849539,
+      "name": "Team Force Anvil Graphic T-Shirt - Medium White Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/361AACA3-ADB5-4C9B-8CC3-2DF9E0534E48.webp?v=1776869468",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EAEC8BBD-1312-4BB1-A777-EB1F3FA6C1DE.webp?v=1776869468"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/05319E22-3E3E-4F48-B707-D49488B70409.webp?v=1780561125",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/80CEDFCE-53F9-4CCC-8569-B16DA3D30EB2.webp?v=1780561126"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/team-force-anvil-t-shirt-mens-white-medium-99093-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15968026329475,
       "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
@@ -2219,7 +2236,7 @@
     {
       "id": 16024440439171,
       "name": "Macho Man Nwo Oneita Single Stitch T-Shirt - Large Black Cotton",
-      "price": 95,
+      "price": 96,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/72D326D0-0BB8-4877-B902-F9C5CFBA4026.webp?v=1781276807",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/72D326D0-0BB8-4877-B902-F9C5CFBA4026.webp?v=1781276807",
@@ -2270,7 +2287,7 @@
     {
       "id": 16024419959171,
       "name": "Everything Louder Than Everything Else World Tour 93, 94, 95 Meat Loaf Single Stitch T-Shirt - Small Black Cotton",
-      "price": 95,
+      "price": 96,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
@@ -2287,7 +2304,7 @@
     {
       "id": 16024433918339,
       "name": "Country America '96 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton",
-      "price": 95,
+      "price": 96,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
@@ -2304,7 +2321,7 @@
     {
       "id": 16015494152579,
       "name": "Ranger Ringer Camo T-Shirt - Large Camo Cotton",
-      "price": 95,
+      "price": 96,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/955B89BE-99BE-4055-8AA6-5466D5B8EBDD.webp?v=1780931991",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/955B89BE-99BE-4055-8AA6-5466D5B8EBDD.webp?v=1780931991",
@@ -2321,7 +2338,7 @@
     {
       "id": 16008152514947,
       "name": "Bugs Bunny Looney Tunes Cartoon T-Shirt - Large Black Cotton",
-      "price": 95,
+      "price": 96,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B1732BA1-7FAD-4220-887E-DE20FC5096F6.webp?v=1780561757",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/B1732BA1-7FAD-4220-887E-DE20FC5096F6.webp?v=1780561757",
@@ -2457,7 +2474,7 @@
     {
       "id": 16008152023427,
       "name": "Taz Looney Tunes Cartoon Henley T-Shirt - Medium Grey Cotton",
-      "price": 95,
+      "price": 96,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/746BB928-6D1E-4108-B093-B443549992EE.webp?v=1780561722",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/746BB928-6D1E-4108-B093-B443549992EE.webp?v=1780561722",
@@ -2491,7 +2508,7 @@
     {
       "id": 15998257037699,
       "name": "Made In USA Basketball Camp Nike Graphic T-Shirt - Medium White Cotton",
-      "price": 95,
+      "price": 96,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1A52FA93-953F-450D-A6B0-6224F76D5BDB.webp?v=1780059612",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/1A52FA93-953F-450D-A6B0-6224F76D5BDB.webp?v=1780059612",
@@ -2644,7 +2661,7 @@
     {
       "id": 15998254121347,
       "name": "90S Made In USA Charlotte Hornets Nba Graphic T-Shirt - Large Blue Cotton",
-      "price": 95,
+      "price": 96,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0A7D42B6-F68A-4682-9CF1-7D8559FF6FCA.webp?v=1780059507",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/0A7D42B6-F68A-4682-9CF1-7D8559FF6FCA.webp?v=1780059507",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/dale-earnhardt-chase-authentics-t-shirt-mens-black-medium-99185-a",
-      "available": true
-    },
-    {
-      "id": 16008142258563,
-      "name": "Bobby Labonte Chase Authentics Nascar T-Shirt - Medium White Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A774FEA5-AB47-40FB-9DA7-B4BB757CDF68.webp?v=1780561197",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A774FEA5-AB47-40FB-9DA7-B4BB757CDF68.webp?v=1780561197",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6ECDFEDB-1EA3-4CBD-9207-19C8646D9C05.webp?v=1780561197",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/84483692-3240-4158-A1BE-9736D5CEC518.webp?v=1780561197"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/bobby-labonte-chase-authentics-t-shirt-mens-white-medium-99146-a",
       "available": true
     }
   ]
