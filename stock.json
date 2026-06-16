@@ -1,20 +1,20 @@
 {
   "jacket": [
     {
-      "id": 15919773811075,
-      "name": "Biker Scott Jacket - Medium Black Polyester",
+      "id": 15929939526019,
+      "name": "Conbipel Suede Jacket - Large Navy Leather",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9BFFF2AE-038D-40D9-A424-735CACAE6FAD.webp?v=1776958031",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26227_3b0c516a-dfd4-48f6-b7de-10dea816494b.jpg?v=1777362492",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9BFFF2AE-038D-40D9-A424-735CACAE6FAD.webp?v=1776958031",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CEBA28F6-3B3C-4F59-8156-D47C2BEDB190.webp?v=1776958031",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4257B4E2-D625-44DF-B1F7-2380BBA6B1C2.webp?v=1776958031"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26227_3b0c516a-dfd4-48f6-b7de-10dea816494b.jpg?v=1777362492",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26228_7b7f0949-8a4e-4f55-9868-09efd5996ea3.jpg?v=1777362492",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_cdcdbba9-d910-4272-81a2-cb998ed33197.webp?v=1777362491"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/biker-scott-jacket-mens-black-medium-88944-a",
+      "url": "https://www.thrifted.com/products/vintage-conbipel-suede-jacket-mens-navy-large-397841",
       "available": true
     },
     {
@@ -120,6 +120,23 @@
       "available": true
     },
     {
+      "id": 15919773811075,
+      "name": "Biker Scott Jacket - Medium Black Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9BFFF2AE-038D-40D9-A424-735CACAE6FAD.webp?v=1776958031",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9BFFF2AE-038D-40D9-A424-735CACAE6FAD.webp?v=1776958031",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CEBA28F6-3B3C-4F59-8156-D47C2BEDB190.webp?v=1776958031",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4257B4E2-D625-44DF-B1F7-2380BBA6B1C2.webp?v=1776958031"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/biker-scott-jacket-mens-black-medium-88944-a",
+      "available": true
+    },
+    {
       "id": 15916215271811,
       "name": "The North Face Jacket - Medium Grey Polyester",
       "price": 145,
@@ -134,23 +151,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-grey-medium-87236-a",
-      "available": true
-    },
-    {
-      "id": 15916190957955,
-      "name": "Tommy Hilfiger Harrington Jacket - Medium Beige Cotton Blend",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AA0E3DF7-0600-4326-8BD7-F353E557C4FC.webp?v=1776868059",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AA0E3DF7-0600-4326-8BD7-F353E557C4FC.webp?v=1776868059",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E6A719C-3A43-46CA-9811-79BC0DFB1675.webp?v=1776868057",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/420DA54B-0ED7-4D86-A485-D82B7B34F143.webp?v=1776868058"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-harrington-jacket-mens-beige-medium-87478-a",
       "available": true
     },
     {
@@ -1654,6 +1654,23 @@
       "available": true
     },
     {
+      "id": 15982016496003,
+      "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AF7170DC-4C33-46BB-87E8-42183A65BAED.webp?v=1779441066",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C149BB02-A924-44AB-9A81-CF17BC96D0F2.webp?v=1779441066"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
+      "available": true
+    },
+    {
       "id": 15950703067523,
       "name": "Green Bay Packers Looney Tunes Nfl Sweatshirt - Medium Black Cotton",
       "price": 109,
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-looney-tunes-sweatshirt-mens-blue-large-99025-a",
       "available": true
-    },
-    {
-      "id": 16006462013827,
-      "name": "Factory Tour Harley Davidson Graphic Sweatshirt - Small Brown Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A28293B-D8EF-487C-92AF-989F4E135A5A.webp?v=1780478704",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A28293B-D8EF-487C-92AF-989F4E135A5A.webp?v=1780478704",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AADFC486-8A7E-466F-8742-F1B6559DC149.webp?v=1780478704",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/490A3AC5-157C-475D-AF8C-4F8D1D3B9DBB.webp?v=1780478705"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/factory-tour-harley-davidson-sweatshirt-mens-brown-small-98543-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15876907925891,
+      "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
+      "price": 101,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5C6DA7F-77F2-49D7-B21E-051C459B09DC.webp?v=1775143308",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DBE3403-82AA-4259-8A38-30EA345E096B.webp?v=1775143308"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
+      "available": true
+    },
     {
       "id": 16008145437059,
       "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-white-medium-91159-a",
-      "available": true
-    },
-    {
-      "id": 15998254121347,
-      "name": "90S Made In USA Charlotte Hornets Nba Graphic T-Shirt - Large Blue Cotton",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0A7D42B6-F68A-4682-9CF1-7D8559FF6FCA.webp?v=1780059507",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A7D42B6-F68A-4682-9CF1-7D8559FF6FCA.webp?v=1780059507",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/57EC3952-D9D6-4B22-9CD5-5692165B14AE.webp?v=1780059507",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2E0E9839-7ACC-4A54-AA07-F68F467D9E4B.webp?v=1780059506"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-charlotte-hornets-nba-t-shirt-mens-blue-large-97193-a",
       "available": true
     }
   ]
