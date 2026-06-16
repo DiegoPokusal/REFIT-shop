@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15929996018051,
+      "name": "Christian Dior Striped Blazer - Medium Grey Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26109_5295395c-9a83-4630-93f9-5e87f940d3eb.jpg?v=1777363574",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_492caa45-d422-45fc-9d57-503b0d19e6b5.webp?v=1777363573"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-medium-397967",
+      "available": true
+    },
+    {
       "id": 15929995428227,
       "name": "Giorgio Armani Blazer - Large Khaki Wool",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397982",
       "available": true
-    },
-    {
-      "id": 15929997721987,
-      "name": "Christian Dior Checked Blazer - Medium Navy Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26145_fd3daab0-66bc-437c-820a-1fd6db422e72.jpg?v=1777363603",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26145_fd3daab0-66bc-437c-820a-1fd6db422e72.jpg?v=1777363603",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26146_0443fbeb-8531-4f20-92f6-5407757d8476.jpg?v=1777363604",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_04acf6c5-175e-4606-9f21-c018d5918270.webp?v=1777363603"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397981",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16014357299587,
+      "name": "Carhartt Hoodie - Large Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C1A3A70E-40F1-4C2D-9585-F4CE128F676D.webp?v=1780906097",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C1A3A70E-40F1-4C2D-9585-F4CE128F676D.webp?v=1780906097",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/61BBE189-2030-4AD4-83D1-53A47E532B4E.webp?v=1780906097",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/62B5CBFA-B120-4A6B-A26C-A175AF86CCFC.webp?v=1780906098"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-large-100494-a",
+      "available": true
+    },
     {
       "id": 15964912419203,
       "name": "Deleeuw Lumber Carhartt Hoodie - Medium Navy Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-101150-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16014361624963,
-      "name": "Carhartt Hoodie - Medium Grey Cotton Blend",
+      "id": 16008837792131,
+      "name": "Polo Jeans Company Ralph Lauren Sweatshirt - Medium Grey Cotton Blend",
       "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6339FB71-CA43-41F8-B321-5A446EE20ED4.webp?v=1780906166",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/78908112-349C-470A-A439-F2F7D2562372.webp?v=1780582680",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6339FB71-CA43-41F8-B321-5A446EE20ED4.webp?v=1780906166",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CB78761D-730D-4887-8ED9-656FABE1383A.webp?v=1780906166",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7C0F738-BFA7-4676-8E6F-9C58B87EA743.webp?v=1780906167"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/78908112-349C-470A-A439-F2F7D2562372.webp?v=1780582680",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2EA1BFDE-F7F8-4365-90C9-6E22993A0328.webp?v=1780582680",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/18F42B77-4F72-41A7-ABD9-9D6C56E406B6.webp?v=1780582681"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-medium-100521-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-jeans-company-ralph-lauren-sweatshirt-mens-grey-medium-99783-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16008135639427,
       "name": "Made In USA Looney Tunes Kentucky Taz Attack Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
       "available": true
-    },
-    {
-      "id": 16008839528835,
-      "name": "Polo By Ralph Lauren Rl Crest Sweatshirt - Medium Navy Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/49772313-5F38-45BC-9B1F-71FDAFC420BF.webp?v=1780582738",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B898351-00FF-435E-B920-56FD9613888F.webp?v=1780582738"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-navy-medium-99775-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15995240022403,
+      "name": "Grateful Dead Liquid Blue Graphic T-Shirt - Large Multicoloured Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FE3F3161-DC33-422E-BD1D-904795ACE070.webp?v=1779954562",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE3F3161-DC33-422E-BD1D-904795ACE070.webp?v=1779954562",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7834BD57-D6DD-4E99-90F8-C4F4522F83A6.webp?v=1779954562",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/60F8956E-A12B-41F6-A126-26F58242BD37.webp?v=1779954562"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97073-a",
+      "available": true
+    },
     {
       "id": 15950891680131,
       "name": "Polo Bear Ralph Lauren Long Sleeve T-Shirt - Medium White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
-      "available": true
-    },
-    {
-      "id": 15995251556739,
-      "name": "Grateful Dead Liquid Blue Graphic T-Shirt - Large Multicoloured Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A8CCD43A-413C-4AAE-8B6E-6D260B718F91.webp?v=1779954647",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A8CCD43A-413C-4AAE-8B6E-6D260B718F91.webp?v=1779954647",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/63ED9A06-B0FB-4483-B46A-66C75BC6DB67.webp?v=1779954646",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/59472792-D570-4DCD-AB42-5C45B7D759AB.webp?v=1779954647"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97082-a",
       "available": true
     }
   ]
