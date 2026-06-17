@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15930002407811,
+      "name": "Yves Saint Laurent Striped Blazer - Medium Brown Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26169_6a2fb375-9b66-41ce-9dbf-9e25dad435d9.jpg?v=1777363632",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26169_6a2fb375-9b66-41ce-9dbf-9e25dad435d9.jpg?v=1777363632",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26170_c7ef4ff6-efd3-4bcf-8887-44f55d393dc2.jpg?v=1777363633",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_0fa650da-3878-448f-a264-8d2b98916cd3.webp?v=1777363631"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-brown-medium-397992",
+      "available": true
+    },
+    {
       "id": 15929998508419,
       "name": "Yves Saint Laurent Pinstripe Blazer - Medium Navy Wool",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/cropped-10x-jacket-mens-camo-large-90531-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15930003292547,
-      "name": "Christian Dior Pinstripe Blazer - Large Black Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26177_8a26d346-ab33-4141-9f2b-1758a998e6d2.jpg?v=1777363642",
+      "id": 15894690890115,
+      "name": "Carhartt Quilted Lined Hoodie - Large Blue Cotton",
+      "price": 112,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D6F7404B-96F9-4C58-840B-47D077AA0DC9.webp?v=1776070281",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26177_8a26d346-ab33-4141-9f2b-1758a998e6d2.jpg?v=1777363642",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26178_26c68faa-604d-485b-a2c9-d30a8e4943ab.jpg?v=1777363642",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_e6fc40c7-fb44-4def-9751-e8cf9d67f1f0.webp?v=1777363642"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D6F7404B-96F9-4C58-840B-47D077AA0DC9.webp?v=1776070281",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C76763EC-15F2-4FF5-871F-DBF4A4C9542B.webp?v=1776070281",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EBA9B4D-097C-4ADF-8783-B1AFB24C96F2.webp?v=1776070282"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-large-397995",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-blue-large-85925-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15894679814531,
       "name": "Harley Davidson Graphic Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-green-medium-90935-a",
       "available": true
-    },
-    {
-      "id": 15919765520771,
-      "name": "USc Trojans Nike College Hoodie - Large Red Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A645B69A-D021-4554-8EF9-7CFA05B21738.webp?v=1776957834",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A645B69A-D021-4554-8EF9-7CFA05B21738.webp?v=1776957834",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4FE315C6-7EE8-409B-922D-D147D44DA504.webp?v=1776957833",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EC6F2FDD-0241-4E67-9145-5E4B21D7192E.webp?v=1776957834"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/usc-trojans-nike-hoodie-mens-red-large-88440-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008151105923,
+      "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Grey Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7397703-D500-4677-8443-9037AB1E4AEC.webp?v=1780561656",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/36524FCB-1714-4A4B-A2F1-3CBD8949C1AA.webp?v=1780561656"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-small-99300-a",
+      "available": true
+    },
     {
       "id": 16006460965251,
       "name": "Harley Davidson Graphic Sweatshirt - Medium Black Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/mickey-mouse-mickey-co-sweatshirt-mens-red-large-99288-a",
       "available": true
-    },
-    {
-      "id": 16008135410051,
-      "name": "Made In USA Nutmeg San Francisco 49Ers Sweatshirt - Large Red Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9250E13B-A129-46E4-A333-2FD09EFD5F7D.webp?v=1780560974",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9250E13B-A129-46E4-A333-2FD09EFD5F7D.webp?v=1780560974",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2EFA2D94-8F84-46C9-9C63-2DF1AA816DEE.webp?v=1780560974",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A317A636-44A4-48A7-B897-913145D0B7FD.webp?v=1780560975"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-red-large-99011-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15998257037699,
+      "name": "Made In USA Basketball Camp Nike Graphic T-Shirt - Medium White Cotton",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1A52FA93-953F-450D-A6B0-6224F76D5BDB.webp?v=1780059612",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A52FA93-953F-450D-A6B0-6224F76D5BDB.webp?v=1780059612",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/89DDFDF8-657A-4B72-B948-6D3AA0614F07.webp?v=1780059612",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5DE8822-790A-48E0-951E-9BD62750BEB4.webp?v=1780059613"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/made-in-usa-basketball-camp-nike-t-shirt-mens-white-medium-97226-a",
+      "available": true
+    },
     {
       "id": 16010029760899,
       "name": "Stussy Spellout T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/taz-looney-tunes-t-shirt-mens-grey-medium-99307-a",
-      "available": true
-    },
-    {
-      "id": 16017695998339,
-      "name": "Burberry T-Shirt - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE7FB8C5-F9B9-428C-8BBE-0AC0B8E24EB7.webp?v=1780999608",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE7FB8C5-F9B9-428C-8BBE-0AC0B8E24EB7.webp?v=1780999608",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DBC85DFB-642B-4AB9-8757-FADCE90165F0.webp?v=1780999608",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19F62133-DE35-490E-8F22-C58B9EC452D8.webp?v=1780999608"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/burberry-t-shirt-mens-black-small-100871-a",
       "available": true
     }
   ]
