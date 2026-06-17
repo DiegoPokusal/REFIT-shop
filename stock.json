@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15929998508419,
+      "name": "Yves Saint Laurent Pinstripe Blazer - Medium Navy Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26153_ad4af31c-4297-4a9f-bbc0-b8c0b51b0bb7.jpg?v=1777363614",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26153_ad4af31c-4297-4a9f-bbc0-b8c0b51b0bb7.jpg?v=1777363614",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26154_4b1d1117-12b4-4823-a94e-808a73194400.jpg?v=1777363614",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_035a85b3-8124-4f6a-ab98-d025174fff3e.webp?v=1777363613"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-navy-medium-397985",
+      "available": true
+    },
+    {
       "id": 15929998475651,
       "name": "Christian Dior Blazer - Medium Black Wool",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-large-397995",
       "available": true
-    },
-    {
-      "id": 15930002407811,
-      "name": "Yves Saint Laurent Striped Blazer - Medium Brown Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26169_6a2fb375-9b66-41ce-9dbf-9e25dad435d9.jpg?v=1777363632",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26169_6a2fb375-9b66-41ce-9dbf-9e25dad435d9.jpg?v=1777363632",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26170_c7ef4ff6-efd3-4bcf-8887-44f55d393dc2.jpg?v=1777363633",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_0fa650da-3878-448f-a264-8d2b98916cd3.webp?v=1777363631"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-brown-medium-397992",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15894679814531,
+      "name": "Harley Davidson Graphic Hoodie - Large Black Cotton",
+      "price": 119,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/835E3FCF-FFBE-47FE-9D18-18368DD3F8A3.webp?v=1776069946",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/835E3FCF-FFBE-47FE-9D18-18368DD3F8A3.webp?v=1776069946",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E5331B1-85D7-4A64-90BF-9765E85348D9.webp?v=1776069946",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FED15612-ED4B-411B-BD57-966E46E80AA3.webp?v=1776069947"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-black-large-85691-a",
+      "available": true
+    },
     {
       "id": 15894679781763,
       "name": "Waukon Harley Davidson Graphic Hoodie - Medium Grey Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/usc-trojans-nike-hoodie-mens-red-large-88440-a",
       "available": true
-    },
-    {
-      "id": 15894690890115,
-      "name": "Carhartt Quilted Lined Hoodie - Large Blue Cotton",
-      "price": 112,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D6F7404B-96F9-4C58-840B-47D077AA0DC9.webp?v=1776070281",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D6F7404B-96F9-4C58-840B-47D077AA0DC9.webp?v=1776070281",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C76763EC-15F2-4FF5-871F-DBF4A4C9542B.webp?v=1776070281",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EBA9B4D-097C-4ADF-8783-B1AFB24C96F2.webp?v=1776070282"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-blue-large-85925-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16006460965251,
+      "name": "Harley Davidson Graphic Sweatshirt - Medium Black Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E47E824E-3CA0-4BFD-B35D-25D4D016FF72.webp?v=1780478668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/38492C0D-C9B9-4E43-96CC-B8D100C55A4B.webp?v=1780478669"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-98545-a",
+      "available": true
+    },
     {
       "id": 15950693171587,
       "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-red-large-99011-a",
       "available": true
-    },
-    {
-      "id": 16008151105923,
-      "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Grey Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7397703-D500-4677-8443-9037AB1E4AEC.webp?v=1780561656",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/36524FCB-1714-4A4B-A2F1-3CBD8949C1AA.webp?v=1780561656"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-small-99300-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010029760899,
+      "name": "Stussy Spellout T-Shirt - Large Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDAF6EF8-D811-4202-BFA6-DADD11A66B56.webp?v=1780661528",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDAF6EF8-D811-4202-BFA6-DADD11A66B56.webp?v=1780661528",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F878A350-7E9B-4348-8574-DBB615DB4456.webp?v=1780661528",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/82635C10-5701-457F-9C09-C6C6431DDF4E.webp?v=1780661529"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-large-100782-a",
+      "available": true
+    },
     {
       "id": 16010028745091,
       "name": "Busy Works A Bathing Ape Graphic T-Shirt - Medium White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/burberry-t-shirt-mens-black-small-100871-a",
-      "available": true
-    },
-    {
-      "id": 15998257037699,
-      "name": "Made In USA Basketball Camp Nike Graphic T-Shirt - Medium White Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1A52FA93-953F-450D-A6B0-6224F76D5BDB.webp?v=1780059612",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A52FA93-953F-450D-A6B0-6224F76D5BDB.webp?v=1780059612",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/89DDFDF8-657A-4B72-B948-6D3AA0614F07.webp?v=1780059612",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5DE8822-790A-48E0-951E-9BD62750BEB4.webp?v=1780059613"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-usa-basketball-camp-nike-t-shirt-mens-white-medium-97226-a",
       "available": true
     }
   ]
