@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15929997721987,
+      "name": "Christian Dior Checked Blazer - Medium Navy Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26145_fd3daab0-66bc-437c-820a-1fd6db422e72.jpg?v=1777363603",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26145_fd3daab0-66bc-437c-820a-1fd6db422e72.jpg?v=1777363603",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26146_0443fbeb-8531-4f20-92f6-5407757d8476.jpg?v=1777363604",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_04acf6c5-175e-4606-9f21-c018d5918270.webp?v=1777363603"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397981",
+      "available": true
+    },
+    {
       "id": 15929996018051,
       "name": "Christian Dior Striped Blazer - Medium Grey Wool",
       "price": 145,
@@ -457,23 +474,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-waterproof-jacket-mens-green-medium-100083-a",
-      "available": true
-    },
-    {
-      "id": 15894688170371,
-      "name": "The North Face Gilet - Medium Red Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/99876D3C-BD18-4C1A-911D-BCA50A536A10.webp?v=1776070155",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/99876D3C-BD18-4C1A-911D-BCA50A536A10.webp?v=1776070155",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C78F13DD-1119-4F2C-8E32-70D1FEECE1EC.webp?v=1776070155",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0B7421F-E702-4BBB-ABD7-43F78282F70E.webp?v=1776070155"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-gilet-mens-red-medium-85845-a",
       "available": true
     },
     {
@@ -1040,6 +1040,23 @@
       "available": true
     },
     {
+      "id": 16014361624963,
+      "name": "Carhartt Hoodie - Medium Grey Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6339FB71-CA43-41F8-B321-5A446EE20ED4.webp?v=1780906166",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6339FB71-CA43-41F8-B321-5A446EE20ED4.webp?v=1780906166",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CB78761D-730D-4887-8ED9-656FABE1383A.webp?v=1780906166",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7C0F738-BFA7-4676-8E6F-9C58B87EA743.webp?v=1780906167"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-medium-100521-a",
+      "available": true
+    },
+    {
       "id": 16015494054275,
       "name": "Xtra Realtree Graphic Hoodie - Large Brown Cotton Blend",
       "price": 109,
@@ -1105,23 +1122,6 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/vintage-moschino-hoodie-mens-black-small-398190",
-      "available": true
-    },
-    {
-      "id": 15982003290499,
-      "name": "Carhartt K132 Ash Hoodie - Large Grey Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/32DF006D-D1D1-47BB-B7C8-0A34658D4389.webp?v=1779440806",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/32DF006D-D1D1-47BB-B7C8-0A34658D4389.webp?v=1779440806",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E1AFA45A-D93C-41FF-8922-741B4CDF0241.webp?v=1779440806",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EF209E9A-DF7C-4FB5-B343-6F94045AE47E.webp?v=1779440806"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-large-95819-a",
       "available": true
     },
     {
@@ -2028,39 +2028,39 @@
       "available": true
     },
     {
-      "id": 15910937657731,
-      "name": "90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend",
-      "price": 121,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
+      "id": 16008839528835,
+      "name": "Polo By Ralph Lauren Rl Crest Sweatshirt - Medium Navy Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19BE483B-E1E1-464C-8E0E-1038472BF887.webp?v=1776674557",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD22E655-93F8-4BF8-B0B4-03F66FB000BC.webp?v=1776674558"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/49772313-5F38-45BC-9B1F-71FDAFC420BF.webp?v=1780582738",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B898351-00FF-435E-B920-56FD9613888F.webp?v=1780582738"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
       "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-navy-medium-99775-a",
       "available": true
     }
   ],
   "tee": [
     {
-      "id": 15995240022403,
+      "id": 15995251556739,
       "name": "Grateful Dead Liquid Blue Graphic T-Shirt - Large Multicoloured Cotton",
       "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FE3F3161-DC33-422E-BD1D-904795ACE070.webp?v=1779954562",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A8CCD43A-413C-4AAE-8B6E-6D260B718F91.webp?v=1779954647",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE3F3161-DC33-422E-BD1D-904795ACE070.webp?v=1779954562",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7834BD57-D6DD-4E99-90F8-C4F4522F83A6.webp?v=1779954562",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/60F8956E-A12B-41F6-A126-26F58242BD37.webp?v=1779954562"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A8CCD43A-413C-4AAE-8B6E-6D260B718F91.webp?v=1779954647",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63ED9A06-B0FB-4483-B46A-66C75BC6DB67.webp?v=1779954646",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/59472792-D570-4DCD-AB42-5C45B7D759AB.webp?v=1779954647"
       ],
       "sizes": [
         "Large"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97073-a",
+      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97082-a",
       "available": true
     },
     {
@@ -2523,20 +2523,20 @@
       "available": true
     },
     {
-      "id": 16017703338371,
-      "name": "Burberry London Striped Long Sleeve T-Shirt - Small Green Cotton",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE336095-CDB4-412C-8FF9-EA3EBB5E25D9.webp?v=1780999724",
+      "id": 15995240022403,
+      "name": "Grateful Dead Liquid Blue Graphic T-Shirt - Large Multicoloured Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FE3F3161-DC33-422E-BD1D-904795ACE070.webp?v=1779954562",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE336095-CDB4-412C-8FF9-EA3EBB5E25D9.webp?v=1780999724",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A05A4225-5E44-4442-8120-84E4858F9389.webp?v=1780999724",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/58A72548-29A7-42BB-9AE9-5B56587370D6.webp?v=1780999725"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE3F3161-DC33-422E-BD1D-904795ACE070.webp?v=1779954562",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7834BD57-D6DD-4E99-90F8-C4F4522F83A6.webp?v=1779954562",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/60F8956E-A12B-41F6-A126-26F58242BD37.webp?v=1779954562"
       ],
       "sizes": [
-        "Small"
+        "Large"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/burberry-london-long-sleeve-t-shirt-mens-green-small-100879-a",
+      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97073-a",
       "available": true
     },
     {
