@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16035051176323,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Navy Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6CA1A524-DA55-4556-975C-1DBE7CF7FDD2.webp?v=1781706175",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6CA1A524-DA55-4556-975C-1DBE7CF7FDD2.webp?v=1781706175",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9674EFE8-682B-4D38-B121-FDDB868EA841.webp?v=1781706175",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9A133288-3FD1-4815-9E61-0D858AE9E2F2.webp?v=1781706175"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-navy-large-104170-a",
+      "available": true
+    },
+    {
       "id": 16035097280899,
       "name": "Denim Polo By Ralph Lauren Harrington Jacket - Large Blue Cotton",
       "price": 145,
@@ -256,156 +273,156 @@
       "available": true
     },
     {
-      "id": 15916255904131,
-      "name": "80S Made In USA The North Face Puffer - Large Blue Down",
+      "id": 16035050684803,
+      "name": "Polo By Ralph Lauren Checked Harrington Jacket - Large Green Cotton",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D0099061-43F0-4F7A-A862-F05267DA8D46.webp?v=1781706168",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/88FD1ACB-112B-40F0-91E7-CE3B53D6D39E.webp?v=1776869212",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B13398E9-06AD-4D39-A6EC-CE3BD4986409.webp?v=1776869212",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/64EA95CC-A616-49FC-A326-63CAB0BED465.webp?v=1776869213"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D0099061-43F0-4F7A-A862-F05267DA8D46.webp?v=1781706168",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2A4AFBD3-3B12-4107-BD53-7C5701CEE177.webp?v=1781706168",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/371F1E72-8575-4C97-88FB-465574A5C0E7.webp?v=1781706169"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/80s-made-in-usa-the-north-face-puffer-mens-blue-large-87229-a",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-green-large-104171-a",
       "available": true
     },
     {
-      "id": 15916253741443,
-      "name": "The North Face Jacket - Medium Brown Polyester",
+      "id": 16035050422659,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3251FF3B-CE30-4732-A8B2-697888D9EE43.webp?v=1781706162",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/25F1FAE3-4AD2-4070-A243-067D593CC74C.webp?v=1776869204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9057679-C9A1-4CEB-A58B-DACED85B2EAE.webp?v=1776869204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8E0057C-9C93-4505-AB15-CAAC06576D5C.webp?v=1776869204"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-brown-medium-87226-a",
-      "available": true
-    },
-    {
-      "id": 15916252496259,
-      "name": "The North Face Puffer - Large Black Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E676369-85F0-49A4-8659-63480A930A8A.webp?v=1776869199",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E676369-85F0-49A4-8659-63480A930A8A.webp?v=1776869199",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A696D55F-E47A-4D97-ADBA-16EB4FAB3490.webp?v=1776869199",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/95327D9D-8825-4332-92D6-EC3890D89E77.webp?v=1776869199"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3251FF3B-CE30-4732-A8B2-697888D9EE43.webp?v=1781706162",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6C6B6E57-CFBE-4FD3-B531-3F3248E23C07.webp?v=1781706161",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/84C257FB-1058-422D-9842-368B4FA331D0.webp?v=1781706162"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-black-large-87224-a",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-beige-large-104161-a",
       "available": true
     },
     {
-      "id": 15916215271811,
-      "name": "The North Face Jacket - Medium Grey Polyester",
+      "id": 16035050291587,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Navy Cotton",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/232B1A4E-7C3D-4AE6-95EC-53BD5F8608D5.webp?v=1776868551",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ED5ED30E-2031-40A3-81AB-D90D163946EA.webp?v=1781706158",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/232B1A4E-7C3D-4AE6-95EC-53BD5F8608D5.webp?v=1776868551",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3E51066-C3EF-46D5-B5BB-41B183C34075.webp?v=1776868550",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2D70907B-5A46-4AAA-B44A-1095A81CD528.webp?v=1776868551"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED5ED30E-2031-40A3-81AB-D90D163946EA.webp?v=1781706158",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C369D07E-283A-4D11-8F7F-2B93054C3E14.webp?v=1781706158",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE42A67B-F8F0-41A6-BC9E-4A5FC39FE1AB.webp?v=1781706159"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-grey-medium-87236-a",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-navy-large-104160-a",
       "available": true
     },
     {
-      "id": 15916190957955,
-      "name": "Tommy Hilfiger Harrington Jacket - Medium Beige Cotton Blend",
+      "id": 16035049079171,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AA0E3DF7-0600-4326-8BD7-F353E557C4FC.webp?v=1776868059",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CABFCD7C-6215-4DEE-A432-E7F566D74D1B.webp?v=1781706124",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AA0E3DF7-0600-4326-8BD7-F353E557C4FC.webp?v=1776868059",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E6A719C-3A43-46CA-9811-79BC0DFB1675.webp?v=1776868057",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/420DA54B-0ED7-4D86-A485-D82B7B34F143.webp?v=1776868058"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CABFCD7C-6215-4DEE-A432-E7F566D74D1B.webp?v=1781706124",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/84D6D933-6C25-4EB5-A3CC-33A8B282D376.webp?v=1781706124",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A8500524-F337-4E6D-9FE1-BECB5986A9F6.webp?v=1781706125"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-harrington-jacket-mens-beige-medium-87478-a",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-beige-large-104169-a",
       "available": true
     },
     {
-      "id": 15916137841027,
-      "name": "Tommy Hilfiger Jacket - Small Navy Polyester",
+      "id": 16035049013635,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Navy Polyester",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7318B2F7-6C39-43BC-9E0E-B6E96D739D88.webp?v=1776867327",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/79104217-DECD-4A68-BD2A-30ED306C3823.webp?v=1781706121",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7318B2F7-6C39-43BC-9E0E-B6E96D739D88.webp?v=1776867327",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/063E1F32-BF33-4F85-B607-39B7C75DABDC.webp?v=1776867327",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ADE9CD3B-2BF3-4F04-9080-82A509E1A06D.webp?v=1776867328"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/79104217-DECD-4A68-BD2A-30ED306C3823.webp?v=1781706121",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/48B5CF0E-8A70-4F4D-82AB-906C254FC9CB.webp?v=1781706121",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA16F92F-F62B-42C2-BD31-6A4510F0B338.webp?v=1781706122"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-navy-large-104167-a",
+      "available": true
+    },
+    {
+      "id": 16035047702915,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Small Blue Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/42DD3119-7BBD-45B0-9AB2-562D3EC43303.webp?v=1781706091",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/42DD3119-7BBD-45B0-9AB2-562D3EC43303.webp?v=1781706091",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4C07F34B-7BE1-4C5B-842F-DEEB6C438B0A.webp?v=1781706091",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/030E333B-8BB1-4095-8CF5-102780CEBF41.webp?v=1781706091"
       ],
       "sizes": [
         "Small"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-jacket-mens-navy-small-87489-a",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-blue-small-104168-a",
       "available": true
     },
     {
-      "id": 15910920323459,
-      "name": "Marlboro Hunting Barn Jacket - Medium Red Cotton",
+      "id": 16035047539075,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Red Cotton",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BE1780ED-06DD-4D8C-A949-73B28D6AAC75.webp?v=1776674065",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0655B847-AA62-4373-A817-8039C3F88418.webp?v=1781706087",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE1780ED-06DD-4D8C-A949-73B28D6AAC75.webp?v=1776674065",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CAE6A1BC-84BD-4016-8E01-F0BF81DEFEAF.webp?v=1776674065",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5E8F885-42B2-4A41-AFAA-703AB1C4AD35.webp?v=1776674065"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/marlboro-jacket-mens-red-medium-86079-a",
-      "available": true
-    },
-    {
-      "id": 15876920476035,
-      "name": "U2 Patched Flight Leather Jacket - Medium Brown Leather",
-      "price": 143,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB6E3D3C-CCEF-42B8-9CD0-09A643676E91.webp?v=1775143711",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB6E3D3C-CCEF-42B8-9CD0-09A643676E91.webp?v=1775143711",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2DFBDE7E-9D03-412F-BE1A-9010CA9D71C2.webp?v=1775143711",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/32392345-7E25-40F8-BAB1-B51942C8EC84.webp?v=1775143711"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/u2-leather-jacket-mens-brown-medium-83185-a",
-      "available": true
-    },
-    {
-      "id": 15885854409091,
-      "name": "Oakley Jacket - Large Green Polyester",
-      "price": 142,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1F43016A-D95D-4901-ABED-1F299FB7F205.webp?v=1775641016",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1F43016A-D95D-4901-ABED-1F299FB7F205.webp?v=1775641016",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6AEF1B34-7B98-4EBC-B50F-74935CF1454F.webp?v=1775641015",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5A41816F-4D06-4AC5-8A26-DF077AC8D74B.webp?v=1775641015"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0655B847-AA62-4373-A817-8039C3F88418.webp?v=1781706087",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D48D82A4-86E0-48A1-920C-7149564BE209.webp?v=1781706087",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EF6BEF4-030F-4FD7-B975-AD8D36A23796.webp?v=1781706088"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/oakley-jacket-mens-green-large-83657-a",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-red-large-104165-a",
+      "available": true
+    },
+    {
+      "id": 16035043869059,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/939AA3CA-FA05-4B53-8D18-8B07C2358ED6.webp?v=1781706005",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/939AA3CA-FA05-4B53-8D18-8B07C2358ED6.webp?v=1781706005",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A46F9C34-7E8F-4FA5-B599-AE418D0D3021.webp?v=1781706004",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DB5CC69C-211D-41B1-BAC5-B58B4B5DA228.webp?v=1781706005"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-beige-large-104181-a",
+      "available": true
+    },
+    {
+      "id": 16035043705219,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Black Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7AEACCCB-FC91-4D00-A5DF-1649CFBD5FB5.webp?v=1781706001",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7AEACCCB-FC91-4D00-A5DF-1649CFBD5FB5.webp?v=1781706001",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7411D30F-1AEE-44B3-B5D7-28D7CBDF9C39.webp?v=1781706001",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/17A335E6-AEFE-4DE9-ADFB-0EC580BDB9C1.webp?v=1781706002"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-black-large-104180-a",
       "available": true
     },
     {
@@ -528,20 +545,20 @@
       "available": true
     },
     {
-      "id": 15894688006531,
-      "name": "The North Face Jacket - Small Black Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/03271850-645A-4B56-AA06-0F77C1E7DD74.webp?v=1776070146",
+      "id": 15929997721987,
+      "name": "Christian Dior Checked Blazer - Medium Navy Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26145_fd3daab0-66bc-437c-820a-1fd6db422e72.jpg?v=1777363603",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/03271850-645A-4B56-AA06-0F77C1E7DD74.webp?v=1776070146",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27352BA-4EFF-4E94-8B07-FEBF82C3DD32.webp?v=1776070146",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2602D4ED-781C-48C9-8D45-5860B2757FCD.webp?v=1776070146"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26145_fd3daab0-66bc-437c-820a-1fd6db422e72.jpg?v=1777363603",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26146_0443fbeb-8531-4f20-92f6-5407757d8476.jpg?v=1777363604",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_04acf6c5-175e-4606-9f21-c018d5918270.webp?v=1777363603"
       ],
       "sizes": [
-        "Small"
+        "Medium"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-jacket-mens-black-small-85841-a",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397981",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-large-397990",
       "available": true
-    },
-    {
-      "id": 15929997787523,
-      "name": "Christian Dior Blazer - Medium Navy Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26147_8d5b57b9-60ab-4bdd-b6a2-c83338c775c4.jpg?v=1777363603",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26147_8d5b57b9-60ab-4bdd-b6a2-c83338c775c4.jpg?v=1777363603",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26148_32518469-8fe3-4246-8944-07704ebc2948.jpg?v=1777363603",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_10775a33-5560-466a-994f-2df0498efe41.webp?v=1777363603"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397982",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16015499624835,
+      "name": "Nike Hoodie - Large Green Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FBFDA754-8150-4BE3-BB71-787282A2172E.webp?v=1780932128",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FBFDA754-8150-4BE3-BB71-787282A2172E.webp?v=1780932128",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0340D542-8373-4DC2-BB0A-F3B036AE8BC9.webp?v=1780932128",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1639EBC2-6358-4153-85FF-ABC881A703DD.webp?v=1780932128"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-101150-a",
+      "available": true
+    },
     {
       "id": 16014357299587,
       "name": "Carhartt Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-black-large-88136-a",
       "available": true
-    },
-    {
-      "id": 16015499854211,
-      "name": "Tennessee Adidas College Hoodie - Large Orange Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5F8DFC88-4670-4D68-B627-2E6B355FDC04.webp?v=1780932134",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F8DFC88-4670-4D68-B627-2E6B355FDC04.webp?v=1780932134",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A2AC498F-3AA0-45EF-A75D-57F9A68B3A7C.webp?v=1780932134",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B98F5B89-FCCD-4011-8064-50EC88228E98.webp?v=1780932134"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/tennessee-adidas-hoodie-mens-orange-large-101152-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008839528835,
+      "name": "Polo By Ralph Lauren Rl Crest Sweatshirt - Medium Navy Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/49772313-5F38-45BC-9B1F-71FDAFC420BF.webp?v=1780582738",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B898351-00FF-435E-B920-56FD9613888F.webp?v=1780582738"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-navy-medium-99775-a",
+      "available": true
+    },
     {
       "id": 15910937657731,
       "name": "90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-guess-sweatshirt-mens-navy-large-86069-a",
       "available": true
-    },
-    {
-      "id": 15921452122499,
-      "name": "90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7186A8B4-68C9-438D-A615-282766C1076B.webp?v=1777031886",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08AF220C-3BEA-4928-8625-565AFFC4848E.webp?v=1777031886"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15995255128451,
+      "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/14AE7C1C-2E62-4DA9-9454-9D6F44F6F591.webp?v=1779954660",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/26C3B55F-DE0B-4E6E-844F-542224E157FC.webp?v=1779954660"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
+      "available": true
+    },
     {
       "id": 16017703338371,
       "name": "Burberry London Striped Long Sleeve T-Shirt - Small Green Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/crown-stussy-t-shirt-womens-blue-small-100775-a",
-      "available": true
-    },
-    {
-      "id": 16010027860355,
-      "name": "Stussy Spellout T-Shirt - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/99122D99-B1D6-428F-AF5D-55DF4A77D5C6.webp?v=1780661426",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3D87BA6-C8F7-4BE7-96FE-80E002D4C325.webp?v=1780661426"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-small-100773-a",
       "available": true
     }
   ]
