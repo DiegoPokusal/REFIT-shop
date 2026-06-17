@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15930000572803,
+      "name": "Christian Dior Blazer - Large Grey Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26166_cc136d1f-05f0-4241-9fb3-90759c57aff5.jpg?v=1777363623",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_db9e07a1-e5c0-4e72-acf0-6f4bc5eaebbf.webp?v=1777363622"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-large-397990",
+      "available": true
+    },
+    {
       "id": 15929997787523,
       "name": "Christian Dior Blazer - Medium Navy Wool",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-yves-saint-laurent-blazer-mens-navy-medium-397985",
       "available": true
-    },
-    {
-      "id": 15929998475651,
-      "name": "Christian Dior Blazer - Medium Black Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26151_5fc7b755-6152-42fb-b531-d02b4a3a4524.jpg?v=1777363613",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26151_5fc7b755-6152-42fb-b531-d02b4a3a4524.jpg?v=1777363613",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26152_4a6d3ee0-b3be-4787-a9d9-62239668cbf4.jpg?v=1777363613",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_48270c61-93d5-40ae-8485-598a6f8dcc2a.webp?v=1777363612"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-medium-397984",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15916341657987,
+      "name": "Orlando Harley Davidson Graphic Hoodie - Large Black Cotton",
+      "price": 121,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/04A5726A-027B-467D-8EE7-C168FF627735.webp?v=1776870747",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/04A5726A-027B-467D-8EE7-C168FF627735.webp?v=1776870747",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DD6A924-1281-4659-ADB7-745E35B30552.webp?v=1776870747",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/51796C08-B075-4F54-BAA8-81D05C67DF60.webp?v=1776870748"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-black-large-88136-a",
+      "available": true
+    },
     {
       "id": 16015499854211,
       "name": "Tennessee Adidas College Hoodie - Large Orange Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-black-large-85691-a",
       "available": true
-    },
-    {
-      "id": 15894679781763,
-      "name": "Waukon Harley Davidson Graphic Hoodie - Medium Grey Cotton Blend",
-      "price": 119,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A45AD4A2-437F-4733-86FA-1FBFE3458F97.webp?v=1776069944",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A45AD4A2-437F-4733-86FA-1FBFE3458F97.webp?v=1776069944",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0A1D592-D6DB-4FCF-8205-B3C3F73EDEAB.webp?v=1776069944",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AA6229E5-CB9B-491B-B9E5-30C8CBB089B4.webp?v=1776069945"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/waukon-harley-davidson-hoodie-mens-grey-medium-85690-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15910918848899,
+      "name": "Made In USA Guess Sweatshirt - Large Navy Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4D417FF5-BA54-433D-B9B3-67CD3FF2BA3D.webp?v=1776674028",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D417FF5-BA54-433D-B9B3-67CD3FF2BA3D.webp?v=1776674028",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FC8B4F13-220D-45E4-A10B-5B4612B3C13F.webp?v=1776674028",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7668C432-91BC-4945-868A-5F861E99DAE2.webp?v=1776674028"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-guess-sweatshirt-mens-navy-large-86069-a",
+      "available": true
+    },
     {
       "id": 15921452122499,
       "name": "90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-98545-a",
       "available": true
-    },
-    {
-      "id": 15950693171587,
-      "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/108F4C38-29AA-4F37-8BC7-7FB8A8451546.webp?v=1778140496",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1B3196CE-9980-4414-9608-02C791D65D6B.webp?v=1778140497"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010027958659,
+      "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EEA58522-80B9-481F-9F3E-E1CE20741E1E.webp?v=1780661434",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/867DCFB0-9D3B-4248-AA96-EA9A4ED8E6B5.webp?v=1780661434"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/crown-stussy-t-shirt-womens-blue-small-100775-a",
+      "available": true
+    },
     {
       "id": 16010027860355,
       "name": "Stussy Spellout T-Shirt - Small Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-large-100782-a",
-      "available": true
-    },
-    {
-      "id": 16010028745091,
-      "name": "Busy Works A Bathing Ape Graphic T-Shirt - Medium White Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/84BF314B-5808-4F48-94B2-DEC8E88EA4F6.webp?v=1780661486",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/84BF314B-5808-4F48-94B2-DEC8E88EA4F6.webp?v=1780661486",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3480242C-7820-4653-B309-3441B6F4D145.webp?v=1780661486",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2901D60A-1CEF-4492-82C5-E9ACEC7C2E20.webp?v=1780661486"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/busy-works-a-bathing-ape-t-shirt-mens-white-medium-100791-a",
       "available": true
     }
   ]
