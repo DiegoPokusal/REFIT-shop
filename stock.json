@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15929997787523,
+      "name": "Christian Dior Blazer - Medium Navy Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26147_8d5b57b9-60ab-4bdd-b6a2-c83338c775c4.jpg?v=1777363603",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26147_8d5b57b9-60ab-4bdd-b6a2-c83338c775c4.jpg?v=1777363603",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26148_32518469-8fe3-4246-8944-07704ebc2948.jpg?v=1777363603",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_10775a33-5560-466a-994f-2df0498efe41.webp?v=1777363603"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397982",
+      "available": true
+    },
+    {
       "id": 16035051176323,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Navy Cotton",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-black-medium-397984",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15930000572803,
-      "name": "Christian Dior Blazer - Large Grey Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
+      "id": 16015499854211,
+      "name": "Tennessee Adidas College Hoodie - Large Orange Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5F8DFC88-4670-4D68-B627-2E6B355FDC04.webp?v=1780932134",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26165_970b65a3-660f-4813-883e-c4f56af25b43.jpg?v=1777363623",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26166_cc136d1f-05f0-4241-9fb3-90759c57aff5.jpg?v=1777363623",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_db9e07a1-e5c0-4e72-acf0-6f4bc5eaebbf.webp?v=1777363622"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F8DFC88-4670-4D68-B627-2E6B355FDC04.webp?v=1780932134",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A2AC498F-3AA0-45EF-A75D-57F9A68B3A7C.webp?v=1780932134",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B98F5B89-FCCD-4011-8064-50EC88228E98.webp?v=1780932134"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-large-397990",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/tennessee-adidas-hoodie-mens-orange-large-101152-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16015499624835,
       "name": "Nike Hoodie - Large Green Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/waukon-harley-davidson-hoodie-mens-grey-medium-85690-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15916341657987,
-      "name": "Orlando Harley Davidson Graphic Hoodie - Large Black Cotton",
-      "price": 121,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/04A5726A-027B-467D-8EE7-C168FF627735.webp?v=1776870747",
+      "id": 15921452122499,
+      "name": "90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/04A5726A-027B-467D-8EE7-C168FF627735.webp?v=1776870747",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DD6A924-1281-4659-ADB7-745E35B30552.webp?v=1776870747",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/51796C08-B075-4F54-BAA8-81D05C67DF60.webp?v=1776870748"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7186A8B4-68C9-438D-A615-282766C1076B.webp?v=1777031886",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/08AF220C-3BEA-4928-8625-565AFFC4848E.webp?v=1777031886"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-black-large-88136-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16008839528835,
       "name": "Polo By Ralph Lauren Rl Crest Sweatshirt - Medium Navy Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a",
       "available": true
-    },
-    {
-      "id": 15910918848899,
-      "name": "Made In USA Guess Sweatshirt - Large Navy Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4D417FF5-BA54-433D-B9B3-67CD3FF2BA3D.webp?v=1776674028",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D417FF5-BA54-433D-B9B3-67CD3FF2BA3D.webp?v=1776674028",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FC8B4F13-220D-45E4-A10B-5B4612B3C13F.webp?v=1776674028",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7668C432-91BC-4945-868A-5F861E99DAE2.webp?v=1776674028"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-guess-sweatshirt-mens-navy-large-86069-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010027860355,
+      "name": "Stussy Spellout T-Shirt - Small Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/99122D99-B1D6-428F-AF5D-55DF4A77D5C6.webp?v=1780661426",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3D87BA6-C8F7-4BE7-96FE-80E002D4C325.webp?v=1780661426"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-small-100773-a",
+      "available": true
+    },
     {
       "id": 15995255128451,
       "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/busy-works-a-bathing-ape-t-shirt-mens-white-medium-100791-a",
-      "available": true
-    },
-    {
-      "id": 16010027958659,
-      "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EEA58522-80B9-481F-9F3E-E1CE20741E1E.webp?v=1780661434",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/867DCFB0-9D3B-4248-AA96-EA9A4ED8E6B5.webp?v=1780661434"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/crown-stussy-t-shirt-womens-blue-small-100775-a",
       "available": true
     }
   ]
