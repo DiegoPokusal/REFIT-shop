@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15950740980099,
+      "name": "Cropped 10X Detroit Style Camo Jacket - Large Camo Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D58794E3-E3D4-413B-9FA8-A88BB412FDD2.webp?v=1778140932",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/20D6932A-15DD-4515-8508-3EFBA386473E.webp?v=1778140932"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/cropped-10x-jacket-mens-camo-large-90531-a",
+      "available": true
+    },
+    {
       "id": 15930003292547,
       "name": "Christian Dior Pinstripe Blazer - Large Black Wool",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397981",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15960024940931,
-      "name": "Guess Puffer - Medium Green Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/09A5CCCA-DDC1-406F-8F62-ED2350580C3D.webp?v=1778487706",
+      "id": 15950845378947,
+      "name": "Polo By Ralph Lauren Colour Block Spellout Hoodie - Medium Green Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/09A5CCCA-DDC1-406F-8F62-ED2350580C3D.webp?v=1778487706",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/333FC03F-A33F-4411-8522-520B900CF43E.webp?v=1778487707",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D1C90D2-7353-45B9-9476-3622389EB423.webp?v=1778487707"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED3213CB-5814-458E-B05F-582584BD8D1A.webp?v=1778142311",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CA2A1E3-71EE-43D9-A8D5-1FD11D35A7F4.webp?v=1778142312"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/guess-puffer-mens-green-medium-94035-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-green-medium-90935-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15919765520771,
       "name": "USc Trojans Nike College Hoodie - Large Red Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/surfing-quiksilver-hoodie-mens-blue-medium-100562-a",
       "available": true
-    },
-    {
-      "id": 15950876868995,
-      "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E74E3BD0-5908-4F61-B62A-7B7D73F2100E.webp?v=1778142668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D8E2D9-01FA-4A75-A11D-A99CB54F8262.webp?v=1778142668"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/faded-avirex-hoodie-mens-grey-medium-91136-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008151695747,
+      "name": "Mickey Mouse Mickey & Co. Cartoon Sweatshirt - Large Red Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1ADBC924-B04F-4336-B4D9-8345D62B8F21.webp?v=1780561698",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0D072E4-0178-4F0F-B6BD-9BB58595B5D6.webp?v=1780561699"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/mickey-mouse-mickey-co-sweatshirt-mens-red-large-99288-a",
+      "available": true
+    },
     {
       "id": 16008135410051,
       "name": "Made In USA Nutmeg San Francisco 49Ers Sweatshirt - Large Red Cotton",
@@ -1722,23 +1739,6 @@
       "available": true
     },
     {
-      "id": 16008152646019,
-      "name": "Mickey Mouse Disney Cartoon Sweatshirt - Medium Blue Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4166ABFC-3681-4591-B5BC-6D2E6E2724DA.webp?v=1780561768",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE3A574E-8A67-488D-A373-7DF874612C2E.webp?v=1780561769"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/mickey-mouse-disney-sweatshirt-mens-blue-medium-99328-a",
-      "available": true
-    },
-    {
       "id": 16006462013827,
       "name": "Factory Tour Harley Davidson Graphic Sweatshirt - Small Brown Cotton",
       "price": 116,
@@ -1824,6 +1824,23 @@
       "available": true
     },
     {
+      "id": 16008152646019,
+      "name": "Mickey Mouse Disney Cartoon Sweatshirt - Medium Blue Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4166ABFC-3681-4591-B5BC-6D2E6E2724DA.webp?v=1780561768",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE3A574E-8A67-488D-A373-7DF874612C2E.webp?v=1780561769"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/mickey-mouse-disney-sweatshirt-mens-blue-medium-99328-a",
+      "available": true
+    },
+    {
       "id": 15982016496003,
       "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
       "price": 116,
@@ -1906,23 +1923,6 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/green-bay-packers-looney-tunes-sweatshirt-mens-black-medium-90389-a",
-      "available": true
-    },
-    {
-      "id": 15921452482947,
-      "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Red Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A1DF393E-CE9E-4F21-B19A-EA314DC529A7.webp?v=1777031889",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A1DF393E-CE9E-4F21-B19A-EA314DC529A7.webp?v=1777031889",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19EB1186-2096-4A89-88E0-00E3C2AF5FCE.webp?v=1777031889",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0EA12F9E-A984-4EE6-B271-39B9A1909420.webp?v=1777031890"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-red-small-88551-a",
       "available": true
     },
     {
