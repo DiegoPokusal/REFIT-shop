@@ -1,9 +1,26 @@
 {
   "jacket": [
     {
+      "id": 15960027496835,
+      "name": "Patagonia Puffer - Large Brown Polyester",
+      "price": 143,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0FD1C7ED-DF4F-4334-BAAE-56F498420CD8.webp?v=1778487893",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0FD1C7ED-DF4F-4334-BAAE-56F498420CD8.webp?v=1778487893",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E967696B-29BA-4599-95E5-233DCDC3226C.webp?v=1778487893",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CD19C06-C2C7-4F19-B730-BA6E42018BD1.webp?v=1778487893"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-brown-large-94068-a",
+      "available": true
+    },
+    {
       "id": 15960024940931,
       "name": "Guess Puffer - Medium Green Polyester",
-      "price": 145,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/09A5CCCA-DDC1-406F-8F62-ED2350580C3D.webp?v=1778487706",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/09A5CCCA-DDC1-406F-8F62-ED2350580C3D.webp?v=1778487706",
@@ -15,23 +32,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/guess-puffer-mens-green-medium-94035-a",
-      "available": true
-    },
-    {
-      "id": 15950740980099,
-      "name": "Cropped 10X Detroit Style Camo Jacket - Large Camo Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D58794E3-E3D4-413B-9FA8-A88BB412FDD2.webp?v=1778140932",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/20D6932A-15DD-4515-8508-3EFBA386473E.webp?v=1778140932"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/cropped-10x-jacket-mens-camo-large-90531-a",
       "available": true
     },
     {
@@ -358,9 +358,26 @@
       "available": true
     },
     {
+      "id": 15950927921539,
+      "name": "Canvas Tommy Hilfiger Spellout Anorak Windbreaker - Small Green Cotton",
+      "price": 143,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AAF45E7C-80A1-4D75-BC7F-57B1D0E97744.webp?v=1778143709",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AAF45E7C-80A1-4D75-BC7F-57B1D0E97744.webp?v=1778143709",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/28309210-2485-4EDE-97CF-C3A459FAC153.webp?v=1778143709",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9171D6F5-65B9-4E82-A12F-22F9570EA6F5.webp?v=1778143710"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/canvas-tommy-hilfiger-windbreaker-mens-green-small-91565-a",
+      "available": true
+    },
+    {
       "id": 16035051471235,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Polyester",
-      "price": 145,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0BA4CE45-7019-4140-9C16-EE71C3F9D198.webp?v=1781706182",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/0BA4CE45-7019-4140-9C16-EE71C3F9D198.webp?v=1781706182",
@@ -411,7 +428,7 @@
     {
       "id": 16035050422659,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
-      "price": 145,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3251FF3B-CE30-4732-A8B2-697888D9EE43.webp?v=1781706162",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/3251FF3B-CE30-4732-A8B2-697888D9EE43.webp?v=1781706162",
@@ -428,7 +445,7 @@
     {
       "id": 16035050291587,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Navy Cotton",
-      "price": 145,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ED5ED30E-2031-40A3-81AB-D90D163946EA.webp?v=1781706158",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ED5ED30E-2031-40A3-81AB-D90D163946EA.webp?v=1781706158",
@@ -445,7 +462,7 @@
     {
       "id": 16035049079171,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
-      "price": 145,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CABFCD7C-6215-4DEE-A432-E7F566D74D1B.webp?v=1781706124",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/CABFCD7C-6215-4DEE-A432-E7F566D74D1B.webp?v=1781706124",
@@ -462,7 +479,7 @@
     {
       "id": 16035049013635,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Navy Polyester",
-      "price": 145,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/79104217-DECD-4A68-BD2A-30ED306C3823.webp?v=1781706121",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/79104217-DECD-4A68-BD2A-30ED306C3823.webp?v=1781706121",
@@ -479,7 +496,7 @@
     {
       "id": 16035047702915,
       "name": "Polo By Ralph Lauren Harrington Jacket - Small Blue Cotton",
-      "price": 145,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/42DD3119-7BBD-45B0-9AB2-562D3EC43303.webp?v=1781706091",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/42DD3119-7BBD-45B0-9AB2-562D3EC43303.webp?v=1781706091",
@@ -496,7 +513,7 @@
     {
       "id": 16035047539075,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Red Cotton",
-      "price": 145,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0655B847-AA62-4373-A817-8039C3F88418.webp?v=1781706087",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/0655B847-AA62-4373-A817-8039C3F88418.webp?v=1781706087",
@@ -508,23 +525,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-red-large-104165-a",
-      "available": true
-    },
-    {
-      "id": 16035051307395,
-      "name": "Polo By Ralph Lauren Harrington Jacket - Large Yellow Cotton",
-      "price": 143,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/787FBCCF-D6FA-4D53-A9FC-29A104308E45.webp?v=1781706178",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/787FBCCF-D6FA-4D53-A9FC-29A104308E45.webp?v=1781706178",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F2953022-BF67-446F-8DCB-32F806337628.webp?v=1781706178",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/827171EE-0892-48DA-B3DB-8B3534CCB9A8.webp?v=1781706179"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-yellow-large-104173-a",
       "available": true
     },
     {
@@ -545,9 +545,26 @@
       "available": true
     },
     {
+      "id": 16035051307395,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Yellow Cotton",
+      "price": 143,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/787FBCCF-D6FA-4D53-A9FC-29A104308E45.webp?v=1781706178",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/787FBCCF-D6FA-4D53-A9FC-29A104308E45.webp?v=1781706178",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F2953022-BF67-446F-8DCB-32F806337628.webp?v=1781706178",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/827171EE-0892-48DA-B3DB-8B3534CCB9A8.webp?v=1781706179"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-yellow-large-104173-a",
+      "available": true
+    },
+    {
       "id": 16015481766275,
       "name": "Walls Camo Jacket - Medium Camo Polyester",
-      "price": 145,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E62D31A3-3EF6-4563-9D25-27B747792D42.webp?v=1780931782",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/E62D31A3-3EF6-4563-9D25-27B747792D42.webp?v=1780931782",
@@ -564,7 +581,7 @@
     {
       "id": 16014347764099,
       "name": "Diesel Bomber Jacket - Medium Blue Cotton",
-      "price": 145,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5284B801-2219-41B5-B461-2D377E4BE65D.webp?v=1780905977",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/5284B801-2219-41B5-B461-2D377E4BE65D.webp?v=1780905977",
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-ski-jacket-mens-red-large-100093-a",
       "available": true
-    },
-    {
-      "id": 16008827437443,
-      "name": "Summit Series The North Face Jacket - Small Black Polyester",
-      "price": 143,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ABF7E775-F27C-4697-8DFF-13D0D0E4550D.webp?v=1780582449",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ABF7E775-F27C-4697-8DFF-13D0D0E4550D.webp?v=1780582449",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1043B97-A142-4038-AEC8-F314C168ED8D.webp?v=1780582449",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3A8CC67-3872-41AC-8BEC-A95A691090ED.webp?v=1780582450"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/summit-series-the-north-face-jacket-mens-black-small-100082-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16014367490435,
+      "name": "Surfing Quiksilver Graphic Hoodie - Medium Blue Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/09D55737-D043-481B-A8DB-F1B7FFD627C3.webp?v=1780906276",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/09D55737-D043-481B-A8DB-F1B7FFD627C3.webp?v=1780906276",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B685EC1-F310-4F75-896A-6413BE241B14.webp?v=1780906276",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE6BDF3B-8A90-43D2-ABB2-09F689D087CA.webp?v=1780906277"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/surfing-quiksilver-hoodie-mens-blue-medium-100562-a",
+      "available": true
+    },
     {
       "id": 16038140805507,
       "name": "Realtree Hoodie - Large Camo Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-84644-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16014384136579,
-      "name": "Quiksilver Spellout Hoodie - Large Black Cotton",
+      "id": 16038128714115,
+      "name": "Intimidator Nutmeg Graphic Sweatshirt - Large Black Polyester Blend",
       "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BBEA58C5-E8F2-41D8-9C18-C9EDE5EA7EE1.webp?v=1780906501",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B66E2455-EA2A-498C-9A61-5C9C15119A1D.webp?v=1781795382",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BBEA58C5-E8F2-41D8-9C18-C9EDE5EA7EE1.webp?v=1780906501",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8B1746A-F86A-4903-89EE-B1A4C34D8CFB.webp?v=1780906501",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9D414FE1-74A3-4125-827E-2543B0C3C410.webp?v=1780906502"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B66E2455-EA2A-498C-9A61-5C9C15119A1D.webp?v=1781795382",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A068FDF-23A0-4C86-B2F4-FBE298279151.webp?v=1781795382",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5AA5BAE-A96A-4FE9-AFC4-5B1FC7876EBA.webp?v=1781795383"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/quiksilver-hoodie-mens-black-large-100568-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/intimidator-nutmeg-sweatshirt-mens-black-large-102396-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16038075302275,
       "name": "Nike Spellout Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-chicago-cubs-starter-sweatshirt-mens-white-medium-102408-a",
       "available": true
-    },
-    {
-      "id": 16038264406403,
-      "name": "Nike Sweatshirt - Large Blue Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB95AE32-172B-4C89-A3BF-CBBCFBEC99FE.webp?v=1781796428",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB95AE32-172B-4C89-A3BF-CBBCFBEC99FE.webp?v=1781796428",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/35DB6D58-403E-403F-A89B-880F0A84427B.webp?v=1781796428",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/18638C5C-D9B0-4F89-99B9-1DF6D07DE6C6.webp?v=1781796428"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/nike-sweatshirt-mens-blue-large-102872-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15935499960707,
+      "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4115_7958c475-8fb6-48ee-a27b-eb97a72776cc.jpg?v=1777472599",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/WOMENS_5a9e9029-9804-4120-ad44-d4b11547f142.webp?v=1777472598"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-t-shirt-womens-white-medium-398073",
+      "available": true
+    },
     {
       "id": 15864944591235,
       "name": "Moschino Graphic T-Shirt - Large Multicoloured Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97073-a",
-      "available": true
-    },
-    {
-      "id": 15873109885315,
-      "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
-      "price": 126,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89D409F-CC4C-4875-A6CC-6C9DEA43E962.webp?v=1774961873",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8F10A35-41EF-4EC0-91C5-DD24F7AD4CB8.webp?v=1774961873"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
       "available": true
     }
   ]
