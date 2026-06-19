@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16035050684803,
+      "name": "Polo By Ralph Lauren Checked Harrington Jacket - Large Green Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D0099061-43F0-4F7A-A862-F05267DA8D46.webp?v=1781706168",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D0099061-43F0-4F7A-A862-F05267DA8D46.webp?v=1781706168",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2A4AFBD3-3B12-4107-BD53-7C5701CEE177.webp?v=1781706168",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/371F1E72-8575-4C97-88FB-465574A5C0E7.webp?v=1781706169"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-green-large-104171-a",
+      "available": true
+    },
+    {
       "id": 16035043869059,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-navy-large-104170-a",
       "available": true
-    },
-    {
-      "id": 16035051471235,
-      "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0BA4CE45-7019-4140-9C16-EE71C3F9D198.webp?v=1781706182",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BA4CE45-7019-4140-9C16-EE71C3F9D198.webp?v=1781706182",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3686B21D-D30E-4E5B-877A-583F66AB9F3F.webp?v=1781706181",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/07272093-1B42-4105-AA7B-997BFE99E1AD.webp?v=1781706182"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-beige-large-104174-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16010030023043,
+      "name": "Stussy Hoodie - Medium Blue Cotton",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D9BC4292-174A-4461-BB16-ECF0FA03FD05.webp?v=1780661541",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D9BC4292-174A-4461-BB16-ECF0FA03FD05.webp?v=1780661541",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B24D102B-82E0-4E26-A1FC-BDC00CCD5551.webp?v=1780661541",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/24BA6FC6-78D4-48B3-845B-ABADE6D90137.webp?v=1780661542"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/stussy-hoodie-mens-blue-medium-100787-a",
+      "available": true
+    },
     {
       "id": 16038140805507,
       "name": "Realtree Hoodie - Large Camo Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/stussy-hoodie-mens-black-large-100801-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15935543181699,
-      "name": "Moschino Spellout Hoodie - Small Black Cotton Blend",
+      "id": 15935469355395,
+      "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
       "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4180_d47bd385-9a3a-4995-bb4b-3500dcfc53e9.jpg?v=1777472951",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4180_d47bd385-9a3a-4995-bb4b-3500dcfc53e9.jpg?v=1777472951",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4181_bec6adff-67c4-4930-b0b1-eb193d0a81c9.jpg?v=1777472951",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_7e0c76ed-b8c3-46fe-9694-e466f7c7cdad.webp?v=1777472951"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4115_ae869931-d027-4e00-8b52-2e49be4852f6.jpg?v=1777472249",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_4589513d-e56f-429a-b587-59e0dc66c1af.webp?v=1777472249"
       ],
       "sizes": [
         "Small"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/vintage-moschino-hoodie-mens-black-small-398190",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15950703067523,
       "name": "Green Bay Packers Looney Tunes Nfl Sweatshirt - Medium Black Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-csa-sweatshirt-mens-black-medium-99013-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15950900658563,
-      "name": "90S Tommy Hilfiger Spellout Sweatshirt - Large White Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/227C3D64-2DE1-4691-AA21-6C19AE8DA2B0.webp?v=1778143117",
+      "id": 15916223070595,
+      "name": "Billy Ray Cyrus 1992 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton Blend",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/227C3D64-2DE1-4691-AA21-6C19AE8DA2B0.webp?v=1778143117",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E1D6E5E-6C35-44B7-807B-39684FB15B6B.webp?v=1778143117",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5702DF87-9549-49C4-997D-1B617F3F89B7.webp?v=1778143119"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B04F609A-657A-4A07-B876-6D148EA914B5.webp?v=1776868636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BFBC8DF-91F0-4543-94D5-3213E1E5824C.webp?v=1776868638"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-tommy-hilfiger-sweatshirt-mens-white-large-91236-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16010029433219,
       "name": "Santa Graphic Supreme Christmas T-Shirt - Medium White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/hooked-on-dunks-nike-t-shirt-mens-black-small-102892-a",
-      "available": true
-    },
-    {
-      "id": 16024440439171,
-      "name": "Macho Man Nwo Oneita Single Stitch T-Shirt - Large Black Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/72D326D0-0BB8-4877-B902-F9C5CFBA4026.webp?v=1781276807",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/72D326D0-0BB8-4877-B902-F9C5CFBA4026.webp?v=1781276807",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/62D05E92-B176-4659-A078-73AC6A798AC2.webp?v=1781276801",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1FBD16B9-1353-4B0C-A921-95AD426FF2E9.webp?v=1781276802"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/macho-man-nwo-oneita-t-shirt-mens-black-large-101919-a",
       "available": true
     }
   ]
