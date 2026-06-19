@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16008840577411,
+      "name": "The North Face Waterproof Jacket - Medium Green Nylon",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C0559058-003C-4111-972E-35CAF7D69447.webp?v=1780582766",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0559058-003C-4111-972E-35CAF7D69447.webp?v=1780582766",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/96A65D8E-95FC-46B2-B469-C91B9CDB44FE.webp?v=1780582766",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D08C2C63-456E-49FC-98A2-146318928690.webp?v=1780582767"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-waterproof-jacket-mens-green-medium-100083-a",
+      "available": true
+    },
+    {
       "id": 15910948962691,
       "name": "1960s/1970s Woolrich Windbreaker - Medium Green Nylon",
       "price": 145,
@@ -324,23 +341,6 @@
       "available": true
     },
     {
-      "id": 15900970418563,
-      "name": "49Ers Logo Athletics Football Windbreaker - Large Black Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3ED9B369-7851-4048-B6D0-EEC15ED98CB4.webp?v=1776332992",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3ED9B369-7851-4048-B6D0-EEC15ED98CB4.webp?v=1776332992",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9C0C6E4B-E236-4C29-9138-A848D3EF302A.webp?v=1776332992",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AFFA8E29-9281-4E53-987B-E2039B6BECD3.webp?v=1776332993"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/49ers-logo-athletics-windbreaker-mens-black-large-86319-a",
-      "available": true
-    },
-    {
       "id": 15885976764803,
       "name": "Made In USA Horseman'S Headquarter'S Workwear Santa Fe Bomber Jacket - Large Burgundy Cotton",
       "price": 145,
@@ -355,6 +355,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/made-in-usa-horsemans-headquarters-bomber-jacket-mens-burgundy-large-84655-a",
+      "available": true
+    },
+    {
+      "id": 15900970418563,
+      "name": "49Ers Logo Athletics Football Windbreaker - Large Black Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3ED9B369-7851-4048-B6D0-EEC15ED98CB4.webp?v=1776332992",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3ED9B369-7851-4048-B6D0-EEC15ED98CB4.webp?v=1776332992",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9C0C6E4B-E236-4C29-9138-A848D3EF302A.webp?v=1776332992",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AFFA8E29-9281-4E53-987B-E2039B6BECD3.webp?v=1776332993"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/49ers-logo-athletics-windbreaker-mens-black-large-86319-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-green-large-104171-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16035043869059,
-      "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/939AA3CA-FA05-4B53-8D18-8B07C2358ED6.webp?v=1781706005",
+      "id": 15876235395459,
+      "name": "Polo By Ralph Lauren Hoodie - Large Grey Cotton",
+      "price": 115,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E365CE64-B82D-443D-80A5-C9BA43D727B0.webp?v=1775118867",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/939AA3CA-FA05-4B53-8D18-8B07C2358ED6.webp?v=1781706005",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A46F9C34-7E8F-4FA5-B599-AE418D0D3021.webp?v=1781706004",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DB5CC69C-211D-41B1-BAC5-B58B4B5DA228.webp?v=1781706005"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E365CE64-B82D-443D-80A5-C9BA43D727B0.webp?v=1775118867",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/15354101-1939-4140-8436-6AE9C391D1C3.webp?v=1775118867",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/12A8664A-E9DA-4C63-BF7A-B232909B2A9E.webp?v=1775118867"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-beige-large-104181-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-84644-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15894678438275,
       "name": "Custom Patches Grand Canyon Harley Davidson Graphic Hoodie - Large Black Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/stussy-hoodie-mens-blue-medium-100787-a",
       "available": true
-    },
-    {
-      "id": 16038140805507,
-      "name": "Realtree Hoodie - Large Camo Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0A5B181F-127F-4C8A-BABC-01587FB67527.webp?v=1781795486",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A5B181F-127F-4C8A-BABC-01587FB67527.webp?v=1781795486",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6573F33A-D71A-4910-AA71-F1569E60BD23.webp?v=1781795485",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7D382401-6372-4511-8567-1CA092290DBF.webp?v=1781795486"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-large-104758-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16038224626051,
+      "name": "90S Chicago Cubs Starter Aop Graphic Henley Sweatshirt - Medium White Polyester Blend",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2988935B-C4D3-44F0-AE93-F5D9C50DB0B2.webp?v=1781796098",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2988935B-C4D3-44F0-AE93-F5D9C50DB0B2.webp?v=1781796098",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/17B788CD-1E1D-4258-A4E0-7A3FFF5F94D0.webp?v=1781796098",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9D8AFE6D-7BA4-4507-9775-D222BFCAB39F.webp?v=1781796099"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-chicago-cubs-starter-sweatshirt-mens-white-medium-102408-a",
+      "available": true
+    },
     {
       "id": 16038264406403,
       "name": "Nike Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16010030711171,
-      "name": "Stussy Spellout Sweatshirt - Medium Black Cotton",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CC977065-351D-47C7-9D77-55AA129867B7.webp?v=1780661574",
+      "id": 16010030317955,
+      "name": "Fineman Pool Skate Project 2013 Stussy Graphic T-Shirt - Medium Orange Cotton",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A6D97CFB-CE8F-470B-B637-CE8062FCDA02.webp?v=1780661553",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC977065-351D-47C7-9D77-55AA129867B7.webp?v=1780661574",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8DC88BBA-0CDB-47F8-9DB4-4912EABF7EFF.webp?v=1780661574",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/69A05466-57A0-4CE4-B8FD-DB9905B3D631.webp?v=1780661575"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A6D97CFB-CE8F-470B-B637-CE8062FCDA02.webp?v=1780661553",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/346A38AC-0B80-4E27-BD6B-BF2D6F04E3FE.webp?v=1780661553",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/757047B3-008B-492F-A8E6-D6B4C581FC7E.webp?v=1780661554"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/stussy-sweatshirt-mens-black-medium-100795-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/fineman-pool-skate-project-2013-stussy-t-shirt-mens-orange-medium-100796-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15995240022403,
       "name": "Grateful Dead Liquid Blue Graphic T-Shirt - Large Multicoloured Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
-      "available": true
-    },
-    {
-      "id": 16010029433219,
-      "name": "Santa Graphic Supreme Christmas T-Shirt - Medium White Cotton",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5995EE68-5C92-4903-9DB1-7A7B85F6FC43.webp?v=1780661514",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5995EE68-5C92-4903-9DB1-7A7B85F6FC43.webp?v=1780661514",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12A4E9E3-D05D-4003-A15A-FC55E168DD0D.webp?v=1780661514",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B51AD5E-761A-417A-A1FA-CA5E85A85CC4.webp?v=1780661520"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/santa-graphic-supreme-t-shirt-mens-white-medium-100812-a",
       "available": true
     }
   ]
