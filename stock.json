@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16035051307395,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Yellow Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/787FBCCF-D6FA-4D53-A9FC-29A104308E45.webp?v=1781706178",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/787FBCCF-D6FA-4D53-A9FC-29A104308E45.webp?v=1781706178",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F2953022-BF67-446F-8DCB-32F806337628.webp?v=1781706178",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/827171EE-0892-48DA-B3DB-8B3534CCB9A8.webp?v=1781706179"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-yellow-large-104173-a",
+      "available": true
+    },
+    {
       "id": 16015481766275,
       "name": "Walls Camo Jacket - Medium Camo Polyester",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-red-large-104165-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16035043705219,
-      "name": "Polo By Ralph Lauren Harrington Jacket - Large Black Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7AEACCCB-FC91-4D00-A5DF-1649CFBD5FB5.webp?v=1781706001",
+      "id": 16015494054275,
+      "name": "Xtra Realtree Graphic Hoodie - Large Brown Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/464207C5-50FC-4DF6-B05A-393A150875BD.webp?v=1780931989",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7AEACCCB-FC91-4D00-A5DF-1649CFBD5FB5.webp?v=1781706001",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7411D30F-1AEE-44B3-B5D7-28D7CBDF9C39.webp?v=1781706001",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/17A335E6-AEFE-4DE9-ADFB-0EC580BDB9C1.webp?v=1781706002"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/464207C5-50FC-4DF6-B05A-393A150875BD.webp?v=1780931989",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C8D1B68-8623-4214-AB42-667C9F6F5B86.webp?v=1780931988",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E1646236-83B0-46F2-A802-37D352799CF0.webp?v=1780931989"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-black-large-104180-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/xtra-realtree-hoodie-mens-brown-large-101048-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15982003290499,
       "name": "Carhartt K132 Ash Hoodie - Large Grey Cotton Blend",
@@ -1142,23 +1159,6 @@
       "available": true
     },
     {
-      "id": 15964911174019,
-      "name": "Rain Defender Carhartt Spellout Hoodie - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C288C349-D136-4BC9-A776-0B344D73BD6A.webp?v=1778685722",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F6F18919-5539-431E-9CE3-EB9D1553BC59.webp?v=1778685723"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
-      "available": true
-    },
-    {
       "id": 15964912386435,
       "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
       "price": 116,
@@ -1173,6 +1173,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
+      "available": true
+    },
+    {
+      "id": 15964911174019,
+      "name": "Rain Defender Carhartt Spellout Hoodie - Small Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C288C349-D136-4BC9-A776-0B344D73BD6A.webp?v=1778685722",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F6F18919-5539-431E-9CE3-EB9D1553BC59.webp?v=1778685723"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
       "available": true
     },
     {
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/ohio-state-majestic-hoodie-mens-grey-large-99036-a",
       "available": true
-    },
-    {
-      "id": 16014361624963,
-      "name": "Carhartt Hoodie - Medium Grey Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6339FB71-CA43-41F8-B321-5A446EE20ED4.webp?v=1780906166",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6339FB71-CA43-41F8-B321-5A446EE20ED4.webp?v=1780906166",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CB78761D-730D-4887-8ED9-656FABE1383A.webp?v=1780906166",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7C0F738-BFA7-4676-8E6F-9C58B87EA743.webp?v=1780906167"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-medium-100521-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008135606659,
+      "name": "Made In USA Fruit Of The Loom Green Bay Packers Sweatshirt - Large Black Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/805AB328-F3C6-4BFF-8DC7-53EEEED3C60F.webp?v=1780560990",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/805AB328-F3C6-4BFF-8DC7-53EEEED3C60F.webp?v=1780560990",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E3CFFFC-C8E5-4E1A-804C-050EBE1184F4.webp?v=1780560990",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/694A5364-F307-4932-AF7D-C7C30D2AA4B6.webp?v=1780560991"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-fruit-of-the-loom-sweatshirt-mens-black-large-99024-a",
+      "available": true
+    },
     {
       "id": 16008135410051,
       "name": "Made In USA Nutmeg San Francisco 49Ers Sweatshirt - Large Red Cotton",
@@ -2025,23 +2042,6 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
-      "available": true
-    },
-    {
-      "id": 16008139440515,
-      "name": "Made In USA 90S Unbranded Fighting Irish Raglan Sweatshirt - Medium Navy Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1C5F090E-7DB0-496C-A41E-6BCF53C98F72.webp?v=1780561031",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1C5F090E-7DB0-496C-A41E-6BCF53C98F72.webp?v=1780561031",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3A077AFE-F047-46CA-B512-F19A80A929D8.webp?v=1780561031",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F1AD7E0-E70B-49E4-870B-30727982C5CD.webp?v=1780561031"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-90s-unbranded-sweatshirt-mens-navy-medium-99042-a",
       "available": true
     }
   ],
