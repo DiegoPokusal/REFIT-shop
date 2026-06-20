@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16035051176323,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Navy Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6CA1A524-DA55-4556-975C-1DBE7CF7FDD2.webp?v=1781706175",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6CA1A524-DA55-4556-975C-1DBE7CF7FDD2.webp?v=1781706175",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9674EFE8-682B-4D38-B121-FDDB868EA841.webp?v=1781706175",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9A133288-3FD1-4815-9E61-0D858AE9E2F2.webp?v=1781706175"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-navy-large-104170-a",
+      "available": true
+    },
+    {
       "id": 16035051471235,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Polyester",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/walls-jacket-mens-camo-medium-101059-a",
       "available": true
-    },
-    {
-      "id": 16014347764099,
-      "name": "Diesel Bomber Jacket - Medium Blue Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5284B801-2219-41B5-B461-2D377E4BE65D.webp?v=1780905977",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5284B801-2219-41B5-B461-2D377E4BE65D.webp?v=1780905977",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2734B296-65EC-48CA-BE26-E898C6A34D9D.webp?v=1780905977",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/602B6A13-0E8F-481E-AEDE-F95000C914B1.webp?v=1780905978"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/diesel-bomber-jacket-mens-blue-medium-100456-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16010029072771,
+      "name": "Stussy Full Zip Hoodie - Large Black Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/595D7352-5B63-447D-BE98-43C1C93325A9.webp?v=1780661502",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/595D7352-5B63-447D-BE98-43C1C93325A9.webp?v=1780661502",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/93F33A5F-76F1-4B4C-9C28-38E9B2061243.webp?v=1780661502",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB93C7F0-AAEE-4241-8723-E4F4E5F1CE64.webp?v=1780661503"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/stussy-hoodie-mens-black-large-100801-a",
+      "available": true
+    },
     {
       "id": 15935543181699,
       "name": "Moschino Spellout Hoodie - Small Black Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-large-95819-a",
       "available": true
-    },
-    {
-      "id": 15982007845251,
-      "name": "Oakley Zip Through Heavyweight Hoodie - Large Black Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6E259418-ED07-4F7A-8E21-158CB197466C.webp?v=1779440866",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6E259418-ED07-4F7A-8E21-158CB197466C.webp?v=1779440866",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A9153D5-CB55-4E86-A51D-885E841460AB.webp?v=1779440866",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CF29177-79CB-4209-800D-676C9EE86356.webp?v=1779440866"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/oakley-hoodie-mens-black-large-95830-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008133378435,
+      "name": "Made In USA Csa Atlanta Falcons Sweatshirt - Medium Black Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A4AA7F85-1785-4B31-A871-A7812B06EEDD.webp?v=1780560878",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A4AA7F85-1785-4B31-A871-A7812B06EEDD.webp?v=1780560878",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/70922CC4-714C-42D9-93C7-8EC6E0F01BF8.webp?v=1780560878",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D5C574C-FA2B-4220-B054-90ACF2F8BE02.webp?v=1780560878"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-csa-sweatshirt-mens-black-medium-99013-a",
+      "available": true
+    },
     {
       "id": 15950900658563,
       "name": "90S Tommy Hilfiger Spellout Sweatshirt - Large White Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-red-large-99011-a",
       "available": true
-    },
-    {
-      "id": 16008134984067,
-      "name": "Made In USA Logo 7 Washington Redskins Sweatshirt - Medium Burgundy Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B312C2CD-670D-4673-AADB-A4DE8AD23651.webp?v=1780560940",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B312C2CD-670D-4673-AADB-A4DE8AD23651.webp?v=1780560940",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A05D9A52-F19F-4FD4-9DEA-B2D751434FFA.webp?v=1780560939",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9422F2C4-425E-479E-89A0-C774383780D0.webp?v=1780560940"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-logo-7-sweatshirt-mens-burgundy-medium-99083-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16038075662723,
+      "name": "Hooked On Dunks Nike Graphic T-Shirt - Small Black Cotton",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/473AF7DD-43AE-4E49-BFDE-DDF4E9BE2237.webp?v=1781795063",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/473AF7DD-43AE-4E49-BFDE-DDF4E9BE2237.webp?v=1781795063",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63C44453-1D5B-44CC-ACB7-37808440D358.webp?v=1781795063",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D19330F9-4B0D-4CC9-AE50-2F5EE5F5D6DA.webp?v=1781795064"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/hooked-on-dunks-nike-t-shirt-mens-black-small-102892-a",
+      "available": true
+    },
     {
       "id": 16024440439171,
       "name": "Macho Man Nwo Oneita Single Stitch T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/nike-t-shirt-mens-white-large-102893-a",
-      "available": true
-    },
-    {
-      "id": 16038047351171,
-      "name": "Polo Bear Polo By Ralph Lauren Graphic T-Shirt - Medium Navy Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B211C171-8C56-4017-B9C0-746A8EF3C37C.webp?v=1781794739",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B211C171-8C56-4017-B9C0-746A8EF3C37C.webp?v=1781794739",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/71537A8F-EAEC-48EF-97E7-701BB0FE39AA.webp?v=1781794739",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/56048502-CC19-4AE6-B47E-11B92407D2F2.webp?v=1781794740"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/polo-bear-polo-by-ralph-lauren-t-shirt-mens-navy-medium-102473-a",
       "available": true
     }
   ]
