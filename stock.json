@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16015481766275,
+      "name": "Walls Camo Jacket - Medium Camo Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E62D31A3-3EF6-4563-9D25-27B747792D42.webp?v=1780931782",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E62D31A3-3EF6-4563-9D25-27B747792D42.webp?v=1780931782",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/755145B3-4DAB-47D0-B33F-EE07CC8D11CE.webp?v=1780931782",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4FC419F9-04EA-4E91-80D4-743366ACB033.webp?v=1780931782"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/walls-jacket-mens-camo-medium-101059-a",
+      "available": true
+    },
+    {
       "id": 16014347764099,
       "name": "Diesel Bomber Jacket - Medium Blue Cotton",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-black-large-104180-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16035051307395,
-      "name": "Polo By Ralph Lauren Harrington Jacket - Large Yellow Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/787FBCCF-D6FA-4D53-A9FC-29A104308E45.webp?v=1781706178",
+      "id": 15982003290499,
+      "name": "Carhartt K132 Ash Hoodie - Large Grey Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/32DF006D-D1D1-47BB-B7C8-0A34658D4389.webp?v=1779440806",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/787FBCCF-D6FA-4D53-A9FC-29A104308E45.webp?v=1781706178",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F2953022-BF67-446F-8DCB-32F806337628.webp?v=1781706178",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/827171EE-0892-48DA-B3DB-8B3534CCB9A8.webp?v=1781706179"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/32DF006D-D1D1-47BB-B7C8-0A34658D4389.webp?v=1779440806",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E1AFA45A-D93C-41FF-8922-741B4CDF0241.webp?v=1779440806",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EF209E9A-DF7C-4FB5-B343-6F94045AE47E.webp?v=1779440806"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-yellow-large-104173-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-large-95819-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15982007845251,
       "name": "Oakley Zip Through Heavyweight Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-medium-100521-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16015494054275,
-      "name": "Xtra Realtree Graphic Hoodie - Large Brown Cotton Blend",
+      "id": 16008135410051,
+      "name": "Made In USA Nutmeg San Francisco 49Ers Sweatshirt - Large Red Cotton",
       "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/464207C5-50FC-4DF6-B05A-393A150875BD.webp?v=1780931989",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9250E13B-A129-46E4-A333-2FD09EFD5F7D.webp?v=1780560974",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/464207C5-50FC-4DF6-B05A-393A150875BD.webp?v=1780931989",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C8D1B68-8623-4214-AB42-667C9F6F5B86.webp?v=1780931988",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E1646236-83B0-46F2-A802-37D352799CF0.webp?v=1780931989"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9250E13B-A129-46E4-A333-2FD09EFD5F7D.webp?v=1780560974",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2EFA2D94-8F84-46C9-9C63-2DF1AA816DEE.webp?v=1780560974",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A317A636-44A4-48A7-B897-913145D0B7FD.webp?v=1780560975"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/xtra-realtree-hoodie-mens-brown-large-101048-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-red-large-99011-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16008134984067,
       "name": "Made In USA Logo 7 Washington Redskins Sweatshirt - Medium Burgundy Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-90s-unbranded-sweatshirt-mens-navy-medium-99042-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16008135606659,
-      "name": "Made In USA Fruit Of The Loom Green Bay Packers Sweatshirt - Large Black Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/805AB328-F3C6-4BFF-8DC7-53EEEED3C60F.webp?v=1780560990",
+      "id": 16038077923715,
+      "name": "Nike College T-Shirt - Large White Cotton",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AA77BEC1-772E-4CAA-AB8F-5F2CA07B825B.webp?v=1781795082",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/805AB328-F3C6-4BFF-8DC7-53EEEED3C60F.webp?v=1780560990",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E3CFFFC-C8E5-4E1A-804C-050EBE1184F4.webp?v=1780560990",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/694A5364-F307-4932-AF7D-C7C30D2AA4B6.webp?v=1780560991"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AA77BEC1-772E-4CAA-AB8F-5F2CA07B825B.webp?v=1781795082",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2A79ED41-6558-408A-B00E-849D383E6A44.webp?v=1781795082",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6C3A542C-E055-498D-BFA4-E732CC16F603.webp?v=1781795083"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-fruit-of-the-loom-sweatshirt-mens-black-large-99024-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/nike-t-shirt-mens-white-large-102893-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16038047351171,
       "name": "Polo Bear Polo By Ralph Lauren Graphic T-Shirt - Medium Navy Cotton",
@@ -2404,23 +2421,6 @@
       "available": true
     },
     {
-      "id": 16035081027971,
-      "name": "Waffle Knit Ecko Unltd Long Sleeve T-Shirt - Small Red Cotton",
-      "price": 100,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9DB7D928-AE53-4872-B0B2-41C5001EDDE0.webp?v=1781706804",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DB7D928-AE53-4872-B0B2-41C5001EDDE0.webp?v=1781706804",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D673D5C-9754-4E33-8035-DBD39DA15F37.webp?v=1781706804",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DACB268-3668-47E4-991B-8CFC2231B9B9.webp?v=1781706804"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/waffle-knit-ecko-unltd-long-sleeve-t-shirt-mens-red-small-101532-a",
-      "available": true
-    },
-    {
       "id": 15876907925891,
       "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
       "price": 97,
@@ -2435,6 +2435,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
+      "available": true
+    },
+    {
+      "id": 16035081027971,
+      "name": "Waffle Knit Ecko Unltd Long Sleeve T-Shirt - Small Red Cotton",
+      "price": 100,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9DB7D928-AE53-4872-B0B2-41C5001EDDE0.webp?v=1781706804",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DB7D928-AE53-4872-B0B2-41C5001EDDE0.webp?v=1781706804",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D673D5C-9754-4E33-8035-DBD39DA15F37.webp?v=1781706804",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DACB268-3668-47E4-991B-8CFC2231B9B9.webp?v=1781706804"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/waffle-knit-ecko-unltd-long-sleeve-t-shirt-mens-red-small-101532-a",
       "available": true
     },
     {
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/made-in-usa-rugged-wear-wrangler-long-sleeve-t-shirt-mens-camo-medium-90546-a",
-      "available": true
-    },
-    {
-      "id": 15916269666691,
-      "name": "Nike Spellout Long Sleeve T-Shirt - Medium Blue Cotton",
-      "price": 100,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ED8BEB82-0B73-46F3-9312-C06DEF05CFEB.webp?v=1776869394",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED8BEB82-0B73-46F3-9312-C06DEF05CFEB.webp?v=1776869394",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F4E80BC-19E5-4E00-9908-0EB8B1C0DCA5.webp?v=1776869394",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F7B8988B-6BCF-4D7D-8CC9-4666E51F2D1C.webp?v=1776869395"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/nike-long-sleeve-t-shirt-mens-blue-medium-87514-a",
       "available": true
     }
   ]
