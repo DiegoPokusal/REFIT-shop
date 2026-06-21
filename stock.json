@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16035049013635,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Navy Polyester",
+      "price": 143,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/79104217-DECD-4A68-BD2A-30ED306C3823.webp?v=1781706121",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/79104217-DECD-4A68-BD2A-30ED306C3823.webp?v=1781706121",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/48B5CF0E-8A70-4F4D-82AB-906C254FC9CB.webp?v=1781706121",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA16F92F-F62B-42C2-BD31-6A4510F0B338.webp?v=1781706122"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-navy-large-104167-a",
+      "available": true
+    },
+    {
       "id": 16035047702915,
       "name": "Polo By Ralph Lauren Harrington Jacket - Small Blue Cotton",
       "price": 143,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-navy-large-104160-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16035049079171,
-      "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
-      "price": 143,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CABFCD7C-6215-4DEE-A432-E7F566D74D1B.webp?v=1781706124",
+      "id": 15982003061123,
+      "name": "New York Yankees Majestic Graphic Zip Through Hoodie - Large Navy Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/14F1D9E7-7EB8-4840-AC9D-0122781FCB76.webp?v=1779440801",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CABFCD7C-6215-4DEE-A432-E7F566D74D1B.webp?v=1781706124",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/84D6D933-6C25-4EB5-A3CC-33A8B282D376.webp?v=1781706124",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A8500524-F337-4E6D-9FE1-BECB5986A9F6.webp?v=1781706125"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/14F1D9E7-7EB8-4840-AC9D-0122781FCB76.webp?v=1779440801",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/29AC5E6C-4CD6-4BAD-9BCD-82A74B8BD363.webp?v=1779440801",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7E9FB843-0B6B-4585-BA1E-50EF43394B2A.webp?v=1779440801"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-beige-large-104169-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/new-york-yankees-majestic-hoodie-mens-navy-large-95817-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16008133607811,
       "name": "Ohio State Majestic College Hoodie - Large Grey Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-medium-100521-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15955244122499,
-      "name": "Nike Hoodie - Large Navy Cotton",
+      "id": 16034979905923,
+      "name": "Green Bay Packers Logo Athletics Nfl Sweatshirt - Large Green Cotton",
       "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BC1E5A45-B124-4750-8D87-BFB721B95164.webp?v=1778237749",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DB98595A-DC14-4A58-9146-C9ECEB14C213.webp?v=1781704935",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BC1E5A45-B124-4750-8D87-BFB721B95164.webp?v=1778237749",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4C1ECABD-B282-4606-9BB1-9A5C699C9F89.webp?v=1778237749",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3DB0B2F-1913-4852-8E97-65956681E1B0.webp?v=1778237750"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DB98595A-DC14-4A58-9146-C9ECEB14C213.webp?v=1781704935",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/79A7C813-90C7-4136-8138-4C96D1005F30.webp?v=1781704936",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D8CBEC21-447D-4777-85F1-F4C0B243349C.webp?v=1781704935"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-navy-large-93064-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/green-bay-packers-logo-athletics-sweatshirt-mens-green-large-102569-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16008140128643,
       "name": "Made In USA Nutmeg Pittsburgh Steelers Sweatshirt - Large Black Cotton",
@@ -1537,7 +1554,7 @@
     {
       "id": 15935469355395,
       "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
-      "price": 138,
+      "price": 136,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
@@ -1724,7 +1741,7 @@
     {
       "id": 15864957403523,
       "name": "Versace Jeans Couture Graphic Sweatshirt - Small Black Cotton Blend",
-      "price": 119,
+      "price": 117,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3418_1e02dce0-b9f3-47c7-ad34-b46ca2c734c2.jpg?v=1774624733",
@@ -1758,7 +1775,7 @@
     {
       "id": 15864946622851,
       "name": "Just Cavalli Graphic Sweatshirt - Medium Black Cotton Blend",
-      "price": 119,
+      "price": 117,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_mix_and_designer_26.3160_ed219b77-9415-40fc-a7d5-1080272acf7d.jpg?v=1774624519",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/factory-tour-harley-davidson-sweatshirt-mens-brown-small-98543-a",
       "available": true
-    },
-    {
-      "id": 16034981478787,
-      "name": "Toronto Raptors Logo 7 Nba Sweatshirt - Large Black Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6C5BDFB3-8523-44BE-B422-8AC08B6B19DF.webp?v=1781704962",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6C5BDFB3-8523-44BE-B422-8AC08B6B19DF.webp?v=1781704962",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2898A777-D323-4214-BD81-1B8C2CBF800E.webp?v=1781704962",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/355528E9-914B-4A24-848E-63D50F8DBBE1.webp?v=1781704963"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/toronto-raptors-logo-7-sweatshirt-mens-black-large-102588-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010029269379,
+      "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
+      "price": 136,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E8B2A29-4229-42CD-A263-38CBB099A228.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D56D913C-E5E5-4F02-B2F3-FE1932074832.webp?v=1780661505"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/mouse-graphic-stussy-t-shirt-mens-blue-medium-100803-a",
+      "available": true
+    },
     {
       "id": 16006465913219,
       "name": "Barnett Harley-Davidson El Paso, Texas Harley Davidson Graphic Long Sleeve T-Shirt - Small Black Cotton",
@@ -2202,7 +2219,7 @@
     {
       "id": 16010029433219,
       "name": "Santa Graphic Supreme Christmas T-Shirt - Medium White Cotton",
-      "price": 138,
+      "price": 136,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5995EE68-5C92-4903-9DB1-7A7B85F6FC43.webp?v=1780661514",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/5995EE68-5C92-4903-9DB1-7A7B85F6FC43.webp?v=1780661514",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/dallas-cowboys-salem-t-shirt-mens-black-large-87792-a",
-      "available": true
-    },
-    {
-      "id": 16014356054403,
-      "name": "A3Sth3Tic Diesel Graphic Long Sleeve T-Shirt - Medium Black Cotton",
-      "price": 100,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B2FFE12A-4A1D-421E-9710-52DF65FB04FA.webp?v=1780906072",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B2FFE12A-4A1D-421E-9710-52DF65FB04FA.webp?v=1780906072",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5A289458-9496-4894-94B5-47146F2ECC29.webp?v=1780906072",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B2468091-F714-4B5E-9A8A-16D039086916.webp?v=1780906072"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/a3sth3tic-diesel-long-sleeve-t-shirt-mens-black-medium-100436-a",
       "available": true
     }
   ]
