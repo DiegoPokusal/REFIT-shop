@@ -1329,6 +1329,23 @@
       "available": true
     },
     {
+      "id": 16008133607811,
+      "name": "Ohio State Majestic College Hoodie - Large Grey Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6DB954DD-0400-49A0-B61C-9F8C39504FFE.webp?v=1780560901",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DB954DD-0400-49A0-B61C-9F8C39504FFE.webp?v=1780560901",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C5E321A9-1018-461B-97D0-C2116349792B.webp?v=1780560900",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/80FF1723-DECA-4F37-AC0E-C48B77FF292E.webp?v=1780560901"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/ohio-state-majestic-hoodie-mens-grey-large-99036-a",
+      "available": true
+    },
+    {
       "id": 16015498314115,
       "name": "Cloud Design Nike Graphic Hoodie - Large Black Cotton",
       "price": 109,
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/cloud-design-nike-hoodie-mens-black-large-101126-a",
       "available": true
-    },
-    {
-      "id": 15950865826179,
-      "name": "90S Tommy Hilfiger Spellout Hoodie - Large Navy Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4301EF8F-A38A-45A2-BADC-BDAA72801E2F.webp?v=1778142546",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4301EF8F-A38A-45A2-BADC-BDAA72801E2F.webp?v=1778142546",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5596B331-222E-49D7-BBA0-8DDA3915BB13.webp?v=1778142545",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E664537E-9DBD-4858-AEC9-1E03BADF7825.webp?v=1778142546"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/90s-tommy-hilfiger-hoodie-mens-navy-large-91036-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15982016496003,
+      "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AF7170DC-4C33-46BB-87E8-42183A65BAED.webp?v=1779441066",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C149BB02-A924-44AB-9A81-CF17BC96D0F2.webp?v=1779441066"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
+      "available": true
+    },
     {
       "id": 16008139440515,
       "name": "Made In USA 90S Unbranded Fighting Irish Raglan Sweatshirt - Medium Navy Cotton",
@@ -1379,23 +1396,6 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-90s-unbranded-sweatshirt-mens-navy-medium-99042-a",
-      "available": true
-    },
-    {
-      "id": 16008135606659,
-      "name": "Made In USA Fruit Of The Loom Green Bay Packers Sweatshirt - Large Black Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/805AB328-F3C6-4BFF-8DC7-53EEEED3C60F.webp?v=1780560990",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/805AB328-F3C6-4BFF-8DC7-53EEEED3C60F.webp?v=1780560990",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E3CFFFC-C8E5-4E1A-804C-050EBE1184F4.webp?v=1780560990",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/694A5364-F307-4932-AF7D-C7C30D2AA4B6.webp?v=1780560991"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-fruit-of-the-loom-sweatshirt-mens-black-large-99024-a",
       "available": true
     },
     {
@@ -1430,6 +1430,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-logo-7-sweatshirt-mens-burgundy-medium-99083-a",
+      "available": true
+    },
+    {
+      "id": 16008135606659,
+      "name": "Made In USA Fruit Of The Loom Green Bay Packers Sweatshirt - Large Black Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/805AB328-F3C6-4BFF-8DC7-53EEEED3C60F.webp?v=1780560990",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/805AB328-F3C6-4BFF-8DC7-53EEEED3C60F.webp?v=1780560990",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E3CFFFC-C8E5-4E1A-804C-050EBE1184F4.webp?v=1780560990",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/694A5364-F307-4932-AF7D-C7C30D2AA4B6.webp?v=1780560991"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-fruit-of-the-loom-sweatshirt-mens-black-large-99024-a",
       "available": true
     },
     {
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-nfl-sweatshirt-mens-black-large-99056-a",
       "available": true
-    },
-    {
-      "id": 16008152646019,
-      "name": "Mickey Mouse Disney Cartoon Sweatshirt - Medium Blue Cotton Blend",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4166ABFC-3681-4591-B5BC-6D2E6E2724DA.webp?v=1780561768",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE3A574E-8A67-488D-A373-7DF874612C2E.webp?v=1780561769"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/mickey-mouse-disney-sweatshirt-mens-blue-medium-99328-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010027958659,
+      "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EEA58522-80B9-481F-9F3E-E1CE20741E1E.webp?v=1780661434",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/867DCFB0-9D3B-4248-AA96-EA9A4ED8E6B5.webp?v=1780661434"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/crown-stussy-t-shirt-womens-blue-small-100775-a",
+      "available": true
+    },
     {
       "id": 15916269666691,
       "name": "Nike Spellout Long Sleeve T-Shirt - Medium Blue Cotton",
@@ -2236,7 +2253,7 @@
     {
       "id": 15873109885315,
       "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
-      "price": 127,
+      "price": 121,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/made-in-usa-adidas-t-shirt-mens-red-large-102537-a",
-      "available": true
-    },
-    {
-      "id": 15950753431939,
-      "name": "Made In USA Rugged Wear Wrangler Camo Long Sleeve T-Shirt - Medium Camo Cotton",
-      "price": 100,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CD4BE34B-34AD-4F93-996D-E950DC247535.webp?v=1778141072",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD4BE34B-34AD-4F93-996D-E950DC247535.webp?v=1778141072",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/151F2E2A-A669-43DD-86C8-633EE847F0CD.webp?v=1778141072",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DC73880-F4D3-4F6B-B6BA-0E783360B72F.webp?v=1778141072"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-usa-rugged-wear-wrangler-long-sleeve-t-shirt-mens-camo-medium-90546-a",
       "available": true
     }
   ]
