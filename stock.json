@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16015481766275,
+      "name": "Walls Camo Jacket - Medium Camo Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E62D31A3-3EF6-4563-9D25-27B747792D42.webp?v=1780931782",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E62D31A3-3EF6-4563-9D25-27B747792D42.webp?v=1780931782",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/755145B3-4DAB-47D0-B33F-EE07CC8D11CE.webp?v=1780931782",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4FC419F9-04EA-4E91-80D4-743366ACB033.webp?v=1780931782"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/walls-jacket-mens-camo-medium-101059-a",
+      "available": true
+    },
+    {
       "id": 16035043705219,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Black Cotton",
       "price": 145,
@@ -307,20 +324,20 @@
       "available": true
     },
     {
-      "id": 16038214304131,
-      "name": "Carhartt Cht Gilet - Medium Brown Cotton",
+      "id": 15950740980099,
+      "name": "Cropped 10X Detroit Style Camo Jacket - Large Camo Cotton",
       "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/35B08DF3-902D-4354-BB3F-E570F4D7E772.webp?v=1781796006",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/35B08DF3-902D-4354-BB3F-E570F4D7E772.webp?v=1781796006",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D4BA5B2-64D8-4C9E-BF1C-90ADFB59144B.webp?v=1781796006",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF83C5F6-3333-4E48-AFC5-DB897FAAD021.webp?v=1781796007"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B131E7C8-D289-40F1-B127-B4881D6DFF50.webp?v=1778140933",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D58794E3-E3D4-413B-9FA8-A88BB412FDD2.webp?v=1778140932",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/20D6932A-15DD-4515-8508-3EFBA386473E.webp?v=1778140932"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/carhartt-gilet-mens-brown-medium-102241-a",
+      "url": "https://www.thrifted.com/products/cropped-10x-jacket-mens-camo-large-90531-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-blue-small-104168-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16035047539075,
-      "name": "Polo By Ralph Lauren Harrington Jacket - Large Red Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0655B847-AA62-4373-A817-8039C3F88418.webp?v=1781706087",
+      "id": 15950865826179,
+      "name": "90S Tommy Hilfiger Spellout Hoodie - Large Navy Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4301EF8F-A38A-45A2-BADC-BDAA72801E2F.webp?v=1778142546",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0655B847-AA62-4373-A817-8039C3F88418.webp?v=1781706087",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D48D82A4-86E0-48A1-920C-7149564BE209.webp?v=1781706087",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EF6BEF4-030F-4FD7-B975-AD8D36A23796.webp?v=1781706088"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4301EF8F-A38A-45A2-BADC-BDAA72801E2F.webp?v=1778142546",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5596B331-222E-49D7-BBA0-8DDA3915BB13.webp?v=1778142545",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E664537E-9DBD-4858-AEC9-1E03BADF7825.webp?v=1778142546"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-red-large-104165-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/90s-tommy-hilfiger-hoodie-mens-navy-large-91036-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16015494054275,
       "name": "Xtra Realtree Graphic Hoodie - Large Brown Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/ohio-state-majestic-hoodie-mens-grey-large-99036-a",
       "available": true
-    },
-    {
-      "id": 16015498314115,
-      "name": "Cloud Design Nike Graphic Hoodie - Large Black Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B48965B0-0AC9-41B9-8E0B-E4A1BDEEF1E6.webp?v=1780932097",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B48965B0-0AC9-41B9-8E0B-E4A1BDEEF1E6.webp?v=1780932097",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7CFBFB15-CC20-41E7-B67B-F2982B331111.webp?v=1780932097",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/93BA1E99-3FEF-491B-B5C8-010D2C13341C.webp?v=1780932097"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/cloud-design-nike-hoodie-mens-black-large-101126-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008152646019,
+      "name": "Mickey Mouse Disney Cartoon Sweatshirt - Medium Blue Cotton Blend",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/091513D9-4693-47B1-9FA9-DE7586D11D64.webp?v=1780561769",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4166ABFC-3681-4591-B5BC-6D2E6E2724DA.webp?v=1780561768",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE3A574E-8A67-488D-A373-7DF874612C2E.webp?v=1780561769"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/mickey-mouse-disney-sweatshirt-mens-blue-medium-99328-a",
+      "available": true
+    },
     {
       "id": 15982016496003,
       "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-black-large-99073-a",
       "available": true
-    },
-    {
-      "id": 16008139964803,
-      "name": "90S Made In USA Nfl Philadelphia Eagles Raglan Sweatshirt - Large Black Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12843D5D-AB66-4BDE-A013-A6972743848F.webp?v=1780561064",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12843D5D-AB66-4BDE-A013-A6972743848F.webp?v=1780561064",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2F2F3FF2-10B5-4259-B384-82C8859074DE.webp?v=1780561064",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/48663D26-DC64-40A1-953D-E35E10B862F0.webp?v=1780561064"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-nfl-sweatshirt-mens-black-large-99056-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15950753431939,
+      "name": "Made In USA Rugged Wear Wrangler Camo Long Sleeve T-Shirt - Medium Camo Cotton",
+      "price": 100,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CD4BE34B-34AD-4F93-996D-E950DC247535.webp?v=1778141072",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD4BE34B-34AD-4F93-996D-E950DC247535.webp?v=1778141072",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/151F2E2A-A669-43DD-86C8-633EE847F0CD.webp?v=1778141072",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DC73880-F4D3-4F6B-B6BA-0E783360B72F.webp?v=1778141072"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/made-in-usa-rugged-wear-wrangler-long-sleeve-t-shirt-mens-camo-medium-90546-a",
+      "available": true
+    },
     {
       "id": 16010027958659,
       "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/barnett-harley-davidson-el-paso-texas-harley-davidson-long-sleeve-t-shirt-mens-black-small-98577-a",
-      "available": true
-    },
-    {
-      "id": 16038126092675,
-      "name": "Made In USA Adidas Striped T-Shirt - Large Red Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/55B76AD8-D235-47CA-8CE1-AF3E6C3BFADF.webp?v=1781795360",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/55B76AD8-D235-47CA-8CE1-AF3E6C3BFADF.webp?v=1781795360",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5E7EA72C-1106-4122-AEC3-873B34D90865.webp?v=1781795360",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/153624EE-ACD5-4A9B-91E5-31971A50068D.webp?v=1781795360"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-usa-adidas-t-shirt-mens-red-large-102537-a",
       "available": true
     }
   ]
