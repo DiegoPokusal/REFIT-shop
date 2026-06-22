@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16035059663235,
+      "name": "Marmot Jacket - Medium Purple Nylon",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/38F5F597-3EB9-4CB1-A4F6-CB6D78F21ED3.webp?v=1781706365",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/38F5F597-3EB9-4CB1-A4F6-CB6D78F21ED3.webp?v=1781706365",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/97A13313-B45E-49DD-98CE-43B253167047.webp?v=1781706366",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/74872962-8507-443B-BCB8-51A03080625F.webp?v=1781706366"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/marmot-jacket-mens-purple-medium-101487-a",
+      "available": true
+    },
+    {
       "id": 16008827437443,
       "name": "Summit Series The North Face Jacket - Small Black Polyester",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-brown-large-94068-a",
       "available": true
-    },
-    {
-      "id": 15919573139843,
-      "name": "Port Authority Jacket - Large Black Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A5D7D07C-679A-4B08-B5F5-B44E88B4776C.webp?v=1776948311",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5D7D07C-679A-4B08-B5F5-B44E88B4776C.webp?v=1776948311",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/81BEE726-66E0-456A-9594-D21DB5E2CBA5.webp?v=1776948312",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3FF8BE6E-8E56-4DF5-8868-7A59F2B8CD2F.webp?v=1776948312"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/port-authority-jacket-mens-black-large-89158-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964911174019,
+      "name": "Rain Defender Carhartt Spellout Hoodie - Small Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C288C349-D136-4BC9-A776-0B344D73BD6A.webp?v=1778685722",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F6F18919-5539-431E-9CE3-EB9D1553BC59.webp?v=1778685723"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
+      "available": true
+    },
     {
       "id": 15950848819587,
       "name": "Polo By Ralph Lauren Spellout Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-medium-98325-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964912386435,
-      "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
+      "id": 16008139964803,
+      "name": "90S Made In USA Nfl Philadelphia Eagles Raglan Sweatshirt - Large Black Cotton",
+      "price": 109,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12843D5D-AB66-4BDE-A013-A6972743848F.webp?v=1780561064",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12AB28EE-028A-4B02-A15F-2309DCDFE972.webp?v=1778685743",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7980BC90-DB91-45CD-A6A2-E72925DA115C.webp?v=1778685743",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0DE883E-7243-4A85-906C-85D38803ACBA.webp?v=1778685743"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/12843D5D-AB66-4BDE-A013-A6972743848F.webp?v=1780561064",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2F2F3FF2-10B5-4259-B384-82C8859074DE.webp?v=1780561064",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/48663D26-DC64-40A1-953D-E35E10B862F0.webp?v=1780561064"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-made-in-usa-nfl-sweatshirt-mens-black-large-99056-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15910938247555,
       "name": "1977 Essentials Sweatshirt - Large Grey Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
       "available": true
-    },
-    {
-      "id": 15916274188675,
-      "name": "Made In USA 90S Nike Sweatshirt - Medium Grey Cotton",
-      "price": 113,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/361AACA3-ADB5-4C9B-8CC3-2DF9E0534E48.webp?v=1776869468",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EAEC8BBD-1312-4BB1-A777-EB1F3FA6C1DE.webp?v=1776869468"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15964909175171,
+      "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27CB28C-539D-4028-8889-2CC79F029B6A.webp?v=1778685675",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F3DB9DD-8AA3-476F-9E4A-4B8BF4E9C710.webp?v=1778685675"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/team-usa-1992-usa-olympics-t-shirt-mens-grey-large-94190-a",
+      "available": true
+    },
     {
       "id": 16008145437059,
       "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/team-force-anvil-t-shirt-mens-white-medium-99093-a",
-      "available": true
-    },
-    {
-      "id": 15968026329475,
-      "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F44D80B8-8888-4589-9708-A8DED6C99E05.webp?v=1778830810",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F77DEDAB-389D-4407-AD95-C66798ECA8CB.webp?v=1778830811"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
       "available": true
     }
   ]
