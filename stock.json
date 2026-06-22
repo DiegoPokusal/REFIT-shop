@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15929996018051,
+      "name": "Christian Dior Striped Blazer - Medium Grey Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26109_5295395c-9a83-4630-93f9-5e87f940d3eb.jpg?v=1777363574",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_492caa45-d422-45fc-9d57-503b0d19e6b5.webp?v=1777363573"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-medium-397967",
+      "available": true
+    },
+    {
       "id": 15929995428227,
       "name": "Giorgio Armani Blazer - Large Khaki Wool",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/denim-polo-by-ralph-lauren-harrington-jacket-mens-blue-large-104166-a",
       "available": true
-    },
-    {
-      "id": 16035075031427,
-      "name": "Polo By Ralph Lauren Harrington Jacket - Large Red Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16FEC605-D99B-4DA0-9BF4-4BD36D4C75A2.webp?v=1781706673",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/16FEC605-D99B-4DA0-9BF4-4BD36D4C75A2.webp?v=1781706673",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/17935BB8-2AB6-4969-B9B0-5CE42B1441C9.webp?v=1781706672",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BBD9FBC3-B34A-45BF-9683-EBEEE3186791.webp?v=1781706673"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-red-large-104158-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964917432707,
+      "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9A1548C-3E4D-4419-9E6C-E10F386B80F4.webp?v=1778685860",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/978547FD-D602-4108-9BB0-A0F06739723E.webp?v=1778685861"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
+      "available": true
+    },
     {
       "id": 15964917236099,
       "name": "Carhartt Hoodie - Large Brown Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/deleeuw-lumber-carhartt-hoodie-mens-navy-medium-98316-a",
       "available": true
-    },
-    {
-      "id": 16008825995651,
-      "name": "Polo Jeans Ralph Lauren Spellout Hoodie - Large Grey Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0800714D-7267-41B0-8431-967A64C3C79E.webp?v=1780582406",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0800714D-7267-41B0-8431-967A64C3C79E.webp?v=1780582406",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/691EF9A6-3AB9-42C1-B8F8-6F5DD69E8D29.webp?v=1780582406",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4394E3D5-C45A-469D-8F43-AF4883516CD9.webp?v=1780582406"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-hoodie-mens-grey-large-99762-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16006462013827,
+      "name": "Factory Tour Harley Davidson Graphic Sweatshirt - Small Brown Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A28293B-D8EF-487C-92AF-989F4E135A5A.webp?v=1780478704",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A28293B-D8EF-487C-92AF-989F4E135A5A.webp?v=1780478704",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AADFC486-8A7E-466F-8742-F1B6559DC149.webp?v=1780478704",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/490A3AC5-157C-475D-AF8C-4F8D1D3B9DBB.webp?v=1780478705"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/factory-tour-harley-davidson-sweatshirt-mens-brown-small-98543-a",
+      "available": true
+    },
     {
       "id": 16008837792131,
       "name": "Polo Jeans Company Ralph Lauren Sweatshirt - Medium Grey Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/chaps-ralph-lauren-sweatshirt-mens-black-large-102750-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16008839528835,
-      "name": "Polo By Ralph Lauren Rl Crest Sweatshirt - Medium Navy Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
+      "id": 15876907925891,
+      "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
+      "price": 97,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/49772313-5F38-45BC-9B1F-71FDAFC420BF.webp?v=1780582738",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B898351-00FF-435E-B920-56FD9613888F.webp?v=1780582738"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5C6DA7F-77F2-49D7-B21E-051C459B09DC.webp?v=1775143308",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DBE3403-82AA-4259-8A38-30EA345E096B.webp?v=1775143308"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-navy-medium-99775-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16035081027971,
       "name": "Waffle Knit Ecko Unltd Long Sleeve T-Shirt - Small Red Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-white-medium-91159-a",
-      "available": true
-    },
-    {
-      "id": 16038075662723,
-      "name": "Hooked On Dunks Nike Graphic T-Shirt - Small Black Cotton",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/473AF7DD-43AE-4E49-BFDE-DDF4E9BE2237.webp?v=1781795063",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/473AF7DD-43AE-4E49-BFDE-DDF4E9BE2237.webp?v=1781795063",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/63C44453-1D5B-44CC-ACB7-37808440D358.webp?v=1781795063",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D19330F9-4B0D-4CC9-AE50-2F5EE5F5D6DA.webp?v=1781795064"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/hooked-on-dunks-nike-t-shirt-mens-black-small-102892-a",
       "available": true
     }
   ]
