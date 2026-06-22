@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15960024940931,
+      "name": "Guess Puffer - Medium Green Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/09A5CCCA-DDC1-406F-8F62-ED2350580C3D.webp?v=1778487706",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/09A5CCCA-DDC1-406F-8F62-ED2350580C3D.webp?v=1778487706",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/333FC03F-A33F-4411-8522-520B900CF43E.webp?v=1778487707",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D1C90D2-7353-45B9-9476-3622389EB423.webp?v=1778487707"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/guess-puffer-mens-green-medium-94035-a",
+      "available": true
+    },
+    {
       "id": 16035051897219,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
       "price": 145,
@@ -662,30 +679,30 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/marmot-jacket-mens-purple-medium-101487-a",
       "available": true
-    },
-    {
-      "id": 16008827437443,
-      "name": "Summit Series The North Face Jacket - Small Black Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ABF7E775-F27C-4697-8DFF-13D0D0E4550D.webp?v=1780582449",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ABF7E775-F27C-4697-8DFF-13D0D0E4550D.webp?v=1780582449",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1043B97-A142-4038-AEC8-F314C168ED8D.webp?v=1780582449",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3A8CC67-3872-41AC-8BEC-A95A691090ED.webp?v=1780582450"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/summit-series-the-north-face-jacket-mens-black-small-100082-a",
-      "available": true
     }
   ],
   "hoodie": [
     {
+      "id": 15910958760323,
+      "name": "90S Willamette Softball Nike Center Swoosh Hoodie - Large Red Cotton",
+      "price": 113,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CEE0B6A3-B4F5-4D36-9887-88A1D7261326.webp?v=1776675332",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CEE0B6A3-B4F5-4D36-9887-88A1D7261326.webp?v=1776675332",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/66911A4C-BF3B-412B-ADFD-DA3208EB201E.webp?v=1776675332",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/31E414E6-24E0-4088-9F9E-D59E2E1B0A52.webp?v=1776675333"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/90s-willamette-softball-nike-hoodie-mens-red-large-86874-a",
+      "available": true
+    },
+    {
       "id": 15916193120643,
       "name": "Harley Davidson Graphic Hoodie - Large Grey Cotton Blend",
-      "price": 112,
+      "price": 113,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15950848819587,
-      "name": "Polo By Ralph Lauren Spellout Hoodie - Large Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
+      "id": 15950883783043,
+      "name": "Reebok Spellout Sweatshirt - Large Green Cotton",
+      "price": 114,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B15D378-502A-4C3B-BD12-248F328EFE4C.webp?v=1778142363",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3BD6B95-454C-44FE-BC1E-DF9422EDFBE3.webp?v=1778142364"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/77AFE057-2B05-478B-BF59-8EA17C5C4636.webp?v=1778142798",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EF27F0C4-284E-456F-8D8A-E70AB0233870.webp?v=1778142799"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-black-large-90952-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16034985804163,
       "name": "Pittsburgh Steelers Lee Sport Nfl Sweatshirt - Large Black Cotton",
@@ -2013,7 +2030,7 @@
     {
       "id": 15916274188675,
       "name": "Made In USA 90S Nike Sweatshirt - Medium Grey Cotton",
-      "price": 112,
+      "price": 113,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15910938247555,
-      "name": "1977 Essentials Sweatshirt - Large Grey Cotton",
-      "price": 112,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
+      "id": 16008145437059,
+      "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/751FA865-0F01-440F-AABD-748D5DF87176.webp?v=1776674589",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/87A837E1-C765-4C45-AAC2-51C6390FCB77.webp?v=1776674589"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8E0A31AF-F750-4810-A7E4-BB68241511D3.webp?v=1780561379",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/58DB06C6-B38D-4BA2-8527-313CE1B744C6.webp?v=1780561380"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/1977-essentials-sweatshirt-mens-grey-large-86464-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/dale-jarrett-competitors-view-t-shirt-mens-black-large-99171-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 15950901608835,
       "name": "90S Made In USA Tommy Jeans Striped Long Sleeve T-Shirt - Medium Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
-      "available": true
-    },
-    {
-      "id": 15964909175171,
-      "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27CB28C-539D-4028-8889-2CC79F029B6A.webp?v=1778685675",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F3DB9DD-8AA3-476F-9E4A-4B8BF4E9C710.webp?v=1778685675"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/team-usa-1992-usa-olympics-t-shirt-mens-grey-large-94190-a",
       "available": true
     }
   ]
