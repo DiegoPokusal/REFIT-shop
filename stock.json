@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15960027496835,
+      "name": "Patagonia Puffer - Large Brown Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0FD1C7ED-DF4F-4334-BAAE-56F498420CD8.webp?v=1778487893",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0FD1C7ED-DF4F-4334-BAAE-56F498420CD8.webp?v=1778487893",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E967696B-29BA-4599-95E5-233DCDC3226C.webp?v=1778487893",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CD19C06-C2C7-4F19-B730-BA6E42018BD1.webp?v=1778487893"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-brown-large-94068-a",
+      "available": true
+    },
+    {
       "id": 15919573139843,
       "name": "Port Authority Jacket - Large Black Cotton",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/biker-scott-jacket-mens-black-medium-88944-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15919773548931,
-      "name": "Biker Street & Steel Jacket - Medium Black Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/313DE7CE-D815-46DC-9081-43ABC311DF09.webp?v=1776958029",
+      "id": 15964913107331,
+      "name": "Carhartt Spellout Hoodie - Medium Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0DA50E40-AC5F-48E3-9773-A531E4DB5B43.webp?v=1778685758",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/313DE7CE-D815-46DC-9081-43ABC311DF09.webp?v=1776958029",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2C70D739-9EED-448E-8189-9C7110FEDDC6.webp?v=1776958029",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/929F8C58-1E27-4611-B1A9-F2FB87DFE08D.webp?v=1776958029"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DA50E40-AC5F-48E3-9773-A531E4DB5B43.webp?v=1778685758",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F4EB4662-FA45-4B0C-94AD-EF9E9ED67E4D.webp?v=1778685759",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4744DEDF-CD16-4D22-A49C-FD72C27D9271.webp?v=1778685759"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/biker-street-steel-jacket-mens-black-medium-88943-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-medium-98325-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15964912386435,
       "name": "Original Fit Carhartt Tall Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-large-98326-a",
       "available": true
-    },
-    {
-      "id": 15964912517507,
-      "name": "Carhartt Hoodie - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD.webp?v=1778685749",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D905D6BE-9C1F-4F42-BD0E-BD3D6D51A4AD.webp?v=1778685749",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B650924E-BADE-458F-9CE1-81884B7D1FDD.webp?v=1778685748",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DBB7135-8FB1-4D2C-BC3C-0ADF8F2BECD4.webp?v=1778685748"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-small-98321-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15910937657731,
+      "name": "90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/19BE483B-E1E1-464C-8E0E-1038472BF887.webp?v=1776674557",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD22E655-93F8-4BF8-B0B4-03F66FB000BC.webp?v=1776674558"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
+      "available": true
+    },
     {
       "id": 15916274188675,
       "name": "Made In USA 90S Nike Sweatshirt - Medium Grey Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reverse-weave-cal-state-champion-sweatshirt-mens-navy-medium-91545-a",
       "available": true
-    },
-    {
-      "id": 15950694482307,
-      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9E2EF43-5490-4C0C-9AF5-907C948D092C.webp?v=1778140510",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08EE7634-71BD-489C-B56C-F6889C8503AF.webp?v=1778140511"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010029269379,
+      "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E8B2A29-4229-42CD-A263-38CBB099A228.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D56D913C-E5E5-4F02-B2F3-FE1932074832.webp?v=1780661505"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/mouse-graphic-stussy-t-shirt-mens-blue-medium-100803-a",
+      "available": true
+    },
     {
       "id": 15964909175171,
       "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/bobby-labonte-chase-authentics-t-shirt-mens-white-medium-99146-a",
-      "available": true
-    },
-    {
-      "id": 16008140849539,
-      "name": "Team Force Anvil Graphic T-Shirt - Medium White Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/05319E22-3E3E-4F48-B707-D49488B70409.webp?v=1780561125",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/80CEDFCE-53F9-4CCC-8569-B16DA3D30EB2.webp?v=1780561126"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/team-force-anvil-t-shirt-mens-white-medium-99093-a",
       "available": true
     }
   ]
