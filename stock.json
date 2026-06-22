@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16008827437443,
+      "name": "Summit Series The North Face Jacket - Small Black Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ABF7E775-F27C-4697-8DFF-13D0D0E4550D.webp?v=1780582449",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ABF7E775-F27C-4697-8DFF-13D0D0E4550D.webp?v=1780582449",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1043B97-A142-4038-AEC8-F314C168ED8D.webp?v=1780582449",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3A8CC67-3872-41AC-8BEC-A95A691090ED.webp?v=1780582450"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/summit-series-the-north-face-jacket-mens-black-small-100082-a",
+      "available": true
+    },
+    {
       "id": 15960024940931,
       "name": "Guess Puffer - Medium Green Polyester",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/port-authority-jacket-mens-black-large-89158-a",
       "available": true
-    },
-    {
-      "id": 16035059663235,
-      "name": "Marmot Jacket - Medium Purple Nylon",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/38F5F597-3EB9-4CB1-A4F6-CB6D78F21ED3.webp?v=1781706365",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/38F5F597-3EB9-4CB1-A4F6-CB6D78F21ED3.webp?v=1781706365",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/97A13313-B45E-49DD-98CE-43B253167047.webp?v=1781706366",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/74872962-8507-443B-BCB8-51A03080625F.webp?v=1781706366"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/marmot-jacket-mens-purple-medium-101487-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15950848819587,
+      "name": "Polo By Ralph Lauren Spellout Hoodie - Large Black Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C495D5B6-EBC4-4111-938E-6448B31F7DD0.webp?v=1778142362",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B15D378-502A-4C3B-BD12-248F328EFE4C.webp?v=1778142363",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3BD6B95-454C-44FE-BC1E-DF9422EDFBE3.webp?v=1778142364"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-black-large-90952-a",
+      "available": true
+    },
     {
       "id": 15910958760323,
       "name": "90S Willamette Softball Nike Center Swoosh Hoodie - Large Red Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-large-98315-a",
       "available": true
-    },
-    {
-      "id": 15964911174019,
-      "name": "Rain Defender Carhartt Spellout Hoodie - Small Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C3B6CE7-DDCB-46DF-AAF7-B6D35137E620.webp?v=1778685723",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C288C349-D136-4BC9-A776-0B344D73BD6A.webp?v=1778685722",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F6F18919-5539-431E-9CE3-EB9D1553BC59.webp?v=1778685723"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-small-98309-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15910938247555,
+      "name": "1977 Essentials Sweatshirt - Large Grey Cotton",
+      "price": 113,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/751FA865-0F01-440F-AABD-748D5DF87176.webp?v=1776674589",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/87A837E1-C765-4C45-AAC2-51C6390FCB77.webp?v=1776674589"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/1977-essentials-sweatshirt-mens-grey-large-86464-a",
+      "available": true
+    },
     {
       "id": 15950883783043,
       "name": "Reebok Spellout Sweatshirt - Large Green Cotton",
@@ -1498,23 +1515,6 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-nutmeg-sweatshirt-mens-black-large-99073-a",
-      "available": true
-    },
-    {
-      "id": 16008139964803,
-      "name": "90S Made In USA Nfl Philadelphia Eagles Raglan Sweatshirt - Large Black Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12843D5D-AB66-4BDE-A013-A6972743848F.webp?v=1780561064",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12843D5D-AB66-4BDE-A013-A6972743848F.webp?v=1780561064",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2F2F3FF2-10B5-4259-B384-82C8859074DE.webp?v=1780561064",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/48663D26-DC64-40A1-953D-E35E10B862F0.webp?v=1780561064"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-nfl-sweatshirt-mens-black-large-99056-a",
       "available": true
     },
     {
