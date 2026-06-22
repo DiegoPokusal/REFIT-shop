@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16035051667843,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Medium Navy Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7D8DF30B-28CC-4A9A-8099-508B3C1FA4B7.webp?v=1781706188",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7D8DF30B-28CC-4A9A-8099-508B3C1FA4B7.webp?v=1781706188",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3A4112E8-88BB-4C8E-8DD8-B0F847F5DDC1.webp?v=1781706188",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A541CEE9-03AE-4972-9C3B-8EAC17D37CC4.webp?v=1781706189"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-navy-medium-104176-a",
+      "available": true
+    },
+    {
       "id": 16035050422659,
       "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
       "price": 145,
@@ -188,23 +205,6 @@
       "available": true
     },
     {
-      "id": 16035051471235,
-      "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0BA4CE45-7019-4140-9C16-EE71C3F9D198.webp?v=1781706182",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BA4CE45-7019-4140-9C16-EE71C3F9D198.webp?v=1781706182",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3686B21D-D30E-4E5B-877A-583F66AB9F3F.webp?v=1781706181",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/07272093-1B42-4105-AA7B-997BFE99E1AD.webp?v=1781706182"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-beige-large-104174-a",
-      "available": true
-    },
-    {
       "id": 16035050684803,
       "name": "Polo By Ralph Lauren Checked Harrington Jacket - Large Green Cotton",
       "price": 145,
@@ -287,6 +287,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/tommy-hilfiger-puffer-mens-green-large-86649-a",
+      "available": true
+    },
+    {
+      "id": 16035051471235,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0BA4CE45-7019-4140-9C16-EE71C3F9D198.webp?v=1781706182",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BA4CE45-7019-4140-9C16-EE71C3F9D198.webp?v=1781706182",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3686B21D-D30E-4E5B-877A-583F66AB9F3F.webp?v=1781706181",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/07272093-1B42-4105-AA7B-997BFE99E1AD.webp?v=1781706182"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-beige-large-104174-a",
       "available": true
     },
     {
@@ -662,41 +679,41 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/guess-puffer-mens-green-medium-94035-a",
       "available": true
-    },
-    {
-      "id": 16035051897219,
-      "name": "Polo By Ralph Lauren Harrington Jacket - Large Beige Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F7E29520-AACC-483D-925C-8853DD64BFE1.webp?v=1781706195",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F7E29520-AACC-483D-925C-8853DD64BFE1.webp?v=1781706195",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B41C52E-BC27-4025-A3E2-B48739BD7AAB.webp?v=1781706195",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FEC9DF9C-E74E-443B-B151-473FF0867861.webp?v=1781706195"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-beige-large-104178-a",
-      "available": true
     }
   ],
   "hoodie": [
     {
-      "id": 15955252838787,
-      "name": "Motorcycle Harley Davidson Graphic Hoodie - Medium Black Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B0510644-1F5F-41FA-84A0-E088CCBC8D74.webp?v=1778237851",
+      "id": 16045076316547,
+      "name": "Armani Exchange Hoodie - Medium Black Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BA771AF7-43A3-4A78-8171-A82069E971BF.webp?v=1782134593",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0510644-1F5F-41FA-84A0-E088CCBC8D74.webp?v=1778237851",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/088FB9D5-3C2F-46AC-93C2-175B01DBD09C.webp?v=1778237851",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E9CAE70F-8B82-469E-98AF-CE083F0FCDE1.webp?v=1778237852"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BA771AF7-43A3-4A78-8171-A82069E971BF.webp?v=1782134593",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B7A65536-BB3A-495A-898B-EDA4A29BBBA3.webp?v=1782134592",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/77075211-F255-4D10-8F61-7ADDA2B46338.webp?v=1782134593"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/motorcycle-harley-davidson-hoodie-mens-black-medium-93219-a",
+      "url": "https://www.thrifted.com/products/armani-exchange-hoodie-mens-black-medium-102655-a",
+      "available": true
+    },
+    {
+      "id": 16045074579843,
+      "name": "Armani Exchange Hoodie - Small Black Cotton",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1783BEC5-3387-40A8-BBFF-E84202DB2ACC.webp?v=1782134539",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1783BEC5-3387-40A8-BBFF-E84202DB2ACC.webp?v=1782134539",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/14220D59-5158-454C-BF44-3FCE0BBBB9E8.webp?v=1782134540",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/98EF36B5-F36A-4BF3-9DEF-E7E51A26B91E.webp?v=1782134540"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/armani-exchange-hoodie-mens-black-small-102638-a",
       "available": true
     },
     {
@@ -717,20 +734,20 @@
       "available": true
     },
     {
-      "id": 15955244122499,
-      "name": "Nike Hoodie - Large Navy Cotton",
+      "id": 15977973711235,
+      "name": "Nike Graphic Hoodie - Large Grey Cotton",
       "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BC1E5A45-B124-4750-8D87-BFB721B95164.webp?v=1778237749",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9B9DE56C-7CAA-4EB1-9AAB-119764F102CE.webp?v=1779263936",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BC1E5A45-B124-4750-8D87-BFB721B95164.webp?v=1778237749",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4C1ECABD-B282-4606-9BB1-9A5C699C9F89.webp?v=1778237749",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3DB0B2F-1913-4852-8E97-65956681E1B0.webp?v=1778237750"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B9DE56C-7CAA-4EB1-9AAB-119764F102CE.webp?v=1779263936",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/21A7C334-09FF-47A2-B122-FDC49B8106F0.webp?v=1779263937",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4F102D2F-1CB2-439E-A677-FE9A42834E44.webp?v=1779263937"
       ],
       "sizes": [
         "Large"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-navy-large-93064-a",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-grey-large-95213-a",
       "available": true
     },
     {
@@ -785,20 +802,20 @@
       "available": true
     },
     {
-      "id": 15950865826179,
-      "name": "90S Tommy Hilfiger Spellout Hoodie - Large Navy Cotton",
+      "id": 15955252838787,
+      "name": "Motorcycle Harley Davidson Graphic Hoodie - Medium Black Cotton",
       "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4301EF8F-A38A-45A2-BADC-BDAA72801E2F.webp?v=1778142546",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B0510644-1F5F-41FA-84A0-E088CCBC8D74.webp?v=1778237851",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4301EF8F-A38A-45A2-BADC-BDAA72801E2F.webp?v=1778142546",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5596B331-222E-49D7-BBA0-8DDA3915BB13.webp?v=1778142545",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E664537E-9DBD-4858-AEC9-1E03BADF7825.webp?v=1778142546"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0510644-1F5F-41FA-84A0-E088CCBC8D74.webp?v=1778237851",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/088FB9D5-3C2F-46AC-93C2-175B01DBD09C.webp?v=1778237851",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E9CAE70F-8B82-469E-98AF-CE083F0FCDE1.webp?v=1778237852"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/90s-tommy-hilfiger-hoodie-mens-navy-large-91036-a",
+      "url": "https://www.thrifted.com/products/motorcycle-harley-davidson-hoodie-mens-black-medium-93219-a",
       "available": true
     },
     {
@@ -955,20 +972,20 @@
       "available": true
     },
     {
-      "id": 15950740521347,
-      "name": "Rhinelander Hodag Country Festival Signature Camo Hoodie - Small Camo Cotton",
+      "id": 15955244122499,
+      "name": "Nike Hoodie - Large Navy Cotton",
       "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A75FE17C-F8BC-45B1-B955-C6681EBD3896.webp?v=1778140926",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BC1E5A45-B124-4750-8D87-BFB721B95164.webp?v=1778237749",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A75FE17C-F8BC-45B1-B955-C6681EBD3896.webp?v=1778140926",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4AF1F85A-87C5-4CEC-99D4-3B579EAD10AA.webp?v=1778140926",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C05691C-950A-43DD-83A7-CD1A74463910.webp?v=1778140926"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BC1E5A45-B124-4750-8D87-BFB721B95164.webp?v=1778237749",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4C1ECABD-B282-4606-9BB1-9A5C699C9F89.webp?v=1778237749",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3DB0B2F-1913-4852-8E97-65956681E1B0.webp?v=1778237750"
       ],
       "sizes": [
-        "Small"
+        "Large"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/rhinelander-hodag-country-festival-signature-hoodie-mens-camo-small-90529-a",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-navy-large-93064-a",
       "available": true
     },
     {
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/90s-willamette-softball-nike-hoodie-mens-red-large-86874-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15916193120643,
-      "name": "Harley Davidson Graphic Hoodie - Large Grey Cotton Blend",
-      "price": 112,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
+      "id": 15921453236611,
+      "name": "90S Christmas Looney Tunes Tultex Cartoon Sweatshirt - Large Grey Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6171299B-6E3F-46BB-83C0-A02800057A92.webp?v=1777031898",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9D47F1-FFA9-45AF-9584-1CF66F85CA08.webp?v=1776868107",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/88EEBA5F-D83E-4DBA-A1E2-FD24BD61125B.webp?v=1776868107",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/35369B65-7399-4040-A814-C08705D4F7B9.webp?v=1776868108"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6171299B-6E3F-46BB-83C0-A02800057A92.webp?v=1777031898",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DAD9C05-A6DA-4511-86A0-FF35C525E616.webp?v=1777031898",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD33A0EE-03E1-44BC-918A-D0AC7C91F7C2.webp?v=1777031899"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-grey-large-89236-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-christmas-looney-tunes-tultex-sweatshirt-mens-grey-large-88561-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16034981675395,
       "name": "Mighty Ducks Nutmeg Nhl Sweatshirt - Large Grey Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a",
       "available": true
-    },
-    {
-      "id": 16034985804163,
-      "name": "Pittsburgh Steelers Lee Sport Nfl Sweatshirt - Large Black Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6D08803F-3BFD-4BB3-98BF-704E5A558F75.webp?v=1781705033",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D08803F-3BFD-4BB3-98BF-704E5A558F75.webp?v=1781705033",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/96B147C5-2789-4546-B4AE-58666D3AE436.webp?v=1781705033",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/059A5E34-459C-4ECC-A919-F3E19F8EB717.webp?v=1781705033"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/pittsburgh-steelers-lee-sport-sweatshirt-mens-black-large-102609-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15935553110403,
+      "name": "Aquascutum Graphic T-Shirt - Medium White Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4329_0431efad-ed9e-4ebf-93d8-b9c13275cf35.jpg?v=1777473042",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4329_0431efad-ed9e-4ebf-93d8-b9c13275cf35.jpg?v=1777473042",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4331_4b4d4d44-b210-4ce2-b407-64b934704ab4.jpg?v=1777473042",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4330_75d9a181-cdd3-4f3a-baad-54164a11e742.jpg?v=1777473041"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/vintage-aquascutum-t-shirt-mens-white-medium-398224",
+      "available": true
+    },
     {
       "id": 15919737995651,
       "name": "Oakland Athletics Bulletin Athletic MLB T-Shirt - Large White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/dale-jarrett-competitors-view-t-shirt-mens-black-large-99171-a",
-      "available": true
-    },
-    {
-      "id": 15950901608835,
-      "name": "90S Made In USA Tommy Jeans Striped Long Sleeve T-Shirt - Medium Blue Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/142A63BB-7229-4AD6-8980-785B3985189E.webp?v=1778143149",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA88F31C-0553-4D55-AEA3-C9DA13623243.webp?v=1778143151"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-tommy-jeans-long-sleeve-t-shirt-mens-blue-medium-91248-a",
       "available": true
     }
   ]
