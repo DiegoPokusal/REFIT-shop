@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16035075031427,
+      "name": "Polo By Ralph Lauren Harrington Jacket - Large Red Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16FEC605-D99B-4DA0-9BF4-4BD36D4C75A2.webp?v=1781706673",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/16FEC605-D99B-4DA0-9BF4-4BD36D4C75A2.webp?v=1781706673",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/17935BB8-2AB6-4969-B9B0-5CE42B1441C9.webp?v=1781706672",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BBD9FBC3-B34A-45BF-9683-EBEEE3186791.webp?v=1781706673"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-red-large-104158-a",
+      "available": true
+    },
+    {
       "id": 15929996018051,
       "name": "Christian Dior Striped Blazer - Medium Grey Wool",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-green-large-104163-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16035097280899,
-      "name": "Denim Polo By Ralph Lauren Harrington Jacket - Large Blue Cotton",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5B3E5C09-E05A-4E17-983E-0305434DE52F.webp?v=1781707084",
+      "id": 16008825995651,
+      "name": "Polo Jeans Ralph Lauren Spellout Hoodie - Large Grey Cotton Blend",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0800714D-7267-41B0-8431-967A64C3C79E.webp?v=1780582406",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5B3E5C09-E05A-4E17-983E-0305434DE52F.webp?v=1781707084",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E34A76F4-CF52-4B94-903B-DCE7C87D5DB1.webp?v=1781707084",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/954E0047-6BA5-406A-A5A9-2209F97088B4.webp?v=1781707084"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0800714D-7267-41B0-8431-967A64C3C79E.webp?v=1780582406",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/691EF9A6-3AB9-42C1-B8F8-6F5DD69E8D29.webp?v=1780582406",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4394E3D5-C45A-469D-8F43-AF4883516CD9.webp?v=1780582406"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/denim-polo-by-ralph-lauren-harrington-jacket-mens-blue-large-104166-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-hoodie-mens-grey-large-99762-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15964917432707,
       "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-large-100494-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964912419203,
-      "name": "Deleeuw Lumber Carhartt Hoodie - Medium Navy Cotton",
+      "id": 16008839528835,
+      "name": "Polo By Ralph Lauren Rl Crest Sweatshirt - Medium Navy Cotton",
       "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDAB1E8E-DD8F-4032-A0E9-8E56C9E222E0.webp?v=1778685745",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDAB1E8E-DD8F-4032-A0E9-8E56C9E222E0.webp?v=1778685745",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F13A0CF-C345-43DF-AEAE-FBBD8DF67FF4.webp?v=1778685746",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AD94DD14-CCCC-48CF-A37E-771F22CF4B44.webp?v=1778685746"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/49772313-5F38-45BC-9B1F-71FDAFC420BF.webp?v=1780582738",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B898351-00FF-435E-B920-56FD9613888F.webp?v=1780582738"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/deleeuw-lumber-carhartt-hoodie-mens-navy-medium-98316-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-navy-medium-99775-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16006462013827,
       "name": "Factory Tour Harley Davidson Graphic Sweatshirt - Small Brown Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-just-cavalli-sweatshirt-mens-black-medium-397189",
       "available": true
-    },
-    {
-      "id": 16038085689731,
-      "name": "Chaps Ralph Lauren Spellout Sweatshirt - Large Black Cotton Blend",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3404CD81-CDF4-4A20-9AE7-EF048FB61A44.webp?v=1781795139",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3404CD81-CDF4-4A20-9AE7-EF048FB61A44.webp?v=1781795139",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7B5C7BF-99C9-49C6-9A3B-3CC9C4B06C64.webp?v=1781795139",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D8848FBA-810F-4A44-BC0B-431B951CAB35.webp?v=1781795139"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/chaps-ralph-lauren-sweatshirt-mens-black-large-102750-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16038075662723,
+      "name": "Hooked On Dunks Nike Graphic T-Shirt - Small Black Cotton",
+      "price": 96,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/473AF7DD-43AE-4E49-BFDE-DDF4E9BE2237.webp?v=1781795063",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/473AF7DD-43AE-4E49-BFDE-DDF4E9BE2237.webp?v=1781795063",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63C44453-1D5B-44CC-ACB7-37808440D358.webp?v=1781795063",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D19330F9-4B0D-4CC9-AE50-2F5EE5F5D6DA.webp?v=1781795064"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/hooked-on-dunks-nike-t-shirt-mens-black-small-102892-a",
+      "available": true
+    },
     {
       "id": 15876907925891,
       "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-large-97082-a",
-      "available": true
-    },
-    {
-      "id": 15950891680131,
-      "name": "Polo Bear Ralph Lauren Long Sleeve T-Shirt - Medium White Cotton",
-      "price": 109,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B4351744-90B2-4FF7-9893-76F4E98BC574.webp?v=1778142993",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B4351744-90B2-4FF7-9893-76F4E98BC574.webp?v=1778142993",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/82FB206C-8A7C-42EA-837C-7759E05C66FB.webp?v=1778142993",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3F4E2701-A68D-4756-8F48-98AB40A407D2.webp?v=1778142993"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-white-medium-91159-a",
       "available": true
     }
   ]
