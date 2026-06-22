@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15929995428227,
+      "name": "Giorgio Armani Blazer - Large Khaki Wool",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26100_d7f6c250-0426-4ba0-b72b-cc3f39d5984b.jpg?v=1777363564",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26100_d7f6c250-0426-4ba0-b72b-cc3f39d5984b.jpg?v=1777363564",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26101_95e760a0-25d5-4180-b954-d4413294d0d8.jpg?v=1777363564",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_6e43ad2a-66bd-4b22-8dfb-de6b14f7067c.webp?v=1777363564"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-giorgio-armani-blazer-mens-khaki-large-397963",
+      "available": true
+    },
+    {
       "id": 15929939526019,
       "name": "Conbipel Suede Jacket - Large Navy Leather",
       "price": 145,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-harrington-jacket-mens-red-large-104158-a",
       "available": true
-    },
-    {
-      "id": 15929996018051,
-      "name": "Christian Dior Striped Blazer - Medium Grey Wool",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26108_afe48360-9524-4b69-b7a4-ef2046091436.jpg?v=1777363573",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_shorts_blazers_23.04.26109_5295395c-9a83-4630-93f9-5e87f940d3eb.jpg?v=1777363574",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_492caa45-d422-45fc-9d57-503b0d19e6b5.webp?v=1777363573"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-grey-medium-397967",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964917236099,
+      "name": "Carhartt Hoodie - Large Brown Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8A46E60D-EF29-4288-8996-A0D64AFE7519.webp?v=1778685855",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8A46E60D-EF29-4288-8996-A0D64AFE7519.webp?v=1778685855",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE47B39B-D352-4B35-AC34-71EBF08456FC.webp?v=1778685856",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FCE4D8A7-3473-43DA-A897-90F0DF9338DC.webp?v=1778685856"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-brown-large-98319-a",
+      "available": true
+    },
     {
       "id": 15964916941187,
       "name": "Carhartt Hoodie - Small Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-hoodie-mens-grey-large-99762-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15964917432707,
-      "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
+      "id": 16008837792131,
+      "name": "Polo Jeans Company Ralph Lauren Sweatshirt - Medium Grey Cotton Blend",
       "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/78908112-349C-470A-A439-F2F7D2562372.webp?v=1780582680",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9A1548C-3E4D-4419-9E6C-E10F386B80F4.webp?v=1778685860",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/978547FD-D602-4108-9BB0-A0F06739723E.webp?v=1778685861"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/78908112-349C-470A-A439-F2F7D2562372.webp?v=1780582680",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2EA1BFDE-F7F8-4365-90C9-6E22993A0328.webp?v=1780582680",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/18F42B77-4F72-41A7-ABD9-9D6C56E406B6.webp?v=1780582681"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-jeans-company-ralph-lauren-sweatshirt-mens-grey-medium-99783-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16008135639427,
       "name": "Made In USA Looney Tunes Kentucky Taz Attack Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-navy-medium-99775-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16006462013827,
-      "name": "Factory Tour Harley Davidson Graphic Sweatshirt - Small Brown Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A28293B-D8EF-487C-92AF-989F4E135A5A.webp?v=1780478704",
+      "id": 16035081027971,
+      "name": "Waffle Knit Ecko Unltd Long Sleeve T-Shirt - Small Red Cotton",
+      "price": 100,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9DB7D928-AE53-4872-B0B2-41C5001EDDE0.webp?v=1781706804",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A28293B-D8EF-487C-92AF-989F4E135A5A.webp?v=1780478704",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AADFC486-8A7E-466F-8742-F1B6559DC149.webp?v=1780478704",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/490A3AC5-157C-475D-AF8C-4F8D1D3B9DBB.webp?v=1780478705"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DB7D928-AE53-4872-B0B2-41C5001EDDE0.webp?v=1781706804",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D673D5C-9754-4E33-8035-DBD39DA15F37.webp?v=1781706804",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DACB268-3668-47E4-991B-8CFC2231B9B9.webp?v=1781706804"
       ],
       "sizes": [
         "Small"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/factory-tour-harley-davidson-sweatshirt-mens-brown-small-98543-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/waffle-knit-ecko-unltd-long-sleeve-t-shirt-mens-red-small-101532-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16008142782851,
       "name": "Dale Earnhardt Chase Authentics Nascar T-Shirt - Medium Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/hooked-on-dunks-nike-t-shirt-mens-black-small-102892-a",
-      "available": true
-    },
-    {
-      "id": 15876907925891,
-      "name": "Toronto Blue Jays Fruit Of The Loom Graphic Long Sleeve T-Shirt - Medium Black Cotton Blend",
-      "price": 97,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7EFD8A11-C0E0-496F-9A82-51D930C87231.webp?v=1775143308",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5C6DA7F-77F2-49D7-B21E-051C459B09DC.webp?v=1775143308",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DBE3403-82AA-4259-8A38-30EA345E096B.webp?v=1775143308"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/toronto-blue-jays-fruit-of-the-loom-long-sleeve-t-shirt-mens-black-medium-82739-a",
       "available": true
     }
   ]
