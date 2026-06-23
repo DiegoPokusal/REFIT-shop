@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16014347764099,
+      "name": "Diesel Bomber Jacket - Medium Blue Cotton",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5284B801-2219-41B5-B461-2D377E4BE65D.webp?v=1780905977",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5284B801-2219-41B5-B461-2D377E4BE65D.webp?v=1780905977",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2734B296-65EC-48CA-BE26-E898C6A34D9D.webp?v=1780905977",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/602B6A13-0E8F-481E-AEDE-F95000C914B1.webp?v=1780905978"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/diesel-bomber-jacket-mens-blue-medium-100456-a",
+      "available": true
+    },
+    {
       "id": 16008840577411,
       "name": "The North Face Waterproof Jacket - Medium Green Nylon",
       "price": 145,
@@ -35,23 +52,6 @@
       "available": true
     },
     {
-      "id": 16008828060035,
-      "name": "The North Face Waterproof Ski Jacket - Large Red Gore-Tex",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FEB716DD-5FA8-46C0-BCC3-85B0A7F2F445.webp?v=1780582466",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BF60CDD-9D46-468B-9608-B1FEB2D52F33.webp?v=1780582466"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-ski-jacket-mens-red-large-100093-a",
-      "available": true
-    },
-    {
       "id": 15929997787523,
       "name": "Christian Dior Blazer - Medium Navy Wool",
       "price": 145,
@@ -66,6 +66,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397982",
+      "available": true
+    },
+    {
+      "id": 16008828060035,
+      "name": "The North Face Waterproof Ski Jacket - Large Red Gore-Tex",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A376605-824F-4AE1-9197-7BDC6C94BF5A.webp?v=1780582466",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FEB716DD-5FA8-46C0-BCC3-85B0A7F2F445.webp?v=1780582466",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BF60CDD-9D46-468B-9608-B1FEB2D52F33.webp?v=1780582466"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-ski-jacket-mens-red-large-100093-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-christian-dior-blazer-mens-navy-medium-397981",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16015481766275,
-      "name": "Walls Camo Jacket - Medium Camo Polyester",
-      "price": 145,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E62D31A3-3EF6-4563-9D25-27B747792D42.webp?v=1780931782",
+      "id": 15950876868995,
+      "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
+      "price": 123,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E62D31A3-3EF6-4563-9D25-27B747792D42.webp?v=1780931782",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/755145B3-4DAB-47D0-B33F-EE07CC8D11CE.webp?v=1780931782",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4FC419F9-04EA-4E91-80D4-743366ACB033.webp?v=1780931782"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E74E3BD0-5908-4F61-B62A-7B7D73F2100E.webp?v=1778142668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D8E2D9-01FA-4A75-A11D-A99CB54F8262.webp?v=1778142668"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/walls-jacket-mens-camo-medium-101059-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/faded-avirex-hoodie-mens-grey-medium-91136-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15894679781763,
       "name": "Waukon Harley Davidson Graphic Hoodie - Medium Grey Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/tennessee-adidas-hoodie-mens-orange-large-101152-a",
       "available": true
-    },
-    {
-      "id": 15894679814531,
-      "name": "Harley Davidson Graphic Hoodie - Large Black Cotton",
-      "price": 114,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/835E3FCF-FFBE-47FE-9D18-18368DD3F8A3.webp?v=1776069946",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/835E3FCF-FFBE-47FE-9D18-18368DD3F8A3.webp?v=1776069946",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E5331B1-85D7-4A64-90BF-9765E85348D9.webp?v=1776069946",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FED15612-ED4B-411B-BD57-966E46E80AA3.webp?v=1776069947"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-black-large-85691-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15916274188675,
+      "name": "Made In USA 90S Nike Sweatshirt - Medium Grey Cotton",
+      "price": 113,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/361AACA3-ADB5-4C9B-8CC3-2DF9E0534E48.webp?v=1776869468",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EAEC8BBD-1312-4BB1-A777-EB1F3FA6C1DE.webp?v=1776869468"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a",
+      "available": true
+    },
     {
       "id": 15921452122499,
       "name": "90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-small-99300-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16006460965251,
-      "name": "Harley Davidson Graphic Sweatshirt - Medium Black Cotton",
-      "price": 123,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+      "id": 16010028745091,
+      "name": "Busy Works A Bathing Ape Graphic T-Shirt - Medium White Cotton",
+      "price": 116,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/84BF314B-5808-4F48-94B2-DEC8E88EA4F6.webp?v=1780661486",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E47E824E-3CA0-4BFD-B35D-25D4D016FF72.webp?v=1780478668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/38492C0D-C9B9-4E43-96CC-B8D100C55A4B.webp?v=1780478669"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/84BF314B-5808-4F48-94B2-DEC8E88EA4F6.webp?v=1780661486",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3480242C-7820-4653-B309-3441B6F4D145.webp?v=1780661486",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2901D60A-1CEF-4492-82C5-E9ACEC7C2E20.webp?v=1780661486"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-98545-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/busy-works-a-bathing-ape-t-shirt-mens-white-medium-100791-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16010027860355,
       "name": "Stussy Spellout T-Shirt - Small Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/guess-t-shirt-mens-cream-medium-102455-a",
-      "available": true
-    },
-    {
-      "id": 16010029760899,
-      "name": "Stussy Spellout T-Shirt - Large Black Cotton",
-      "price": 116,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDAF6EF8-D811-4202-BFA6-DADD11A66B56.webp?v=1780661528",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDAF6EF8-D811-4202-BFA6-DADD11A66B56.webp?v=1780661528",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F878A350-7E9B-4348-8574-DBB615DB4456.webp?v=1780661528",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/82635C10-5701-457F-9C09-C6C6431DDF4E.webp?v=1780661529"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-large-100782-a",
       "available": true
     }
   ]
