@@ -259,7 +259,7 @@ const html = `<!DOCTYPE html>
   <p class="hero-label">Vintage · Streetwear · Resell</p>
   <h1 class="hero-title">RE<span class="outline">FIT</span></h1>
   <div class="hero-sub">
-    <p class="hero-desc">Unikátne vintage kúsky vybrané ručne. Každý kus je originál — keď je preč, je preč.</p>
+    <p class="hero-desc">Unikátne vintage kúsky vybrané ručne. Každý kus je originál — keď je preč, je preč.<br><br><span style="font-size:0.6rem;color:#555;letter-spacing:0.1em;">Všetky kúsky sú použité vintage oblečenie. Môžu obsahovať drobné znaky nosenia zodpovedajúce ich veku a charakteru.</span></p>
     <a href="#shop" class="hero-cta">Prezrieť kolekciu</a>
   </div>
   <div class="hero-ticker">
@@ -460,6 +460,7 @@ function openDetail(id){
       <p class="detail-category">\${getCategoryName(p.category)}</p>
       <h2 class="detail-name">\${p.name}</h2>
       <p class="detail-price">\${p.price} €</p>
+<p style="font-size:0.6rem;color:#555;letter-spacing:0.1em;margin-bottom:16px;"> vintage kus — môže obsahovať drobné znaky nosenia.</p>
       <div class="detail-sizes">\${(p.sizes||[]).map(s=>\`<span class="detail-size-tag">\${s}</span>\`).join('')}</div>
       <button class="detail-add-btn" onclick="addToCart(\${p.id});closeDetail()">PRIDAŤ DO KOŠÍKA</button>
     </div>
