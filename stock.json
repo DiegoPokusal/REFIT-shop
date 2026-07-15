@@ -2438,6 +2438,23 @@
       "available": true
     },
     {
+      "id": 15968026329475,
+      "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F44D80B8-8888-4589-9708-A8DED6C99E05.webp?v=1778830810",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F77DEDAB-389D-4407-AD95-C66798ECA8CB.webp?v=1778830811"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
+      "available": true
+    },
+    {
       "id": 16035081027971,
       "name": "Waffle Knit Ecko Unltd Long Sleeve T-Shirt - Small Red Cotton",
       "price": 84,
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/santa-graphic-supreme-t-shirt-mens-white-medium-100812-a",
-      "available": true
-    },
-    {
-      "id": 16008140849539,
-      "name": "Team Force Anvil Graphic T-Shirt - Medium White Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/05319E22-3E3E-4F48-B707-D49488B70409.webp?v=1780561125",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/80CEDFCE-53F9-4CCC-8569-B16DA3D30EB2.webp?v=1780561126"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/team-force-anvil-t-shirt-mens-white-medium-99093-a",
       "available": true
     }
   ]
