@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16046383071619,
+      "name": "Tommy Hilfiger Jacket - Medium Brown Polyester",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CF91E09A-A686-4611-8CF5-9EB2FFF3E8E2.webp?v=1782203287",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CF91E09A-A686-4611-8CF5-9EB2FFF3E8E2.webp?v=1782203287",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/29BBC5AD-A8F6-4E04-A928-E8A559339E5F.webp?v=1782203287",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7AECE967-C50A-4052-AB5C-1A1002024733.webp?v=1782203289"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/tommy-hilfiger-jacket-mens-brown-medium-103619-a",
+      "available": true
+    },
+    {
       "id": 16046382121347,
       "name": "Super Dux Carhartt Jacket - Large Black Polyester",
       "price": 130,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-jacket-mens-beige-large-103891-a",
       "available": true
-    },
-    {
-      "id": 16051380584835,
-      "name": "Tommy Hilfiger Puffer - Small Black Polyester",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CF2F4768-DFA1-4B69-8675-0EBC2A776CE0.webp?v=1782399381",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CF2F4768-DFA1-4B69-8675-0EBC2A776CE0.webp?v=1782399381",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A63CF89F-29CF-4C60-A8D3-2CA8BD00B7F0.webp?v=1782399381",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0617C42D-4C65-44F1-B466-7DE35C23AD93.webp?v=1782399382"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-puffer-mens-black-small-103896-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15950845378947,
+      "name": "Polo By Ralph Lauren Colour Block Spellout Hoodie - Medium Green Cotton",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED3213CB-5814-458E-B05F-582584BD8D1A.webp?v=1778142311",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CA2A1E3-71EE-43D9-A8D5-1FD11D35A7F4.webp?v=1778142312"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-green-medium-90935-a",
+      "available": true
+    },
     {
       "id": 15919765520771,
       "name": "USc Trojans Nike College Hoodie - Large Red Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/surfing-quiksilver-hoodie-mens-blue-medium-100562-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15950876868995,
-      "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
+      "id": 15982016496003,
+      "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E74E3BD0-5908-4F61-B62A-7B7D73F2100E.webp?v=1778142668",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D8E2D9-01FA-4A75-A11D-A99CB54F8262.webp?v=1778142668"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AF7170DC-4C33-46BB-87E8-42183A65BAED.webp?v=1779441066",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C149BB02-A924-44AB-9A81-CF17BC96D0F2.webp?v=1779441066"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/faded-avirex-hoodie-mens-grey-medium-91136-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15964912222595,
       "name": "Original Fit Carhartt Sweatshirt - Medium Grey Cotton",
@@ -1452,7 +1469,7 @@
     {
       "id": 15950883783043,
       "name": "Reebok Spellout Sweatshirt - Large Green Cotton",
-      "price": 89,
+      "price": 88,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/green-bay-packers-logo-athletics-sweatshirt-mens-green-large-102569-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16008135639427,
-      "name": "Made In USA Looney Tunes Kentucky Taz Attack Sweatshirt - Large Blue Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/91357DD4-1A13-496D-9288-4382AE5935EC.webp?v=1780560993",
+      "id": 16008145437059,
+      "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/91357DD4-1A13-496D-9288-4382AE5935EC.webp?v=1780560993",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5522DA18-0450-4A8D-89D3-20597D1973F5.webp?v=1780560993",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/74662E1C-81A1-48C6-9400-EB07F9C5CBDC.webp?v=1780560993"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8E0A31AF-F750-4810-A7E4-BB68241511D3.webp?v=1780561379",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/58DB06C6-B38D-4BA2-8527-313CE1B744C6.webp?v=1780561380"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-looney-tunes-sweatshirt-mens-blue-large-99025-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/dale-jarrett-competitors-view-t-shirt-mens-black-large-99171-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16010027958659,
       "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/country-america-96-fruit-of-the-loom-t-shirt-mens-black-large-101999-a",
-      "available": true
-    },
-    {
-      "id": 16024419959171,
-      "name": "Everything Louder Than Everything Else World Tour 93, 94, 95 Meat Loaf Single Stitch T-Shirt - Small Black Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/68ECC2C8-6650-49D0-A94F-DBD59C9B222F.webp?v=1781275992",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/24BC000A-97CE-42FE-8502-8104ED57E4AD.webp?v=1781275992"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/everything-louder-than-everything-else-world-tour-93-94-95-meat-loaf-t-shirt-mens-black-small-101998-a",
       "available": true
     }
   ]
