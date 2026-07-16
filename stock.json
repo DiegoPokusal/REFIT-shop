@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16051380584835,
+      "name": "Tommy Hilfiger Puffer - Small Black Polyester",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CF2F4768-DFA1-4B69-8675-0EBC2A776CE0.webp?v=1782399381",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CF2F4768-DFA1-4B69-8675-0EBC2A776CE0.webp?v=1782399381",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A63CF89F-29CF-4C60-A8D3-2CA8BD00B7F0.webp?v=1782399381",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0617C42D-4C65-44F1-B466-7DE35C23AD93.webp?v=1782399382"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/tommy-hilfiger-puffer-mens-black-small-103896-a",
+      "available": true
+    },
+    {
       "id": 16046383071619,
       "name": "Tommy Hilfiger Jacket - Medium Brown Polyester",
       "price": 130,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-multi-pocket-gap-puffer-mens-green-small-103895-a",
       "available": true
-    },
-    {
-      "id": 16051380912515,
-      "name": "Polo By Ralph Lauren Barn Coat Jacket - Large Beige Cotton",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6320806F-5FA1-4492-9549-3085FD9686A5.webp?v=1782399398",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6320806F-5FA1-4492-9549-3085FD9686A5.webp?v=1782399398",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4F7EB522-5958-480D-BA9B-B99B3B984D70.webp?v=1782399397",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A3B1C63-8FD4-4B9F-8082-5D8BD128165D.webp?v=1782399398"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-jacket-mens-beige-large-103891-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15950876868995,
+      "name": "Faded Avirex Hoodie - Medium Grey Cotton Blend",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDED645B-5221-4123-88A7-F8CBE8B47DF9.webp?v=1778142667",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E74E3BD0-5908-4F61-B62A-7B7D73F2100E.webp?v=1778142668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D8E2D9-01FA-4A75-A11D-A99CB54F8262.webp?v=1778142668"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/faded-avirex-hoodie-mens-grey-medium-91136-a",
+      "available": true
+    },
     {
       "id": 15950845378947,
       "name": "Polo By Ralph Lauren Colour Block Spellout Hoodie - Medium Green Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/thermal-lined-carhartt-hoodie-mens-navy-medium-107305-a",
       "available": true
-    },
-    {
-      "id": 16014367490435,
-      "name": "Surfing Quiksilver Graphic Hoodie - Medium Blue Cotton Blend",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/09D55737-D043-481B-A8DB-F1B7FFD627C3.webp?v=1780906276",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/09D55737-D043-481B-A8DB-F1B7FFD627C3.webp?v=1780906276",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B685EC1-F310-4F75-896A-6413BE241B14.webp?v=1780906276",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE6BDF3B-8A90-43D2-ABB2-09F689D087CA.webp?v=1780906277"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/surfing-quiksilver-hoodie-mens-blue-medium-100562-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16008135639427,
+      "name": "Made In USA Looney Tunes Kentucky Taz Attack Sweatshirt - Large Blue Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/91357DD4-1A13-496D-9288-4382AE5935EC.webp?v=1780560993",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/91357DD4-1A13-496D-9288-4382AE5935EC.webp?v=1780560993",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5522DA18-0450-4A8D-89D3-20597D1973F5.webp?v=1780560993",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/74662E1C-81A1-48C6-9400-EB07F9C5CBDC.webp?v=1780560993"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-looney-tunes-sweatshirt-mens-blue-large-99025-a",
+      "available": true
+    },
     {
       "id": 15982016496003,
       "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/toronto-raptors-logo-7-sweatshirt-mens-black-large-102588-a",
       "available": true
-    },
-    {
-      "id": 16034979905923,
-      "name": "Green Bay Packers Logo Athletics Nfl Sweatshirt - Large Green Cotton",
-      "price": 92,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DB98595A-DC14-4A58-9146-C9ECEB14C213.webp?v=1781704935",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DB98595A-DC14-4A58-9146-C9ECEB14C213.webp?v=1781704935",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/79A7C813-90C7-4136-8138-4C96D1005F30.webp?v=1781704936",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D8CBEC21-447D-4777-85F1-F4C0B243349C.webp?v=1781704935"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/green-bay-packers-logo-athletics-sweatshirt-mens-green-large-102569-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16024419959171,
+      "name": "Everything Louder Than Everything Else World Tour 93, 94, 95 Meat Loaf Single Stitch T-Shirt - Small Black Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/68ECC2C8-6650-49D0-A94F-DBD59C9B222F.webp?v=1781275992",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/24BC000A-97CE-42FE-8502-8104ED57E4AD.webp?v=1781275992"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/everything-louder-than-everything-else-world-tour-93-94-95-meat-loaf-t-shirt-mens-black-small-101998-a",
+      "available": true
+    },
     {
       "id": 16008145437059,
       "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/macho-man-nwo-oneita-t-shirt-mens-black-large-101919-a",
-      "available": true
-    },
-    {
-      "id": 16024433918339,
-      "name": "Country America '96 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2E0AF0C-52CD-4B63-911A-2D9D82715C23.webp?v=1781276472",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BC13883E-BA62-4088-8D98-FB646FFD22A9.webp?v=1781276472",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6CA2ADE1-BB06-426F-B4F5-806CA9FE70FF.webp?v=1781276472"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/country-america-96-fruit-of-the-loom-t-shirt-mens-black-large-101999-a",
       "available": true
     }
   ]
