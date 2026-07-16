@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16029343318403,
+      "name": "USA Chaps Ralph Lauren Spellout Windbreaker - Large Navy Nylon",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FCD9D75B-BFA3-4F18-889C-A9B09C26B194.webp?v=1781515374",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FCD9D75B-BFA3-4F18-889C-A9B09C26B194.webp?v=1781515374",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9321CD48-2DE6-4295-9B89-EFECFAF3BB03.webp?v=1781515374",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BD9ACCAE-8620-4E47-BAED-4D5A2C80D931.webp?v=1781515375"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/usa-chaps-ralph-lauren-windbreaker-mens-navy-large-101451-a",
+      "available": true
+    },
+    {
       "id": 16014337180035,
       "name": "Patagonia Puffer - Large Grey Polyester",
       "price": 130,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/dtm-world-champion-porsche-track-jacket-mens-black-medium-102395-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16038047416707,
-      "name": "Marlboro Reversible Spellout Bomber Jacket - Medium Black Cotton",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7B83AF32-B5F1-4DCA-BB8B-DBE754F4889A.webp?v=1781794742",
+      "id": 16010030023043,
+      "name": "Stussy Hoodie - Medium Blue Cotton",
+      "price": 101,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D9BC4292-174A-4461-BB16-ECF0FA03FD05.webp?v=1780661541",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B83AF32-B5F1-4DCA-BB8B-DBE754F4889A.webp?v=1781794742",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D91F5E9-09C8-4413-8F81-22D13D4DB72A.webp?v=1781794742",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B22869BB-2C47-4302-993A-26DC60408B6F.webp?v=1781794742"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D9BC4292-174A-4461-BB16-ECF0FA03FD05.webp?v=1780661541",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B24D102B-82E0-4E26-A1FC-BDC00CCD5551.webp?v=1780661541",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/24BA6FC6-78D4-48B3-845B-ABADE6D90137.webp?v=1780661542"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/marlboro-bomber-jacket-mens-black-medium-102474-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/stussy-hoodie-mens-blue-medium-100787-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16038140805507,
       "name": "Realtree Hoodie - Large Camo Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/blackhawks-starter-hoodie-mens-black-medium-110257-a",
       "available": true
-    },
-    {
-      "id": 15935543181699,
-      "name": "Moschino Spellout Hoodie - Small Black Cotton Blend",
-      "price": 106,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4180_d47bd385-9a3a-4995-bb4b-3500dcfc53e9.jpg?v=1777472951",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4180_d47bd385-9a3a-4995-bb4b-3500dcfc53e9.jpg?v=1777472951",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/daisy_ele_designer_27.4181_bec6adff-67c4-4930-b0b1-eb193d0a81c9.jpg?v=1777472951",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_7e0c76ed-b8c3-46fe-9694-e466f7c7cdad.webp?v=1777472951"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/vintage-moschino-hoodie-mens-black-small-398190",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15950883783043,
+      "name": "Reebok Spellout Sweatshirt - Large Green Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3E70876-3AA3-434D-BA54-CCD2AC49FC47.webp?v=1778142799",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/77AFE057-2B05-478B-BF59-8EA17C5C4636.webp?v=1778142798",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EF27F0C4-284E-456F-8D8A-E70AB0233870.webp?v=1778142799"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a",
+      "available": true
+    },
     {
       "id": 15935469355395,
       "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a",
       "available": true
-    },
-    {
-      "id": 15910938247555,
-      "name": "1977 Essentials Sweatshirt - Large Grey Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F2B80E4E-922D-4F3D-A2AD-6EB66014A2D2.webp?v=1776674589",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/751FA865-0F01-440F-AABD-748D5DF87176.webp?v=1776674589",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/87A837E1-C765-4C45-AAC2-51C6390FCB77.webp?v=1776674589"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/1977-essentials-sweatshirt-mens-grey-large-86464-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16038047351171,
+      "name": "Polo Bear Polo By Ralph Lauren Graphic T-Shirt - Medium Navy Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B211C171-8C56-4017-B9C0-746A8EF3C37C.webp?v=1781794739",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B211C171-8C56-4017-B9C0-746A8EF3C37C.webp?v=1781794739",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/71537A8F-EAEC-48EF-97E7-701BB0FE39AA.webp?v=1781794739",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/56048502-CC19-4AE6-B47E-11B92407D2F2.webp?v=1781794740"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/polo-bear-polo-by-ralph-lauren-t-shirt-mens-navy-medium-102473-a",
+      "available": true
+    },
     {
       "id": 16010029433219,
       "name": "Santa Graphic Supreme Christmas T-Shirt - Medium White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/bobby-labonte-chase-authentics-t-shirt-mens-white-medium-99146-a",
-      "available": true
-    },
-    {
-      "id": 16038077923715,
-      "name": "Nike College T-Shirt - Large White Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AA77BEC1-772E-4CAA-AB8F-5F2CA07B825B.webp?v=1781795082",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AA77BEC1-772E-4CAA-AB8F-5F2CA07B825B.webp?v=1781795082",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2A79ED41-6558-408A-B00E-849D383E6A44.webp?v=1781795082",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6C3A542C-E055-498D-BFA4-E732CC16F603.webp?v=1781795083"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/nike-t-shirt-mens-white-large-102893-a",
       "available": true
     }
   ]
