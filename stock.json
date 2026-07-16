@@ -18,6 +18,23 @@
       "available": true
     },
     {
+      "id": 16038128288131,
+      "name": "Dtm World Champion Porsche Graphic Track Jacket - Medium Black Cotton",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/771E15F0-053B-4EA7-AA31-01F6884ABC2C.webp?v=1781795379",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/771E15F0-053B-4EA7-AA31-01F6884ABC2C.webp?v=1781795379",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7FDEED11-5976-4928-A100-660B7B073E83.webp?v=1781795379",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/72630F3A-7AA7-48A3-8367-C0082BA73D88.webp?v=1781795380"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/dtm-world-champion-porsche-track-jacket-mens-black-medium-102395-a",
+      "available": true
+    },
+    {
       "id": 16038047416707,
       "name": "Marlboro Reversible Spellout Bomber Jacket - Medium Black Cotton",
       "price": 130,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/tommy-hilfiger-puffer-mens-red-large-103626-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16046358921603,
-      "name": "An American Legend Harley Davidson Bomber Jacket - Medium Black Cotton",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C5D66376-86BE-44FC-9A13-0EC228FD6266.webp?v=1782202704",
+      "id": 16081649893763,
+      "name": "Blackhawks Starter Nhl Hoodie - Medium Black Polyester Blend",
+      "price": 92,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/62125D7B-029E-446A-9BC0-67934270A231.webp?v=1783595402",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C5D66376-86BE-44FC-9A13-0EC228FD6266.webp?v=1782202704",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08BAAE8F-7048-47B6-A5B5-21DA81E845BD.webp?v=1782202705",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B01A012B-2CDD-4040-A96C-0CBD45D35D01.webp?v=1782202705"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/62125D7B-029E-446A-9BC0-67934270A231.webp?v=1783595402",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F3A8BD1B-C7A8-4AF3-BB4F-457E98612502.webp?v=1783595402",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0F73CF39-C71D-456A-BDB0-94F0B374CCEC.webp?v=1783595403"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/an-american-legend-harley-davidson-bomber-jacket-mens-black-medium-103247-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/blackhawks-starter-hoodie-mens-black-medium-110257-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15935543181699,
       "name": "Moschino Spellout Hoodie - Small Black Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-black-large-88136-a",
       "available": true
-    },
-    {
-      "id": 16081679843715,
-      "name": "USA Basketball Nike Graphic Hoodie - Small Navy Cotton",
-      "price": 92,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D3771CDE-4C45-4696-92C5-71FAD1D4845A.webp?v=1783595985",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3771CDE-4C45-4696-92C5-71FAD1D4845A.webp?v=1783595985",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E544B831-24F7-4AAD-9EA0-A0C35AA6BD4A.webp?v=1783595984",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1AF29D45-1DB8-443C-B125-3650060347D5.webp?v=1783595985"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/usa-basketball-nike-hoodie-mens-navy-small-108693-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15916274188675,
+      "name": "Made In USA 90S Nike Sweatshirt - Medium Grey Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/47391D9F-2A01-46CF-855B-E94B930E71CB.webp?v=1776869468",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/361AACA3-ADB5-4C9B-8CC3-2DF9E0534E48.webp?v=1776869468",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EAEC8BBD-1312-4BB1-A777-EB1F3FA6C1DE.webp?v=1776869468"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-90s-nike-sweatshirt-mens-grey-medium-87545-a",
+      "available": true
+    },
     {
       "id": 15910938247555,
       "name": "1977 Essentials Sweatshirt - Large Grey Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reverse-weave-cal-state-champion-sweatshirt-mens-navy-medium-91545-a",
       "available": true
-    },
-    {
-      "id": 15950694482307,
-      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9E2EF43-5490-4C0C-9AF5-907C948D092C.webp?v=1778140510",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08EE7634-71BD-489C-B56C-F6889C8503AF.webp?v=1778140511"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16008142258563,
+      "name": "Bobby Labonte Chase Authentics Nascar T-Shirt - Medium White Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A774FEA5-AB47-40FB-9DA7-B4BB757CDF68.webp?v=1780561197",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A774FEA5-AB47-40FB-9DA7-B4BB757CDF68.webp?v=1780561197",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6ECDFEDB-1EA3-4CBD-9207-19C8646D9C05.webp?v=1780561197",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/84483692-3240-4158-A1BE-9736D5CEC518.webp?v=1780561197"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/bobby-labonte-chase-authentics-t-shirt-mens-white-medium-99146-a",
+      "available": true
+    },
     {
       "id": 16038077923715,
       "name": "Nike College T-Shirt - Large White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/made-in-usa-adidas-t-shirt-mens-red-large-102537-a",
-      "available": true
-    },
-    {
-      "id": 16008142782851,
-      "name": "Dale Earnhardt Chase Authentics Nascar T-Shirt - Medium Black Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/36338130-AF95-4371-8828-67712D26DE2A.webp?v=1780561232",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/36338130-AF95-4371-8828-67712D26DE2A.webp?v=1780561232",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/28DED246-074D-4BCB-9153-2C6006D141EE.webp?v=1780561232",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D9A20FF-173C-4C6C-9428-59E94E9197CC.webp?v=1780561232"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/dale-earnhardt-chase-authentics-t-shirt-mens-black-medium-99185-a",
       "available": true
     }
   ]
