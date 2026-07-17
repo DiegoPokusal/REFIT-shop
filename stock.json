@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16051381502339,
+      "name": "90S Multi Pocket Gap Tactical Puffer - Small Green Nylon",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E04D839A-F8FF-45DA-B040-3C7721FA3257.webp?v=1782399410",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E04D839A-F8FF-45DA-B040-3C7721FA3257.webp?v=1782399410",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7B62160-55F9-488F-ADCD-C0E4495B0935.webp?v=1782399410",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5A5311C7-1646-4BFF-9401-F5E156862E8D.webp?v=1782399411"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/90s-multi-pocket-gap-puffer-mens-green-small-103895-a",
+      "available": true
+    },
+    {
       "id": 16051380912515,
       "name": "Polo By Ralph Lauren Barn Coat Jacket - Large Beige Cotton",
       "price": 130,
@@ -409,20 +426,20 @@
       "available": true
     },
     {
-      "id": 15950830207363,
-      "name": "80S 90S Made In USA West Wind Corduroy Graphic College Varsity Jacket - Large Orange Corduroy",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/59E0DB1F-0A53-4362-A78A-C0A3D3EC6D8F.webp?v=1778142092",
+      "id": 16005522293123,
+      "name": "Patagonia Puffer - Large Blue Polyester",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/394FC201-B946-44D1-85F0-D80A9586F91F.webp?v=1780414950",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/59E0DB1F-0A53-4362-A78A-C0A3D3EC6D8F.webp?v=1778142092",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8DF36032-072A-4BAD-A4C8-D9927CFE28BD.webp?v=1778142092",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B08E92BB-F958-4F01-BCC1-4E9416E75F32.webp?v=1778142091"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/394FC201-B946-44D1-85F0-D80A9586F91F.webp?v=1780414950",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/543EC7E6-A898-4A27-BC81-107CBDF1DCAF.webp?v=1780414950",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AEB92D54-4751-4A94-8F6B-FFEB9629B50A.webp?v=1780414949"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/80s-90s-made-in-usa-west-wind-varsity-jacket-mens-orange-large-90881-a",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-blue-large-98284-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/tommy-hilfiger-puffer-mens-brown-medium-106401-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16066383184259,
-      "name": "Nike Bomber Jacket - Medium Black Polyester",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FC2B89-2D1A-453D-A2AD-ABFC1BD7778C.webp?v=1783003658",
+      "id": 16079366783363,
+      "name": "Thermal Lined Carhartt K129 Full Zip Hoodie - Medium Navy Cotton",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/01914D7A-22CD-4E4D-96B0-6BFE69DCD201.webp?v=1783526338",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FC2B89-2D1A-453D-A2AD-ABFC1BD7778C.webp?v=1783003658",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A75CC551-1C84-4A96-83C0-3E9D7D89C105.webp?v=1783003658",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7CE333D4-37DF-41D7-BAEF-C96E840918AD.webp?v=1783003659"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/01914D7A-22CD-4E4D-96B0-6BFE69DCD201.webp?v=1783526338",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B92EDD2-59E9-482B-B2C5-1B92139DEA06.webp?v=1783526338",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2DF93ADD-28B5-442A-8823-F4C0F4D8302F.webp?v=1783526338"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/nike-bomber-jacket-mens-black-medium-105574-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/thermal-lined-carhartt-hoodie-mens-navy-medium-107305-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16014367490435,
       "name": "Surfing Quiksilver Graphic Hoodie - Medium Blue Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/thermal-lined-carhartt-hoodie-mens-grey-medium-107312-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16015499624835,
-      "name": "Nike Hoodie - Large Green Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FBFDA754-8150-4BE3-BB71-787282A2172E.webp?v=1780932128",
+      "id": 16034981478787,
+      "name": "Toronto Raptors Logo 7 Nba Sweatshirt - Large Black Cotton",
+      "price": 92,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6C5BDFB3-8523-44BE-B422-8AC08B6B19DF.webp?v=1781704962",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FBFDA754-8150-4BE3-BB71-787282A2172E.webp?v=1780932128",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0340D542-8373-4DC2-BB0A-F3B036AE8BC9.webp?v=1780932128",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1639EBC2-6358-4153-85FF-ABC881A703DD.webp?v=1780932128"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6C5BDFB3-8523-44BE-B422-8AC08B6B19DF.webp?v=1781704962",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2898A777-D323-4214-BD81-1B8C2CBF800E.webp?v=1781704962",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/355528E9-914B-4A24-848E-63D50F8DBBE1.webp?v=1781704963"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-101150-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/toronto-raptors-logo-7-sweatshirt-mens-black-large-102588-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16034979905923,
       "name": "Green Bay Packers Logo Athletics Nfl Sweatshirt - Large Green Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/polo-jeans-company-ralph-lauren-sweatshirt-mens-grey-medium-99783-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16034981675395,
-      "name": "Mighty Ducks Nutmeg Nhl Sweatshirt - Large Grey Cotton",
-      "price": 92,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FB7E56BB-6CDD-49CE-BCE2-144F7A500F3E.webp?v=1781704966",
+      "id": 16024440439171,
+      "name": "Macho Man Nwo Oneita Single Stitch T-Shirt - Large Black Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/72D326D0-0BB8-4877-B902-F9C5CFBA4026.webp?v=1781276807",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FB7E56BB-6CDD-49CE-BCE2-144F7A500F3E.webp?v=1781704966",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CF4ED7CB-6DE6-4394-81F9-8EB41EBAB046.webp?v=1781704966",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/06660044-EDB5-473C-9696-9F2865BBD6F5.webp?v=1781704966"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/72D326D0-0BB8-4877-B902-F9C5CFBA4026.webp?v=1781276807",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/62D05E92-B176-4659-A078-73AC6A798AC2.webp?v=1781276801",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1FBD16B9-1353-4B0C-A921-95AD426FF2E9.webp?v=1781276802"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/mighty-ducks-nutmeg-sweatshirt-mens-grey-large-102589-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/macho-man-nwo-oneita-t-shirt-mens-black-large-101919-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16024433918339,
       "name": "Country America '96 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/vintage-oakland-athletics-bulletin-athletic-t-shirt-mens-white-large-397600",
-      "available": true
-    },
-    {
-      "id": 16038075662723,
-      "name": "Hooked On Dunks Nike Graphic T-Shirt - Small Black Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/473AF7DD-43AE-4E49-BFDE-DDF4E9BE2237.webp?v=1781795063",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/473AF7DD-43AE-4E49-BFDE-DDF4E9BE2237.webp?v=1781795063",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/63C44453-1D5B-44CC-ACB7-37808440D358.webp?v=1781795063",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D19330F9-4B0D-4CC9-AE50-2F5EE5F5D6DA.webp?v=1781795064"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/hooked-on-dunks-nike-t-shirt-mens-black-small-102892-a",
       "available": true
     }
   ]
