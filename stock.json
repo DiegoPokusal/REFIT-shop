@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15916264423811,
+      "name": "Alpha Phi Alpha Fraternity Holloway P Diddy Varsity Jacket - Large Black Wool Blend",
+      "price": 135,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A2E5062B-4C5C-42FF-8008-4D077E1231AB.webp?v=1776869327",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A2E5062B-4C5C-42FF-8008-4D077E1231AB.webp?v=1776869327",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD0E7D89-A165-4442-81EF-AB24686233F8.webp?v=1776869327",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4AB1C5CA-B728-43EB-B2D6-806B9A592CA8.webp?v=1776869327"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/alpha-phi-alpha-fraternity-holloway-varsity-jacket-mens-black-large-87368-a",
+      "available": true
+    },
+    {
       "id": 15972718903683,
       "name": "Packers Fan Spellout Windbreaker - Large Green Nylon",
       "price": 135,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/made-in-usa-the-hard-pack-u-s-tour-swingster-varsity-jacket-mens-black-large-90883-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15960027365763,
-      "name": "Polo By Ralph Lauren Puffer - Large Blue Down And Feather",
-      "price": 135,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F141A595-FB07-4C22-BFAE-57BBF573E050.webp?v=1778487890",
+      "id": 16051387564419,
+      "name": "The Original Boardshort Co. Quiksilver Graphic Hoodie - Large Black Cotton",
+      "price": 97,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CA187FE3-2FC8-4726-8FE4-C0D40153945F.webp?v=1782399572",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F141A595-FB07-4C22-BFAE-57BBF573E050.webp?v=1778487890",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CE3F6769-43B2-414B-B20B-5BF736B55A20.webp?v=1778487890",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1815032A-8813-480E-804D-AD97649E03DB.webp?v=1778487890"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA187FE3-2FC8-4726-8FE4-C0D40153945F.webp?v=1782399572",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DC29012-61B4-4A68-8A47-D6274CE860F2.webp?v=1782399572",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A416B9F-475F-40E5-B6EF-62E81699A004.webp?v=1782399572"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-puffer-mens-blue-large-94067-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/the-original-boardshort-co-quiksilver-hoodie-mens-black-large-103920-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16066383282563,
       "name": "Made In USA Nike Center Swoosh Hoodie - Large Grey Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/cabelas-hoodie-mens-camo-large-109191-a",
       "available": true
-    },
-    {
-      "id": 16051387662723,
-      "name": "San Francisco Thrasher Graphic Hoodie - Medium Black Cotton",
-      "price": 97,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/94D68EA4-0D50-4E82-8DC3-F087A5C79038.webp?v=1782399575",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/94D68EA4-0D50-4E82-8DC3-F087A5C79038.webp?v=1782399575",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B3A7D7F-9600-4B94-8EB0-71467616283E.webp?v=1782399575",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/90962375-2929-4FAC-9326-72A335BABD5E.webp?v=1782399576"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/san-francisco-thrasher-hoodie-mens-black-medium-103921-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16081638621571,
+      "name": "Made In USA, Minnesota Vikings Pro Player Nfl Sweatshirt - Large Purple Cotton Blend",
+      "price": 92,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BF56E914-762E-4DBD-8AE3-67942B01C2AD.webp?v=1783595242",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF56E914-762E-4DBD-8AE3-67942B01C2AD.webp?v=1783595242",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CDC824E7-5933-47D5-87B1-58446F4F2C7A.webp?v=1783595241",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E70F829E-5C05-4068-B85C-29A49C3A385A.webp?v=1783595242"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-minnesota-vikings-pro-player-sweatshirt-mens-purple-large-110258-a",
+      "available": true
+    },
     {
       "id": 16049114546563,
       "name": "Ohio State Tultex College Sweatshirt - Medium Black Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15910937657731,
-      "name": "90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend",
-      "price": 94,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
+      "id": 16081677255043,
+      "name": "Mizzou Nike College Long Sleeve T-Shirt - Large Black Cotton",
+      "price": 84,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FFA9C6A6-A31E-4B19-95DE-5FB3F4E30FFC.webp?v=1783595922",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19BE483B-E1E1-464C-8E0E-1038472BF887.webp?v=1776674557",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD22E655-93F8-4BF8-B0B4-03F66FB000BC.webp?v=1776674558"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FFA9C6A6-A31E-4B19-95DE-5FB3F4E30FFC.webp?v=1783595922",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/83758532-BD9E-4224-A932-EBD0AF138A39.webp?v=1783595922",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CAB3C5A4-3F7F-4895-99A3-BC04417A89C6.webp?v=1783595922"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/mizzou-nike-long-sleeve-t-shirt-mens-black-large-108666-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16038275842435,
       "name": "Coors Light Branding Molson Graphic Long Sleeve T-Shirt - Medium White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/macho-man-nwo-oneita-t-shirt-mens-black-large-101919-a",
-      "available": true
-    },
-    {
-      "id": 15950901608835,
-      "name": "90S Made In USA Tommy Jeans Striped Long Sleeve T-Shirt - Medium Blue Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E59510B5-76F6-4FF1-88DD-FEA162B6F1D9.webp?v=1778143149",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/142A63BB-7229-4AD6-8980-785B3985189E.webp?v=1778143149",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA88F31C-0553-4D55-AEA3-C9DA13623243.webp?v=1778143151"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-tommy-jeans-long-sleeve-t-shirt-mens-blue-medium-91248-a",
       "available": true
     }
   ]
