@@ -35,6 +35,23 @@
       "available": true
     },
     {
+      "id": 16082329993603,
+      "name": "Polo By Ralph Lauren Ma1 Bomber Jacket - Large Navy Nylon",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B4F1ADC1-32D1-4111-ACEE-E933AB5D8C24.webp?v=1783610118",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B4F1ADC1-32D1-4111-ACEE-E933AB5D8C24.webp?v=1783610118",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CAD75648-31B9-45B2-8AAE-0B811E907524.webp?v=1783610118",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8D966C57-2E17-444E-9E4E-A1F51A7EFBB3.webp?v=1783610119"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-bomber-jacket-mens-navy-large-109621-a",
+      "available": true
+    },
+    {
       "id": 16073348972931,
       "name": "Helly Hansen Puffer - Medium Black Polyester",
       "price": 130,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-bomber-jacket-mens-black-small-109620-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15874281668995,
-      "name": "700 Fill The North Face Puffer - Large Black Nylon",
-      "price": 135,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0BE859DF-97C7-421A-9445-D9E1CCB0F5B9.webp?v=1775034094",
+      "id": 16049106911619,
+      "name": "Winchester Hoodie - Large Camo Polyester",
+      "price": 97,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8B66EA40-B191-4876-95B6-2608A9F36F31.webp?v=1782310753",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BE859DF-97C7-421A-9445-D9E1CCB0F5B9.webp?v=1775034094",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/413706A6-E970-45F7-B6E5-25AEA729B08E.webp?v=1775034094",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DFFD18AF-4FA4-4157-9747-38EB87111730.webp?v=1775034094"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8B66EA40-B191-4876-95B6-2608A9F36F31.webp?v=1782310753",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/91D153B5-BDFB-4C6B-B971-F17A44A09286.webp?v=1782310753",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/580CFC95-C3FE-4560-9BA5-7BAC6A7616A4.webp?v=1782310753"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-black-large-82178-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/winchester-hoodie-mens-camo-large-106231-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16045074579843,
       "name": "Armani Exchange Hoodie - Small Black Cotton",
@@ -1326,23 +1343,6 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/the-original-boardshort-co-quiksilver-hoodie-mens-black-large-103920-a",
-      "available": true
-    },
-    {
-      "id": 16081636688259,
-      "name": "Rain Defender Carhartt Hoodie - Large Navy Cotton",
-      "price": 97,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3E0FF608-CDF7-4FC5-97D0-A74F2AC53A05.webp?v=1783595224",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E0FF608-CDF7-4FC5-97D0-A74F2AC53A05.webp?v=1783595224",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AB4DD79-E806-4372-86A7-322B5088C278.webp?v=1783595223",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9206EC72-158A-406C-AF4D-22E9554F2EC2.webp?v=1783595224"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-navy-large-110287-a",
       "available": true
     },
     {
