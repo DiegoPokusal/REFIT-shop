@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16082332975491,
+      "name": "Polo Jeans Ralph Lauren Cwu Bomber Jacket - Small Black Polyester",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/00A6E58A-2686-41B3-954F-23D690D4E19A.webp?v=1783610204",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/00A6E58A-2686-41B3-954F-23D690D4E19A.webp?v=1783610204",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AFBD359F-1080-4A4C-AD9B-00B6AA5CAC65.webp?v=1783610204",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C600150D-760D-4326-B19B-4FFB75ED65A9.webp?v=1783610205"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-bomber-jacket-mens-black-small-109620-a",
+      "available": true
+    },
+    {
       "id": 15874281668995,
       "name": "700 Fill The North Face Puffer - Large Black Nylon",
       "price": 135,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/alpha-phi-alpha-fraternity-holloway-varsity-jacket-mens-black-large-87368-a",
       "available": true
-    },
-    {
-      "id": 15972718903683,
-      "name": "Packers Fan Spellout Windbreaker - Large Green Nylon",
-      "price": 135,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/65D38D14-6C09-4220-9762-DC97BA2E4717.webp?v=1779092560",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/237CD680-296D-4AB5-9540-658F4DD8CF36.webp?v=1779092560"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/packers-fan-windbreaker-mens-green-large-94914-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16045076316547,
+      "name": "Armani Exchange Hoodie - Medium Black Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BA771AF7-43A3-4A78-8171-A82069E971BF.webp?v=1782134593",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BA771AF7-43A3-4A78-8171-A82069E971BF.webp?v=1782134593",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B7A65536-BB3A-495A-898B-EDA4A29BBBA3.webp?v=1782134592",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/77075211-F255-4D10-8F61-7ADDA2B46338.webp?v=1782134593"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/armani-exchange-hoodie-mens-black-medium-102655-a",
+      "available": true
+    },
     {
       "id": 16081636688259,
       "name": "Rain Defender Carhartt Hoodie - Large Navy Cotton",
@@ -1088,23 +1105,6 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/quiksilver-hoodie-mens-black-large-110479-a",
-      "available": true
-    },
-    {
-      "id": 16066383282563,
-      "name": "Made In USA Nike Center Swoosh Hoodie - Large Grey Cotton",
-      "price": 119,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1810C45D-8592-47CB-9206-D1105537ED56.webp?v=1783003664",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1810C45D-8592-47CB-9206-D1105537ED56.webp?v=1783003664",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE0CFE0B-5ADD-46FF-B560-C10E74278532.webp?v=1783003664",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D25BE602-6FCA-42B5-AF83-DFA9A3D0CB5E.webp?v=1783003665"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/made-in-usa-nike-hoodie-mens-grey-large-105585-a",
       "available": true
     },
     {
@@ -1977,6 +1977,23 @@
       "available": true
     },
     {
+      "id": 16073341272451,
+      "name": "Polo By Ralph Lauren Sweatshirt - Large Blue Cotton",
+      "price": 87,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/97BD3621-AED8-431A-BE29-6C595153544C.webp?v=1783349822",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/97BD3621-AED8-431A-BE29-6C595153544C.webp?v=1783349822",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A895F2E9-6EA0-4BA9-AAC0-BD5761199CF6.webp?v=1783349822",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9210E693-8C71-4626-8B0F-96D8A2967086.webp?v=1783349822"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-blue-large-109495-a",
+      "available": true
+    },
+    {
       "id": 15950693171587,
       "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
       "price": 95,
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-minnesota-vikings-pro-player-sweatshirt-mens-purple-large-110258-a",
       "available": true
-    },
-    {
-      "id": 16049114546563,
-      "name": "Ohio State Tultex College Sweatshirt - Medium Black Cotton Blend",
-      "price": 92,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E794FB97-C1E5-4E40-9F33-A5176F720555.webp?v=1782311069",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E794FB97-C1E5-4E40-9F33-A5176F720555.webp?v=1782311069",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/71417B2C-21FF-42B9-A740-12CAE644AF8E.webp?v=1782311070",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8DB6FB7B-FA7C-4FA1-8EC2-D165EEE06D89.webp?v=1782311069"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/ohio-state-tultex-sweatshirt-mens-black-medium-106045-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16081687740803,
+      "name": "90S Guess Striped T-Shirt - Large Beige Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/584FDB75-3955-47D6-BB86-F70F606466AE.webp?v=1783596214",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/584FDB75-3955-47D6-BB86-F70F606466AE.webp?v=1783596214",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/599BD414-F51A-471A-8077-FD38AD3C7EA7.webp?v=1783596214",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/19211C5C-34FD-47FF-8A51-6ED5DAD4B509.webp?v=1783596215"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/90s-guess-t-shirt-mens-beige-large-107059-a",
+      "available": true
+    },
     {
       "id": 15968026329475,
       "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/mizzou-nike-long-sleeve-t-shirt-mens-black-large-108666-a",
-      "available": true
-    },
-    {
-      "id": 16038275842435,
-      "name": "Coors Light Branding Molson Graphic Long Sleeve T-Shirt - Medium White Cotton",
-      "price": 84,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B79FEBE1-7D64-49E5-99D2-279D6E2E0881.webp?v=1781796507",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B79FEBE1-7D64-49E5-99D2-279D6E2E0881.webp?v=1781796507",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B568F182-2973-4357-83A7-8C5D2F25B598.webp?v=1781796507",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C43C3BB-2034-4B70-9156-B796F5A3928C.webp?v=1781796507"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/coors-light-branding-molson-long-sleeve-t-shirt-mens-white-medium-102414-a",
       "available": true
     }
   ]
