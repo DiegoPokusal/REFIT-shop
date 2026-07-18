@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16005522293123,
+      "name": "Patagonia Puffer - Large Blue Polyester",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/394FC201-B946-44D1-85F0-D80A9586F91F.webp?v=1780414950",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/394FC201-B946-44D1-85F0-D80A9586F91F.webp?v=1780414950",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/543EC7E6-A898-4A27-BC81-107CBDF1DCAF.webp?v=1780414950",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AEB92D54-4751-4A94-8F6B-FFEB9629B50A.webp?v=1780414949"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-blue-large-98284-a",
+      "available": true
+    },
+    {
       "id": 15950831321475,
       "name": "Made In USA The Hard Pack U.S. Tour Swingster The Camel Varsity Jacket - Large Black Nylon",
       "price": 135,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/coldwave-jacket-mens-black-medium-104489-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16066349990275,
-      "name": "Skull Design Milwaekee Performance Motorcycle Jacket - Medium Black Polyester",
-      "price": 135,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/730D69DE-A62C-4182-ADF2-3404D134D2D7.webp?v=1783002554",
+      "id": 16081655660931,
+      "name": "Rain Defender Carhartt Hoodie - Medium Black Cotton",
+      "price": 97,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E2022E54-2662-4159-A9E8-C8BFB59A36DC.webp?v=1783595550",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/730D69DE-A62C-4182-ADF2-3404D134D2D7.webp?v=1783002554",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D652C15-2462-4A95-B030-05CD8A947B83.webp?v=1783002554",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3CE294C0-3766-4287-B878-80229C4A9BD6.webp?v=1783002555"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E2022E54-2662-4159-A9E8-C8BFB59A36DC.webp?v=1783595550",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/29A6B198-D86D-4C73-B58D-2C51FE7CAB7B.webp?v=1783595549",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C6766044-453F-4CD8-8E25-5989D6D6765F.webp?v=1783595550"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/skull-design-milwaekee-performance-jacket-mens-black-medium-104483-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-black-medium-110280-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16066372338051,
       "name": "Cabelas Hoodie - Large Camo Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16046359249283,
-      "name": "Orlando Harley Davidson Graphic Hoodie - Large Red Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D8DCA4F7-00B7-4E65-9780-B7AC2D0D713B.webp?v=1782202714",
+      "id": 16073341272451,
+      "name": "Polo By Ralph Lauren Sweatshirt - Large Blue Cotton",
+      "price": 87,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/97BD3621-AED8-431A-BE29-6C595153544C.webp?v=1783349822",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D8DCA4F7-00B7-4E65-9780-B7AC2D0D713B.webp?v=1782202714",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/214B0E51-394E-4097-9C89-7D0432EA4A53.webp?v=1782202714",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B7B01973-3B81-4186-A0BA-B254E94C31CB.webp?v=1782202715"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/97BD3621-AED8-431A-BE29-6C595153544C.webp?v=1783349822",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A895F2E9-6EA0-4BA9-AAC0-BD5761199CF6.webp?v=1783349822",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9210E693-8C71-4626-8B0F-96D8A2967086.webp?v=1783349822"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-red-large-103250-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-blue-large-109495-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15950693171587,
       "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a",
       "available": true
-    },
-    {
-      "id": 16081648746883,
-      "name": "Made In USA, New York Jets Cliff Engle Nfl Sweatshirt - Large Green Cotton",
-      "price": 92,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/069AEFA4-2AF8-4D8D-863A-EEC6E402A7D9.webp?v=1783595372",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/069AEFA4-2AF8-4D8D-863A-EEC6E402A7D9.webp?v=1783595372",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/27F0ECA7-CDCB-4BE5-944C-45203C57B76F.webp?v=1783595372",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2C2ED559-9E31-4CFF-91E3-194DF7D8894B.webp?v=1783595373"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-new-york-jets-cliff-engle-sweatshirt-mens-green-large-110239-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010029269379,
+      "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
+      "price": 106,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E8B2A29-4229-42CD-A263-38CBB099A228.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D56D913C-E5E5-4F02-B2F3-FE1932074832.webp?v=1780661505"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/mouse-graphic-stussy-t-shirt-mens-blue-medium-100803-a",
+      "available": true
+    },
     {
       "id": 16024440439171,
       "name": "Macho Man Nwo Oneita Single Stitch T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/screamin-eagle-harley-davidson-long-sleeve-t-shirt-mens-black-large-108393-a",
-      "available": true
-    },
-    {
-      "id": 16081682661763,
-      "name": "Harley Davidson Long Sleeve T-Shirt - Medium Grey Cotton Blend",
-      "price": 84,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C8B1A895-5FD2-4168-9CCC-1840A4F96FBC.webp?v=1783596078",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8B1A895-5FD2-4168-9CCC-1840A4F96FBC.webp?v=1783596078",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ECC775F1-2A50-4318-ACC8-FB7DAEF78104.webp?v=1783596078",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB99CE2F-D26A-4ACD-907A-D0A30553B6F0.webp?v=1783596078"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/harley-davidson-long-sleeve-t-shirt-mens-grey-medium-108374-a",
       "available": true
     }
   ]
