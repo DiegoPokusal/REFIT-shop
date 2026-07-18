@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15972718903683,
+      "name": "Packers Fan Spellout Windbreaker - Large Green Nylon",
+      "price": 135,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/65D38D14-6C09-4220-9762-DC97BA2E4717.webp?v=1779092560",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/237CD680-296D-4AB5-9540-658F4DD8CF36.webp?v=1779092560"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/packers-fan-windbreaker-mens-green-large-94914-a",
+      "available": true
+    },
+    {
       "id": 16082332975491,
       "name": "Polo Jeans Ralph Lauren Cwu Bomber Jacket - Small Black Polyester",
       "price": 130,
@@ -343,7 +360,7 @@
     {
       "id": 15876272030083,
       "name": "Chicago Bulls Jh Designs Reversible Graphic Varsity Jacket - Large Red Wool",
-      "price": 142,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-puffer-mens-blue-large-94067-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15916264423811,
-      "name": "Alpha Phi Alpha Fraternity Holloway P Diddy Varsity Jacket - Large Black Wool Blend",
-      "price": 135,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A2E5062B-4C5C-42FF-8008-4D077E1231AB.webp?v=1776869327",
+      "id": 16066383282563,
+      "name": "Made In USA Nike Center Swoosh Hoodie - Large Grey Cotton",
+      "price": 119,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1810C45D-8592-47CB-9206-D1105537ED56.webp?v=1783003664",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A2E5062B-4C5C-42FF-8008-4D077E1231AB.webp?v=1776869327",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD0E7D89-A165-4442-81EF-AB24686233F8.webp?v=1776869327",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4AB1C5CA-B728-43EB-B2D6-806B9A592CA8.webp?v=1776869327"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1810C45D-8592-47CB-9206-D1105537ED56.webp?v=1783003664",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE0CFE0B-5ADD-46FF-B560-C10E74278532.webp?v=1783003664",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D25BE602-6FCA-42B5-AF83-DFA9A3D0CB5E.webp?v=1783003665"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/alpha-phi-alpha-fraternity-holloway-varsity-jacket-mens-black-large-87368-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/made-in-usa-nike-hoodie-mens-grey-large-105585-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16045076316547,
       "name": "Armani Exchange Hoodie - Medium Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/san-francisco-thrasher-hoodie-mens-black-medium-103921-a",
       "available": true
-    },
-    {
-      "id": 16051387564419,
-      "name": "The Original Boardshort Co. Quiksilver Graphic Hoodie - Large Black Cotton",
-      "price": 97,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CA187FE3-2FC8-4726-8FE4-C0D40153945F.webp?v=1782399572",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA187FE3-2FC8-4726-8FE4-C0D40153945F.webp?v=1782399572",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4DC29012-61B4-4A68-8A47-D6274CE860F2.webp?v=1782399572",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A416B9F-475F-40E5-B6EF-62E81699A004.webp?v=1782399572"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/the-original-boardshort-co-quiksilver-hoodie-mens-black-large-103920-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16049114546563,
+      "name": "Ohio State Tultex College Sweatshirt - Medium Black Cotton Blend",
+      "price": 92,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E794FB97-C1E5-4E40-9F33-A5176F720555.webp?v=1782311069",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E794FB97-C1E5-4E40-9F33-A5176F720555.webp?v=1782311069",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/71417B2C-21FF-42B9-A740-12CAE644AF8E.webp?v=1782311070",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8DB6FB7B-FA7C-4FA1-8EC2-D165EEE06D89.webp?v=1782311069"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/ohio-state-tultex-sweatshirt-mens-black-medium-106045-a",
+      "available": true
+    },
     {
       "id": 16034985804163,
       "name": "Pittsburgh Steelers Lee Sport Nfl Sweatshirt - Large Black Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
       "available": true
-    },
-    {
-      "id": 16081638621571,
-      "name": "Made In USA, Minnesota Vikings Pro Player Nfl Sweatshirt - Large Purple Cotton Blend",
-      "price": 92,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BF56E914-762E-4DBD-8AE3-67942B01C2AD.webp?v=1783595242",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF56E914-762E-4DBD-8AE3-67942B01C2AD.webp?v=1783595242",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CDC824E7-5933-47D5-87B1-58446F4F2C7A.webp?v=1783595241",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E70F829E-5C05-4068-B85C-29A49C3A385A.webp?v=1783595242"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-minnesota-vikings-pro-player-sweatshirt-mens-purple-large-110258-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16038275842435,
+      "name": "Coors Light Branding Molson Graphic Long Sleeve T-Shirt - Medium White Cotton",
+      "price": 84,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B79FEBE1-7D64-49E5-99D2-279D6E2E0881.webp?v=1781796507",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B79FEBE1-7D64-49E5-99D2-279D6E2E0881.webp?v=1781796507",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B568F182-2973-4357-83A7-8C5D2F25B598.webp?v=1781796507",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C43C3BB-2034-4B70-9156-B796F5A3928C.webp?v=1781796507"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/coors-light-branding-molson-long-sleeve-t-shirt-mens-white-medium-102414-a",
+      "available": true
+    },
     {
       "id": 16081687740803,
       "name": "90S Guess Striped T-Shirt - Large Beige Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-tommy-jeans-long-sleeve-t-shirt-mens-blue-medium-91248-a",
-      "available": true
-    },
-    {
-      "id": 16081677255043,
-      "name": "Mizzou Nike College Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 84,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FFA9C6A6-A31E-4B19-95DE-5FB3F4E30FFC.webp?v=1783595922",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FFA9C6A6-A31E-4B19-95DE-5FB3F4E30FFC.webp?v=1783595922",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83758532-BD9E-4224-A932-EBD0AF138A39.webp?v=1783595922",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CAB3C5A4-3F7F-4895-99A3-BC04417A89C6.webp?v=1783595922"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/mizzou-nike-long-sleeve-t-shirt-mens-black-large-108666-a",
       "available": true
     }
   ]
