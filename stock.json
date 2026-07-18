@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15874281668995,
+      "name": "700 Fill The North Face Puffer - Large Black Nylon",
+      "price": 135,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0BE859DF-97C7-421A-9445-D9E1CCB0F5B9.webp?v=1775034094",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BE859DF-97C7-421A-9445-D9E1CCB0F5B9.webp?v=1775034094",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/413706A6-E970-45F7-B6E5-25AEA729B08E.webp?v=1775034094",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DFFD18AF-4FA4-4157-9747-38EB87111730.webp?v=1775034094"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-black-large-82178-a",
+      "available": true
+    },
+    {
       "id": 16010028056963,
       "name": "International Stussy Rain Mac Windbreaker - Large Black Polyester",
       "price": 133,
@@ -256,23 +273,6 @@
       "available": true
     },
     {
-      "id": 16014337180035,
-      "name": "Patagonia Puffer - Large Grey Polyester",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/602D8990-A8EF-4CE9-9490-A72A5DBC2D2D.webp?v=1780905656",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/602D8990-A8EF-4CE9-9490-A72A5DBC2D2D.webp?v=1780905656",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE1148A8-34BF-483E-92D1-E789DA8E3CBA.webp?v=1780905656",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B535B72D-AFCB-4458-A998-0BF0DF2D7EF5.webp?v=1780905657"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-grey-large-100347-a",
-      "available": true
-    },
-    {
       "id": 15950750089603,
       "name": "Reversible Carhartt Camo Realtree Jacket - Large Camo Polyester",
       "price": 145,
@@ -287,6 +287,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/reversible-carhartt-jacket-mens-camo-large-90550-a",
+      "available": true
+    },
+    {
+      "id": 16014337180035,
+      "name": "Patagonia Puffer - Large Grey Polyester",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/602D8990-A8EF-4CE9-9490-A72A5DBC2D2D.webp?v=1780905656",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/602D8990-A8EF-4CE9-9490-A72A5DBC2D2D.webp?v=1780905656",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE1148A8-34BF-483E-92D1-E789DA8E3CBA.webp?v=1780905656",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B535B72D-AFCB-4458-A998-0BF0DF2D7EF5.webp?v=1780905657"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-grey-large-100347-a",
       "available": true
     },
     {
@@ -309,7 +326,7 @@
     {
       "id": 15876272030083,
       "name": "Chicago Bulls Jh Designs Reversible Graphic Varsity Jacket - Large Red Wool",
-      "price": 143,
+      "price": 142,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/packers-fan-windbreaker-mens-green-large-94914-a",
       "available": true
-    },
-    {
-      "id": 16082332975491,
-      "name": "Polo Jeans Ralph Lauren Cwu Bomber Jacket - Small Black Polyester",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/00A6E58A-2686-41B3-954F-23D690D4E19A.webp?v=1783610204",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/00A6E58A-2686-41B3-954F-23D690D4E19A.webp?v=1783610204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AFBD359F-1080-4A4C-AD9B-00B6AA5CAC65.webp?v=1783610204",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C600150D-760D-4326-B19B-4FFB75ED65A9.webp?v=1783610205"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-bomber-jacket-mens-black-small-109620-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16081636688259,
+      "name": "Rain Defender Carhartt Hoodie - Large Navy Cotton",
+      "price": 97,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3E0FF608-CDF7-4FC5-97D0-A74F2AC53A05.webp?v=1783595224",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E0FF608-CDF7-4FC5-97D0-A74F2AC53A05.webp?v=1783595224",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AB4DD79-E806-4372-86A7-322B5088C278.webp?v=1783595223",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9206EC72-158A-406C-AF4D-22E9554F2EC2.webp?v=1783595224"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-navy-large-110287-a",
+      "available": true
+    },
     {
       "id": 16049106911619,
       "name": "Winchester Hoodie - Large Camo Polyester",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/the-original-boardshort-co-quiksilver-hoodie-mens-black-large-103920-a",
       "available": true
-    },
-    {
-      "id": 16045076316547,
-      "name": "Armani Exchange Hoodie - Medium Black Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BA771AF7-43A3-4A78-8171-A82069E971BF.webp?v=1782134593",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BA771AF7-43A3-4A78-8171-A82069E971BF.webp?v=1782134593",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B7A65536-BB3A-495A-898B-EDA4A29BBBA3.webp?v=1782134592",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/77075211-F255-4D10-8F61-7ADDA2B46338.webp?v=1782134593"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/armani-exchange-hoodie-mens-black-medium-102655-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16034985804163,
+      "name": "Pittsburgh Steelers Lee Sport Nfl Sweatshirt - Large Black Cotton",
+      "price": 92,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6D08803F-3BFD-4BB3-98BF-704E5A558F75.webp?v=1781705033",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D08803F-3BFD-4BB3-98BF-704E5A558F75.webp?v=1781705033",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/96B147C5-2789-4546-B4AE-58666D3AE436.webp?v=1781705033",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/059A5E34-459C-4ECC-A919-F3E19F8EB717.webp?v=1781705033"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/pittsburgh-steelers-lee-sport-sweatshirt-mens-black-large-102609-a",
+      "available": true
+    },
     {
       "id": 16008837792131,
       "name": "Polo Jeans Company Ralph Lauren Sweatshirt - Medium Grey Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/ohio-state-tultex-sweatshirt-mens-black-medium-106045-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16073341272451,
-      "name": "Polo By Ralph Lauren Sweatshirt - Large Blue Cotton",
-      "price": 87,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/97BD3621-AED8-431A-BE29-6C595153544C.webp?v=1783349822",
+      "id": 15968026329475,
+      "name": "80S Florida Nike Graphic T-Shirt - Large White Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/97BD3621-AED8-431A-BE29-6C595153544C.webp?v=1783349822",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A895F2E9-6EA0-4BA9-AAC0-BD5761199CF6.webp?v=1783349822",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9210E693-8C71-4626-8B0F-96D8A2967086.webp?v=1783349822"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/724FB049-F256-431E-9520-18113C0BBFAD.webp?v=1778830811",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F44D80B8-8888-4589-9708-A8DED6C99E05.webp?v=1778830810",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F77DEDAB-389D-4407-AD95-C66798ECA8CB.webp?v=1778830811"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-blue-large-109495-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/80s-florida-nike-t-shirt-mens-white-large-94391-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16035081027971,
       "name": "Waffle Knit Ecko Unltd Long Sleeve T-Shirt - Small Red Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/coors-light-branding-molson-long-sleeve-t-shirt-mens-white-medium-102414-a",
-      "available": true
-    },
-    {
-      "id": 16081687740803,
-      "name": "90S Guess Striped T-Shirt - Large Beige Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/584FDB75-3955-47D6-BB86-F70F606466AE.webp?v=1783596214",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/584FDB75-3955-47D6-BB86-F70F606466AE.webp?v=1783596214",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/599BD414-F51A-471A-8077-FD38AD3C7EA7.webp?v=1783596214",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19211C5C-34FD-47FF-8A51-6ED5DAD4B509.webp?v=1783596215"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/90s-guess-t-shirt-mens-beige-large-107059-a",
       "available": true
     }
   ]
