@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16038048792963,
+      "name": "Nike Puffer - Large Beige Polyester",
+      "price": 141,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2F48B972-432C-4155-B97A-B35D94AF403B.webp?v=1781794779",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2F48B972-432C-4155-B97A-B35D94AF403B.webp?v=1781794779",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF8FB4D2-7164-49B7-9D88-B97BF7494C8F.webp?v=1781794779",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA4A11EC-88B0-471B-A96C-F1B90385CCE6.webp?v=1781794779"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/nike-puffer-mens-beige-large-102899-a",
+      "available": true
+    },
+    {
       "id": 15950831616387,
       "name": "90S Made In USA Blue Jays Street Legends Graphic Varsity Jacket - Large Blue Cotton",
       "price": 140,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/guess-leather-jacket-mens-black-large-107023-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15900975661443,
-      "name": "Green Bay Packers N.F.L. Pro Line Apex One Nfl Windbreaker - Large Black Nylon",
-      "price": 141,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3B2F42A4-5BF7-4C1E-B221-48A4B2C3C9F7.webp?v=1776333120",
+      "id": 16090064126339,
+      "name": "Skateboarding Santa Cruz Hoodie - Large Black Polyester",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C5FA0FE2-882E-4FC7-9B45-C30F229A4B2E.webp?v=1784027100",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B2F42A4-5BF7-4C1E-B221-48A4B2C3C9F7.webp?v=1776333120",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/074B751A-1C5A-4A11-9C96-8F3521638F30.webp?v=1776333120",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/53AC8A58-83DD-48C9-95CC-980847E7E6CF.webp?v=1776333120"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C5FA0FE2-882E-4FC7-9B45-C30F229A4B2E.webp?v=1784027100",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/661C7394-C12E-4472-890D-EEADC02F0D5E.webp?v=1784027101",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE9A98AD-E4A5-41B3-858F-41E2FDB58F00.webp?v=1784027102"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/green-bay-packers-n-f-l-pro-line-windbreaker-mens-black-large-86308-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/skateboarding-santa-cruz-hoodie-mens-black-large-110489-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16014357299587,
       "name": "Carhartt Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/vans-hoodie-mens-black-medium-110495-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16090061996419,
-      "name": "Santa Cruz Hoodie - Large Grey Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1835EEDC-49FF-4AB0-8879-C0E0D3B09715.webp?v=1784027024",
+      "id": 16038128714115,
+      "name": "Intimidator Nutmeg Graphic Sweatshirt - Large Black Polyester Blend",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B66E2455-EA2A-498C-9A61-5C9C15119A1D.webp?v=1781795382",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1835EEDC-49FF-4AB0-8879-C0E0D3B09715.webp?v=1784027024",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1AB88E9B-3002-4210-B039-20550D1C1A02.webp?v=1784027024",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD78885C-F815-4BCA-AF3B-CC59EE05B25A.webp?v=1784027024"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B66E2455-EA2A-498C-9A61-5C9C15119A1D.webp?v=1781795382",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A068FDF-23A0-4C86-B2F4-FBE298279151.webp?v=1781795382",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5AA5BAE-A96A-4FE9-AFC4-5B1FC7876EBA.webp?v=1781795383"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/santa-cruz-hoodie-mens-grey-large-110490-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/intimidator-nutmeg-sweatshirt-mens-black-large-102396-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16066369356163,
       "name": "Made In USA Nike Sweatshirt - Medium Grey Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-guess-sweatshirt-mens-blue-medium-107027-a",
       "available": true
-    },
-    {
-      "id": 16038264406403,
-      "name": "Nike Sweatshirt - Large Blue Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB95AE32-172B-4C89-A3BF-CBBCFBEC99FE.webp?v=1781796428",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB95AE32-172B-4C89-A3BF-CBBCFBEC99FE.webp?v=1781796428",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/35DB6D58-403E-403F-A89B-880F0A84427B.webp?v=1781796428",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/18638C5C-D9B0-4F89-99B9-1DF6D07DE6C6.webp?v=1781796428"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/nike-sweatshirt-mens-blue-large-102872-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010027860355,
+      "name": "Stussy Spellout T-Shirt - Small Black Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/99122D99-B1D6-428F-AF5D-55DF4A77D5C6.webp?v=1780661426",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3D87BA6-C8F7-4BE7-96FE-80E002D4C325.webp?v=1780661426"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-small-100773-a",
+      "available": true
+    },
     {
       "id": 16081679647107,
       "name": "Manchester United Nike Football Long Sleeve T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-large-100782-a",
-      "available": true
-    },
-    {
-      "id": 16017703338371,
-      "name": "Burberry London Striped Long Sleeve T-Shirt - Small Green Cotton",
-      "price": 101,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE336095-CDB4-412C-8FF9-EA3EBB5E25D9.webp?v=1780999724",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE336095-CDB4-412C-8FF9-EA3EBB5E25D9.webp?v=1780999724",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A05A4225-5E44-4442-8120-84E4858F9389.webp?v=1780999724",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/58A72548-29A7-42BB-9AE9-5B56587370D6.webp?v=1780999725"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/burberry-london-long-sleeve-t-shirt-mens-green-small-100879-a",
       "available": true
     }
   ]
