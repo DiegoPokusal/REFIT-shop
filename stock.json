@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16046368752003,
+      "name": "Polo By Ralph Lauren Puffer - Large Black Polyester",
+      "price": 141,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D2E4D83A-B7D8-4947-9197-601DC731F8DD.webp?v=1782202975",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D2E4D83A-B7D8-4947-9197-601DC731F8DD.webp?v=1782202975",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8F0B20F8-A917-4C6E-BAB4-FD3E1663FF7A.webp?v=1782202975",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/68634AF5-B3B4-415C-9E87-96C7E102EF77.webp?v=1782202976"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-puffer-mens-black-large-103624-a",
+      "available": true
+    },
+    {
       "id": 16081684857219,
       "name": "Guess Leather Jacket - Large Black Leather",
       "price": 141,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/blue-jays-starter-windbreaker-mens-blue-large-86313-a",
       "available": true
-    },
-    {
-      "id": 16081685021059,
-      "name": "90S Camel Puffer - Medium Blue Down",
-      "price": 141,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B65F4A4-E96F-4A0C-B9C7-1BFC80DED935.webp?v=1783596147",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B65F4A4-E96F-4A0C-B9C7-1BFC80DED935.webp?v=1783596147",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6C15A3D3-0EE5-4274-8296-E2E581ED7EDE.webp?v=1783596146",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ECC9DD5E-267C-4DF9-933B-A4CF6D941104.webp?v=1783596147"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/90s-camel-puffer-mens-blue-medium-107024-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16090063012227,
+      "name": "Quiksilver Striped Hoodie - Large Black Cotton",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2A24A35A-ED04-45CB-AD67-FFB21AF7C4C6.webp?v=1784027064",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2A24A35A-ED04-45CB-AD67-FFB21AF7C4C6.webp?v=1784027064",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F193A996-4463-49F3-A0C4-8D63DE14E4D1.webp?v=1784027063",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2A93221C-A7C8-45B1-AD9B-42164C371BC6.webp?v=1784027064"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/quiksilver-hoodie-mens-black-large-110479-a",
+      "available": true
+    },
     {
       "id": 16090062455171,
       "name": "Vans Hoodie - Medium Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/peace-and-love-stussy-hoodie-mens-brown-large-100811-a",
       "available": true
-    },
-    {
-      "id": 16010028482947,
-      "name": "Reggae Stussy Roots Graphic Hoodie - Small Grey Cotton",
-      "price": 120,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7E2F92E3-201B-42A3-8011-381FF1FBA758.webp?v=1780661471",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7E2F92E3-201B-42A3-8011-381FF1FBA758.webp?v=1780661471",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5E44B11B-6168-453D-9B9A-DF1936EE201C.webp?v=1780661471",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/69EF37F9-07B6-44E3-9E2D-0AFD1E84DC21.webp?v=1780661471"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reggae-stussy-hoodie-mens-grey-small-100776-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16076571738499,
+      "name": "Mickey Mouse Graphic Disney Cartoon Sweatshirt - Large Purple Cotton Blend",
+      "price": 87,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AC61DAF9-A371-4225-9247-F88A48180FCA.webp?v=1783437562",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AC61DAF9-A371-4225-9247-F88A48180FCA.webp?v=1783437562",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/95B3A29D-F87D-4551-80B5-D8D2217D57F5.webp?v=1783437562",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CB8EE640-87FB-474D-BE0F-32D66BF83E91.webp?v=1783437563"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/mickey-mouse-graphic-disney-sweatshirt-mens-purple-large-105676-a",
+      "available": true
+    },
     {
       "id": 16081685086595,
       "name": "90S Guess Spellout Sweatshirt - Medium Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-navy-small-109509-a",
       "available": true
-    },
-    {
-      "id": 16073346613635,
-      "name": "Polo By Ralph Lauren Sweatshirt - Large Grey Cotton",
-      "price": 108,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FE7AEF43-13E2-4790-BE9D-B18D4ED8F4A4.webp?v=1783349991",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE7AEF43-13E2-4790-BE9D-B18D4ED8F4A4.webp?v=1783349991",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0EFDAB8-DA79-4DB8-A7AF-991B83B04224.webp?v=1783349991",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/662CC2DF-E7C8-4107-AD52-C4370D80A3CD.webp?v=1783349991"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-grey-large-109492-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16017695998339,
+      "name": "Burberry T-Shirt - Small Black Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE7FB8C5-F9B9-428C-8BBE-0AC0B8E24EB7.webp?v=1780999608",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE7FB8C5-F9B9-428C-8BBE-0AC0B8E24EB7.webp?v=1780999608",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DBC85DFB-642B-4AB9-8757-FADCE90165F0.webp?v=1780999608",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/19F62133-DE35-490E-8F22-C58B9EC452D8.webp?v=1780999608"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/burberry-t-shirt-mens-black-small-100871-a",
+      "available": true
+    },
     {
       "id": 16010029760899,
       "name": "Stussy Spellout T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/bohse-onkelz-1994-tour-fruit-of-the-loom-t-shirt-mens-black-large-108166-a",
-      "available": true
-    },
-    {
-      "id": 15964909175171,
-      "name": "Team USA 1992 USA Olympics Graphic T-Shirt - Large Grey Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC1D604-2AAA-4F8C-882F-36DE40DA92C6.webp?v=1778685675",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F27CB28C-539D-4028-8889-2CC79F029B6A.webp?v=1778685675",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F3DB9DD-8AA3-476F-9E4A-4B8BF4E9C710.webp?v=1778685675"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/team-usa-1992-usa-olympics-t-shirt-mens-grey-large-94190-a",
       "available": true
     }
   ]
