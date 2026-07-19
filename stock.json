@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16081630298499,
+      "name": "550 Fill The North Face Puffer - Large Blue Nylon",
+      "price": 135,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1A47C2D6-F829-42BE-8A42-ACEBB2346042.webp?v=1783595174",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A47C2D6-F829-42BE-8A42-ACEBB2346042.webp?v=1783595174",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/644ECB18-46CD-4E2E-A2C7-01A4D383EF81.webp?v=1783595175",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E6F960E2-65F0-468A-8723-2F19D1F9E8CE.webp?v=1783595175"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/550-fill-the-north-face-puffer-womens-blue-large-108403-a",
+      "available": true
+    },
+    {
       "id": 15950815396227,
       "name": "90S Made In USA Pirates Daniel'S Sportswear Satin Varsity Jacket - Large Black Polyester",
       "price": 140,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/mountain-hard-wear-puffer-mens-black-large-101485-a",
       "available": true
-    },
-    {
-      "id": 16076577243523,
-      "name": "Patagonia Puffer - Medium Orange Polyester",
-      "price": 141,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/80FFF9BB-3B35-46B6-A5BA-BADF8848C3F7.webp?v=1783437806",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/80FFF9BB-3B35-46B6-A5BA-BADF8848C3F7.webp?v=1783437806",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8BAB1DD4-1E57-43A5-87A9-53AF75917D49.webp?v=1783437807",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/65E41ED0-922A-482C-B354-01B88DD9810D.webp?v=1783437807"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-orange-medium-106508-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16073347629443,
+      "name": "Polo By Ralph Lauren Hoodie - Small Grey Cotton",
+      "price": 108,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F66B1A10-F771-4CE0-B294-7A57E8858B5C.webp?v=1783350024",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F66B1A10-F771-4CE0-B294-7A57E8858B5C.webp?v=1783350024",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/64272365-6AE7-46C9-8121-0C20C176D5DE.webp?v=1783350024",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DABA9D1-3B86-48E4-BAFD-B3542F688343.webp?v=1783350025"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-small-109507-a",
+      "available": true
+    },
     {
       "id": 16076591563139,
       "name": "Nike Spellout Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-medium-100521-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16073345499523,
-      "name": "Polo By Ralph Lauren Hoodie - Large Grey Cotton",
-      "price": 108,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D37154F4-83C4-49CD-8EF2-BC694F807744.webp?v=1783349962",
+      "id": 16038075302275,
+      "name": "Nike Spellout Sweatshirt - Large Blue Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/42B81287-30F5-4A51-B6A1-C262B93EF118.webp?v=1781795060",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D37154F4-83C4-49CD-8EF2-BC694F807744.webp?v=1783349962",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0C8B37A5-BF70-4A78-9476-3A81E104A35A.webp?v=1783349962",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/285BA14D-DB38-48D1-B76C-9C34C2630852.webp?v=1783349962"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/42B81287-30F5-4A51-B6A1-C262B93EF118.webp?v=1781795060",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0CE5971B-E3C6-40AA-B0D8-391257E3ED1F.webp?v=1781795060",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0F0302E2-DE5F-499D-B670-321A2990D302.webp?v=1781795061"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-109483-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/nike-sweatshirt-mens-blue-large-102891-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16008151105923,
       "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Grey Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/mickey-mouse-mickey-co-sweatshirt-mens-red-large-99288-a",
       "available": true
-    },
-    {
-      "id": 16015480357251,
-      "name": "Force Nike Basketball Sweatshirt - Medium Blue Cotton Blend",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F92089AE-87D2-46F7-A5E4-854A07FDA7BD.webp?v=1780931745",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F92089AE-87D2-46F7-A5E4-854A07FDA7BD.webp?v=1780931745",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9C66BD74-8417-4D1B-AAAC-8BF7941F5860.webp?v=1780931745",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/734CF953-6620-46BC-A453-EAAE4F6E311B.webp?v=1780931745"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/force-nike-sweatshirt-mens-blue-medium-101114-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16082111431043,
+      "name": "Made In USA Patagonia Capeline Long Sleeve T-Shirt - Large Black Polyester",
+      "price": 84,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4070053F-EE3A-43F3-AAD8-F20FC1DB3F28.webp?v=1783604533",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4070053F-EE3A-43F3-AAD8-F20FC1DB3F28.webp?v=1783604533",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8EE02780-A16D-446B-829D-3E0D09C7FB65.webp?v=1783604533",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B64F396F-7EAB-4F06-8310-553F2449039C.webp?v=1783604534"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/made-in-usa-patagonia-long-sleeve-t-shirt-mens-black-large-109480-a",
+      "available": true
+    },
     {
       "id": 15950891680131,
       "name": "Polo Bear Ralph Lauren Long Sleeve T-Shirt - Medium White Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/manchester-united-nike-long-sleeve-t-shirt-mens-black-large-108686-a",
-      "available": true
-    },
-    {
-      "id": 15995255128451,
-      "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/14AE7C1C-2E62-4DA9-9454-9D6F44F6F591.webp?v=1779954660",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/26C3B55F-DE0B-4E6E-844F-542224E157FC.webp?v=1779954660"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
       "available": true
     }
   ]
