@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16081684857219,
+      "name": "Guess Leather Jacket - Large Black Leather",
+      "price": 141,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/823C4DA6-F0FF-447D-B1F3-D0777902C105.webp?v=1783596144",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/823C4DA6-F0FF-447D-B1F3-D0777902C105.webp?v=1783596144",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F1604565-E00F-4AE0-81A8-581902D26E1F.webp?v=1783596144",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C863C72-EE09-4D7B-9CB3-1A2E7B96C7DA.webp?v=1783596144"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/guess-leather-jacket-mens-black-large-107023-a",
+      "available": true
+    },
+    {
       "id": 15900975661443,
       "name": "Green Bay Packers N.F.L. Pro Line Apex One Nfl Windbreaker - Large Black Nylon",
       "price": 141,
@@ -598,7 +615,7 @@
     {
       "id": 15876272030083,
       "name": "Chicago Bulls Jh Designs Reversible Graphic Varsity Jacket - Large Red Wool",
-      "price": 142,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-camel-puffer-mens-blue-medium-107024-a",
       "available": true
-    },
-    {
-      "id": 16046368752003,
-      "name": "Polo By Ralph Lauren Puffer - Large Black Polyester",
-      "price": 141,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D2E4D83A-B7D8-4947-9197-601DC731F8DD.webp?v=1782202975",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D2E4D83A-B7D8-4947-9197-601DC731F8DD.webp?v=1782202975",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8F0B20F8-A917-4C6E-BAB4-FD3E1663FF7A.webp?v=1782202975",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/68634AF5-B3B4-415C-9E87-96C7E102EF77.webp?v=1782202976"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-puffer-mens-black-large-103624-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16090062455171,
+      "name": "Vans Hoodie - Medium Black Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BD96E20F-82A6-48D6-B896-52DF2D2AD4D1.webp?v=1784027044",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BD96E20F-82A6-48D6-B896-52DF2D2AD4D1.webp?v=1784027044",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/522A2E42-5F35-4A6B-B231-73551967F5B8.webp?v=1784027043",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0AA35400-5DCD-4D2F-8A65-0B8D3FAD56D5.webp?v=1784027044"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/vans-hoodie-mens-black-medium-110495-a",
+      "available": true
+    },
     {
       "id": 16090061996419,
       "name": "Santa Cruz Hoodie - Large Grey Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/reggae-stussy-hoodie-mens-grey-small-100776-a",
       "available": true
-    },
-    {
-      "id": 16090063012227,
-      "name": "Quiksilver Striped Hoodie - Large Black Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2A24A35A-ED04-45CB-AD67-FFB21AF7C4C6.webp?v=1784027064",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2A24A35A-ED04-45CB-AD67-FFB21AF7C4C6.webp?v=1784027064",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F193A996-4463-49F3-A0C4-8D63DE14E4D1.webp?v=1784027063",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2A93221C-A7C8-45B1-AD9B-42164C371BC6.webp?v=1784027064"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/quiksilver-hoodie-mens-black-large-110479-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16081685086595,
+      "name": "90S Guess Spellout Sweatshirt - Medium Blue Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EFE89165-841E-4246-9314-5F3D085816FC.webp?v=1783596150",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EFE89165-841E-4246-9314-5F3D085816FC.webp?v=1783596150",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/284DC553-4E0A-48F2-BBEC-B46053831BF0.webp?v=1783596150",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C87D6D58-2946-44D1-8AA5-7816C532D17F.webp?v=1783596150"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-guess-sweatshirt-mens-blue-medium-107027-a",
+      "available": true
+    },
     {
       "id": 16038264406403,
       "name": "Nike Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-grey-large-109492-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16076571738499,
-      "name": "Mickey Mouse Graphic Disney Cartoon Sweatshirt - Large Purple Cotton Blend",
-      "price": 87,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AC61DAF9-A371-4225-9247-F88A48180FCA.webp?v=1783437562",
+      "id": 16010029760899,
+      "name": "Stussy Spellout T-Shirt - Large Black Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDAF6EF8-D811-4202-BFA6-DADD11A66B56.webp?v=1780661528",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AC61DAF9-A371-4225-9247-F88A48180FCA.webp?v=1783437562",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/95B3A29D-F87D-4551-80B5-D8D2217D57F5.webp?v=1783437562",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CB8EE640-87FB-474D-BE0F-32D66BF83E91.webp?v=1783437563"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDAF6EF8-D811-4202-BFA6-DADD11A66B56.webp?v=1780661528",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F878A350-7E9B-4348-8574-DBB615DB4456.webp?v=1780661528",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/82635C10-5701-457F-9C09-C6C6431DDF4E.webp?v=1780661529"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/mickey-mouse-graphic-disney-sweatshirt-mens-purple-large-105676-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-large-100782-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16017703338371,
       "name": "Burberry London Striped Long Sleeve T-Shirt - Small Green Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/team-usa-1992-usa-olympics-t-shirt-mens-grey-large-94190-a",
-      "available": true
-    },
-    {
-      "id": 16017695998339,
-      "name": "Burberry T-Shirt - Small Black Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE7FB8C5-F9B9-428C-8BBE-0AC0B8E24EB7.webp?v=1780999608",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE7FB8C5-F9B9-428C-8BBE-0AC0B8E24EB7.webp?v=1780999608",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DBC85DFB-642B-4AB9-8757-FADCE90165F0.webp?v=1780999608",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19F62133-DE35-490E-8F22-C58B9EC452D8.webp?v=1780999608"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/burberry-t-shirt-mens-black-small-100871-a",
       "available": true
     }
   ]
