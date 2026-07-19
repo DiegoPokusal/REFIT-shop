@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16066349990275,
+      "name": "Skull Design Milwaekee Performance Motorcycle Jacket - Medium Black Polyester",
+      "price": 135,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/730D69DE-A62C-4182-ADF2-3404D134D2D7.webp?v=1783002554",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/730D69DE-A62C-4182-ADF2-3404D134D2D7.webp?v=1783002554",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D652C15-2462-4A95-B030-05CD8A947B83.webp?v=1783002554",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3CE294C0-3766-4287-B878-80229C4A9BD6.webp?v=1783002555"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/skull-design-milwaekee-performance-jacket-mens-black-medium-104483-a",
+      "available": true
+    },
+    {
       "id": 16005522293123,
       "name": "Patagonia Puffer - Large Blue Polyester",
       "price": 130,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-satin-giants-starter-varsity-jacket-mens-blue-large-88490-a",
       "available": true
-    },
-    {
-      "id": 16066350317955,
-      "name": "Coldwave Tactical Utility Jacket - Medium Black Polyester",
-      "price": 135,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/98B9B8D2-0DCE-4EB9-98FE-DA17B07F7B47.webp?v=1783002569",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/98B9B8D2-0DCE-4EB9-98FE-DA17B07F7B47.webp?v=1783002569",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/30D3A0CE-9EC6-48C2-A930-DA9B90CEC1DD.webp?v=1783002569",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C72B8D30-581A-45BD-A092-240B18E53E81.webp?v=1783002570"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/coldwave-jacket-mens-black-medium-104489-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16046359249283,
+      "name": "Orlando Harley Davidson Graphic Hoodie - Large Red Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D8DCA4F7-00B7-4E65-9780-B7AC2D0D713B.webp?v=1782202714",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D8DCA4F7-00B7-4E65-9780-B7AC2D0D713B.webp?v=1782202714",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/214B0E51-394E-4097-9C89-7D0432EA4A53.webp?v=1782202714",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B7B01973-3B81-4186-A0BA-B254E94C31CB.webp?v=1782202715"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-red-large-103250-a",
+      "available": true
+    },
     {
       "id": 16081655660931,
       "name": "Rain Defender Carhartt Hoodie - Medium Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-hoodie-mens-grey-large-99762-a",
       "available": true
-    },
-    {
-      "id": 15964917432707,
-      "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/658808E2-E697-41C6-96FC-DA091AAF7C3A.webp?v=1778685860",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9A1548C-3E4D-4419-9E6C-E10F386B80F4.webp?v=1778685860",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/978547FD-D602-4108-9BB0-A0F06739723E.webp?v=1778685861"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/economy-lumber-carhartt-hoodie-mens-black-medium-98330-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16081648746883,
+      "name": "Made In USA, New York Jets Cliff Engle Nfl Sweatshirt - Large Green Cotton",
+      "price": 92,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/069AEFA4-2AF8-4D8D-863A-EEC6E402A7D9.webp?v=1783595372",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/069AEFA4-2AF8-4D8D-863A-EEC6E402A7D9.webp?v=1783595372",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/27F0ECA7-CDCB-4BE5-944C-45203C57B76F.webp?v=1783595372",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2C2ED559-9E31-4CFF-91E3-194DF7D8894B.webp?v=1783595373"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-new-york-jets-cliff-engle-sweatshirt-mens-green-large-110239-a",
+      "available": true
+    },
     {
       "id": 16073341272451,
       "name": "Polo By Ralph Lauren Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-98545-a",
       "available": true
-    },
-    {
-      "id": 15921452122499,
-      "name": "90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6085DEEC-525A-4277-9540-8B6E1958A99C.webp?v=1777031886",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7186A8B4-68C9-438D-A615-282766C1076B.webp?v=1777031886",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08AF220C-3BEA-4928-8625-565AFFC4848E.webp?v=1777031886"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-christmas-taz-looney-tunes-sweatshirt-mens-white-large-88550-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16081682661763,
+      "name": "Harley Davidson Long Sleeve T-Shirt - Medium Grey Cotton Blend",
+      "price": 84,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C8B1A895-5FD2-4168-9CCC-1840A4F96FBC.webp?v=1783596078",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8B1A895-5FD2-4168-9CCC-1840A4F96FBC.webp?v=1783596078",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ECC775F1-2A50-4318-ACC8-FB7DAEF78104.webp?v=1783596078",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB99CE2F-D26A-4ACD-907A-D0A30553B6F0.webp?v=1783596078"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/harley-davidson-long-sleeve-t-shirt-mens-grey-medium-108374-a",
+      "available": true
+    },
     {
       "id": 16010029269379,
       "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
-      "available": true
-    },
-    {
-      "id": 16081683906947,
-      "name": "Screamin' Eagle Harley Davidson Graphic Long Sleeve T-Shirt - Large Black Cotton Blend",
-      "price": 84,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9CF7067F-39CD-4B71-8BBC-DD2D8EA7A356.webp?v=1783596114",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9CF7067F-39CD-4B71-8BBC-DD2D8EA7A356.webp?v=1783596114",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3A2CF921-1763-46E3-9B00-2E50877B45F5.webp?v=1783596114",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8C81C89-7768-4A46-9FF3-03252373FA78.webp?v=1783596115"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/screamin-eagle-harley-davidson-long-sleeve-t-shirt-mens-black-large-108393-a",
       "available": true
     }
   ]
