@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15919748809091,
+      "name": "90S Satin Giants Starter Varsity Jacket - Large Blue Polyester",
+      "price": 140,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0E5E3860-5853-4530-9C0B-66EBFA84BBE6.webp?v=1776957334",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E5E3860-5853-4530-9C0B-66EBFA84BBE6.webp?v=1776957334",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89FDF5F-FA26-412D-B769-34176DDBFA0E.webp?v=1776957334",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/537E5FE3-87A7-4768-89F9-8B043D69D368.webp?v=1776957335"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/90s-satin-giants-starter-varsity-jacket-mens-blue-large-88490-a",
+      "available": true
+    },
+    {
       "id": 16066350317955,
       "name": "Coldwave Tactical Utility Jacket - Medium Black Polyester",
       "price": 135,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/550-fill-the-north-face-puffer-womens-blue-large-108403-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15950815396227,
-      "name": "90S Made In USA Pirates Daniel'S Sportswear Satin Varsity Jacket - Large Black Polyester",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E9A5CA3C-F6EE-4321-9527-DD9F137AD2CC.webp?v=1778141839",
+      "id": 16008825995651,
+      "name": "Polo Jeans Ralph Lauren Spellout Hoodie - Large Grey Cotton Blend",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0800714D-7267-41B0-8431-967A64C3C79E.webp?v=1780582406",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E9A5CA3C-F6EE-4321-9527-DD9F137AD2CC.webp?v=1778141839",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/490C7DC7-31B8-449A-B2F8-CA3A9D8AB530.webp?v=1778141838",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F5725255-B441-47E5-BABB-39DF30A2218F.webp?v=1778141838"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0800714D-7267-41B0-8431-967A64C3C79E.webp?v=1780582406",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/691EF9A6-3AB9-42C1-B8F8-6F5DD69E8D29.webp?v=1780582406",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4394E3D5-C45A-469D-8F43-AF4883516CD9.webp?v=1780582406"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-pirates-daniels-sportswear-varsity-jacket-mens-black-large-90878-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-hoodie-mens-grey-large-99762-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 15964917432707,
       "name": "Economy Lumber Carhartt Hoodie - Medium Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-small-109507-a",
       "available": true
-    },
-    {
-      "id": 16076591563139,
-      "name": "Nike Spellout Hoodie - Large Black Cotton",
-      "price": 108,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BD63387C-1D79-4164-AF36-5F07A40EEAD1.webp?v=1783438175",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BD63387C-1D79-4164-AF36-5F07A40EEAD1.webp?v=1783438175",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/154157F3-8B9A-4C74-89D8-CB92FC1E97B9.webp?v=1783438175",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC392B8B-3002-4839-8B24-A2A880B537C7.webp?v=1783438179"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-black-large-106477-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16006460965251,
+      "name": "Harley Davidson Graphic Sweatshirt - Medium Black Cotton",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E47E824E-3CA0-4BFD-B35D-25D4D016FF72.webp?v=1780478668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/38492C0D-C9B9-4E43-96CC-B8D100C55A4B.webp?v=1780478669"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-98545-a",
+      "available": true
+    },
     {
       "id": 15921452122499,
       "name": "90S Made In USA Christmas Taz Looney Tunes Christmas Sweatshirt - Large White Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/nike-sweatshirt-mens-blue-large-102891-a",
       "available": true
-    },
-    {
-      "id": 16008151105923,
-      "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Grey Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7397703-D500-4677-8443-9037AB1E4AEC.webp?v=1780561656",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/36524FCB-1714-4A4B-A2F1-3CBD8949C1AA.webp?v=1780561656"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-small-99300-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15873109885315,
+      "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
+      "price": 93,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89D409F-CC4C-4875-A6CC-6C9DEA43E962.webp?v=1774961873",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8F10A35-41EF-4EC0-91C5-DD24F7AD4CB8.webp?v=1774961873"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
+      "available": true
+    },
     {
       "id": 16081683906947,
       "name": "Screamin' Eagle Harley Davidson Graphic Long Sleeve T-Shirt - Large Black Cotton Blend",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/made-in-usa-patagonia-long-sleeve-t-shirt-mens-black-large-109480-a",
-      "available": true
-    },
-    {
-      "id": 15950891680131,
-      "name": "Polo Bear Ralph Lauren Long Sleeve T-Shirt - Medium White Cotton",
-      "price": 86,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B4351744-90B2-4FF7-9893-76F4E98BC574.webp?v=1778142993",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B4351744-90B2-4FF7-9893-76F4E98BC574.webp?v=1778142993",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/82FB206C-8A7C-42EA-837C-7759E05C66FB.webp?v=1778142993",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3F4E2701-A68D-4756-8F48-98AB40A407D2.webp?v=1778142993"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-white-medium-91159-a",
       "available": true
     }
   ]
