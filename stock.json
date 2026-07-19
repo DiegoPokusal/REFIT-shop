@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16076577243523,
+      "name": "Patagonia Puffer - Medium Orange Polyester",
+      "price": 141,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/80FFF9BB-3B35-46B6-A5BA-BADF8848C3F7.webp?v=1783437806",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/80FFF9BB-3B35-46B6-A5BA-BADF8848C3F7.webp?v=1783437806",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8BAB1DD4-1E57-43A5-87A9-53AF75917D49.webp?v=1783437807",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/65E41ED0-922A-482C-B354-01B88DD9810D.webp?v=1783437807"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-orange-medium-106508-a",
+      "available": true
+    },
+    {
       "id": 16081630298499,
       "name": "550 Fill The North Face Puffer - Large Blue Nylon",
       "price": 135,
@@ -513,7 +530,7 @@
     {
       "id": 15876272030083,
       "name": "Chicago Bulls Jh Designs Reversible Graphic Varsity Jacket - Large Red Wool",
-      "price": 143,
+      "price": 142,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-blue-jays-street-legends-varsity-jacket-mens-blue-large-90885-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16035059368323,
-      "name": "Mountain Hard Wear Puffer - Large Black Polyester",
-      "price": 141,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DE986C63-9777-42D8-B50B-296EE2607BCF.webp?v=1781706359",
+      "id": 16073345499523,
+      "name": "Polo By Ralph Lauren Hoodie - Large Grey Cotton",
+      "price": 108,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D37154F4-83C4-49CD-8EF2-BC694F807744.webp?v=1783349962",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DE986C63-9777-42D8-B50B-296EE2607BCF.webp?v=1781706359",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4CAE0E63-C5AA-45C2-9EB2-C0E4D5EC2B79.webp?v=1781706358",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E43772B-A325-449A-AF64-6DEB3A61915F.webp?v=1781706359"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D37154F4-83C4-49CD-8EF2-BC694F807744.webp?v=1783349962",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0C8B37A5-BF70-4A78-9476-3A81E104A35A.webp?v=1783349962",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/285BA14D-DB38-48D1-B76C-9C34C2630852.webp?v=1783349962"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/mountain-hard-wear-puffer-mens-black-large-101485-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-109483-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16073347629443,
       "name": "Polo By Ralph Lauren Hoodie - Small Grey Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-large-100494-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16014361624963,
-      "name": "Carhartt Hoodie - Medium Grey Cotton Blend",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6339FB71-CA43-41F8-B321-5A446EE20ED4.webp?v=1780906166",
+      "id": 16015480357251,
+      "name": "Force Nike Basketball Sweatshirt - Medium Blue Cotton Blend",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F92089AE-87D2-46F7-A5E4-854A07FDA7BD.webp?v=1780931745",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6339FB71-CA43-41F8-B321-5A446EE20ED4.webp?v=1780906166",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CB78761D-730D-4887-8ED9-656FABE1383A.webp?v=1780906166",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7C0F738-BFA7-4676-8E6F-9C58B87EA743.webp?v=1780906167"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F92089AE-87D2-46F7-A5E4-854A07FDA7BD.webp?v=1780931745",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9C66BD74-8417-4D1B-AAAC-8BF7941F5860.webp?v=1780931745",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/734CF953-6620-46BC-A453-EAAE4F6E311B.webp?v=1780931745"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-medium-100521-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/force-nike-sweatshirt-mens-blue-medium-101114-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16038075302275,
       "name": "Nike Spellout Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-nike-sweatshirt-mens-grey-medium-105565-a",
       "available": true
-    },
-    {
-      "id": 16008151695747,
-      "name": "Mickey Mouse Mickey & Co. Cartoon Sweatshirt - Large Red Cotton Blend",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1ADBC924-B04F-4336-B4D9-8345D62B8F21.webp?v=1780561698",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0D072E4-0178-4F0F-B6BD-9BB58595B5D6.webp?v=1780561699"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/mickey-mouse-mickey-co-sweatshirt-mens-red-large-99288-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15995255128451,
+      "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/14AE7C1C-2E62-4DA9-9454-9D6F44F6F591.webp?v=1779954660",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/26C3B55F-DE0B-4E6E-844F-542224E157FC.webp?v=1779954660"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
+      "available": true
+    },
     {
       "id": 16082111431043,
       "name": "Made In USA Patagonia Capeline Long Sleeve T-Shirt - Large Black Polyester",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-small-100773-a",
-      "available": true
-    },
-    {
-      "id": 16081679647107,
-      "name": "Manchester United Nike Football Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 87,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3418C484-DB38-470A-8CB7-AD2C54377AE2.webp?v=1783595978",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3418C484-DB38-470A-8CB7-AD2C54377AE2.webp?v=1783595978",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3190AF49-352F-4CDF-A34F-D5439CBE943A.webp?v=1783595978",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D0531CC5-7F23-4757-9ED1-0B369E9A5F63.webp?v=1783595978"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/manchester-united-nike-long-sleeve-t-shirt-mens-black-large-108686-a",
       "available": true
     }
   ]
