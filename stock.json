@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15910976192899,
+      "name": "Carhartt Jacket - Medium Black Nylon",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F7C93C68-6154-486E-B940-F1FF05553FE6.webp?v=1776675905",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F7C93C68-6154-486E-B940-F1FF05553FE6.webp?v=1776675905",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BD7303A4-2FCA-4661-8158-3DBFBEE5DAE4.webp?v=1776675905",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/44D77130-71E9-4B9F-86D2-BFB1EEC926CF.webp?v=1776675906"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/carhartt-jacket-mens-black-medium-87096-a",
+      "available": true
+    },
+    {
       "id": 16081685021059,
       "name": "90S Camel Puffer - Medium Blue Down",
       "price": 141,
@@ -579,20 +596,20 @@
       "available": true
     },
     {
-      "id": 16038047416707,
-      "name": "Marlboro Reversible Spellout Bomber Jacket - Medium Black Cotton",
+      "id": 15998337810819,
+      "name": "St. Louis Rams Nfl Windbreaker - Medium Blue Polyester",
       "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7B83AF32-B5F1-4DCA-BB8B-DBE754F4889A.webp?v=1781794742",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CD23DDDF-5992-47F3-9055-7B858D382365.webp?v=1780060601",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B83AF32-B5F1-4DCA-BB8B-DBE754F4889A.webp?v=1781794742",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D91F5E9-09C8-4413-8F81-22D13D4DB72A.webp?v=1781794742",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B22869BB-2C47-4302-993A-26DC60408B6F.webp?v=1781794742"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD23DDDF-5992-47F3-9055-7B858D382365.webp?v=1780060601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1D183FA6-1880-4C46-95E2-BDD86AD97D72.webp?v=1780060602",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/645EBDA4-A7BD-4F51-8D7B-4C69414153A0.webp?v=1780060602"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/marlboro-bomber-jacket-mens-black-medium-102474-a",
+      "url": "https://www.thrifted.com/products/st-louis-rams-nfl-windbreaker-mens-blue-medium-97725-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-polo-by-ralph-lauren-puffer-mens-black-large-88927-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15876272030083,
-      "name": "Chicago Bulls Jh Designs Reversible Graphic Varsity Jacket - Large Red Wool",
-      "price": 143,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
+      "id": 16090065273219,
+      "name": "Skateboards Santa Cruz Hoodie - Large Black Cotton",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/524E68FF-D399-4921-9BEA-E382B653CA9C.webp?v=1784027138",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E993F537-FD8F-4497-8F8A-23B9AACCCA50.webp?v=1775119548",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12EE7314-6C97-4B09-85BD-0096AB5C2E1D.webp?v=1775119548"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/524E68FF-D399-4921-9BEA-E382B653CA9C.webp?v=1784027138",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D9EE41A2-5756-4B84-B671-B28A5FA5A4F6.webp?v=1784027138",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A7C99F7E-EF60-490D-8C2C-86B773E9FD33.webp?v=1784027138"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/chicago-bulls-jh-designs-varsity-jacket-mens-red-large-82291-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/skateboards-santa-cruz-hoodie-mens-black-large-110470-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16010029597059,
       "name": "Peace And Love Stussy Hoodie - Large Brown Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/tennessee-adidas-hoodie-mens-orange-large-101152-a",
       "available": true
-    },
-    {
-      "id": 16090064421251,
-      "name": "Quiksilver Hoodie - Medium Black Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7A92CC5D-727D-4172-B0CC-30F1FF6DC129.webp?v=1784027115",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7A92CC5D-727D-4172-B0CC-30F1FF6DC129.webp?v=1784027115",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B73E5F5C-9AB3-414B-9F8A-ABAA00F95F18.webp?v=1784027115",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6BF8E03F-2E83-430B-B88E-387C0DB6BA6B.webp?v=1784027116"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/quiksilver-hoodie-mens-black-medium-110488-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16073347531139,
+      "name": "Polo By Ralph Lauren Sweatshirt - Small Yellow Cotton Blend",
+      "price": 108,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D0F2AB63-23F7-4ADB-B5BC-6184B1369F52.webp?v=1783350020",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D0F2AB63-23F7-4ADB-B5BC-6184B1369F52.webp?v=1783350020",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7E740A0D-53A4-418E-A099-B2945FDA282A.webp?v=1783350020",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BAB7C821-9A8A-4CF9-B2DA-234FC107A940.webp?v=1783350020"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-yellow-small-109506-a",
+      "available": true
+    },
     {
       "id": 16073347694979,
       "name": "Polo By Ralph Lauren Sweatshirt - Small Navy Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-nike-sweatshirt-mens-black-large-106423-a",
       "available": true
-    },
-    {
-      "id": 16081736401283,
-      "name": "Sunglasses Print Oakley Graphic Sweatshirt - Large Orange Cotton",
-      "price": 113,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C6E79534-96A7-495B-9A10-977060476E69.webp?v=1783597379",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C6E79534-96A7-495B-9A10-977060476E69.webp?v=1783597379",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/85288E01-0E9D-407D-A1B5-6FEAD4D7D841.webp?v=1783597379",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/82D092CF-E2A9-4D29-A93F-4FEE3EBEE879.webp?v=1783597380"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/sunglasses-print-oakley-sweatshirt-mens-orange-large-108436-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15935499960707,
+      "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
+      "price": 101,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4115_7958c475-8fb6-48ee-a27b-eb97a72776cc.jpg?v=1777472599",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/WOMENS_5a9e9029-9804-4120-ad44-d4b11547f142.webp?v=1777472598"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-t-shirt-womens-white-medium-398073",
+      "available": true
+    },
     {
       "id": 16062742495619,
       "name": "Bohse Onkelz 1994 Tour Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton",
@@ -2472,23 +2489,6 @@
       "available": true
     },
     {
-      "id": 16010027958659,
-      "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EEA58522-80B9-481F-9F3E-E1CE20741E1E.webp?v=1780661434",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/867DCFB0-9D3B-4248-AA96-EA9A4ED8E6B5.webp?v=1780661434"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/crown-stussy-t-shirt-womens-blue-small-100775-a",
-      "available": true
-    },
-    {
       "id": 16024419959171,
       "name": "Everything Louder Than Everything Else World Tour 93, 94, 95 Meat Loaf Single Stitch T-Shirt - Small Black Cotton",
       "price": 81,
@@ -2503,6 +2503,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/everything-louder-than-everything-else-world-tour-93-94-95-meat-loaf-t-shirt-mens-black-small-101998-a",
+      "available": true
+    },
+    {
+      "id": 16010027958659,
+      "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EEA58522-80B9-481F-9F3E-E1CE20741E1E.webp?v=1780661434",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/867DCFB0-9D3B-4248-AA96-EA9A4ED8E6B5.webp?v=1780661434"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/crown-stussy-t-shirt-womens-blue-small-100775-a",
       "available": true
     },
     {
@@ -2557,23 +2574,6 @@
       "available": true
     },
     {
-      "id": 16010029433219,
-      "name": "Santa Graphic Supreme Christmas T-Shirt - Medium White Cotton",
-      "price": 106,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5995EE68-5C92-4903-9DB1-7A7B85F6FC43.webp?v=1780661514",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5995EE68-5C92-4903-9DB1-7A7B85F6FC43.webp?v=1780661514",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12A4E9E3-D05D-4003-A15A-FC55E168DD0D.webp?v=1780661514",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B51AD5E-761A-417A-A1FA-CA5E85A85CC4.webp?v=1780661520"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/santa-graphic-supreme-t-shirt-mens-white-medium-100812-a",
-      "available": true
-    },
-    {
       "id": 16038077923715,
       "name": "Nike College T-Shirt - Large White Cotton",
       "price": 81,
@@ -2591,20 +2591,20 @@
       "available": true
     },
     {
-      "id": 16008140849539,
-      "name": "Team Force Anvil Graphic T-Shirt - Medium White Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
+      "id": 16010029433219,
+      "name": "Santa Graphic Supreme Christmas T-Shirt - Medium White Cotton",
+      "price": 106,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5995EE68-5C92-4903-9DB1-7A7B85F6FC43.webp?v=1780661514",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/05319E22-3E3E-4F48-B707-D49488B70409.webp?v=1780561125",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/80CEDFCE-53F9-4CCC-8569-B16DA3D30EB2.webp?v=1780561126"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5995EE68-5C92-4903-9DB1-7A7B85F6FC43.webp?v=1780661514",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/12A4E9E3-D05D-4003-A15A-FC55E168DD0D.webp?v=1780661514",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B51AD5E-761A-417A-A1FA-CA5E85A85CC4.webp?v=1780661520"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/team-force-anvil-t-shirt-mens-white-medium-99093-a",
+      "url": "https://www.thrifted.com/products/santa-graphic-supreme-t-shirt-mens-white-medium-100812-a",
       "available": true
     },
     {
@@ -2625,6 +2625,23 @@
       "available": true
     },
     {
+      "id": 16008140849539,
+      "name": "Team Force Anvil Graphic T-Shirt - Medium White Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/05319E22-3E3E-4F48-B707-D49488B70409.webp?v=1780561125",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/80CEDFCE-53F9-4CCC-8569-B16DA3D30EB2.webp?v=1780561126"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/team-force-anvil-t-shirt-mens-white-medium-99093-a",
+      "available": true
+    },
+    {
       "id": 16008142782851,
       "name": "Dale Earnhardt Chase Authentics Nascar T-Shirt - Medium Black Cotton",
       "price": 81,
@@ -2642,23 +2659,6 @@
       "available": true
     },
     {
-      "id": 15916223070595,
-      "name": "Billy Ray Cyrus 1992 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton Blend",
-      "price": 110,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B04F609A-657A-4A07-B876-6D148EA914B5.webp?v=1776868636",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BFBC8DF-91F0-4543-94D5-3213E1E5824C.webp?v=1776868638"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
-      "available": true
-    },
-    {
       "id": 16010030088579,
       "name": "Support Unit Supreme Graphic T-Shirt - Large Black Cotton",
       "price": 115,
@@ -2673,6 +2673,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/support-unit-supreme-t-shirt-mens-black-large-100788-a",
+      "available": true
+    },
+    {
+      "id": 15916223070595,
+      "name": "Billy Ray Cyrus 1992 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton Blend",
+      "price": 110,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B04F609A-657A-4A07-B876-6D148EA914B5.webp?v=1776868636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BFBC8DF-91F0-4543-94D5-3213E1E5824C.webp?v=1776868638"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
       "available": true
     },
     {
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/blade-grid-supreme-long-sleeve-t-shirt-mens-black-large-100807-a",
-      "available": true
-    },
-    {
-      "id": 15916209865091,
-      "name": "1987 Crosby Stills & Nash Signal Single Stitch T-Shirt - Large Blue Polyester Blend",
-      "price": 115,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A42DED85-4B59-41E8-9AEE-C357DFF87A1F.webp?v=1776868443",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A42DED85-4B59-41E8-9AEE-C357DFF87A1F.webp?v=1776868443",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8AD352FB-8424-4765-A00B-A02F829E0DB7.webp?v=1776868443",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3B7920D-5D79-4F67-B2A7-F31362833027.webp?v=1776868443"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/1987-crosby-stills-nash-signal-t-shirt-mens-blue-large-87730-a",
       "available": true
     }
   ]
