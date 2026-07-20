@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15998337810819,
+      "name": "St. Louis Rams Nfl Windbreaker - Medium Blue Polyester",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CD23DDDF-5992-47F3-9055-7B858D382365.webp?v=1780060601",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD23DDDF-5992-47F3-9055-7B858D382365.webp?v=1780060601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1D183FA6-1880-4C46-95E2-BDD86AD97D72.webp?v=1780060602",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/645EBDA4-A7BD-4F51-8D7B-4C69414153A0.webp?v=1780060602"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/st-louis-rams-nfl-windbreaker-mens-blue-medium-97725-a",
+      "available": true
+    },
+    {
       "id": 16046358921603,
       "name": "An American Legend Harley Davidson Bomber Jacket - Medium Black Cotton",
       "price": 130,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/usa-chaps-ralph-lauren-windbreaker-mens-navy-large-101451-a",
       "available": true
-    },
-    {
-      "id": 16038128288131,
-      "name": "Dtm World Champion Porsche Graphic Track Jacket - Medium Black Cotton",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/771E15F0-053B-4EA7-AA31-01F6884ABC2C.webp?v=1781795379",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/771E15F0-053B-4EA7-AA31-01F6884ABC2C.webp?v=1781795379",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7FDEED11-5976-4928-A100-660B7B073E83.webp?v=1781795379",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/72630F3A-7AA7-48A3-8367-C0082BA73D88.webp?v=1781795380"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/dtm-world-champion-porsche-track-jacket-mens-black-medium-102395-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15964913369475,
+      "name": "Carhartt Hoodie - Large Red Cotton Blend",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/750E2FE8-7525-40E2-AA94-7072B61A967B.webp?v=1778685763",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/657C0CD4-AD19-44AB-AE79-03AE4237116D.webp?v=1778685763"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-large-98326-a",
+      "available": true
+    },
     {
       "id": 16079360164227,
       "name": "Nike Hoodie - Large Red Cotton",
@@ -1093,7 +1110,7 @@
     {
       "id": 16066383282563,
       "name": "Made In USA Nike Center Swoosh Hoodie - Large Grey Cotton",
-      "price": 120,
+      "price": 119,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1810C45D-8592-47CB-9206-D1105537ED56.webp?v=1783003664",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/1810C45D-8592-47CB-9206-D1105537ED56.webp?v=1783003664",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/blackhawks-starter-hoodie-mens-black-medium-110257-a",
       "available": true
-    },
-    {
-      "id": 16038140805507,
-      "name": "Realtree Hoodie - Large Camo Cotton",
-      "price": 97,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0A5B181F-127F-4C8A-BABC-01587FB67527.webp?v=1781795486",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A5B181F-127F-4C8A-BABC-01587FB67527.webp?v=1781795486",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6573F33A-D71A-4910-AA71-F1569E60BD23.webp?v=1781795485",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7D382401-6372-4511-8567-1CA092290DBF.webp?v=1781795486"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-large-104758-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15935469355395,
+      "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
+      "price": 106,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4115_ae869931-d027-4e00-8b52-2e49be4852f6.jpg?v=1777472249",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_4589513d-e56f-429a-b587-59e0dc66c1af.webp?v=1777472249"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007",
+      "available": true
+    },
     {
       "id": 16081686397315,
       "name": "90S Guess Sweatshirt - Small Grey Cotton",
@@ -2026,41 +2043,24 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reebok-sweatshirt-mens-green-large-91257-a",
       "available": true
-    },
-    {
-      "id": 15950694482307,
-      "name": "Made In USA 1991 Boston Celtics Fruit Of The Loom Nba Sweatshirt - Large Black Cotton Blend",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B782CAD-BF1D-46AC-B799-1F77AEFF07B2.webp?v=1778140510",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9E2EF43-5490-4C0C-9AF5-907C948D092C.webp?v=1778140510",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08EE7634-71BD-489C-B56C-F6889C8503AF.webp?v=1778140511"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
-      "available": true
     }
   ],
   "tee": [
     {
-      "id": 16010030088579,
-      "name": "Support Unit Supreme Graphic T-Shirt - Large Black Cotton",
-      "price": 115,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/28030029-3890-4254-9926-2CFE9365A832.webp?v=1780661545",
+      "id": 16008140849539,
+      "name": "Team Force Anvil Graphic T-Shirt - Medium White Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/28030029-3890-4254-9926-2CFE9365A832.webp?v=1780661545",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/09066E5A-799D-4509-96AD-3A29EE242B84.webp?v=1780661545",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/44A2284C-5C12-4B51-AB3F-60C044741621.webp?v=1780661545"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/05319E22-3E3E-4F48-B707-D49488B70409.webp?v=1780561125",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/80CEDFCE-53F9-4CCC-8569-B16DA3D30EB2.webp?v=1780561126"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/support-unit-supreme-t-shirt-mens-black-large-100788-a",
+      "url": "https://www.thrifted.com/products/team-force-anvil-t-shirt-mens-white-medium-99093-a",
       "available": true
     },
     {
@@ -2078,6 +2078,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
+      "available": true
+    },
+    {
+      "id": 16010030088579,
+      "name": "Support Unit Supreme Graphic T-Shirt - Large Black Cotton",
+      "price": 115,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/28030029-3890-4254-9926-2CFE9365A832.webp?v=1780661545",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/28030029-3890-4254-9926-2CFE9365A832.webp?v=1780661545",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/09066E5A-799D-4509-96AD-3A29EE242B84.webp?v=1780661545",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/44A2284C-5C12-4B51-AB3F-60C044741621.webp?v=1780661545"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/support-unit-supreme-t-shirt-mens-black-large-100788-a",
       "available": true
     },
     {
@@ -2234,23 +2251,6 @@
       "available": true
     },
     {
-      "id": 16010027860355,
-      "name": "Stussy Spellout T-Shirt - Small Black Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/99122D99-B1D6-428F-AF5D-55DF4A77D5C6.webp?v=1780661426",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3D87BA6-C8F7-4BE7-96FE-80E002D4C325.webp?v=1780661426"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-small-100773-a",
-      "available": true
-    },
-    {
       "id": 16081679647107,
       "name": "Manchester United Nike Football Long Sleeve T-Shirt - Large Black Cotton",
       "price": 87,
@@ -2265,6 +2265,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/manchester-united-nike-long-sleeve-t-shirt-mens-black-large-108686-a",
+      "available": true
+    },
+    {
+      "id": 16010027860355,
+      "name": "Stussy Spellout T-Shirt - Small Black Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/99122D99-B1D6-428F-AF5D-55DF4A77D5C6.webp?v=1780661426",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3D87BA6-C8F7-4BE7-96FE-80E002D4C325.webp?v=1780661426"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-small-100773-a",
       "available": true
     },
     {
@@ -2353,23 +2370,6 @@
       "available": true
     },
     {
-      "id": 16081682661763,
-      "name": "Harley Davidson Long Sleeve T-Shirt - Medium Grey Cotton Blend",
-      "price": 84,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C8B1A895-5FD2-4168-9CCC-1840A4F96FBC.webp?v=1783596078",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8B1A895-5FD2-4168-9CCC-1840A4F96FBC.webp?v=1783596078",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ECC775F1-2A50-4318-ACC8-FB7DAEF78104.webp?v=1783596078",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB99CE2F-D26A-4ACD-907A-D0A30553B6F0.webp?v=1783596078"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/harley-davidson-long-sleeve-t-shirt-mens-grey-medium-108374-a",
-      "available": true
-    },
-    {
       "id": 16010029269379,
       "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
       "price": 106,
@@ -2384,6 +2384,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/mouse-graphic-stussy-t-shirt-mens-blue-medium-100803-a",
+      "available": true
+    },
+    {
+      "id": 16081682661763,
+      "name": "Harley Davidson Long Sleeve T-Shirt - Medium Grey Cotton Blend",
+      "price": 84,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C8B1A895-5FD2-4168-9CCC-1840A4F96FBC.webp?v=1783596078",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8B1A895-5FD2-4168-9CCC-1840A4F96FBC.webp?v=1783596078",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ECC775F1-2A50-4318-ACC8-FB7DAEF78104.webp?v=1783596078",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB99CE2F-D26A-4ACD-907A-D0A30553B6F0.webp?v=1783596078"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/harley-davidson-long-sleeve-t-shirt-mens-grey-medium-108374-a",
       "available": true
     },
     {
@@ -2608,23 +2625,6 @@
       "available": true
     },
     {
-      "id": 16024419959171,
-      "name": "Everything Louder Than Everything Else World Tour 93, 94, 95 Meat Loaf Single Stitch T-Shirt - Small Black Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/68ECC2C8-6650-49D0-A94F-DBD59C9B222F.webp?v=1781275992",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/24BC000A-97CE-42FE-8502-8104ED57E4AD.webp?v=1781275992"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/everything-louder-than-everything-else-world-tour-93-94-95-meat-loaf-t-shirt-mens-black-small-101998-a",
-      "available": true
-    },
-    {
       "id": 16008145437059,
       "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
       "price": 81,
@@ -2642,20 +2642,20 @@
       "available": true
     },
     {
-      "id": 16038126092675,
-      "name": "Made In USA Adidas Striped T-Shirt - Large Red Cotton",
+      "id": 16024419959171,
+      "name": "Everything Louder Than Everything Else World Tour 93, 94, 95 Meat Loaf Single Stitch T-Shirt - Small Black Cotton",
       "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/55B76AD8-D235-47CA-8CE1-AF3E6C3BFADF.webp?v=1781795360",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/55B76AD8-D235-47CA-8CE1-AF3E6C3BFADF.webp?v=1781795360",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5E7EA72C-1106-4122-AEC3-873B34D90865.webp?v=1781795360",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/153624EE-ACD5-4A9B-91E5-31971A50068D.webp?v=1781795360"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/68ECC2C8-6650-49D0-A94F-DBD59C9B222F.webp?v=1781275992",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/24BC000A-97CE-42FE-8502-8104ED57E4AD.webp?v=1781275992"
       ],
       "sizes": [
-        "Large"
+        "Small"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-usa-adidas-t-shirt-mens-red-large-102537-a",
+      "url": "https://www.thrifted.com/products/everything-louder-than-everything-else-world-tour-93-94-95-meat-loaf-t-shirt-mens-black-small-101998-a",
       "available": true
     },
     {
@@ -2673,6 +2673,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/santa-graphic-supreme-t-shirt-mens-white-medium-100812-a",
+      "available": true
+    },
+    {
+      "id": 16038126092675,
+      "name": "Made In USA Adidas Striped T-Shirt - Large Red Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/55B76AD8-D235-47CA-8CE1-AF3E6C3BFADF.webp?v=1781795360",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/55B76AD8-D235-47CA-8CE1-AF3E6C3BFADF.webp?v=1781795360",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5E7EA72C-1106-4122-AEC3-873B34D90865.webp?v=1781795360",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/153624EE-ACD5-4A9B-91E5-31971A50068D.webp?v=1781795360"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/made-in-usa-adidas-t-shirt-mens-red-large-102537-a",
       "available": true
     },
     {
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/polo-bear-polo-by-ralph-lauren-t-shirt-mens-navy-medium-102473-a",
-      "available": true
-    },
-    {
-      "id": 16008142782851,
-      "name": "Dale Earnhardt Chase Authentics Nascar T-Shirt - Medium Black Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/36338130-AF95-4371-8828-67712D26DE2A.webp?v=1780561232",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/36338130-AF95-4371-8828-67712D26DE2A.webp?v=1780561232",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/28DED246-074D-4BCB-9153-2C6006D141EE.webp?v=1780561232",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D9A20FF-173C-4C6C-9428-59E94E9197CC.webp?v=1780561232"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/dale-earnhardt-chase-authentics-t-shirt-mens-black-medium-99185-a",
       "available": true
     }
   ]
