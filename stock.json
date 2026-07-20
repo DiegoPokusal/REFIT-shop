@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16046358921603,
+      "name": "An American Legend Harley Davidson Bomber Jacket - Medium Black Cotton",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C5D66376-86BE-44FC-9A13-0EC228FD6266.webp?v=1782202704",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C5D66376-86BE-44FC-9A13-0EC228FD6266.webp?v=1782202704",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/08BAAE8F-7048-47B6-A5B5-21DA81E845BD.webp?v=1782202705",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B01A012B-2CDD-4040-A96C-0CBD45D35D01.webp?v=1782202705"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/an-american-legend-harley-davidson-bomber-jacket-mens-black-medium-103247-a",
+      "available": true
+    },
+    {
       "id": 15950750089603,
       "name": "Reversible Carhartt Camo Realtree Jacket - Large Camo Polyester",
       "price": 145,
@@ -71,7 +88,7 @@
     {
       "id": 15876272030083,
       "name": "Chicago Bulls Jh Designs Reversible Graphic Varsity Jacket - Large Red Wool",
-      "price": 142,
+      "price": 143,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/C1B1CC28-5F2F-46BB-A6ED-D60692321BB8.webp?v=1775119548",
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/dtm-world-champion-porsche-track-jacket-mens-black-medium-102395-a",
       "available": true
-    },
-    {
-      "id": 15998337810819,
-      "name": "St. Louis Rams Nfl Windbreaker - Medium Blue Polyester",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CD23DDDF-5992-47F3-9055-7B858D382365.webp?v=1780060601",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD23DDDF-5992-47F3-9055-7B858D382365.webp?v=1780060601",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1D183FA6-1880-4C46-95E2-BDD86AD97D72.webp?v=1780060602",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/645EBDA4-A7BD-4F51-8D7B-4C69414153A0.webp?v=1780060602"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/st-louis-rams-nfl-windbreaker-mens-blue-medium-97725-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16079360164227,
+      "name": "Nike Hoodie - Large Red Cotton",
+      "price": 92,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/83D67C39-9968-404C-9C8D-C8608928DD20.webp?v=1783526177",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D67C39-9968-404C-9C8D-C8608928DD20.webp?v=1783526177",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D9E6BF5A-20E0-4016-AB6D-8560EC49119A.webp?v=1783526177",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1997406E-6C55-401A-95B3-1EF9C6185C05.webp?v=1783526178"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-red-large-107012-a",
+      "available": true
+    },
     {
       "id": 15935543181699,
       "name": "Moschino Spellout Hoodie - Small Black Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-large-104758-a",
       "available": true
-    },
-    {
-      "id": 15964913369475,
-      "name": "Carhartt Hoodie - Large Red Cotton Blend",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/90354FE4-2DCA-4B6C-9D44-FA75CB207866.webp?v=1778685763",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/750E2FE8-7525-40E2-AA94-7072B61A967B.webp?v=1778685763",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/657C0CD4-AD19-44AB-AE79-03AE4237116D.webp?v=1778685763"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-red-large-98326-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16081686397315,
+      "name": "90S Guess Sweatshirt - Small Grey Cotton",
+      "price": 87,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9B4E2410-CFB6-4AD5-BCE5-752C1226E7AD.webp?v=1783596187",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B4E2410-CFB6-4AD5-BCE5-752C1226E7AD.webp?v=1783596187",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7332D4DE-0C97-4408-B468-095A97DF0403.webp?v=1783596187",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/67DD24C4-6697-4990-99DB-175712C10C42.webp?v=1783596188"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-guess-sweatshirt-mens-grey-small-107049-a",
+      "available": true
+    },
     {
       "id": 16082111267203,
       "name": "Patagonia Sweatshirt - Medium Brown Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-1991-boston-celtics-fruit-of-the-loom-sweatshirt-mens-black-large-90365-a",
       "available": true
-    },
-    {
-      "id": 15935469355395,
-      "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
-      "price": 106,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4115_ae869931-d027-4e00-8b52-2e49be4852f6.jpg?v=1777472249",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_4589513d-e56f-429a-b587-59e0dc66c1af.webp?v=1777472249"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010030088579,
+      "name": "Support Unit Supreme Graphic T-Shirt - Large Black Cotton",
+      "price": 115,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/28030029-3890-4254-9926-2CFE9365A832.webp?v=1780661545",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/28030029-3890-4254-9926-2CFE9365A832.webp?v=1780661545",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/09066E5A-799D-4509-96AD-3A29EE242B84.webp?v=1780661545",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/44A2284C-5C12-4B51-AB3F-60C044741621.webp?v=1780661545"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/support-unit-supreme-t-shirt-mens-black-large-100788-a",
+      "available": true
+    },
     {
       "id": 15916223070595,
       "name": "Billy Ray Cyrus 1992 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton Blend",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/dale-earnhardt-chase-authentics-t-shirt-mens-black-medium-99185-a",
-      "available": true
-    },
-    {
-      "id": 16008140849539,
-      "name": "Team Force Anvil Graphic T-Shirt - Medium White Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E42B112-A0BA-485B-A8CF-3955A24DDFAC.webp?v=1780561125",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/05319E22-3E3E-4F48-B707-D49488B70409.webp?v=1780561125",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/80CEDFCE-53F9-4CCC-8569-B16DA3D30EB2.webp?v=1780561126"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/team-force-anvil-t-shirt-mens-white-medium-99093-a",
       "available": true
     }
   ]
