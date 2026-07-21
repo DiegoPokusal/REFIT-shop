@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16112452632963,
+      "name": "Patagonia Puffer - Medium Black Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2370F7A7-258D-410A-83F2-7378AEB2F637.webp?v=1784648869",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2370F7A7-258D-410A-83F2-7378AEB2F637.webp?v=1784648869",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CAA41693-D547-4DD6-91D7-40A223AE7F20.webp?v=1784648869",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2A2702CB-DC3F-43F1-B836-0909A35A2E3B.webp?v=1784648869"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-black-medium-111246-a",
+      "available": true
+    },
+    {
       "id": 15919764570499,
       "name": "Satin Steelers Fanatics Football Varsity Jacket - Large Black Polyester",
       "price": 141,
@@ -273,20 +290,20 @@
       "available": true
     },
     {
-      "id": 15900976185731,
-      "name": "Blue Jays Starter Mlb Windbreaker - Large Blue Polyester",
+      "id": 16112464757123,
+      "name": "Mickey Mouse Disney Graphic Varsity Jacket - Large Blue Cotton",
       "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AECDFED3-02B1-48CC-8C98-415781E47876.webp?v=1776333136",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E15969AC-8A1C-43EE-BAED-ACF40464AEB9.webp?v=1784649370",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AECDFED3-02B1-48CC-8C98-415781E47876.webp?v=1776333136",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/005AAD59-0173-4893-A785-5780BE2CE8B0.webp?v=1776333136",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/42501A31-6627-493E-8448-71FB1E4A2949.webp?v=1776333136"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E15969AC-8A1C-43EE-BAED-ACF40464AEB9.webp?v=1784649370",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5887014-C334-4C21-9083-8BADF47A6EF4.webp?v=1784649370",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D79B42D9-E846-4A27-983C-AE01988FF734.webp?v=1784649371"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/blue-jays-starter-windbreaker-mens-blue-large-86313-a",
+      "url": "https://www.thrifted.com/products/mickey-mouse-disney-varsity-jacket-mens-blue-large-111360-a",
       "available": true
     },
     {
@@ -341,20 +358,20 @@
       "available": true
     },
     {
-      "id": 15900975661443,
-      "name": "Green Bay Packers N.F.L. Pro Line Apex One Nfl Windbreaker - Large Black Nylon",
+      "id": 15900976185731,
+      "name": "Blue Jays Starter Mlb Windbreaker - Large Blue Polyester",
       "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3B2F42A4-5BF7-4C1E-B221-48A4B2C3C9F7.webp?v=1776333120",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AECDFED3-02B1-48CC-8C98-415781E47876.webp?v=1776333136",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B2F42A4-5BF7-4C1E-B221-48A4B2C3C9F7.webp?v=1776333120",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/074B751A-1C5A-4A11-9C96-8F3521638F30.webp?v=1776333120",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/53AC8A58-83DD-48C9-95CC-980847E7E6CF.webp?v=1776333120"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AECDFED3-02B1-48CC-8C98-415781E47876.webp?v=1776333136",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/005AAD59-0173-4893-A785-5780BE2CE8B0.webp?v=1776333136",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/42501A31-6627-493E-8448-71FB1E4A2949.webp?v=1776333136"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/green-bay-packers-n-f-l-pro-line-windbreaker-mens-black-large-86308-a",
+      "url": "https://www.thrifted.com/products/blue-jays-starter-windbreaker-mens-blue-large-86313-a",
       "available": true
     },
     {
@@ -426,20 +443,20 @@
       "available": true
     },
     {
-      "id": 15919748809091,
-      "name": "90S Satin Giants Starter Varsity Jacket - Large Blue Polyester",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0E5E3860-5853-4530-9C0B-66EBFA84BBE6.webp?v=1776957334",
+      "id": 15900975661443,
+      "name": "Green Bay Packers N.F.L. Pro Line Apex One Nfl Windbreaker - Large Black Nylon",
+      "price": 132,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3B2F42A4-5BF7-4C1E-B221-48A4B2C3C9F7.webp?v=1776333120",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E5E3860-5853-4530-9C0B-66EBFA84BBE6.webp?v=1776957334",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89FDF5F-FA26-412D-B769-34176DDBFA0E.webp?v=1776957334",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/537E5FE3-87A7-4768-89F9-8B043D69D368.webp?v=1776957335"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B2F42A4-5BF7-4C1E-B221-48A4B2C3C9F7.webp?v=1776333120",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/074B751A-1C5A-4A11-9C96-8F3521638F30.webp?v=1776333120",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/53AC8A58-83DD-48C9-95CC-980847E7E6CF.webp?v=1776333120"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/90s-satin-giants-starter-varsity-jacket-mens-blue-large-88490-a",
+      "url": "https://www.thrifted.com/products/green-bay-packers-n-f-l-pro-line-windbreaker-mens-black-large-86308-a",
       "available": true
     },
     {
@@ -494,20 +511,20 @@
       "available": true
     },
     {
-      "id": 16066383184259,
-      "name": "Nike Bomber Jacket - Medium Black Polyester",
-      "price": 129,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FC2B89-2D1A-453D-A2AD-ABFC1BD7778C.webp?v=1783003658",
+      "id": 15919748809091,
+      "name": "90S Satin Giants Starter Varsity Jacket - Large Blue Polyester",
+      "price": 132,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0E5E3860-5853-4530-9C0B-66EBFA84BBE6.webp?v=1776957334",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FC2B89-2D1A-453D-A2AD-ABFC1BD7778C.webp?v=1783003658",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A75CC551-1C84-4A96-83C0-3E9D7D89C105.webp?v=1783003658",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7CE333D4-37DF-41D7-BAEF-C96E840918AD.webp?v=1783003659"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E5E3860-5853-4530-9C0B-66EBFA84BBE6.webp?v=1776957334",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89FDF5F-FA26-412D-B769-34176DDBFA0E.webp?v=1776957334",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/537E5FE3-87A7-4768-89F9-8B043D69D368.webp?v=1776957335"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/nike-bomber-jacket-mens-black-medium-105574-a",
+      "url": "https://www.thrifted.com/products/90s-satin-giants-starter-varsity-jacket-mens-blue-large-88490-a",
       "available": true
     },
     {
@@ -562,20 +579,20 @@
       "available": true
     },
     {
-      "id": 16051381502339,
-      "name": "90S Multi Pocket Gap Tactical Puffer - Small Green Nylon",
+      "id": 16066383184259,
+      "name": "Nike Bomber Jacket - Medium Black Polyester",
       "price": 129,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E04D839A-F8FF-45DA-B040-3C7721FA3257.webp?v=1782399410",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FC2B89-2D1A-453D-A2AD-ABFC1BD7778C.webp?v=1783003658",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E04D839A-F8FF-45DA-B040-3C7721FA3257.webp?v=1782399410",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7B62160-55F9-488F-ADCD-C0E4495B0935.webp?v=1782399410",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5A5311C7-1646-4BFF-9401-F5E156862E8D.webp?v=1782399411"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FC2B89-2D1A-453D-A2AD-ABFC1BD7778C.webp?v=1783003658",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A75CC551-1C84-4A96-83C0-3E9D7D89C105.webp?v=1783003658",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7CE333D4-37DF-41D7-BAEF-C96E840918AD.webp?v=1783003659"
       ],
       "sizes": [
-        "Small"
+        "Medium"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/90s-multi-pocket-gap-puffer-mens-green-small-103895-a",
+      "url": "https://www.thrifted.com/products/nike-bomber-jacket-mens-black-medium-105574-a",
       "available": true
     },
     {
@@ -630,20 +647,20 @@
       "available": true
     },
     {
-      "id": 16046383071619,
-      "name": "Tommy Hilfiger Jacket - Medium Brown Polyester",
+      "id": 16051381502339,
+      "name": "90S Multi Pocket Gap Tactical Puffer - Small Green Nylon",
       "price": 129,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CF91E09A-A686-4611-8CF5-9EB2FFF3E8E2.webp?v=1782203287",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E04D839A-F8FF-45DA-B040-3C7721FA3257.webp?v=1782399410",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CF91E09A-A686-4611-8CF5-9EB2FFF3E8E2.webp?v=1782203287",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/29BBC5AD-A8F6-4E04-A928-E8A559339E5F.webp?v=1782203287",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7AECE967-C50A-4052-AB5C-1A1002024733.webp?v=1782203289"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E04D839A-F8FF-45DA-B040-3C7721FA3257.webp?v=1782399410",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7B62160-55F9-488F-ADCD-C0E4495B0935.webp?v=1782399410",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5A5311C7-1646-4BFF-9401-F5E156862E8D.webp?v=1782399411"
       ],
       "sizes": [
-        "Medium"
+        "Small"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-jacket-mens-brown-medium-103619-a",
+      "url": "https://www.thrifted.com/products/90s-multi-pocket-gap-puffer-mens-green-small-103895-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-jacket-mens-beige-large-103891-a",
       "available": true
-    },
-    {
-      "id": 16082329993603,
-      "name": "Polo By Ralph Lauren Ma1 Bomber Jacket - Large Navy Nylon",
-      "price": 129,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B4F1ADC1-32D1-4111-ACEE-E933AB5D8C24.webp?v=1783610118",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B4F1ADC1-32D1-4111-ACEE-E933AB5D8C24.webp?v=1783610118",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CAD75648-31B9-45B2-8AAE-0B811E907524.webp?v=1783610118",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8D966C57-2E17-444E-9E4E-A1F51A7EFBB3.webp?v=1783610119"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-bomber-jacket-mens-navy-large-109621-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16014367490435,
+      "name": "Surfing Quiksilver Graphic Hoodie - Medium Blue Cotton Blend",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/09D55737-D043-481B-A8DB-F1B7FFD627C3.webp?v=1780906276",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/09D55737-D043-481B-A8DB-F1B7FFD627C3.webp?v=1780906276",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B685EC1-F310-4F75-896A-6413BE241B14.webp?v=1780906276",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE6BDF3B-8A90-43D2-ABB2-09F689D087CA.webp?v=1780906277"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/surfing-quiksilver-hoodie-mens-blue-medium-100562-a",
+      "available": true
+    },
     {
       "id": 16112429957507,
       "name": "Camouflage Realtree Camo Hoodie - Medium Grey Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-hoodie-mens-grey-large-99762-a",
       "available": true
-    },
-    {
-      "id": 16015499624835,
-      "name": "Nike Hoodie - Large Green Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FBFDA754-8150-4BE3-BB71-787282A2172E.webp?v=1780932128",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FBFDA754-8150-4BE3-BB71-787282A2172E.webp?v=1780932128",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0340D542-8373-4DC2-BB0A-F3B036AE8BC9.webp?v=1780932128",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1639EBC2-6358-4153-85FF-ABC881A703DD.webp?v=1780932128"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-green-large-101150-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 15964912222595,
+      "name": "Original Fit Carhartt Sweatshirt - Medium Grey Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5352012A-3718-4A28-8704-32B6B33023A6.webp?v=1778685741",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/70A2D0E3-4B9F-4BC3-BA79-34CE500014F4.webp?v=1778685740",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A44C023-9D96-4E98-A6CC-073A55EFF0E3.webp?v=1778685741"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/original-fit-carhartt-sweatshirt-mens-grey-medium-98314-a",
+      "available": true
+    },
     {
       "id": 16112458367363,
       "name": "Trick Or Treat Looney Tunes Halloween Sweatshirt - Large White Cotton",
@@ -1804,23 +1821,6 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-small-99300-a",
-      "available": true
-    },
-    {
-      "id": 16081648746883,
-      "name": "Made In USA, New York Jets Cliff Engle Nfl Sweatshirt - Large Green Cotton",
-      "price": 92,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/069AEFA4-2AF8-4D8D-863A-EEC6E402A7D9.webp?v=1783595372",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/069AEFA4-2AF8-4D8D-863A-EEC6E402A7D9.webp?v=1783595372",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/27F0ECA7-CDCB-4BE5-944C-45203C57B76F.webp?v=1783595372",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2C2ED559-9E31-4CFF-91E3-194DF7D8894B.webp?v=1783595373"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-new-york-jets-cliff-engle-sweatshirt-mens-green-large-110239-a",
       "available": true
     },
     {
