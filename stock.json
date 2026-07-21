@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16051381502339,
+      "name": "90S Multi Pocket Gap Tactical Puffer - Small Green Nylon",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E04D839A-F8FF-45DA-B040-3C7721FA3257.webp?v=1782399410",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E04D839A-F8FF-45DA-B040-3C7721FA3257.webp?v=1782399410",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7B62160-55F9-488F-ADCD-C0E4495B0935.webp?v=1782399410",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5A5311C7-1646-4BFF-9401-F5E156862E8D.webp?v=1782399411"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/90s-multi-pocket-gap-puffer-mens-green-small-103895-a",
+      "available": true
+    },
+    {
       "id": 16051380912515,
       "name": "Polo By Ralph Lauren Barn Coat Jacket - Large Beige Cotton",
       "price": 130,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/packers-fan-windbreaker-mens-green-large-94914-a",
       "available": true
-    },
-    {
-      "id": 16010028056963,
-      "name": "International Stussy Rain Mac Windbreaker - Large Black Polyester",
-      "price": 133,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9F5B80DA-4C67-42E9-A3C5-E9097F30E72D.webp?v=1780661443",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9F5B80DA-4C67-42E9-A3C5-E9097F30E72D.webp?v=1780661443",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/806D9983-4C36-40E3-9D8A-1A3BE74B6434.webp?v=1780661443",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/92D88D62-4811-4DF1-9D87-E821F33C9415.webp?v=1780661444"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/international-stussy-windbreaker-mens-black-large-100764-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16045074579843,
+      "name": "Armani Exchange Hoodie - Small Black Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1783BEC5-3387-40A8-BBFF-E84202DB2ACC.webp?v=1782134539",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1783BEC5-3387-40A8-BBFF-E84202DB2ACC.webp?v=1782134539",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/14220D59-5158-454C-BF44-3FCE0BBBB9E8.webp?v=1782134540",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/98EF36B5-F36A-4BF3-9DEF-E7E51A26B91E.webp?v=1782134540"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/armani-exchange-hoodie-mens-black-small-102638-a",
+      "available": true
+    },
     {
       "id": 16008825995651,
       "name": "Polo Jeans Ralph Lauren Spellout Hoodie - Large Grey Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/winchester-hoodie-mens-camo-large-106231-a",
       "available": true
-    },
-    {
-      "id": 16079367012739,
-      "name": "Thermal Lined Carhartt Full Zip Hoodie - Medium Grey Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/62BCD8B0-47A5-45CB-830D-7110CCA852A8.webp?v=1783526350",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/62BCD8B0-47A5-45CB-830D-7110CCA852A8.webp?v=1783526350",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6839B34E-69AE-467D-9F9D-926F5B4B359F.webp?v=1783526350",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD95C440-C1B2-4771-AACD-67A215109C35.webp?v=1783526351"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/thermal-lined-carhartt-hoodie-mens-grey-medium-107312-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16034981478787,
+      "name": "Toronto Raptors Logo 7 Nba Sweatshirt - Large Black Cotton",
+      "price": 92,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6C5BDFB3-8523-44BE-B422-8AC08B6B19DF.webp?v=1781704962",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6C5BDFB3-8523-44BE-B422-8AC08B6B19DF.webp?v=1781704962",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2898A777-D323-4214-BD81-1B8C2CBF800E.webp?v=1781704962",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/355528E9-914B-4A24-848E-63D50F8DBBE1.webp?v=1781704963"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/toronto-raptors-logo-7-sweatshirt-mens-black-large-102588-a",
+      "available": true
+    },
     {
       "id": 16008135639427,
       "name": "Made In USA Looney Tunes Kentucky Taz Attack Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-grey-large-110530-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15910937657731,
-      "name": "90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend",
-      "price": 88,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
+      "id": 15873109885315,
+      "name": "Get Nervous Tour 82-83 Pat Benatar Single Stitch T-Shirt - Large Grey Cotton",
+      "price": 86,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1672162-A6CA-4BDA-B571-C7F71B81F22C.webp?v=1776674558",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19BE483B-E1E1-464C-8E0E-1038472BF887.webp?v=1776674557",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD22E655-93F8-4BF8-B0B4-03F66FB000BC.webp?v=1776674558"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/761D0B89-0AF3-4297-AAA7-71507FAC1202.webp?v=1774961873",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B89D409F-CC4C-4875-A6CC-6C9DEA43E962.webp?v=1774961873",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8F10A35-41EF-4EC0-91C5-DD24F7AD4CB8.webp?v=1774961873"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/tommy-jeans-sweatshirt-mens-navy-large-86505-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/get-nervous-tour-82-83-pat-benatar-t-shirt-mens-grey-large-80137-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16010027958659,
       "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/mossy-oak-long-sleeve-t-shirt-mens-camo-large-111191-a",
-      "available": true
-    },
-    {
-      "id": 16081679647107,
-      "name": "Manchester United Nike Football Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 87,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3418C484-DB38-470A-8CB7-AD2C54377AE2.webp?v=1783595978",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3418C484-DB38-470A-8CB7-AD2C54377AE2.webp?v=1783595978",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3190AF49-352F-4CDF-A34F-D5439CBE943A.webp?v=1783595978",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D0531CC5-7F23-4757-9ED1-0B369E9A5F63.webp?v=1783595978"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/manchester-united-nike-long-sleeve-t-shirt-mens-black-large-108686-a",
       "available": true
     }
   ]
