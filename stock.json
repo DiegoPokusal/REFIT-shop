@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16051381502339,
+      "name": "90S Multi Pocket Gap Tactical Puffer - Small Green Nylon",
+      "price": 129,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E04D839A-F8FF-45DA-B040-3C7721FA3257.webp?v=1782399410",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E04D839A-F8FF-45DA-B040-3C7721FA3257.webp?v=1782399410",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7B62160-55F9-488F-ADCD-C0E4495B0935.webp?v=1782399410",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5A5311C7-1646-4BFF-9401-F5E156862E8D.webp?v=1782399411"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/90s-multi-pocket-gap-puffer-mens-green-small-103895-a",
+      "available": true
+    },
+    {
       "id": 16046368129411,
       "name": "Tommy Hilfiger Puffer - Large Red Polyester",
       "price": 129,
@@ -598,7 +615,7 @@
     {
       "id": 16005516820867,
       "name": "Patagonia Puffer - Medium Black Polyester",
-      "price": 130,
+      "price": 129,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E01BE5A8-6CDB-4332-A892-EAE795F415CD.webp?v=1780414745",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/E01BE5A8-6CDB-4332-A892-EAE795F415CD.webp?v=1780414745",
@@ -649,7 +666,7 @@
     {
       "id": 16051380584835,
       "name": "Tommy Hilfiger Puffer - Small Black Polyester",
-      "price": 130,
+      "price": 129,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CF2F4768-DFA1-4B69-8675-0EBC2A776CE0.webp?v=1782399381",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/CF2F4768-DFA1-4B69-8675-0EBC2A776CE0.webp?v=1782399381",
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/tommy-hilfiger-puffer-mens-black-small-103896-a",
       "available": true
-    },
-    {
-      "id": 16066383184259,
-      "name": "Nike Bomber Jacket - Medium Black Polyester",
-      "price": 129,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FC2B89-2D1A-453D-A2AD-ABFC1BD7778C.webp?v=1783003658",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FC2B89-2D1A-453D-A2AD-ABFC1BD7778C.webp?v=1783003658",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A75CC551-1C84-4A96-83C0-3E9D7D89C105.webp?v=1783003658",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7CE333D4-37DF-41D7-BAEF-C96E840918AD.webp?v=1783003659"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/nike-bomber-jacket-mens-black-medium-105574-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 15916341657987,
+      "name": "Orlando Harley Davidson Graphic Hoodie - Large Black Cotton",
+      "price": 93,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/04A5726A-027B-467D-8EE7-C168FF627735.webp?v=1776870747",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/04A5726A-027B-467D-8EE7-C168FF627735.webp?v=1776870747",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DD6A924-1281-4659-ADB7-745E35B30552.webp?v=1776870747",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/51796C08-B075-4F54-BAA8-81D05C67DF60.webp?v=1776870748"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/orlando-harley-davidson-hoodie-mens-black-large-88136-a",
+      "available": true
+    },
     {
       "id": 15964916941187,
       "name": "Carhartt Hoodie - Small Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/surfing-quiksilver-hoodie-mens-blue-medium-100562-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 15950845378947,
-      "name": "Polo By Ralph Lauren Colour Block Spellout Hoodie - Medium Green Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
+      "id": 15982016496003,
+      "name": "Biker Series Looney Tunes Cartoon Sweatshirt - Medium Green Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/74A8CDA0-A97B-4F5D-9174-E31DFBDE72A9.webp?v=1778142311",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED3213CB-5814-458E-B05F-582584BD8D1A.webp?v=1778142311",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CA2A1E3-71EE-43D9-A8D5-1FD11D35A7F4.webp?v=1778142312"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D21C389-3EA7-4028-BD5D-49FDA2C11ED5.webp?v=1779441066",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AF7170DC-4C33-46BB-87E8-42183A65BAED.webp?v=1779441066",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C149BB02-A924-44AB-9A81-CF17BC96D0F2.webp?v=1779441066"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-green-medium-90935-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/biker-series-looney-tunes-sweatshirt-mens-green-medium-95953-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15950926807427,
       "name": "Reverse Weave Cal State Champion Sweatshirt - Medium Navy Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/original-fit-carhartt-sweatshirt-mens-grey-medium-98314-a",
       "available": true
-    },
-    {
-      "id": 16034979905923,
-      "name": "Green Bay Packers Logo Athletics Nfl Sweatshirt - Large Green Cotton",
-      "price": 92,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DB98595A-DC14-4A58-9146-C9ECEB14C213.webp?v=1781704935",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DB98595A-DC14-4A58-9146-C9ECEB14C213.webp?v=1781704935",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/79A7C813-90C7-4136-8138-4C96D1005F30.webp?v=1781704936",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D8CBEC21-447D-4777-85F1-F4C0B243349C.webp?v=1781704935"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/green-bay-packers-logo-athletics-sweatshirt-mens-green-large-102569-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16024419959171,
+      "name": "Everything Louder Than Everything Else World Tour 93, 94, 95 Meat Loaf Single Stitch T-Shirt - Small Black Cotton",
+      "price": 81,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B2D6F227-558D-405B-93A0-881619AFE993.webp?v=1781275992",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/68ECC2C8-6650-49D0-A94F-DBD59C9B222F.webp?v=1781275992",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/24BC000A-97CE-42FE-8502-8104ED57E4AD.webp?v=1781275992"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/everything-louder-than-everything-else-world-tour-93-94-95-meat-loaf-t-shirt-mens-black-small-101998-a",
+      "available": true
+    },
     {
       "id": 16010029433219,
       "name": "Santa Graphic Supreme Christmas T-Shirt - Medium White Cotton",
@@ -2540,23 +2557,6 @@
       "available": true
     },
     {
-      "id": 16038275842435,
-      "name": "Coors Light Branding Molson Graphic Long Sleeve T-Shirt - Medium White Cotton",
-      "price": 84,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B79FEBE1-7D64-49E5-99D2-279D6E2E0881.webp?v=1781796507",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B79FEBE1-7D64-49E5-99D2-279D6E2E0881.webp?v=1781796507",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B568F182-2973-4357-83A7-8C5D2F25B598.webp?v=1781796507",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C43C3BB-2034-4B70-9156-B796F5A3928C.webp?v=1781796507"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/coors-light-branding-molson-long-sleeve-t-shirt-mens-white-medium-102414-a",
-      "available": true
-    },
-    {
       "id": 16081687740803,
       "name": "90S Guess Striped T-Shirt - Large Beige Cotton",
       "price": 81,
@@ -2571,6 +2571,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/90s-guess-t-shirt-mens-beige-large-107059-a",
+      "available": true
+    },
+    {
+      "id": 16038275842435,
+      "name": "Coors Light Branding Molson Graphic Long Sleeve T-Shirt - Medium White Cotton",
+      "price": 84,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B79FEBE1-7D64-49E5-99D2-279D6E2E0881.webp?v=1781796507",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B79FEBE1-7D64-49E5-99D2-279D6E2E0881.webp?v=1781796507",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B568F182-2973-4357-83A7-8C5D2F25B598.webp?v=1781796507",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C43C3BB-2034-4B70-9156-B796F5A3928C.webp?v=1781796507"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/coors-light-branding-molson-long-sleeve-t-shirt-mens-white-medium-102414-a",
       "available": true
     },
     {
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/bobby-labonte-chase-authentics-t-shirt-mens-white-medium-99146-a",
-      "available": true
-    },
-    {
-      "id": 16008145437059,
-      "name": "Dale Jarrett Competitors View Nascar T-Shirt - Large Black Cotton",
-      "price": 81,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B3947DB-4E6E-4D05-BB33-1E1CA0BC696D.webp?v=1780561379",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8E0A31AF-F750-4810-A7E4-BB68241511D3.webp?v=1780561379",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/58DB06C6-B38D-4BA2-8527-313CE1B744C6.webp?v=1780561380"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/dale-jarrett-competitors-view-t-shirt-mens-black-large-99171-a",
       "available": true
     }
   ]
