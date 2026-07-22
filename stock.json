@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16073348612483,
+      "name": "Tommy Hilfiger Puffer - Medium Brown Polyester",
+      "price": 129,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9AF45444-FD15-4DD4-9EB6-A933FB85F26F.webp?v=1783350069",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9AF45444-FD15-4DD4-9EB6-A933FB85F26F.webp?v=1783350069",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BDD6C863-9194-475B-94D8-74E997CBFC68.webp?v=1783350070",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB7ACA25-F31E-446F-A80D-A7DBB57D9B24.webp?v=1783350070"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/tommy-hilfiger-puffer-mens-brown-medium-106401-a",
+      "available": true
+    },
+    {
       "id": 15972718903683,
       "name": "Packers Fan Spellout Windbreaker - Large Green Nylon",
       "price": 135,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/skull-design-milwaekee-performance-jacket-mens-black-medium-104483-a",
       "available": true
-    },
-    {
-      "id": 16066383184259,
-      "name": "Nike Bomber Jacket - Medium Black Polyester",
-      "price": 129,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FC2B89-2D1A-453D-A2AD-ABFC1BD7778C.webp?v=1783003658",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FC2B89-2D1A-453D-A2AD-ABFC1BD7778C.webp?v=1783003658",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A75CC551-1C84-4A96-83C0-3E9D7D89C105.webp?v=1783003658",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7CE333D4-37DF-41D7-BAEF-C96E840918AD.webp?v=1783003659"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/nike-bomber-jacket-mens-black-medium-105574-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16081636688259,
+      "name": "Rain Defender Carhartt Hoodie - Large Navy Cotton",
+      "price": 97,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3E0FF608-CDF7-4FC5-97D0-A74F2AC53A05.webp?v=1783595224",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E0FF608-CDF7-4FC5-97D0-A74F2AC53A05.webp?v=1783595224",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AB4DD79-E806-4372-86A7-322B5088C278.webp?v=1783595223",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9206EC72-158A-406C-AF4D-22E9554F2EC2.webp?v=1783595224"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-navy-large-110287-a",
+      "available": true
+    },
     {
       "id": 16049106911619,
       "name": "Winchester Hoodie - Large Camo Polyester",
@@ -1054,23 +1071,6 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/quiksilver-hoodie-mens-black-large-110479-a",
-      "available": true
-    },
-    {
-      "id": 16010028482947,
-      "name": "Reggae Stussy Roots Graphic Hoodie - Small Grey Cotton",
-      "price": 120,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7E2F92E3-201B-42A3-8011-381FF1FBA758.webp?v=1780661471",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7E2F92E3-201B-42A3-8011-381FF1FBA758.webp?v=1780661471",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5E44B11B-6168-453D-9B9A-DF1936EE201C.webp?v=1780661471",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/69EF37F9-07B6-44E3-9E2D-0AFD1E84DC21.webp?v=1780661471"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reggae-stussy-hoodie-mens-grey-small-100776-a",
       "available": true
     },
     {
@@ -2659,6 +2659,23 @@
       "available": true
     },
     {
+      "id": 16112425763203,
+      "name": "Ranger Long Sleeve T-Shirt - Large Camo Cotton Blend",
+      "price": 87,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/23DFB522-F54A-4348-8F57-51667F4C5AD1.webp?v=1784648355",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/23DFB522-F54A-4348-8F57-51667F4C5AD1.webp?v=1784648355",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/42A7B8A0-0B21-4D55-A7B5-3442B8E33416.webp?v=1784648355",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/931602FC-14BB-4B5D-96AC-0B9F67F09697.webp?v=1784648355"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/ranger-long-sleeve-t-shirt-mens-camo-large-111197-a",
+      "available": true
+    },
+    {
       "id": 16112454959491,
       "name": "Daytona 500 Nascar Graphic Long Sleeve T-Shirt - Large Navy Cotton",
       "price": 87,
@@ -2673,23 +2690,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/daytona-500-nascar-long-sleeve-t-shirt-mens-navy-large-111262-a",
-      "available": true
-    },
-    {
-      "id": 16112429171075,
-      "name": "Hunting Realtree Long Sleeve T-Shirt - Large Camo Cotton",
-      "price": 87,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/23564CAA-CAB8-4870-ABFF-D6212E8D926B.webp?v=1784648422",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/23564CAA-CAB8-4870-ABFF-D6212E8D926B.webp?v=1784648422",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A2DBDC9-2D54-4A22-B7D6-949A6A807F22.webp?v=1784648423",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ADAC8583-7E67-43EF-A451-D214792ECA72.webp?v=1784648422"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/hunting-realtree-long-sleeve-t-shirt-mens-camo-large-111215-a",
       "available": true
     },
     {
@@ -2710,20 +2710,20 @@
       "available": true
     },
     {
-      "id": 16112426025347,
-      "name": "Mossy Oak Long Sleeve T-Shirt - Small Camo Cotton Blend",
+      "id": 16112429171075,
+      "name": "Hunting Realtree Long Sleeve T-Shirt - Large Camo Cotton",
       "price": 87,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/23389052-0F0A-46DA-9B89-950D21D5E228.webp?v=1784648376",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/23564CAA-CAB8-4870-ABFF-D6212E8D926B.webp?v=1784648422",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/23389052-0F0A-46DA-9B89-950D21D5E228.webp?v=1784648376",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A23471A-86CB-4AE5-8DFA-C69CC2680F0F.webp?v=1784648376",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83D1DCBA-F1A8-4E29-85D1-080B713C6D36.webp?v=1784648376"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/23564CAA-CAB8-4870-ABFF-D6212E8D926B.webp?v=1784648422",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A2DBDC9-2D54-4A22-B7D6-949A6A807F22.webp?v=1784648423",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ADAC8583-7E67-43EF-A451-D214792ECA72.webp?v=1784648422"
       ],
       "sizes": [
-        "Small"
+        "Large"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/mossy-oak-long-sleeve-t-shirt-mens-camo-small-111202-a",
+      "url": "https://www.thrifted.com/products/hunting-realtree-long-sleeve-t-shirt-mens-camo-large-111215-a",
       "available": true
     }
   ]
