@@ -188,6 +188,23 @@
       "available": true
     },
     {
+      "id": 15874287796611,
+      "name": "700 Fill The North Face Puffer - Large Grey Down",
+      "price": 135,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B0FEBCEE-CCA2-4CC6-947E-FAF617DAE304.webp?v=1775034316",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0FEBCEE-CCA2-4CC6-947E-FAF617DAE304.webp?v=1775034316",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DACFC1D6-5742-4194-AEC2-2E63AB36CA5F.webp?v=1775034316",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C4B3F884-4485-4743-BE7F-F6A215A03896.webp?v=1775034317"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-grey-large-82182-a",
+      "available": true
+    },
+    {
       "id": 15919755526531,
       "name": "Carolina Panthers Pro Player Graphic Windbreaker - Large Blue Polyester",
       "price": 141,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-polo-by-ralph-lauren-puffer-mens-black-large-88927-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15910976192899,
-      "name": "Carhartt Jacket - Medium Black Nylon",
-      "price": 136,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F7C93C68-6154-486E-B940-F1FF05553FE6.webp?v=1776675905",
+      "id": 16117236629891,
+      "name": "Diesel Hoodie - Medium Green Cotton Blend",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B6E6123A-770D-41AA-8BD5-D69871986A9F.webp?v=1784728253",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F7C93C68-6154-486E-B940-F1FF05553FE6.webp?v=1776675905",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BD7303A4-2FCA-4661-8158-3DBFBEE5DAE4.webp?v=1776675905",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/44D77130-71E9-4B9F-86D2-BFB1EEC926CF.webp?v=1776675906"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B6E6123A-770D-41AA-8BD5-D69871986A9F.webp?v=1784728253",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/649FEDE6-E12A-4300-BF25-57C6E8FB7842.webp?v=1784728252",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BC768277-D9DC-4D56-BB5F-8575442CA216.webp?v=1784728253"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/carhartt-jacket-mens-black-medium-87096-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/diesel-hoodie-mens-green-medium-113538-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16066383282563,
       "name": "Made In USA Nike Center Swoosh Hoodie - Large Grey Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/skateboard-magazine-thrasher-hoodie-mens-black-small-113788-a",
       "available": true
-    },
-    {
-      "id": 16117237318019,
-      "name": "Realtree Camo Hoodie - Medium Camo Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/69EE3843-7BC6-49F3-9DCA-8E240694F547.webp?v=1784728291",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/69EE3843-7BC6-49F3-9DCA-8E240694F547.webp?v=1784728291",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/67AFB8AE-E6F5-4D60-A4C3-C751EE096A3E.webp?v=1784728291",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FA2F4847-4EE0-4527-89D2-F74C59863105.webp?v=1784728291"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-medium-113628-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16081648746883,
+      "name": "Made In USA, New York Jets Cliff Engle Nfl Sweatshirt - Large Green Cotton",
+      "price": 92,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/069AEFA4-2AF8-4D8D-863A-EEC6E402A7D9.webp?v=1783595372",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/069AEFA4-2AF8-4D8D-863A-EEC6E402A7D9.webp?v=1783595372",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/27F0ECA7-CDCB-4BE5-944C-45203C57B76F.webp?v=1783595372",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2C2ED559-9E31-4CFF-91E3-194DF7D8894B.webp?v=1783595373"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-new-york-jets-cliff-engle-sweatshirt-mens-green-large-110239-a",
+      "available": true
+    },
     {
       "id": 16081638621571,
       "name": "Made In USA, Minnesota Vikings Pro Player Nfl Sweatshirt - Large Purple Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-98545-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 15950693171587,
-      "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496",
+      "id": 16114978095491,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Blue Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A124095B-2CD5-4E95-8A87-BB933E5617D4.webp?v=1784714263",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE27E933-A663-4755-9E3E-B175C6601397.webp?v=1778140496",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/108F4C38-29AA-4F37-8BC7-7FB8A8451546.webp?v=1778140496",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1B3196CE-9980-4414-9608-02C791D65D6B.webp?v=1778140497"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A124095B-2CD5-4E95-8A87-BB933E5617D4.webp?v=1784714263",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DAA2D963-5FF3-4620-95AB-9EE525FE881F.webp?v=1784714263",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BA1042E5-14C1-4BC1-AAC4-52240A6A7F76.webp?v=1784714263"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-blue-large-114298-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16114972426627,
       "name": "Carhartt Spellout Long Sleeve T-Shirt - Small Grey Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-blue-large-114309-a",
-      "available": true
-    },
-    {
-      "id": 16114978521475,
-      "name": "Zona Builders Llc Carhartt Graphic Long Sleeve T-Shirt - Large Grey Cotton",
-      "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/667DDBCE-0CB4-4C92-8F6E-003D597C7FBE.webp?v=1784714272",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/667DDBCE-0CB4-4C92-8F6E-003D597C7FBE.webp?v=1784714272",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/51F0E6FB-AEB1-443E-A4A5-B2C559F88F4F.webp?v=1784714272",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/46E1F2C4-EAD2-4EDA-8839-4506DDFAD6E9.webp?v=1784714272"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/zona-builders-llc-carhartt-long-sleeve-t-shirt-mens-grey-large-114301-a",
       "available": true
     }
   ]
