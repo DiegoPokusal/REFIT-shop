@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15972718903683,
+      "name": "Packers Fan Spellout Windbreaker - Large Green Nylon",
+      "price": 135,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/65D38D14-6C09-4220-9762-DC97BA2E4717.webp?v=1779092560",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/237CD680-296D-4AB5-9540-658F4DD8CF36.webp?v=1779092560"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/packers-fan-windbreaker-mens-green-large-94914-a",
+      "available": true
+    },
+    {
       "id": 16010028056963,
       "name": "International Stussy Rain Mac Windbreaker - Large Black Polyester",
       "price": 133,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/nike-bomber-jacket-mens-black-medium-105574-a",
       "available": true
-    },
-    {
-      "id": 16073348612483,
-      "name": "Tommy Hilfiger Puffer - Medium Brown Polyester",
-      "price": 129,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9AF45444-FD15-4DD4-9EB6-A933FB85F26F.webp?v=1783350069",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9AF45444-FD15-4DD4-9EB6-A933FB85F26F.webp?v=1783350069",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BDD6C863-9194-475B-94D8-74E997CBFC68.webp?v=1783350070",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB7ACA25-F31E-446F-A80D-A7DBB57D9B24.webp?v=1783350070"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-puffer-mens-brown-medium-106401-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16049106911619,
+      "name": "Winchester Hoodie - Large Camo Polyester",
+      "price": 97,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8B66EA40-B191-4876-95B6-2608A9F36F31.webp?v=1782310753",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8B66EA40-B191-4876-95B6-2608A9F36F31.webp?v=1782310753",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/91D153B5-BDFB-4C6B-B971-F17A44A09286.webp?v=1782310753",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/580CFC95-C3FE-4560-9BA5-7BAC6A7616A4.webp?v=1782310753"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/winchester-hoodie-mens-camo-large-106231-a",
+      "available": true
+    },
     {
       "id": 16079367012739,
       "name": "Thermal Lined Carhartt Full Zip Hoodie - Medium Grey Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/armani-exchange-hoodie-mens-black-medium-102655-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16081636688259,
-      "name": "Rain Defender Carhartt Hoodie - Large Navy Cotton",
-      "price": 97,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3E0FF608-CDF7-4FC5-97D0-A74F2AC53A05.webp?v=1783595224",
+      "id": 16112393879939,
+      "name": "Reverse Weave Champion Sweatshirt - Large Grey Cotton Blend",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F589EA91-7545-475A-A4D2-A7B02A7A4D1C.webp?v=1784647618",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E0FF608-CDF7-4FC5-97D0-A74F2AC53A05.webp?v=1783595224",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AB4DD79-E806-4372-86A7-322B5088C278.webp?v=1783595223",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9206EC72-158A-406C-AF4D-22E9554F2EC2.webp?v=1783595224"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F589EA91-7545-475A-A4D2-A7B02A7A4D1C.webp?v=1784647618",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F9A112CE-A650-4064-8690-D62B057BEDD1.webp?v=1784647618",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B413A75-A4FD-4EBE-993C-788519060F86.webp?v=1784647618"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-navy-large-110287-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-grey-large-110530-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 15910937657731,
       "name": "90s Tommy Jeans Spellout Sweatshirt - Large Navy Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/polo-jeans-company-ralph-lauren-sweatshirt-mens-grey-medium-99783-a",
       "available": true
-    },
-    {
-      "id": 16008839528835,
-      "name": "Polo By Ralph Lauren Rl Crest Sweatshirt - Medium Navy Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E4899CD4-C2AB-44A7-B691-974D81C1A681.webp?v=1780582738",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/49772313-5F38-45BC-9B1F-71FDAFC420BF.webp?v=1780582738",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B898351-00FF-435E-B920-56FD9613888F.webp?v=1780582738"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-navy-medium-99775-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16112425599363,
+      "name": "Mossy Oak Long Sleeve T-Shirt - Large Camo Cotton",
+      "price": 87,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/52141236-6EC0-43EC-8491-A91179B44195.webp?v=1784648343",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/52141236-6EC0-43EC-8491-A91179B44195.webp?v=1784648343",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F39295C-8680-44FA-8C43-D09084CFD797.webp?v=1784648344",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/52475090-BA87-4ABF-92EA-B47CEE547F78.webp?v=1784648343"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/mossy-oak-long-sleeve-t-shirt-mens-camo-large-111191-a",
+      "available": true
+    },
     {
       "id": 16081679647107,
       "name": "Manchester United Nike Football Long Sleeve T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/mossy-oak-long-sleeve-t-shirt-mens-camo-small-111202-a",
-      "available": true
-    },
-    {
-      "id": 16112425763203,
-      "name": "Ranger Long Sleeve T-Shirt - Large Camo Cotton Blend",
-      "price": 87,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/23DFB522-F54A-4348-8F57-51667F4C5AD1.webp?v=1784648355",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/23DFB522-F54A-4348-8F57-51667F4C5AD1.webp?v=1784648355",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/42A7B8A0-0B21-4D55-A7B5-3442B8E33416.webp?v=1784648355",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/931602FC-14BB-4B5D-96AC-0B9F67F09697.webp?v=1784648355"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/ranger-long-sleeve-t-shirt-mens-camo-large-111197-a",
       "available": true
     }
   ]
