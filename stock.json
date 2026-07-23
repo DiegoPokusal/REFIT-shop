@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16115088228739,
+      "name": "Port Authority Detroit Workwear Jacket - Medium Black Cotton",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2E428AE4-9C10-41DF-B509-B52B19307BB9.webp?v=1784717019",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2E428AE4-9C10-41DF-B509-B52B19307BB9.webp?v=1784717019",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/30F883A0-AB17-40DD-987D-CB5F1D89BCF6.webp?v=1784717019",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FA76F5DA-E4E2-4DE8-B326-A3682EED85FE.webp?v=1784717020"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/port-authority-jacket-mens-black-medium-113132-a",
+      "available": true
+    },
+    {
       "id": 16118532145539,
       "name": "Marmot Puffer - Large Black Polyester",
       "price": 139,
@@ -508,23 +525,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/unbranded-jacket-mens-black-medium-113126-a",
-      "available": true
-    },
-    {
-      "id": 16081685021059,
-      "name": "90S Camel Puffer - Medium Blue Down",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2B65F4A4-E96F-4A0C-B9C7-1BFC80DED935.webp?v=1783596147",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B65F4A4-E96F-4A0C-B9C7-1BFC80DED935.webp?v=1783596147",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6C15A3D3-0EE5-4274-8296-E2E581ED7EDE.webp?v=1783596146",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ECC9DD5E-267C-4DF9-933B-A4CF6D941104.webp?v=1783596147"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/90s-camel-puffer-mens-blue-medium-107024-a",
       "available": true
     },
     {
