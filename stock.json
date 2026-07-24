@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16076577243523,
+      "name": "Patagonia Puffer - Medium Orange Polyester",
+      "price": 141,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/80FFF9BB-3B35-46B6-A5BA-BADF8848C3F7.webp?v=1783437806",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/80FFF9BB-3B35-46B6-A5BA-BADF8848C3F7.webp?v=1783437806",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8BAB1DD4-1E57-43A5-87A9-53AF75917D49.webp?v=1783437807",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/65E41ED0-922A-482C-B354-01B88DD9810D.webp?v=1783437807"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-orange-medium-106508-a",
+      "available": true
+    },
+    {
       "id": 16038048792963,
       "name": "Nike Puffer - Large Beige Polyester",
       "price": 141,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/guess-leather-jacket-mens-black-large-107023-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16115088458115,
-      "name": "Port Authority Workwear Jacket - Large Brown Cotton",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/536046CC-AF52-4CF3-BB1F-FB48881FB16E.webp?v=1784717032",
+      "id": 16117306294659,
+      "name": "Indians Nike Graphic Hoodie - Large Red Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E8504C99-F167-4283-A9F9-8B566FEEC646.webp?v=1784730186",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/536046CC-AF52-4CF3-BB1F-FB48881FB16E.webp?v=1784717032",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/84596063-A1AB-403C-8F82-B2FDAE24F462.webp?v=1784717032",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED2AC470-CAEA-4A4B-9B86-B9EAA2D659D6.webp?v=1784717032"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8504C99-F167-4283-A9F9-8B566FEEC646.webp?v=1784730186",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5641B9B7-DEEE-4BD9-A772-34BCF6477494.webp?v=1784730187",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DE2A9955-E287-4699-97BD-149468384B88.webp?v=1784730187"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/port-authority-jacket-mens-brown-large-113131-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/indians-nike-hoodie-mens-red-large-112373-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16073345499523,
       "name": "Polo By Ralph Lauren Hoodie - Large Grey Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/hunting-realtree-hoodie-mens-green-large-112932-a",
       "available": true
-    },
-    {
-      "id": 16174896480643,
-      "name": "Armani Exchange Hoodie - Large Black Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BA75F52B-0644-4028-A21A-C3D4B328D2AE.webp?v=1784884463",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BA75F52B-0644-4028-A21A-C3D4B328D2AE.webp?v=1784884463",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BBE275C1-DB8C-4004-AE17-624F6EA266A2.webp?v=1784884463",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B497E02-4C6C-4FD2-8BA7-623F30212DBA.webp?v=1784884464"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/armani-exchange-hoodie-mens-black-large-114134-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16117208809859,
+      "name": "Adidas Sweatshirt - Medium Grey Cotton",
+      "price": 96,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25F53C57-043B-49E7-B993-032531DF85AA.webp?v=1784727402",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/25F53C57-043B-49E7-B993-032531DF85AA.webp?v=1784727402",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/125665C1-627E-4666-88ED-98FD00231948.webp?v=1784727402",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6500AC1E-FA96-449F-A225-E07086D1ACA9.webp?v=1784727402"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/adidas-sweatshirt-mens-grey-medium-113864-a",
+      "available": true
+    },
     {
       "id": 16175520940419,
       "name": "Made In USA, Washington Redskins Nutmeg Nfl Sweatshirt - Medium Red Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/nike-sweatshirt-mens-blue-large-102872-a",
       "available": true
-    },
-    {
-      "id": 16066369356163,
-      "name": "Made In USA Nike Sweatshirt - Medium Grey Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/62CE7E21-C9B7-4DF5-A358-667CE15A4063.webp?v=1783003270",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/62CE7E21-C9B7-4DF5-A358-667CE15A4063.webp?v=1783003270",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B01071C2-6031-4D23-8608-4A83ABC23754.webp?v=1783003270",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D4F6E213-1A7C-4E53-9133-912F55818FA1.webp?v=1783003272"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-nike-sweatshirt-mens-grey-medium-105565-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16114983960963,
+      "name": "Carhartt Long Sleeve T-Shirt - Small Navy Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/38136AA2-4D8A-43E8-9DA1-6C6F33BA4CD7.webp?v=1784714380",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/38136AA2-4D8A-43E8-9DA1-6C6F33BA4CD7.webp?v=1784714380",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0717B0F7-6A68-4C89-9AD9-AACA7BD51E19.webp?v=1784714380",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/736664DA-90E5-4B23-B12C-0BD02C175337.webp?v=1784714380"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-small-114365-a",
+      "available": true
+    },
     {
       "id": 16114982683011,
       "name": "Jackson Energy Carhartt Long Sleeve T-Shirt - Medium Navy Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
-      "available": true
-    },
-    {
-      "id": 16114984452483,
-      "name": "Carhartt Long Sleeve T-Shirt - Large Navy Cotton",
-      "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9298B8AB-A2B8-41C6-90DB-FCCFB0C20834.webp?v=1784714389",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9298B8AB-A2B8-41C6-90DB-FCCFB0C20834.webp?v=1784714389",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3069D50-5073-48FE-BBDE-62E1B196ABD7.webp?v=1784714389",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DBBB679E-3B44-4370-A371-95286C725A98.webp?v=1784714389"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-large-114361-a",
       "available": true
     }
   ]
