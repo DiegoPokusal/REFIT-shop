@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16115088458115,
+      "name": "Port Authority Workwear Jacket - Large Brown Cotton",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/536046CC-AF52-4CF3-BB1F-FB48881FB16E.webp?v=1784717032",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/536046CC-AF52-4CF3-BB1F-FB48881FB16E.webp?v=1784717032",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/84596063-A1AB-403C-8F82-B2FDAE24F462.webp?v=1784717032",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED2AC470-CAEA-4A4B-9B86-B9EAA2D659D6.webp?v=1784717032"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/port-authority-jacket-mens-brown-large-113131-a",
+      "available": true
+    },
+    {
       "id": 16076577243523,
       "name": "Patagonia Puffer - Medium Orange Polyester",
       "price": 141,
@@ -662,41 +679,24 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/mountain-hard-wear-puffer-mens-black-large-101485-a",
       "available": true
-    },
-    {
-      "id": 16081684857219,
-      "name": "Guess Leather Jacket - Large Black Leather",
-      "price": 141,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/823C4DA6-F0FF-447D-B1F3-D0777902C105.webp?v=1783596144",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/823C4DA6-F0FF-447D-B1F3-D0777902C105.webp?v=1783596144",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F1604565-E00F-4AE0-81A8-581902D26E1F.webp?v=1783596144",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C863C72-EE09-4D7B-9CB3-1A2E7B96C7DA.webp?v=1783596144"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/guess-leather-jacket-mens-black-large-107023-a",
-      "available": true
     }
   ],
   "hoodie": [
     {
-      "id": 16117306294659,
-      "name": "Indians Nike Graphic Hoodie - Large Red Cotton",
+      "id": 16174896480643,
+      "name": "Armani Exchange Hoodie - Large Black Cotton",
       "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E8504C99-F167-4283-A9F9-8B566FEEC646.webp?v=1784730186",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BA75F52B-0644-4028-A21A-C3D4B328D2AE.webp?v=1784884463",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8504C99-F167-4283-A9F9-8B566FEEC646.webp?v=1784730186",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5641B9B7-DEEE-4BD9-A772-34BCF6477494.webp?v=1784730187",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DE2A9955-E287-4699-97BD-149468384B88.webp?v=1784730187"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BA75F52B-0644-4028-A21A-C3D4B328D2AE.webp?v=1784884463",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BBE275C1-DB8C-4004-AE17-624F6EA266A2.webp?v=1784884463",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B497E02-4C6C-4FD2-8BA7-623F30212DBA.webp?v=1784884464"
       ],
       "sizes": [
         "Large"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/indians-nike-hoodie-mens-red-large-112373-a",
+      "url": "https://www.thrifted.com/products/armani-exchange-hoodie-mens-black-large-114134-a",
       "available": true
     },
     {
@@ -782,6 +782,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/bee-line-timberland-hoodie-mens-grey-small-114643-a",
+      "available": true
+    },
+    {
+      "id": 16117306294659,
+      "name": "Indians Nike Graphic Hoodie - Large Red Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E8504C99-F167-4283-A9F9-8B566FEEC646.webp?v=1784730186",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8504C99-F167-4283-A9F9-8B566FEEC646.webp?v=1784730186",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5641B9B7-DEEE-4BD9-A772-34BCF6477494.webp?v=1784730187",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DE2A9955-E287-4699-97BD-149468384B88.webp?v=1784730187"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/indians-nike-hoodie-mens-red-large-112373-a",
       "available": true
     },
     {
@@ -921,23 +938,6 @@
       "available": true
     },
     {
-      "id": 16117285290371,
-      "name": "Polo By Ralph Lauren Striped Hoodie - Medium Red Cotton",
-      "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/92C81CAE-1DD9-4E10-AC1E-4194CB645859.webp?v=1784729601",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/92C81CAE-1DD9-4E10-AC1E-4194CB645859.webp?v=1784729601",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/423BB2AF-46C4-4D07-B786-5BE2BEA7F20A.webp?v=1784729601",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/503FCB21-4EDA-484D-BB48-1BA38EF0A595.webp?v=1784729602"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-red-medium-112477-a",
-      "available": true
-    },
-    {
       "id": 16117315502467,
       "name": "Polo Bear Polo By Ralph Lauren Hoodie - Small Blue Cotton",
       "price": 125,
@@ -1037,6 +1037,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/toronto-maple-leafs-nike-hoodie-mens-grey-medium-112381-a",
+      "available": true
+    },
+    {
+      "id": 16117285290371,
+      "name": "Polo By Ralph Lauren Striped Hoodie - Medium Red Cotton",
+      "price": 132,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/92C81CAE-1DD9-4E10-AC1E-4194CB645859.webp?v=1784729601",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/92C81CAE-1DD9-4E10-AC1E-4194CB645859.webp?v=1784729601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/423BB2AF-46C4-4D07-B786-5BE2BEA7F20A.webp?v=1784729601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/503FCB21-4EDA-484D-BB48-1BA38EF0A595.webp?v=1784729602"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-red-medium-112477-a",
       "available": true
     },
     {
@@ -1241,23 +1258,6 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/nike-hoodie-mens-black-medium-113689-a",
-      "available": true
-    },
-    {
-      "id": 16010029597059,
-      "name": "Peace And Love Stussy Hoodie - Large Brown Cotton",
-      "price": 120,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E735F3D4-A9B9-40BD-98C4-2E715A11C297.webp?v=1780661520",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E735F3D4-A9B9-40BD-98C4-2E715A11C297.webp?v=1780661520",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F5ABAECD-CC41-40CE-AF8E-6BB9E10446F9.webp?v=1780661520",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/39993FC9-5F1A-44F1-A978-3E542DB0EFCC.webp?v=1780661520"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/peace-and-love-stussy-hoodie-mens-brown-large-100811-a",
       "available": true
     },
     {
