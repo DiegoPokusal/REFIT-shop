@@ -2353,6 +2353,23 @@
       "available": true
     },
     {
+      "id": 16114984452483,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Navy Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9298B8AB-A2B8-41C6-90DB-FCCFB0C20834.webp?v=1784714389",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9298B8AB-A2B8-41C6-90DB-FCCFB0C20834.webp?v=1784714389",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3069D50-5073-48FE-BBDE-62E1B196ABD7.webp?v=1784714389",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DBBB679E-3B44-4370-A371-95286C725A98.webp?v=1784714389"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-large-114361-a",
+      "available": true
+    },
+    {
       "id": 16112456860035,
       "name": "Made In USA Taz Looney Tunes Aop Graphic T-Shirt - Medium Black Cotton",
       "price": 110,
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-small-100773-a",
-      "available": true
-    },
-    {
-      "id": 15995255128451,
-      "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/14AE7C1C-2E62-4DA9-9454-9D6F44F6F591.webp?v=1779954660",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/26C3B55F-DE0B-4E6E-844F-542224E157FC.webp?v=1779954660"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
       "available": true
     }
   ]
