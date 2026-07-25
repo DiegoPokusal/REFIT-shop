@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16035059368323,
+      "name": "Mountain Hard Wear Puffer - Large Black Polyester",
+      "price": 141,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DE986C63-9777-42D8-B50B-296EE2607BCF.webp?v=1781706359",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DE986C63-9777-42D8-B50B-296EE2607BCF.webp?v=1781706359",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4CAE0E63-C5AA-45C2-9EB2-C0E4D5EC2B79.webp?v=1781706358",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E43772B-A325-449A-AF64-6DEB3A61915F.webp?v=1781706359"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/mountain-hard-wear-puffer-mens-black-large-101485-a",
+      "available": true
+    },
+    {
       "id": 16081684857219,
       "name": "Guess Leather Jacket - Large Black Leather",
       "price": 141,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-grey-large-113778-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15950831616387,
-      "name": "90S Made In USA Blue Jays Street Legends Graphic Varsity Jacket - Large Blue Cotton",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8C8D6145-1AA6-470B-A249-A5FDA1592DEC.webp?v=1778142118",
+      "id": 16174896972163,
+      "name": "Hunting Realtree Camo Hoodie - Large Green Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/317A0CDA-C33A-42EC-8C51-0B5300A276B2.webp?v=1784884500",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8C8D6145-1AA6-470B-A249-A5FDA1592DEC.webp?v=1778142118",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6195AD35-EF9F-4900-92EC-60C08152D5AB.webp?v=1778142117",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F18ACA0B-E41C-4523-BFA5-23813CA3ABE8.webp?v=1778142118"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/317A0CDA-C33A-42EC-8C51-0B5300A276B2.webp?v=1784884500",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C276013F-9682-43EB-9654-DDB66FA6A846.webp?v=1784884500",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/39D84641-FC9F-4D56-89A3-CABD63101429.webp?v=1784884501"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-blue-jays-street-legends-varsity-jacket-mens-blue-large-90885-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/hunting-realtree-hoodie-mens-green-large-112932-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16010029597059,
       "name": "Peace And Love Stussy Hoodie - Large Brown Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-large-112946-a",
       "available": true
-    },
-    {
-      "id": 16174897496451,
-      "name": "Red Head Camo Hoodie - Medium Camo Cotton Blend",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3C2CE88A-3619-44EC-9D71-AFD07A4F7944.webp?v=1784884522",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C2CE88A-3619-44EC-9D71-AFD07A4F7944.webp?v=1784884522",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F85AA475-B9DE-4ED1-BCE8-15A934886F0F.webp?v=1784884521",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A6D4A820-9C00-4036-B72C-B2891C2148F3.webp?v=1784884521"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/red-head-hoodie-mens-camo-medium-112936-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16038264406403,
+      "name": "Nike Sweatshirt - Large Blue Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB95AE32-172B-4C89-A3BF-CBBCFBEC99FE.webp?v=1781796428",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB95AE32-172B-4C89-A3BF-CBBCFBEC99FE.webp?v=1781796428",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/35DB6D58-403E-403F-A89B-880F0A84427B.webp?v=1781796428",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/18638C5C-D9B0-4F89-99B9-1DF6D07DE6C6.webp?v=1781796428"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/nike-sweatshirt-mens-blue-large-102872-a",
+      "available": true
+    },
     {
       "id": 16066369356163,
       "name": "Made In USA Nike Sweatshirt - Medium Grey Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-black-medium-112498-a",
       "available": true
-    },
-    {
-      "id": 16038128714115,
-      "name": "Intimidator Nutmeg Graphic Sweatshirt - Large Black Polyester Blend",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B66E2455-EA2A-498C-9A61-5C9C15119A1D.webp?v=1781795382",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B66E2455-EA2A-498C-9A61-5C9C15119A1D.webp?v=1781795382",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A068FDF-23A0-4C86-B2F4-FBE298279151.webp?v=1781795382",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5AA5BAE-A96A-4FE9-AFC4-5B1FC7876EBA.webp?v=1781795383"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/intimidator-nutmeg-sweatshirt-mens-black-large-102396-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010027860355,
+      "name": "Stussy Spellout T-Shirt - Small Black Cotton",
+      "price": 90,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A512762-FF8D-4E24-AAF3-F052A0116580.webp?v=1780661426",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/99122D99-B1D6-428F-AF5D-55DF4A77D5C6.webp?v=1780661426",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3D87BA6-C8F7-4BE7-96FE-80E002D4C325.webp?v=1780661426"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-small-100773-a",
+      "available": true
+    },
     {
       "id": 15995255128451,
       "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-large-100782-a",
-      "available": true
-    },
-    {
-      "id": 16114984878467,
-      "name": "Carhartt Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8E862B86-F8BC-4F31-94BC-E80F3E738E75.webp?v=1784714397",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8E862B86-F8BC-4F31-94BC-E80F3E738E75.webp?v=1784714397",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/244C436A-0A13-404C-9407-8ACCE8D1CA4C.webp?v=1784714397",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A05EDA7E-9AEB-4946-BB1D-5B85B2C56B43.webp?v=1784714398"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-114378-a",
       "available": true
     }
   ]
