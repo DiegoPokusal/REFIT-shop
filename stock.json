@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15950831616387,
+      "name": "90S Made In USA Blue Jays Street Legends Graphic Varsity Jacket - Large Blue Cotton",
+      "price": 140,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8C8D6145-1AA6-470B-A249-A5FDA1592DEC.webp?v=1778142118",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8C8D6145-1AA6-470B-A249-A5FDA1592DEC.webp?v=1778142118",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6195AD35-EF9F-4900-92EC-60C08152D5AB.webp?v=1778142117",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F18ACA0B-E41C-4523-BFA5-23813CA3ABE8.webp?v=1778142118"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/90s-made-in-usa-blue-jays-street-legends-varsity-jacket-mens-blue-large-90885-a",
+      "available": true
+    },
+    {
       "id": 16035059368323,
       "name": "Mountain Hard Wear Puffer - Large Black Polyester",
       "price": 141,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-puffer-mens-black-large-103624-a",
       "available": true
-    },
-    {
-      "id": 16115256787331,
-      "name": "Patagonia Puffer - Large Grey Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C7EE92F6-0E84-4186-BA13-8E768DB7A198.webp?v=1784717286",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7EE92F6-0E84-4186-BA13-8E768DB7A198.webp?v=1784717286",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0AE8671-A4C3-4FF9-84D4-481735C046B1.webp?v=1784717286",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2349BCD9-2DE6-4C87-9480-D13C96EEDAC9.webp?v=1784717286"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-grey-large-113778-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16174897496451,
+      "name": "Red Head Camo Hoodie - Medium Camo Cotton Blend",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3C2CE88A-3619-44EC-9D71-AFD07A4F7944.webp?v=1784884522",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C2CE88A-3619-44EC-9D71-AFD07A4F7944.webp?v=1784884522",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F85AA475-B9DE-4ED1-BCE8-15A934886F0F.webp?v=1784884521",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A6D4A820-9C00-4036-B72C-B2891C2148F3.webp?v=1784884521"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/red-head-hoodie-mens-camo-medium-112936-a",
+      "available": true
+    },
     {
       "id": 16174896972163,
       "name": "Hunting Realtree Camo Hoodie - Large Green Cotton",
@@ -751,20 +768,20 @@
       "available": true
     },
     {
-      "id": 16073347629443,
-      "name": "Polo By Ralph Lauren Hoodie - Small Grey Cotton",
-      "price": 108,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F66B1A10-F771-4CE0-B294-7A57E8858B5C.webp?v=1783350024",
+      "id": 16117285060995,
+      "name": "Polo By Ralph Lauren Full Zip Hoodie - Large Black Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4B8ADC31-0873-4D79-ACC9-5EB9277D2588.webp?v=1784729598",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F66B1A10-F771-4CE0-B294-7A57E8858B5C.webp?v=1783350024",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/64272365-6AE7-46C9-8121-0C20C176D5DE.webp?v=1783350024",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DABA9D1-3B86-48E4-BAFD-B3542F688343.webp?v=1783350025"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4B8ADC31-0873-4D79-ACC9-5EB9277D2588.webp?v=1784729598",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8A9F2BA9-CD07-412D-8DF6-307E2B0D6089.webp?v=1784729598",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/55303E31-E04B-4CF8-BF9A-2B78154DE8C7.webp?v=1784729598"
       ],
       "sizes": [
-        "Small"
+        "Large"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-small-109507-a",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-black-large-112482-a",
       "available": true
     },
     {
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-medium-112943-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16174897791363,
-      "name": "Realtree Camo Hoodie - Large Camo Cotton Blend",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
+      "id": 16038128714115,
+      "name": "Intimidator Nutmeg Graphic Sweatshirt - Large Black Polyester Blend",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B66E2455-EA2A-498C-9A61-5C9C15119A1D.webp?v=1781795382",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FAB9D5AA-1A06-4D4C-9EC0-85E110E29B4D.webp?v=1784884539",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1868A3D7-E46D-4F9D-B11B-44A2ADE8937D.webp?v=1784884540"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B66E2455-EA2A-498C-9A61-5C9C15119A1D.webp?v=1781795382",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A068FDF-23A0-4C86-B2F4-FBE298279151.webp?v=1781795382",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5AA5BAE-A96A-4FE9-AFC4-5B1FC7876EBA.webp?v=1781795383"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-large-112946-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/intimidator-nutmeg-sweatshirt-mens-black-large-102396-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16038264406403,
       "name": "Nike Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-guess-sweatshirt-mens-blue-medium-107027-a",
       "available": true
-    },
-    {
-      "id": 16117305540995,
-      "name": "Polo By Ralph Lauren Sweatshirt - Medium Black Cotton Blend",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7045B00B-6D91-4800-83E5-BFE7D09D86C4.webp?v=1784730147",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7045B00B-6D91-4800-83E5-BFE7D09D86C4.webp?v=1784730147",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/48C8199A-CC7E-479B-B653-F8B078B0A36A.webp?v=1784730147",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EFCD2680-C2F3-4D32-89CA-9A67062EE9BA.webp?v=1784730148"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-black-medium-112498-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16114984878467,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Black Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8E862B86-F8BC-4F31-94BC-E80F3E738E75.webp?v=1784714397",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8E862B86-F8BC-4F31-94BC-E80F3E738E75.webp?v=1784714397",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/244C436A-0A13-404C-9407-8ACCE8D1CA4C.webp?v=1784714397",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A05EDA7E-9AEB-4946-BB1D-5B85B2C56B43.webp?v=1784714398"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-114378-a",
+      "available": true
+    },
     {
       "id": 16010027860355,
       "name": "Stussy Spellout T-Shirt - Small Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/burberry-london-long-sleeve-t-shirt-mens-green-small-100879-a",
-      "available": true
-    },
-    {
-      "id": 16010029760899,
-      "name": "Stussy Spellout T-Shirt - Large Black Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDAF6EF8-D811-4202-BFA6-DADD11A66B56.webp?v=1780661528",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDAF6EF8-D811-4202-BFA6-DADD11A66B56.webp?v=1780661528",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F878A350-7E9B-4348-8574-DBB615DB4456.webp?v=1780661528",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/82635C10-5701-457F-9C09-C6C6431DDF4E.webp?v=1780661529"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-black-large-100782-a",
       "available": true
     }
   ]
