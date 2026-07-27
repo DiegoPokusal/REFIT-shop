@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16046368752003,
+      "name": "Polo By Ralph Lauren Puffer - Large Black Polyester",
+      "price": 140,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D2E4D83A-B7D8-4947-9197-601DC731F8DD.webp?v=1782202975",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D2E4D83A-B7D8-4947-9197-601DC731F8DD.webp?v=1782202975",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8F0B20F8-A917-4C6E-BAB4-FD3E1663FF7A.webp?v=1782202975",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/68634AF5-B3B4-415C-9E87-96C7E102EF77.webp?v=1782202976"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-puffer-mens-black-large-103624-a",
+      "available": true
+    },
+    {
       "id": 15929997656451,
       "name": "Givenchy Striped Blazer - Medium Grey Wool",
       "price": 140,
@@ -20,7 +37,7 @@
     {
       "id": 16035059368323,
       "name": "Mountain Hard Wear Puffer - Large Black Polyester",
-      "price": 141,
+      "price": 140,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DE986C63-9777-42D8-B50B-296EE2607BCF.webp?v=1781706359",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/DE986C63-9777-42D8-B50B-296EE2607BCF.webp?v=1781706359",
@@ -479,7 +496,7 @@
     {
       "id": 15918957429123,
       "name": "Bones Patch Unbranded Varsity Jacket - Large Black Polyester",
-      "price": 141,
+      "price": 140,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8F548070-0C1C-428D-B22F-C86AD85D5410.webp?v=1776933806",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/8F548070-0C1C-428D-B22F-C86AD85D5410.webp?v=1776933806",
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/20th-anniversary-canada-sportswear-jacket-mens-black-medium-113127-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16115973030275,
-      "name": "Unbranded Workwear Jacket - Medium Black Cotton",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C0D48E9D-626B-44C9-AFBB-6CE88FA4CA36.webp?v=1784718938",
+      "id": 16174897725827,
+      "name": "Realtree Camo Hoodie - Medium Camo Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25B8E902-5618-4EC6-9897-50DCB9F78391.webp?v=1784884532",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0D48E9D-626B-44C9-AFBB-6CE88FA4CA36.webp?v=1784718938",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4713F5AD-FD0D-4CA1-A995-4394D1181AE2.webp?v=1784718938",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D351FAEE-A129-41D6-9CE5-C6D077EFB269.webp?v=1784718938"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/25B8E902-5618-4EC6-9897-50DCB9F78391.webp?v=1784884532",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/707A5FD1-9530-4B39-8366-7EFBD180359B.webp?v=1784884532",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D510E82F-3981-4268-8185-62DF91120750.webp?v=1784884532"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/unbranded-jacket-mens-black-medium-113126-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-medium-112943-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16174897791363,
       "name": "Realtree Camo Hoodie - Large Camo Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/made-in-usa-adidas-hoodie-mens-blue-large-112425-a",
       "available": true
-    },
-    {
-      "id": 16174897824131,
-      "name": "Cabelas Camo Hoodie - Large Camo Cotton Blend",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/61171DEC-F65C-4044-AE6B-98E4D629253F.webp?v=1784884543",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/61171DEC-F65C-4044-AE6B-98E4D629253F.webp?v=1784884543",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0FF02F87-F34C-47A7-9D5E-DD57A7609A91.webp?v=1784884543",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/57D34A54-E366-463F-BB94-77F2CA846343.webp?v=1784884543"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/cabelas-hoodie-mens-camo-large-112948-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16081685086595,
+      "name": "90S Guess Spellout Sweatshirt - Medium Blue Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EFE89165-841E-4246-9314-5F3D085816FC.webp?v=1783596150",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EFE89165-841E-4246-9314-5F3D085816FC.webp?v=1783596150",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/284DC553-4E0A-48F2-BBEC-B46053831BF0.webp?v=1783596150",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C87D6D58-2946-44D1-8AA5-7816C532D17F.webp?v=1783596150"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-guess-sweatshirt-mens-blue-medium-107027-a",
+      "available": true
+    },
     {
       "id": 16201738715523,
       "name": "Original Fit Carhartt Full Zip Hoodie - Medium Black Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-grey-large-109492-a",
       "available": true
-    },
-    {
-      "id": 16112414753155,
-      "name": "Still Plays Guitar Lee Sweatshirt - Large Black Cotton",
-      "price": 101,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2AC7E7D5-3420-4DCF-9D0C-7779CDF11DE6.webp?v=1784648020",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2AC7E7D5-3420-4DCF-9D0C-7779CDF11DE6.webp?v=1784648020",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E392E4D9-2328-4734-8EA8-5C3FD6A598B9.webp?v=1784648020",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/062F1812-F18B-428A-9D2A-4D4F6C4633A6.webp?v=1784648020"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/still-plays-guitar-lee-sweatshirt-mens-black-large-111025-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16017703338371,
+      "name": "Burberry London Striped Long Sleeve T-Shirt - Small Green Cotton",
+      "price": 100,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE336095-CDB4-412C-8FF9-EA3EBB5E25D9.webp?v=1780999724",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE336095-CDB4-412C-8FF9-EA3EBB5E25D9.webp?v=1780999724",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A05A4225-5E44-4442-8120-84E4858F9389.webp?v=1780999724",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/58A72548-29A7-42BB-9AE9-5B56587370D6.webp?v=1780999725"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/burberry-london-long-sleeve-t-shirt-mens-green-small-100879-a",
+      "available": true
+    },
     {
       "id": 16010029760899,
       "name": "Stussy Spellout T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/burberry-t-shirt-mens-black-small-100871-a",
-      "available": true
-    },
-    {
-      "id": 16114985730435,
-      "name": "Carhartt Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/39038971-BB32-4110-B4AE-0100AC280F80.webp?v=1784714417",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/39038971-BB32-4110-B4AE-0100AC280F80.webp?v=1784714417",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/96B87252-CC53-4328-B9B7-D0A669BE5B89.webp?v=1784714417",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6E3C342A-F125-419D-B4BC-1A1246E02E82.webp?v=1784714417"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-114370-a",
       "available": true
     }
   ]
