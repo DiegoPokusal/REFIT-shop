@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15950750089603,
+      "name": "Reversible Carhartt Camo Realtree Jacket - Large Camo Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6C422F4E-2802-4BC3-BB3C-90A003FB4F89.webp?v=1778141034",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6C422F4E-2802-4BC3-BB3C-90A003FB4F89.webp?v=1778141034",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/21D31590-DCC2-49B6-B17A-FA2856C3F72B.webp?v=1778141034",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/91F02C3D-8F58-44CB-8BF4-D2C4EB0139E5.webp?v=1778141034"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/reversible-carhartt-jacket-mens-camo-large-90550-a",
+      "available": true
+    },
+    {
       "id": 16116036469123,
       "name": "Marmot Puffer - Medium Black Polyester",
       "price": 139,
@@ -120,23 +137,6 @@
       "available": true
     },
     {
-      "id": 15929940115843,
-      "name": "Unbranded Leather Jacket - Large Black Leather",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26239_57034f6c-fb97-483b-baa1-c10a17816ba6.jpg?v=1777362503",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26239_57034f6c-fb97-483b-baa1-c10a17816ba6.jpg?v=1777362503",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26240_d0f28607-3ff2-4a96-b5c9-41c89ec23178.jpg?v=1777362503",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_b8cbd587-0f67-44ab-847b-ce98011d1e24.webp?v=1777362502"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/vintage-unbranded-leather-jacket-mens-black-large-397847",
-      "available": true
-    },
-    {
       "id": 16081684857219,
       "name": "Guess Leather Jacket - Large Black Leather",
       "price": 140,
@@ -151,6 +151,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/guess-leather-jacket-mens-black-large-107023-a",
+      "available": true
+    },
+    {
+      "id": 15929940115843,
+      "name": "Unbranded Leather Jacket - Large Black Leather",
+      "price": 140,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26239_57034f6c-fb97-483b-baa1-c10a17816ba6.jpg?v=1777362503",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26239_57034f6c-fb97-483b-baa1-c10a17816ba6.jpg?v=1777362503",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/Daisy_vintage_mix_24.04.26240_d0f28607-3ff2-4a96-b5c9-41c89ec23178.jpg?v=1777362503",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/MENS_b8cbd587-0f67-44ab-847b-ce98011d1e24.webp?v=1777362502"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vintage-unbranded-leather-jacket-mens-black-large-397847",
       "available": true
     },
     {
@@ -273,23 +290,6 @@
       "available": true
     },
     {
-      "id": 16175525691779,
-      "name": "Patagonia Puffer - Small Green Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FBBC6E67-00D5-4486-964C-26392C14AD98.webp?v=1784900360",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FBBC6E67-00D5-4486-964C-26392C14AD98.webp?v=1784900360",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/74D16F88-9855-4DED-9B07-2B6FCA9254C1.webp?v=1784900360",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7D775BB9-94C8-44C3-AAC6-280D4772ED85.webp?v=1784900361"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-green-small-115002-a",
-      "available": true
-    },
-    {
       "id": 16118532145539,
       "name": "Marmot Puffer - Large Black Polyester",
       "price": 139,
@@ -304,6 +304,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/marmot-puffer-mens-black-large-113912-a",
+      "available": true
+    },
+    {
+      "id": 16175525691779,
+      "name": "Patagonia Puffer - Small Green Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FBBC6E67-00D5-4486-964C-26392C14AD98.webp?v=1784900360",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FBBC6E67-00D5-4486-964C-26392C14AD98.webp?v=1784900360",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/74D16F88-9855-4DED-9B07-2B6FCA9254C1.webp?v=1784900360",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7D775BB9-94C8-44C3-AAC6-280D4772ED85.webp?v=1784900361"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-green-small-115002-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-polo-by-ralph-lauren-puffer-mens-black-large-88927-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16117214413187,
-      "name": "Dickies Work Jacket - Large Black Cotton",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1D059BEB-B3D2-441E-BCA4-BD3BCFC63E5F.webp?v=1784727526",
+      "id": 16117239841155,
+      "name": "Billabong Graphic Hoodie - Large Black Cotton",
+      "price": 110,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/54B9FB4E-7047-4F82-AFA8-50A9ED1F6C17.webp?v=1784728416",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1D059BEB-B3D2-441E-BCA4-BD3BCFC63E5F.webp?v=1784727526",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5C8AF5DF-8697-4900-8D33-67133DF72B44.webp?v=1784727526",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0D4422B-A333-47B1-8CD5-5113F130C111.webp?v=1784727526"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/54B9FB4E-7047-4F82-AFA8-50A9ED1F6C17.webp?v=1784728416",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C518743F-75E3-4647-8139-B51EEDD38C95.webp?v=1784728416",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB6FEDE6-2AE7-4D9D-916F-92E590F97002.webp?v=1784728419"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/dickies-jacket-mens-black-large-113597-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/billabong-hoodie-mens-black-large-113853-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16117235745155,
       "name": "Nike Hoodie - Medium Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/utah-jazz-nba-hoodie-mens-navy-large-112812-a",
       "available": true
-    },
-    {
-      "id": 16117243445635,
-      "name": "Nike Hoodie - Medium Red Cotton",
-      "price": 110,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9A609E1C-6110-4E2A-94E2-17F566675E37.webp?v=1784728568",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9A609E1C-6110-4E2A-94E2-17F566675E37.webp?v=1784728568",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE6D031C-A049-43F5-B60C-507224AFDE97.webp?v=1784728568",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2058653B-2950-40D0-BDB1-E25521349B2D.webp?v=1784728568"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-red-medium-113652-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16076589760899,
+      "name": "90S Made In USA Nike Athletics Sweatshirt - Large Black Cotton",
+      "price": 108,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/839CF6F0-4E7A-4CDF-AC7C-79D78BCF8590.webp?v=1783438094",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/839CF6F0-4E7A-4CDF-AC7C-79D78BCF8590.webp?v=1783438094",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9E6B28F7-EE90-4480-A034-F1C9987D6680.webp?v=1783438094",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F0CB947-57B7-42DE-993E-C7F06EEDF3C8.webp?v=1783438094"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-made-in-usa-nike-sweatshirt-mens-black-large-106423-a",
+      "available": true
+    },
     {
       "id": 16073347694979,
       "name": "Polo By Ralph Lauren Sweatshirt - Small Navy Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/sunglasses-print-oakley-sweatshirt-mens-orange-large-108436-a",
       "available": true
-    },
-    {
-      "id": 16073347531139,
-      "name": "Polo By Ralph Lauren Sweatshirt - Small Yellow Cotton Blend",
-      "price": 108,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D0F2AB63-23F7-4ADB-B5BC-6184B1369F52.webp?v=1783350020",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D0F2AB63-23F7-4ADB-B5BC-6184B1369F52.webp?v=1783350020",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7E740A0D-53A4-418E-A099-B2945FDA282A.webp?v=1783350020",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BAB7C821-9A8A-4CF9-B2DA-234FC107A940.webp?v=1783350020"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-yellow-small-109506-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15916209865091,
+      "name": "1987 Crosby Stills & Nash Signal Single Stitch T-Shirt - Large Blue Polyester Blend",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A42DED85-4B59-41E8-9AEE-C357DFF87A1F.webp?v=1776868443",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A42DED85-4B59-41E8-9AEE-C357DFF87A1F.webp?v=1776868443",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8AD352FB-8424-4765-A00B-A02F829E0DB7.webp?v=1776868443",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3B7920D-5D79-4F67-B2A7-F31362833027.webp?v=1776868443"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/1987-crosby-stills-nash-signal-t-shirt-mens-blue-large-87730-a",
+      "available": true
+    },
     {
       "id": 16062742495619,
       "name": "Bohse Onkelz 1994 Tour Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/air-max-jordan-t-shirt-mens-black-large-81351-a",
-      "available": true
-    },
-    {
-      "id": 15935499960707,
-      "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4115_7958c475-8fb6-48ee-a27b-eb97a72776cc.jpg?v=1777472599",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/WOMENS_5a9e9029-9804-4120-ad44-d4b11547f142.webp?v=1777472598"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-t-shirt-womens-white-medium-398073",
       "available": true
     }
   ]
