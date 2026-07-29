@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16112452632963,
+      "name": "Patagonia Puffer - Medium Black Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2370F7A7-258D-410A-83F2-7378AEB2F637.webp?v=1784648869",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2370F7A7-258D-410A-83F2-7378AEB2F637.webp?v=1784648869",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CAA41693-D547-4DD6-91D7-40A223AE7F20.webp?v=1784648869",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2A2702CB-DC3F-43F1-B836-0909A35A2E3B.webp?v=1784648869"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-black-medium-111246-a",
+      "available": true
+    },
+    {
       "id": 15839821136259,
       "name": "Aquascutum Overcoat - Small Black Cotton Blend",
       "price": 139,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/love-all-serve-all-hard-rock-cafe-varsity-jacket-mens-black-small-88018-a",
       "available": true
-    },
-    {
-      "id": 16115088261507,
-      "name": "World Tour Of Beers Tri Mountain Workwear Jacket - Small Black Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5677C675-5314-476B-B42B-004E240B606B.webp?v=1784717022",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5677C675-5314-476B-B42B-004E240B606B.webp?v=1784717022",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0C21DA6-FEDE-40B1-AFF4-AF6DF197B409.webp?v=1784717022",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C4C6CCC0-3440-4412-BDFD-785983DDD31D.webp?v=1784717023"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/world-tour-of-beers-tri-mountain-jacket-mens-black-small-113133-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16115904250243,
+      "name": "Adidas Hoodie - Large Grey Cotton",
+      "price": 117,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDA04864-0763-40D8-B8DA-50D3561187CB.webp?v=1784718175",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDA04864-0763-40D8-B8DA-50D3561187CB.webp?v=1784718175",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7B9DD73-80CC-4CDB-AE46-FB29A133D91A.webp?v=1784718176",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9CE7B5D-40BE-498F-BD71-3C20967CB27F.webp?v=1784718176"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/adidas-hoodie-mens-grey-large-112438-a",
+      "available": true
+    },
     {
       "id": 16116018446723,
       "name": "Thermal Lined Carhartt Full Zip Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-large-110662-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16116013957507,
-      "name": "Thermal Lined Carhartt Full Zip Hoodie - Large Grey Cotton",
-      "price": 117,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB176EF5-760C-4D4D-9959-5E18A517466B.webp?v=1784720200",
+      "id": 16112458629507,
+      "name": "Taz Looney Tunes Graphic Sweatshirt - Large Black Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2CDA40C0-476F-425E-B882-BEBC36F1627E.webp?v=1784649104",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB176EF5-760C-4D4D-9959-5E18A517466B.webp?v=1784720200",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E24CD6C2-940C-4F8E-BCC7-09AA7E916B32.webp?v=1784720199",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A6A42764-FE9B-4C6C-B3DE-20850B90D065.webp?v=1784720200"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CDA40C0-476F-425E-B882-BEBC36F1627E.webp?v=1784649104",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0DF571C-9243-41E1-A5C5-6E9D146684D8.webp?v=1784649104",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/34D69093-A5D2-427A-9A81-576090C32623.webp?v=1784649104"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/thermal-lined-carhartt-hoodie-mens-grey-large-110648-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/taz-looney-tunes-sweatshirt-mens-black-large-111324-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16117231059331,
       "name": "80S 90S Champion Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vintage-dolce-gabbana-sweatshirt-mens-black-small-398007",
       "available": true
-    },
-    {
-      "id": 16008151695747,
-      "name": "Mickey Mouse Mickey & Co. Cartoon Sweatshirt - Large Red Cotton Blend",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7DDA977E-EEFA-42B2-8145-29DA4370B10D.webp?v=1780561698",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1ADBC924-B04F-4336-B4D9-8345D62B8F21.webp?v=1780561698",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0D072E4-0178-4F0F-B6BD-9BB58595B5D6.webp?v=1780561699"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/mickey-mouse-mickey-co-sweatshirt-mens-red-large-99288-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16114972426627,
+      "name": "Carhartt Spellout Long Sleeve T-Shirt - Small Grey Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A306F559-2193-4421-B702-D390ED72FE0D.webp?v=1784714200",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A306F559-2193-4421-B702-D390ED72FE0D.webp?v=1784714200",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F766A53-FD25-44B5-A847-AC3167A4B926.webp?v=1784714200",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/57633AC4-1401-47C6-9C33-590BEDA147DF.webp?v=1784714201"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-small-114382-a",
+      "available": true
+    },
     {
       "id": 16114986123651,
       "name": "Carhartt Long Sleeve T-Shirt - Large Grey Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-medium-114374-a",
-      "available": true
-    },
-    {
-      "id": 15916223070595,
-      "name": "Billy Ray Cyrus 1992 Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton Blend",
-      "price": 97,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/32FEEF3D-329A-46A6-A291-BC8EE0BA21FF.webp?v=1776868636",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B04F609A-657A-4A07-B876-6D148EA914B5.webp?v=1776868636",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BFBC8DF-91F0-4543-94D5-3213E1E5824C.webp?v=1776868638"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
       "available": true
     }
   ]
