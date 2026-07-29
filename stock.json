@@ -188,6 +188,23 @@
       "available": true
     },
     {
+      "id": 16117214413187,
+      "name": "Dickies Work Jacket - Large Black Cotton",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1D059BEB-B3D2-441E-BCA4-BD3BCFC63E5F.webp?v=1784727526",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1D059BEB-B3D2-441E-BCA4-BD3BCFC63E5F.webp?v=1784727526",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5C8AF5DF-8697-4900-8D33-67133DF72B44.webp?v=1784727526",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0D4422B-A333-47B1-8CD5-5113F130C111.webp?v=1784727526"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/dickies-jacket-mens-black-large-113597-a",
+      "available": true
+    },
+    {
       "id": 16038048792963,
       "name": "Nike Puffer - Large Beige Polyester",
       "price": 140,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-aquascutum-overcoat-mens-black-small-396214",
       "available": true
-    },
-    {
-      "id": 15921662361987,
-      "name": "90S Polo By Ralph Lauren Puffer - Large Black Polyester",
-      "price": 135,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BFF9D94E-0135-438D-AB35-C9AD18C6F0E1.webp?v=1777034752",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BFF9D94E-0135-438D-AB35-C9AD18C6F0E1.webp?v=1777034752",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CED7A84A-D8D3-4F60-AD1E-84CD7CA21BAF.webp?v=1777034752",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D4DF06D-A53B-4F20-8FF1-CBDE0862F6BC.webp?v=1777034753"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/90s-polo-by-ralph-lauren-puffer-mens-black-large-88927-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16117243445635,
+      "name": "Nike Hoodie - Medium Red Cotton",
+      "price": 110,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9A609E1C-6110-4E2A-94E2-17F566675E37.webp?v=1784728568",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9A609E1C-6110-4E2A-94E2-17F566675E37.webp?v=1784728568",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE6D031C-A049-43F5-B60C-507224AFDE97.webp?v=1784728568",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2058653B-2950-40D0-BDB1-E25521349B2D.webp?v=1784728568"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-red-medium-113652-a",
+      "available": true
+    },
     {
       "id": 16117239841155,
       "name": "Billabong Graphic Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/72-ecko-unltd-hoodie-mens-red-medium-113008-a",
       "available": true
-    },
-    {
-      "id": 16117251899779,
-      "name": "Utah Jazz Nba Graphic Hoodie - Large Navy Cotton",
-      "price": 110,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BEF6B1FE-30F0-4C12-BB6F-BFB010EF74B1.webp?v=1784728780",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A18B1B4-49D9-4FBB-B410-B21B47E700EF.webp?v=1784728781"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/utah-jazz-nba-hoodie-mens-navy-large-112812-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16073347531139,
+      "name": "Polo By Ralph Lauren Sweatshirt - Small Yellow Cotton Blend",
+      "price": 108,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D0F2AB63-23F7-4ADB-B5BC-6184B1369F52.webp?v=1783350020",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D0F2AB63-23F7-4ADB-B5BC-6184B1369F52.webp?v=1783350020",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7E740A0D-53A4-418E-A099-B2945FDA282A.webp?v=1783350020",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BAB7C821-9A8A-4CF9-B2DA-234FC107A940.webp?v=1783350020"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-yellow-small-109506-a",
+      "available": true
+    },
     {
       "id": 16076589760899,
       "name": "90S Made In USA Nike Athletics Sweatshirt - Large Black Cotton",
@@ -1654,23 +1671,6 @@
       "available": true
     },
     {
-      "id": 16117305540995,
-      "name": "Polo By Ralph Lauren Sweatshirt - Medium Black Cotton Blend",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7045B00B-6D91-4800-83E5-BFE7D09D86C4.webp?v=1784730147",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7045B00B-6D91-4800-83E5-BFE7D09D86C4.webp?v=1784730147",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/48C8199A-CC7E-479B-B653-F8B078B0A36A.webp?v=1784730147",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EFCD2680-C2F3-4D32-89CA-9A67062EE9BA.webp?v=1784730148"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-black-medium-112498-a",
-      "available": true
-    },
-    {
       "id": 16117208809859,
       "name": "Adidas Sweatshirt - Medium Grey Cotton",
       "price": 96,
@@ -1702,6 +1702,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-black-medium-114804-a",
+      "available": true
+    },
+    {
+      "id": 16117305540995,
+      "name": "Polo By Ralph Lauren Sweatshirt - Medium Black Cotton Blend",
+      "price": 96,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7045B00B-6D91-4800-83E5-BFE7D09D86C4.webp?v=1784730147",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7045B00B-6D91-4800-83E5-BFE7D09D86C4.webp?v=1784730147",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/48C8199A-CC7E-479B-B653-F8B078B0A36A.webp?v=1784730147",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EFCD2680-C2F3-4D32-89CA-9A67062EE9BA.webp?v=1784730148"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-black-medium-112498-a",
       "available": true
     },
     {
@@ -1739,23 +1756,6 @@
       "available": true
     },
     {
-      "id": 16117305803139,
-      "name": "Polo Player Polo By Ralph Lauren Graphic Sweatshirt - Large Blue Cotton",
-      "price": 117,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3F54FAB5-45D1-4757-9753-D865639CC24B.webp?v=1784730162",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3F54FAB5-45D1-4757-9753-D865639CC24B.webp?v=1784730162",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A7E7F75-CEBD-48C0-9480-0DEFEF59CC05.webp?v=1784730161",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/69D8A291-85AE-48AF-A2DE-A997BC950E5D.webp?v=1784730162"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-player-polo-by-ralph-lauren-sweatshirt-mens-blue-large-112489-a",
-      "available": true
-    },
-    {
       "id": 16117282406787,
       "name": "Nike Spellout Sweatshirt - Large Black Cotton",
       "price": 117,
@@ -1787,6 +1787,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/adidas-equipment-sweatshirt-mens-grey-large-113875-a",
+      "available": true
+    },
+    {
+      "id": 16117305803139,
+      "name": "Polo Player Polo By Ralph Lauren Graphic Sweatshirt - Large Blue Cotton",
+      "price": 117,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3F54FAB5-45D1-4757-9753-D865639CC24B.webp?v=1784730162",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3F54FAB5-45D1-4757-9753-D865639CC24B.webp?v=1784730162",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A7E7F75-CEBD-48C0-9480-0DEFEF59CC05.webp?v=1784730161",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/69D8A291-85AE-48AF-A2DE-A997BC950E5D.webp?v=1784730162"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-player-polo-by-ralph-lauren-sweatshirt-mens-blue-large-112489-a",
       "available": true
     },
     {
@@ -1979,7 +1996,7 @@
     {
       "id": 15935469355395,
       "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
-      "price": 99,
+      "price": 100,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/winston-cup-champion-fruit-of-the-loom-sweatshirt-mens-grey-large-111268-a",
       "available": true
-    },
-    {
-      "id": 16081736401283,
-      "name": "Sunglasses Print Oakley Graphic Sweatshirt - Large Orange Cotton",
-      "price": 112,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C6E79534-96A7-495B-9A10-977060476E69.webp?v=1783597379",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C6E79534-96A7-495B-9A10-977060476E69.webp?v=1783597379",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/85288E01-0E9D-407D-A1B5-6FEAD4D7D841.webp?v=1783597379",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/82D092CF-E2A9-4D29-A93F-4FEE3EBEE879.webp?v=1783597380"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/sunglasses-print-oakley-sweatshirt-mens-orange-large-108436-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 15935499960707,
+      "name": "Versace Jeans Couture Graphic T-Shirt - Medium White Cotton",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4114_390bde67-5fc7-4ad9-9c15-35850373323a.jpg?v=1777472599",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_vintage_28.4115_7958c475-8fb6-48ee-a27b-eb97a72776cc.jpg?v=1777472599",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/WOMENS_5a9e9029-9804-4120-ad44-d4b11547f142.webp?v=1777472598"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/vintage-versace-jeans-couture-t-shirt-womens-white-medium-398073",
+      "available": true
+    },
     {
       "id": 15916209865091,
       "name": "1987 Crosby Stills & Nash Signal Single Stitch T-Shirt - Large Blue Polyester Blend",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/support-unit-supreme-t-shirt-mens-black-large-100788-a",
-      "available": true
-    },
-    {
-      "id": 15873001456003,
-      "name": "Air Max Jordan Graphic T-Shirt - Large Black Cotton",
-      "price": 120,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/805C85AD-23F1-44D5-9BEF-994FF368706E.webp?v=1774957614",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/805C85AD-23F1-44D5-9BEF-994FF368706E.webp?v=1774957614",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/09528545-E279-46E3-8006-F74A0436B7FA.webp?v=1774957614",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CB73776D-D55A-48C9-8E85-E4AAF15B2DA8.webp?v=1774957615"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/air-max-jordan-t-shirt-mens-black-large-81351-a",
       "available": true
     }
   ]
