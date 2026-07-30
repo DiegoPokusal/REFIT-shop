@@ -35,6 +35,23 @@
       "available": true
     },
     {
+      "id": 15919755526531,
+      "name": "Carolina Panthers Pro Player Graphic Windbreaker - Large Blue Polyester",
+      "price": 140,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BCB05D1C-0CFC-412A-86E0-B8C1CD3FA01F.webp?v=1776957446",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BCB05D1C-0CFC-412A-86E0-B8C1CD3FA01F.webp?v=1776957446",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8873B487-61D1-47DB-86E2-D14BC8C8C406.webp?v=1776957446",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E2F15203-0B43-48A3-9169-D21F86E543A9.webp?v=1776957447"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/carolina-panthers-pro-player-windbreaker-mens-blue-large-88483-a",
+      "available": true
+    },
+    {
       "id": 15839821136259,
       "name": "Aquascutum Overcoat - Small Black Cotton Blend",
       "price": 139,
@@ -137,23 +154,6 @@
       "available": true
     },
     {
-      "id": 16115973128579,
-      "name": "20Th Anniversary Canada Sportswear Workwear Jacket - Medium Black Cotton",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CCC6EDAD-656B-422E-89F6-C8BF7F0C0F00.webp?v=1784718942",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CCC6EDAD-656B-422E-89F6-C8BF7F0C0F00.webp?v=1784718942",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0806618C-A853-4334-A84E-EAECECF83EB1.webp?v=1784718942",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/76D9358D-6BBC-4FBB-8B2F-9B82588027F2.webp?v=1784718943"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/20th-anniversary-canada-sportswear-jacket-mens-black-medium-113127-a",
-      "available": true
-    },
-    {
       "id": 15921662361987,
       "name": "90S Polo By Ralph Lauren Puffer - Large Black Polyester",
       "price": 135,
@@ -188,6 +188,23 @@
       "available": true
     },
     {
+      "id": 16115973128579,
+      "name": "20Th Anniversary Canada Sportswear Workwear Jacket - Medium Black Cotton",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CCC6EDAD-656B-422E-89F6-C8BF7F0C0F00.webp?v=1784718942",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CCC6EDAD-656B-422E-89F6-C8BF7F0C0F00.webp?v=1784718942",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0806618C-A853-4334-A84E-EAECECF83EB1.webp?v=1784718942",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/76D9358D-6BBC-4FBB-8B2F-9B82588027F2.webp?v=1784718943"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/20th-anniversary-canada-sportswear-jacket-mens-black-medium-113127-a",
+      "available": true
+    },
+    {
       "id": 16081630298499,
       "name": "550 Fill The North Face Puffer - Large Blue Nylon",
       "price": 134,
@@ -219,23 +236,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-armani-blazer-mens-beige-medium-397965",
-      "available": true
-    },
-    {
-      "id": 16081684857219,
-      "name": "Guess Leather Jacket - Large Black Leather",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/823C4DA6-F0FF-447D-B1F3-D0777902C105.webp?v=1783596144",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/823C4DA6-F0FF-447D-B1F3-D0777902C105.webp?v=1783596144",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F1604565-E00F-4AE0-81A8-581902D26E1F.webp?v=1783596144",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C863C72-EE09-4D7B-9CB3-1A2E7B96C7DA.webp?v=1783596144"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/guess-leather-jacket-mens-black-large-107023-a",
       "available": true
     },
     {
@@ -304,6 +304,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-blue-jays-street-legends-varsity-jacket-mens-blue-large-90885-a",
+      "available": true
+    },
+    {
+      "id": 16081684857219,
+      "name": "Guess Leather Jacket - Large Black Leather",
+      "price": 140,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/823C4DA6-F0FF-447D-B1F3-D0777902C105.webp?v=1783596144",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/823C4DA6-F0FF-447D-B1F3-D0777902C105.webp?v=1783596144",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F1604565-E00F-4AE0-81A8-581902D26E1F.webp?v=1783596144",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3C863C72-EE09-4D7B-9CB3-1A2E7B96C7DA.webp?v=1783596144"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/guess-leather-jacket-mens-black-large-107023-a",
       "available": true
     },
     {
@@ -409,23 +426,6 @@
       "available": true
     },
     {
-      "id": 16118532145539,
-      "name": "Marmot Puffer - Large Black Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8772BBAB-4F76-4422-BC21-2DA7D59FCB46.webp?v=1784793842",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8772BBAB-4F76-4422-BC21-2DA7D59FCB46.webp?v=1784793842",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/204B305A-AAC6-4ED8-B1D3-2C87691ED7D6.webp?v=1784793842",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/90550FFE-DD1C-4A34-A678-102BCF36F1ED.webp?v=1784793843"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/marmot-puffer-mens-black-large-113912-a",
-      "available": true
-    },
-    {
       "id": 16115973030275,
       "name": "Unbranded Workwear Jacket - Medium Black Cotton",
       "price": 139,
@@ -457,6 +457,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-green-small-115002-a",
+      "available": true
+    },
+    {
+      "id": 16118532145539,
+      "name": "Marmot Puffer - Large Black Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8772BBAB-4F76-4422-BC21-2DA7D59FCB46.webp?v=1784793842",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8772BBAB-4F76-4422-BC21-2DA7D59FCB46.webp?v=1784793842",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/204B305A-AAC6-4ED8-B1D3-2C87691ED7D6.webp?v=1784793842",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/90550FFE-DD1C-4A34-A678-102BCF36F1ED.webp?v=1784793843"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/marmot-puffer-mens-black-large-113912-a",
       "available": true
     },
     {
@@ -579,23 +596,6 @@
       "available": true
     },
     {
-      "id": 16117236531587,
-      "name": "Diesel Parka - Medium Beige Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/852BDCCC-F09F-49B0-AA48-2783C66AC679.webp?v=1784728250",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/852BDCCC-F09F-49B0-AA48-2783C66AC679.webp?v=1784728250",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/703D1212-364C-4988-9010-B3D882C7E265.webp?v=1784728249",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE324AB0-12B2-444D-9C4D-C0A240F0DA69.webp?v=1784728250"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/diesel-parka-mens-beige-medium-113536-a",
-      "available": true
-    },
-    {
       "id": 16117234106755,
       "name": "Nike Striped Track Jacket - Large Black Polyester",
       "price": 139,
@@ -627,6 +627,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/dickies-jacket-mens-black-medium-113598-a",
+      "available": true
+    },
+    {
+      "id": 16117236531587,
+      "name": "Diesel Parka - Medium Beige Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/852BDCCC-F09F-49B0-AA48-2783C66AC679.webp?v=1784728250",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/852BDCCC-F09F-49B0-AA48-2783C66AC679.webp?v=1784728250",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/703D1212-364C-4988-9010-B3D882C7E265.webp?v=1784728249",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE324AB0-12B2-444D-9C4D-C0A240F0DA69.webp?v=1784728250"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/diesel-parka-mens-beige-medium-113536-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/satin-steelers-fanatics-varsity-jacket-mens-black-large-88478-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15918957920643,
-      "name": "Phillies Mlb Varsity Jacket - Large Red Wool Blend",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E0823775-FA98-421E-97EC-2AD6B58D80F8.webp?v=1776933814",
+      "id": 16116018413955,
+      "name": "Carhartt Hoodie - Large Black Cotton",
+      "price": 117,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6920097C-D24F-4D05-81DE-890A69DA1489.webp?v=1784720248",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0823775-FA98-421E-97EC-2AD6B58D80F8.webp?v=1776933814",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8FC25708-A73B-46BD-A14D-FEE09CCAF944.webp?v=1776933814",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AED6A30-542F-403A-B949-AB646DB969B6.webp?v=1776933814"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6920097C-D24F-4D05-81DE-890A69DA1489.webp?v=1784720248",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/14E0CC59-BAF2-4E55-B4FB-102C97B9A056.webp?v=1784720249",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4EAB82EC-DFAE-4FD0-9766-9F3B7CB79848.webp?v=1784720249"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/phillies-mlb-varsity-jacket-mens-red-large-88014-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-large-110662-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16117307310467,
       "name": "Nike Hoodie - Large Navy Cotton",
@@ -751,23 +768,6 @@
       "available": true
     },
     {
-      "id": 16116018446723,
-      "name": "Thermal Lined Carhartt Full Zip Hoodie - Large Black Cotton",
-      "price": 117,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/08F23507-DAA6-48E6-93E7-4E395A2C5BE8.webp?v=1784720252",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/08F23507-DAA6-48E6-93E7-4E395A2C5BE8.webp?v=1784720252",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE78B2E2-7882-40B5-9094-F44BA32521EB.webp?v=1784720252",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C1EB1674-3918-433E-AE3A-EC0388408DCB.webp?v=1784720252"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/thermal-lined-carhartt-hoodie-mens-black-large-110663-a",
-      "available": true
-    },
-    {
       "id": 16117243445635,
       "name": "Nike Hoodie - Medium Red Cotton",
       "price": 110,
@@ -785,20 +785,20 @@
       "available": true
     },
     {
-      "id": 16117251899779,
-      "name": "Utah Jazz Nba Graphic Hoodie - Large Navy Cotton",
-      "price": 110,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
+      "id": 16116018446723,
+      "name": "Thermal Lined Carhartt Full Zip Hoodie - Large Black Cotton",
+      "price": 117,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/08F23507-DAA6-48E6-93E7-4E395A2C5BE8.webp?v=1784720252",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BEF6B1FE-30F0-4C12-BB6F-BFB010EF74B1.webp?v=1784728780",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A18B1B4-49D9-4FBB-B410-B21B47E700EF.webp?v=1784728781"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/08F23507-DAA6-48E6-93E7-4E395A2C5BE8.webp?v=1784720252",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE78B2E2-7882-40B5-9094-F44BA32521EB.webp?v=1784720252",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C1EB1674-3918-433E-AE3A-EC0388408DCB.webp?v=1784720252"
       ],
       "sizes": [
         "Large"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/utah-jazz-nba-hoodie-mens-navy-large-112812-a",
+      "url": "https://www.thrifted.com/products/thermal-lined-carhartt-hoodie-mens-black-large-110663-a",
       "available": true
     },
     {
@@ -833,6 +833,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/72-ecko-unltd-hoodie-mens-red-medium-113008-a",
+      "available": true
+    },
+    {
+      "id": 16117251899779,
+      "name": "Utah Jazz Nba Graphic Hoodie - Large Navy Cotton",
+      "price": 110,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BEF6B1FE-30F0-4C12-BB6F-BFB010EF74B1.webp?v=1784728780",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A18B1B4-49D9-4FBB-B410-B21B47E700EF.webp?v=1784728781"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/utah-jazz-nba-hoodie-mens-navy-large-112812-a",
       "available": true
     },
     {
@@ -955,23 +972,6 @@
       "available": true
     },
     {
-      "id": 16117235745155,
-      "name": "Nike Hoodie - Medium Black Cotton",
-      "price": 110,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3FC80FA1-19C7-4FDF-889C-F37681FB81C1.webp?v=1784728218",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3FC80FA1-19C7-4FDF-889C-F37681FB81C1.webp?v=1784728218",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1C54AF0E-3ECB-46D3-9DFE-BC62C23A255E.webp?v=1784728218",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/67582BC7-D23D-4E8F-A97C-B530F369F16E.webp?v=1784728219"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/nike-hoodie-mens-black-medium-113689-a",
-      "available": true
-    },
-    {
       "id": 16117285060995,
       "name": "Polo By Ralph Lauren Full Zip Hoodie - Large Black Cotton",
       "price": 103,
@@ -1037,6 +1037,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-black-small-112485-a",
+      "available": true
+    },
+    {
+      "id": 16117235745155,
+      "name": "Nike Hoodie - Medium Black Cotton",
+      "price": 110,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3FC80FA1-19C7-4FDF-889C-F37681FB81C1.webp?v=1784728218",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3FC80FA1-19C7-4FDF-889C-F37681FB81C1.webp?v=1784728218",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1C54AF0E-3ECB-46D3-9DFE-BC62C23A255E.webp?v=1784728218",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/67582BC7-D23D-4E8F-A97C-B530F369F16E.webp?v=1784728219"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-black-medium-113689-a",
       "available": true
     },
     {
@@ -1159,23 +1176,6 @@
       "available": true
     },
     {
-      "id": 16117286961539,
-      "name": "Polo Jeans Co. Ralph Lauren Hoodie - Medium Black Cotton Blend",
-      "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AAA8A203-8D77-4B10-AE5E-65D8B9221178.webp?v=1784729629",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AAA8A203-8D77-4B10-AE5E-65D8B9221178.webp?v=1784729629",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA39FA63-DCAF-4889-ABC6-427DD1F54DBC.webp?v=1784729629",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0061F2B6-674B-47DD-A082-8A2C5ABAD055.webp?v=1784729630"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-jeans-co-ralph-lauren-hoodie-mens-black-medium-112483-a",
-      "available": true
-    },
-    {
       "id": 16117315502467,
       "name": "Polo Bear Polo By Ralph Lauren Hoodie - Small Blue Cotton",
       "price": 125,
@@ -1207,6 +1207,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/wood-n-trail-hoodie-mens-camo-large-112927-a",
+      "available": true
+    },
+    {
+      "id": 16117286961539,
+      "name": "Polo Jeans Co. Ralph Lauren Hoodie - Medium Black Cotton Blend",
+      "price": 132,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AAA8A203-8D77-4B10-AE5E-65D8B9221178.webp?v=1784729629",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AAA8A203-8D77-4B10-AE5E-65D8B9221178.webp?v=1784729629",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA39FA63-DCAF-4889-ABC6-427DD1F54DBC.webp?v=1784729629",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0061F2B6-674B-47DD-A082-8A2C5ABAD055.webp?v=1784729630"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-jeans-co-ralph-lauren-hoodie-mens-black-medium-112483-a",
       "available": true
     },
     {
@@ -1329,23 +1346,6 @@
       "available": true
     },
     {
-      "id": 16117238169987,
-      "name": "Boardriding Company Quiksilver Spellout Hoodie - Large Navy Cotton Blend",
-      "price": 117,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/131E8F9C-061A-4EAA-AEB1-4615938A38BA.webp?v=1784728337",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/131E8F9C-061A-4EAA-AEB1-4615938A38BA.webp?v=1784728337",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7BA94B0F-8AFB-4EEF-B77F-FFEB40292C83.webp?v=1784728336",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A22D042B-96E4-4B26-87DE-17D2A386E540.webp?v=1784728338"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/boardriding-company-quiksilver-hoodie-mens-navy-large-113781-a",
-      "available": true
-    },
-    {
       "id": 16117240594819,
       "name": "Billabong Spellout Hoodie - Large Burgundy Cotton",
       "price": 117,
@@ -1379,6 +1379,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/tigger-character-disney-sweatshirt-mens-blue-large-111351-a",
+      "available": true
+    },
+    {
+      "id": 16117278376323,
+      "name": "Syracuse Nike College Sweatshirt - Large Navy Cotton",
+      "price": 110,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B78EBCDB-7798-40FA-B229-3F7DF97288D2.webp?v=1784729489",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B78EBCDB-7798-40FA-B229-3F7DF97288D2.webp?v=1784729489",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A074452-6500-492D-B485-6AAFB574DE66.webp?v=1784729489",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/210CB7FC-8035-4DE5-9790-08B34BE5C365.webp?v=1784729490"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/syracuse-nike-sweatshirt-mens-navy-large-112406-a",
       "available": true
     },
     {
@@ -1484,23 +1501,6 @@
       "available": true
     },
     {
-      "id": 16073346613635,
-      "name": "Polo By Ralph Lauren Sweatshirt - Large Grey Cotton",
-      "price": 108,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FE7AEF43-13E2-4790-BE9D-B18D4ED8F4A4.webp?v=1783349991",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE7AEF43-13E2-4790-BE9D-B18D4ED8F4A4.webp?v=1783349991",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0EFDAB8-DA79-4DB8-A7AF-991B83B04224.webp?v=1783349991",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/662CC2DF-E7C8-4107-AD52-C4370D80A3CD.webp?v=1783349991"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-grey-large-109492-a",
-      "available": true
-    },
-    {
       "id": 16117231059331,
       "name": "80S 90S Champion Sweatshirt - Large Blue Cotton",
       "price": 103,
@@ -1515,6 +1515,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/80s-90s-champion-sweatshirt-mens-blue-large-112577-a",
+      "available": true
+    },
+    {
+      "id": 16073346613635,
+      "name": "Polo By Ralph Lauren Sweatshirt - Large Grey Cotton",
+      "price": 108,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FE7AEF43-13E2-4790-BE9D-B18D4ED8F4A4.webp?v=1783349991",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE7AEF43-13E2-4790-BE9D-B18D4ED8F4A4.webp?v=1783349991",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0EFDAB8-DA79-4DB8-A7AF-991B83B04224.webp?v=1783349991",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/662CC2DF-E7C8-4107-AD52-C4370D80A3CD.webp?v=1783349991"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-grey-large-109492-a",
       "available": true
     },
     {
@@ -1603,23 +1620,6 @@
       "available": true
     },
     {
-      "id": 16175520940419,
-      "name": "Made In USA, Washington Redskins Nutmeg Nfl Sweatshirt - Medium Red Cotton",
-      "price": 110,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6F963C24-22F4-4872-A7F3-AA53341DC1DD.webp?v=1784900281",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6F963C24-22F4-4872-A7F3-AA53341DC1DD.webp?v=1784900281",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF4347CA-A560-4BAC-B83C-AE7F248A36FC.webp?v=1784900281",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DC3CA7AF-7605-458C-93CE-0F82FD69B860.webp?v=1784900281"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-washington-redskins-nutmeg-sweatshirt-mens-red-medium-115293-a",
-      "available": true
-    },
-    {
       "id": 16076589760899,
       "name": "90S Made In USA Nike Athletics Sweatshirt - Large Black Cotton",
       "price": 108,
@@ -1634,6 +1634,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-nike-sweatshirt-mens-black-large-106423-a",
+      "available": true
+    },
+    {
+      "id": 16175520940419,
+      "name": "Made In USA, Washington Redskins Nutmeg Nfl Sweatshirt - Medium Red Cotton",
+      "price": 110,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6F963C24-22F4-4872-A7F3-AA53341DC1DD.webp?v=1784900281",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6F963C24-22F4-4872-A7F3-AA53341DC1DD.webp?v=1784900281",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF4347CA-A560-4BAC-B83C-AE7F248A36FC.webp?v=1784900281",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DC3CA7AF-7605-458C-93CE-0F82FD69B860.webp?v=1784900281"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-washington-redskins-nutmeg-sweatshirt-mens-red-medium-115293-a",
       "available": true
     },
     {
@@ -1773,23 +1790,6 @@
       "available": true
     },
     {
-      "id": 16115798245763,
-      "name": "Chaps Ralph Lauren Striped Sweatshirt - Small Black Cotton",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3411695F-9749-465F-A997-FF8EB1E40386.webp?v=1784717819",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3411695F-9749-465F-A997-FF8EB1E40386.webp?v=1784717819",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B5B8B96-8812-406E-BD83-6317AD40BE1D.webp?v=1784717819",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/89485B89-D3CE-418D-B7AA-6B09780C8845.webp?v=1784717819"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/chaps-ralph-lauren-sweatshirt-mens-black-small-112097-a",
-      "available": true
-    },
-    {
       "id": 16115996328323,
       "name": "Polo By Ralph Lauren Sweatshirt - Medium Black Cotton",
       "price": 96,
@@ -1821,6 +1821,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/nike-sweatshirt-mens-black-large-112365-a",
+      "available": true
+    },
+    {
+      "id": 16115798245763,
+      "name": "Chaps Ralph Lauren Striped Sweatshirt - Small Black Cotton",
+      "price": 96,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3411695F-9749-465F-A997-FF8EB1E40386.webp?v=1784717819",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3411695F-9749-465F-A997-FF8EB1E40386.webp?v=1784717819",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9B5B8B96-8812-406E-BD83-6317AD40BE1D.webp?v=1784717819",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/89485B89-D3CE-418D-B7AA-6B09780C8845.webp?v=1784717819"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/chaps-ralph-lauren-sweatshirt-mens-black-small-112097-a",
       "available": true
     },
     {
@@ -1926,23 +1943,6 @@
       "available": true
     },
     {
-      "id": 16112458367363,
-      "name": "Trick Or Treat Looney Tunes Halloween Sweatshirt - Large White Cotton",
-      "price": 125,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/63608937-E6CD-4DA5-A1E3-9FB93DACBDDD.webp?v=1784649098",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/63608937-E6CD-4DA5-A1E3-9FB93DACBDDD.webp?v=1784649098",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD10741A-3E3D-49A8-9EFB-68AD5F3F55F5.webp?v=1784649098",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/25960173-20CD-4164-A1EE-32D6E0D8B3F3.webp?v=1784649098"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/trick-or-treat-looney-tunes-sweatshirt-mens-white-large-111325-a",
-      "available": true
-    },
-    {
       "id": 16118541091203,
       "name": "Pipe Valves Fittings Carhartt Sweatshirt - Large Navy Cotton",
       "price": 101,
@@ -1994,6 +1994,23 @@
       "available": true
     },
     {
+      "id": 16112458367363,
+      "name": "Trick Or Treat Looney Tunes Halloween Sweatshirt - Large White Cotton",
+      "price": 125,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/63608937-E6CD-4DA5-A1E3-9FB93DACBDDD.webp?v=1784649098",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63608937-E6CD-4DA5-A1E3-9FB93DACBDDD.webp?v=1784649098",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD10741A-3E3D-49A8-9EFB-68AD5F3F55F5.webp?v=1784649098",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/25960173-20CD-4164-A1EE-32D6E0D8B3F3.webp?v=1784649098"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/trick-or-treat-looney-tunes-sweatshirt-mens-white-large-111325-a",
+      "available": true
+    },
+    {
       "id": 16008151105923,
       "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Grey Cotton",
       "price": 95,
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/oakley-sweatshirt-mens-green-large-113191-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16117306163587,
-      "name": "Polo By Ralph Lauren Two Tone Fleece Sweatshirt - Large Burgundy Cotton",
-      "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/709DC41B-2343-444C-9D3B-76B9B2138622.webp?v=1784730184",
+      "id": 16114989171075,
+      "name": "Carhartt Spellout Long Sleeve T-Shirt - Large Blue Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9DADFE20-FFE4-457B-A4C0-36A1EC7A4CB9.webp?v=1784714487",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/709DC41B-2343-444C-9D3B-76B9B2138622.webp?v=1784730184",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/36C90895-83C5-4CD2-9211-316125636C27.webp?v=1784730184",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19C3BA89-0872-4695-9DB4-5667CD9998E4.webp?v=1784730184"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DADFE20-FFE4-457B-A4C0-36A1EC7A4CB9.webp?v=1784714487",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F1DD2A22-306A-4850-B84D-40A2B4BF011F.webp?v=1784714488",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9AE7910F-8C09-4A12-A416-32B0F6F9D679.webp?v=1784714488"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-burgundy-large-112507-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-blue-large-114346-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16114986451331,
       "name": "Carhartt Long Sleeve T-Shirt - Medium Grey Cotton",
@@ -2095,23 +2112,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-large-114372-a",
-      "available": true
-    },
-    {
-      "id": 16114972426627,
-      "name": "Carhartt Spellout Long Sleeve T-Shirt - Small Grey Cotton",
-      "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A306F559-2193-4421-B702-D390ED72FE0D.webp?v=1784714200",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A306F559-2193-4421-B702-D390ED72FE0D.webp?v=1784714200",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F766A53-FD25-44B5-A847-AC3167A4B926.webp?v=1784714200",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/57633AC4-1401-47C6-9C33-590BEDA147DF.webp?v=1784714201"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-small-114382-a",
       "available": true
     },
     {
@@ -2180,6 +2180,23 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/support-unit-supreme-t-shirt-mens-black-large-100788-a",
+      "available": true
+    },
+    {
+      "id": 16114972426627,
+      "name": "Carhartt Spellout Long Sleeve T-Shirt - Small Grey Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A306F559-2193-4421-B702-D390ED72FE0D.webp?v=1784714200",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A306F559-2193-4421-B702-D390ED72FE0D.webp?v=1784714200",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F766A53-FD25-44B5-A847-AC3167A4B926.webp?v=1784714200",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/57633AC4-1401-47C6-9C33-590BEDA147DF.webp?v=1784714201"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-small-114382-a",
       "available": true
     },
     {
@@ -2285,23 +2302,6 @@
       "available": true
     },
     {
-      "id": 16114982683011,
-      "name": "Jackson Energy Carhartt Long Sleeve T-Shirt - Medium Navy Cotton",
-      "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DEF09F43-6418-46D6-A288-ABB4322ACCE3.webp?v=1784714353",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DEF09F43-6418-46D6-A288-ABB4322ACCE3.webp?v=1784714353",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C1C23F75-9FCC-46E2-83D7-7CCC7642C1AA.webp?v=1784714353",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B27E56A6-4937-49A7-9247-2C5E03E5A8D2.webp?v=1784714353"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/jackson-energy-carhartt-long-sleeve-t-shirt-mens-navy-medium-114334-a",
-      "available": true
-    },
-    {
       "id": 15995255128451,
       "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
       "price": 90,
@@ -2370,6 +2370,23 @@
       "available": true
     },
     {
+      "id": 16114982683011,
+      "name": "Jackson Energy Carhartt Long Sleeve T-Shirt - Medium Navy Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DEF09F43-6418-46D6-A288-ABB4322ACCE3.webp?v=1784714353",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DEF09F43-6418-46D6-A288-ABB4322ACCE3.webp?v=1784714353",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C1C23F75-9FCC-46E2-83D7-7CCC7642C1AA.webp?v=1784714353",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B27E56A6-4937-49A7-9247-2C5E03E5A8D2.webp?v=1784714353"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/jackson-energy-carhartt-long-sleeve-t-shirt-mens-navy-medium-114334-a",
+      "available": true
+    },
+    {
       "id": 16175482143107,
       "name": "Harley Davidson Long Sleeve T-Shirt - Small Orange Cotton",
       "price": 101,
@@ -2401,23 +2418,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-114320-a",
-      "available": true
-    },
-    {
-      "id": 16114980520323,
-      "name": "Carhartt Long Sleeve T-Shirt - Medium Black Cotton",
-      "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BB2C737C-A452-4D0D-920C-EBB6575FCDFF.webp?v=1784714314",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BB2C737C-A452-4D0D-920C-EBB6575FCDFF.webp?v=1784714314",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F9F5D8F-88B9-46E1-BEE2-8CDEE926894A.webp?v=1784714313",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE8AABC5-B205-458E-B9B1-C398C1727B3C.webp?v=1784714313"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-medium-114315-a",
       "available": true
     },
     {
@@ -2472,6 +2472,23 @@
       "available": true
     },
     {
+      "id": 16114980520323,
+      "name": "Carhartt Long Sleeve T-Shirt - Medium Black Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BB2C737C-A452-4D0D-920C-EBB6575FCDFF.webp?v=1784714314",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BB2C737C-A452-4D0D-920C-EBB6575FCDFF.webp?v=1784714314",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F9F5D8F-88B9-46E1-BEE2-8CDEE926894A.webp?v=1784714313",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE8AABC5-B205-458E-B9B1-C398C1727B3C.webp?v=1784714313"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-medium-114315-a",
+      "available": true
+    },
+    {
       "id": 16017695998339,
       "name": "Burberry T-Shirt - Small Black Cotton",
       "price": 90,
@@ -2489,20 +2506,20 @@
       "available": true
     },
     {
-      "id": 16114980815235,
-      "name": "Carhartt Long Sleeve T-Shirt - Medium Black Cotton",
+      "id": 16114972066179,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Grey Cotton",
       "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2C14E3CB-5129-4416-8396-20887B2B9363.webp?v=1784714320",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3B927B3A-4287-4E7C-964D-E66AE64DD61F.webp?v=1784714191",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2C14E3CB-5129-4416-8396-20887B2B9363.webp?v=1784714320",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8AEFA23B-D1A2-4198-A675-B909F15F41FF.webp?v=1784714320",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/33056628-70A2-481E-A252-26111355BF3C.webp?v=1784714320"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B927B3A-4287-4E7C-964D-E66AE64DD61F.webp?v=1784714191",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AFA96B7D-6FE6-4DD0-B23B-2420985A27D1.webp?v=1784714191",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D73319FD-7E18-4D82-A992-DD0FC5866CD8.webp?v=1784714192"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-medium-114316-a",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-large-114405-a",
       "available": true
     },
     {
@@ -2520,23 +2537,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/made-in-usa-nike-t-shirt-mens-blue-large-112396-a",
-      "available": true
-    },
-    {
-      "id": 16117309735299,
-      "name": "Made In USA Basketball Nike Tie-Dye T-Shirt - Medium Black Cotton",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/996D851B-0D50-46EA-8CC1-11CE9C061EB0.webp?v=1784730329",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/996D851B-0D50-46EA-8CC1-11CE9C061EB0.webp?v=1784730329",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3707C33E-71BC-4351-BEFC-8A7207964897.webp?v=1784730329",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1536D24D-8637-40B3-B68D-FDACC60193F8.webp?v=1784730329"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-usa-basketball-nike-t-shirt-mens-black-medium-112416-a",
       "available": true
     },
     {
@@ -2625,6 +2625,23 @@
       "available": true
     },
     {
+      "id": 16117309735299,
+      "name": "Made In USA Basketball Nike Tie-Dye T-Shirt - Medium Black Cotton",
+      "price": 96,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/996D851B-0D50-46EA-8CC1-11CE9C061EB0.webp?v=1784730329",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/996D851B-0D50-46EA-8CC1-11CE9C061EB0.webp?v=1784730329",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3707C33E-71BC-4351-BEFC-8A7207964897.webp?v=1784730329",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1536D24D-8637-40B3-B68D-FDACC60193F8.webp?v=1784730329"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/made-in-usa-basketball-nike-t-shirt-mens-black-medium-112416-a",
+      "available": true
+    },
+    {
       "id": 16112456860035,
       "name": "Made In USA Taz Looney Tunes Aop Graphic T-Shirt - Medium Black Cotton",
       "price": 110,
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/santa-graphic-supreme-t-shirt-mens-white-medium-100812-a",
-      "available": true
-    },
-    {
-      "id": 16114989859203,
-      "name": "Carhartt Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/78E3DC30-A1C3-4FDD-BD08-DBD73C09FA43.webp?v=1784714505",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/78E3DC30-A1C3-4FDD-BD08-DBD73C09FA43.webp?v=1784714505",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FB4009C7-4561-4239-9F3B-8F8B3DB2663F.webp?v=1784714505",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE809B23-283E-4603-AF3A-F10A0D9AA3AE.webp?v=1784714505"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-114307-a",
       "available": true
     }
   ]
