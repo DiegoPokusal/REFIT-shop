@@ -1142,6 +1142,23 @@
       "available": true
     },
     {
+      "id": 16117285290371,
+      "name": "Polo By Ralph Lauren Striped Hoodie - Medium Red Cotton",
+      "price": 132,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/92C81CAE-1DD9-4E10-AC1E-4194CB645859.webp?v=1784729601",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/92C81CAE-1DD9-4E10-AC1E-4194CB645859.webp?v=1784729601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/423BB2AF-46C4-4D07-B786-5BE2BEA7F20A.webp?v=1784729601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/503FCB21-4EDA-484D-BB48-1BA38EF0A595.webp?v=1784729602"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-red-medium-112477-a",
+      "available": true
+    },
+    {
       "id": 16174892712323,
       "name": "Bee Line Timberland Two Tone After Hood Hoodie - Small Grey Cotton",
       "price": 110,
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/oakley-hoodie-mens-multicoloured-large-113227-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16010028482947,
-      "name": "Reggae Stussy Roots Graphic Hoodie - Small Grey Cotton",
-      "price": 120,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7E2F92E3-201B-42A3-8011-381FF1FBA758.webp?v=1780661471",
+      "id": 16073347694979,
+      "name": "Polo By Ralph Lauren Sweatshirt - Small Navy Cotton",
+      "price": 108,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0EE5F3EB-582A-4BED-811C-36C0EA9AC8FF.webp?v=1783350028",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7E2F92E3-201B-42A3-8011-381FF1FBA758.webp?v=1780661471",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5E44B11B-6168-453D-9B9A-DF1936EE201C.webp?v=1780661471",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/69EF37F9-07B6-44E3-9E2D-0AFD1E84DC21.webp?v=1780661471"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0EE5F3EB-582A-4BED-811C-36C0EA9AC8FF.webp?v=1783350028",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B86377FC-DC72-45FA-80A4-145938D1525C.webp?v=1783350028",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA940975-57E5-4C39-8106-1928C86B7C9A.webp?v=1783350028"
       ],
       "sizes": [
         "Small"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reggae-stussy-hoodie-mens-grey-small-100776-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-navy-small-109509-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16112458367363,
       "name": "Trick Or Treat Looney Tunes Halloween Sweatshirt - Large White Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/vans-sweatshirt-mens-grey-small-113817-a",
       "available": true
-    },
-    {
-      "id": 16008151105923,
-      "name": "Looney Tunes Characters Warner Bros Cartoon Sweatshirt - Small Grey Cotton",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/16EA3A18-4A2C-43C4-94DB-44C137582E4B.webp?v=1780561656",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7397703-D500-4677-8443-9037AB1E4AEC.webp?v=1780561656",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/36524FCB-1714-4A4B-A2F1-3CBD8949C1AA.webp?v=1780561656"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/looney-tunes-characters-warner-bros-sweatshirt-mens-grey-small-99300-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16117234467203,
+      "name": "Nike Striped T-Shirt - Large Red Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3684FAD7-D543-4812-BFB7-061EB3F5F2F5.webp?v=1784728178",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3684FAD7-D543-4812-BFB7-061EB3F5F2F5.webp?v=1784728178",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DE1D377-1419-4AEF-ACB2-4DD12D29ED14.webp?v=1784728178",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/560C9149-E167-4946-83B5-EF306A1587EF.webp?v=1784728178"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/nike-t-shirt-mens-red-large-113676-a",
+      "available": true
+    },
     {
       "id": 16010027958659,
       "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/made-in-usa-taz-looney-tunes-t-shirt-mens-black-medium-111352-a",
-      "available": true
-    },
-    {
-      "id": 16117235679619,
-      "name": "Made In Canada Nike T-Shirt - Medium Grey Cotton",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/885C8368-EFE5-46BD-A2FD-7881D8D0320B.webp?v=1784728215",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/885C8368-EFE5-46BD-A2FD-7881D8D0320B.webp?v=1784728215",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/97F67C28-98D1-4067-86A0-7DAA53A88DAB.webp?v=1784728216",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/38DC7B7A-81BD-4474-9F56-47F6F62A28CF.webp?v=1784728216"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-canada-nike-t-shirt-mens-grey-medium-113687-a",
       "available": true
     }
   ]
