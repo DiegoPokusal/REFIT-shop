@@ -1,9 +1,26 @@
 {
   "jacket": [
     {
+      "id": 16117236531587,
+      "name": "Diesel Parka - Medium Beige Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/852BDCCC-F09F-49B0-AA48-2783C66AC679.webp?v=1784728250",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/852BDCCC-F09F-49B0-AA48-2783C66AC679.webp?v=1784728250",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/703D1212-364C-4988-9010-B3D882C7E265.webp?v=1784728249",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE324AB0-12B2-444D-9C4D-C0A240F0DA69.webp?v=1784728250"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/diesel-parka-mens-beige-medium-113536-a",
+      "available": true
+    },
+    {
       "id": 15950815396227,
       "name": "90S Made In USA Pirates Daniel'S Sportswear Satin Varsity Jacket - Large Black Polyester",
-      "price": 140,
+      "price": 139,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E9A5CA3C-F6EE-4321-9527-DD9F137AD2CC.webp?v=1778141839",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/E9A5CA3C-F6EE-4321-9527-DD9F137AD2CC.webp?v=1778141839",
@@ -343,7 +360,7 @@
     {
       "id": 15950831616387,
       "name": "90S Made In USA Blue Jays Street Legends Graphic Varsity Jacket - Large Blue Cotton",
-      "price": 140,
+      "price": 139,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8C8D6145-1AA6-470B-A249-A5FDA1592DEC.webp?v=1778142118",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/8C8D6145-1AA6-470B-A249-A5FDA1592DEC.webp?v=1778142118",
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/nike-track-jacket-mens-black-large-113668-a",
       "available": true
-    },
-    {
-      "id": 16117214478723,
-      "name": "Dickies Arctic Work Jacket - Medium Black Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FF514187-63FD-4BFB-B3C3-6866907EF5DC.webp?v=1784727529",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FF514187-63FD-4BFB-B3C3-6866907EF5DC.webp?v=1784727529",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4AFA2083-4F23-48A3-B397-764B490C7CF4.webp?v=1784727529",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/38ADD153-396B-440F-9ED0-9A6606601A5B.webp?v=1784727530"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/dickies-jacket-mens-black-medium-113598-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16174903689603,
+      "name": "Boston Traders Realtree Camo Hoodie - Small Black Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8E98FC5A-4886-4A27-A2E3-EC85F566914A.webp?v=1784884692",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8E98FC5A-4886-4A27-A2E3-EC85F566914A.webp?v=1784884692",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/22023C94-D484-4550-984A-46A8CDF3142A.webp?v=1784884691",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/850AFED2-2380-4134-AECA-7AC4CC636EA5.webp?v=1784884692"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/boston-traders-realtree-hoodie-mens-black-small-112925-a",
+      "available": true
+    },
     {
       "id": 16117307376003,
       "name": "Toronto Maple Leafs Nike Hoodie - Medium Grey Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/reggae-stussy-hoodie-mens-grey-small-100776-a",
       "available": true
-    },
-    {
-      "id": 16117285290371,
-      "name": "Polo By Ralph Lauren Striped Hoodie - Medium Red Cotton",
-      "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/92C81CAE-1DD9-4E10-AC1E-4194CB645859.webp?v=1784729601",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/92C81CAE-1DD9-4E10-AC1E-4194CB645859.webp?v=1784729601",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/423BB2AF-46C4-4D07-B786-5BE2BEA7F20A.webp?v=1784729601",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/503FCB21-4EDA-484D-BB48-1BA38EF0A595.webp?v=1784729602"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-red-medium-112477-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16112458367363,
+      "name": "Trick Or Treat Looney Tunes Halloween Sweatshirt - Large White Cotton",
+      "price": 125,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/63608937-E6CD-4DA5-A1E3-9FB93DACBDDD.webp?v=1784649098",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63608937-E6CD-4DA5-A1E3-9FB93DACBDDD.webp?v=1784649098",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD10741A-3E3D-49A8-9EFB-68AD5F3F55F5.webp?v=1784649098",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/25960173-20CD-4164-A1EE-32D6E0D8B3F3.webp?v=1784649098"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/trick-or-treat-looney-tunes-sweatshirt-mens-white-large-111325-a",
+      "available": true
+    },
     {
       "id": 16117258879363,
       "name": "Oakley Spellout Sweatshirt - Large Green Cotton",
@@ -1515,23 +1532,6 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/winston-cup-champion-fruit-of-the-loom-sweatshirt-mens-grey-large-111268-a",
-      "available": true
-    },
-    {
-      "id": 16073347694979,
-      "name": "Polo By Ralph Lauren Sweatshirt - Small Navy Cotton",
-      "price": 108,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0EE5F3EB-582A-4BED-811C-36C0EA9AC8FF.webp?v=1783350028",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0EE5F3EB-582A-4BED-811C-36C0EA9AC8FF.webp?v=1783350028",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B86377FC-DC72-45FA-80A4-145938D1525C.webp?v=1783350028",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA940975-57E5-4C39-8106-1928C86B7C9A.webp?v=1783350028"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-navy-small-109509-a",
       "available": true
     },
     {
