@@ -52,6 +52,23 @@
       "available": true
     },
     {
+      "id": 16117278572931,
+      "name": "Inter Milan Nike Graphic Track Jacket - Large Black Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FADFB279-45F3-40AC-B8CB-90FA1DFA7AF0.webp?v=1784729493",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FADFB279-45F3-40AC-B8CB-90FA1DFA7AF0.webp?v=1784729493",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E24EB3E-0D1F-4E9C-BFF6-D17CBB43E70E.webp?v=1784729493",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/042BF4C3-8336-44FB-8D5F-B1662859B831.webp?v=1784729496"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/inter-milan-nike-track-jacket-mens-black-large-112407-a",
+      "available": true
+    },
+    {
       "id": 16115088458115,
       "name": "Port Authority Workwear Jacket - Large Brown Cotton",
       "price": 139,
@@ -103,23 +120,6 @@
       "available": true
     },
     {
-      "id": 16117234106755,
-      "name": "Nike Striped Track Jacket - Large Black Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6D7E4025-8721-4EFD-88FD-B5FDD5612E19.webp?v=1784728169",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D7E4025-8721-4EFD-88FD-B5FDD5612E19.webp?v=1784728169",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/214B0A43-4388-4AD5-ACAA-C62398EA463E.webp?v=1784728168",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E647B402-33E3-44B9-AFA0-28E06AB26333.webp?v=1784728169"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/nike-track-jacket-mens-black-large-113668-a",
-      "available": true
-    },
-    {
       "id": 15950815396227,
       "name": "90S Made In USA Pirates Daniel'S Sportswear Satin Varsity Jacket - Large Black Polyester",
       "price": 139,
@@ -151,6 +151,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-black-medium-111246-a",
+      "available": true
+    },
+    {
+      "id": 16117234106755,
+      "name": "Nike Striped Track Jacket - Large Black Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6D7E4025-8721-4EFD-88FD-B5FDD5612E19.webp?v=1784728169",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D7E4025-8721-4EFD-88FD-B5FDD5612E19.webp?v=1784728169",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/214B0A43-4388-4AD5-ACAA-C62398EA463E.webp?v=1784728168",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E647B402-33E3-44B9-AFA0-28E06AB26333.webp?v=1784728169"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/nike-track-jacket-mens-black-large-113668-a",
       "available": true
     },
     {
@@ -273,23 +290,6 @@
       "available": true
     },
     {
-      "id": 16049113399683,
-      "name": "Dickies Bomber Jacket - Large Black Polyester",
-      "price": 142,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/54F89974-2F5C-42E5-B6A5-2BB4FC34E818.webp?v=1782393827",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/54F89974-2F5C-42E5-B6A5-2BB4FC34E818.webp?v=1782393827",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D09CABD6-ADEF-4202-B7AF-9FA956FF461E.webp?v=1782393834",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5359C2F-B736-404A-8413-ADCB888F1140.webp?v=1782311020"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/dickies-bomber-jacket-mens-black-large-106036-a",
-      "available": true
-    },
-    {
       "id": 16046368260483,
       "name": "Nautica Reversible Puffer - Medium Navy Polyester",
       "price": 142,
@@ -307,20 +307,20 @@
       "available": true
     },
     {
-      "id": 15876912087427,
-      "name": "Raiders Unbranded Football Leather Jacket - Large Black Leather",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0D40C840-6E3A-4FCC-BD54-E168DB3512A5.webp?v=1775143483",
+      "id": 16049113399683,
+      "name": "Dickies Bomber Jacket - Large Black Polyester",
+      "price": 142,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/54F89974-2F5C-42E5-B6A5-2BB4FC34E818.webp?v=1782393827",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0D40C840-6E3A-4FCC-BD54-E168DB3512A5.webp?v=1775143483",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E9E2C178-BA8B-45C6-A34C-C90F8E5B7C84.webp?v=1775143483",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/71316FE5-D6F0-4CF8-9DD4-DC2D5595BDC4.webp?v=1775143483"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/54F89974-2F5C-42E5-B6A5-2BB4FC34E818.webp?v=1782393827",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D09CABD6-ADEF-4202-B7AF-9FA956FF461E.webp?v=1782393834",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5359C2F-B736-404A-8413-ADCB888F1140.webp?v=1782311020"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/raiders-unbranded-leather-jacket-mens-black-large-83178-a",
+      "url": "https://www.thrifted.com/products/dickies-bomber-jacket-mens-black-large-106036-a",
       "available": true
     },
     {
@@ -358,6 +358,23 @@
       "available": true
     },
     {
+      "id": 15876912087427,
+      "name": "Raiders Unbranded Football Leather Jacket - Large Black Leather",
+      "price": 140,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0D40C840-6E3A-4FCC-BD54-E168DB3512A5.webp?v=1775143483",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0D40C840-6E3A-4FCC-BD54-E168DB3512A5.webp?v=1775143483",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E9E2C178-BA8B-45C6-A34C-C90F8E5B7C84.webp?v=1775143483",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/71316FE5-D6F0-4CF8-9DD4-DC2D5595BDC4.webp?v=1775143483"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/raiders-unbranded-leather-jacket-mens-black-large-83178-a",
+      "available": true
+    },
+    {
       "id": 15950750089603,
       "name": "Reversible Carhartt Camo Realtree Jacket - Large Camo Polyester",
       "price": 145,
@@ -392,23 +409,6 @@
       "available": true
     },
     {
-      "id": 16117294301571,
-      "name": "Guess Puffer - Small Black Polyester",
-      "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/60DF92C9-E5B0-4BD3-8D3B-670D1D7B101D.webp?v=1784729785",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/60DF92C9-E5B0-4BD3-8D3B-670D1D7B101D.webp?v=1784729785",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/28A19B4C-59A9-408F-9183-439AFC7E550B.webp?v=1784729785",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/13A4809F-A5A2-4B8F-A4DD-AE1A8D6D09EF.webp?v=1784729785"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/guess-puffer-mens-black-small-112153-a",
-      "available": true
-    },
-    {
       "id": 15929995460995,
       "name": "Armani Blazer - Medium Beige Wool",
       "price": 140,
@@ -423,6 +423,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-armani-blazer-mens-beige-medium-397965",
+      "available": true
+    },
+    {
+      "id": 16117294301571,
+      "name": "Guess Puffer - Small Black Polyester",
+      "price": 132,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/60DF92C9-E5B0-4BD3-8D3B-670D1D7B101D.webp?v=1784729785",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/60DF92C9-E5B0-4BD3-8D3B-670D1D7B101D.webp?v=1784729785",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/28A19B4C-59A9-408F-9183-439AFC7E550B.webp?v=1784729785",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/13A4809F-A5A2-4B8F-A4DD-AE1A8D6D09EF.webp?v=1784729785"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/guess-puffer-mens-black-small-112153-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-red-medium-115023-a",
       "available": true
-    },
-    {
-      "id": 16118532145539,
-      "name": "Marmot Puffer - Large Black Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8772BBAB-4F76-4422-BC21-2DA7D59FCB46.webp?v=1784793842",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8772BBAB-4F76-4422-BC21-2DA7D59FCB46.webp?v=1784793842",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/204B305A-AAC6-4ED8-B1D3-2C87691ED7D6.webp?v=1784793842",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/90550FFE-DD1C-4A34-A678-102BCF36F1ED.webp?v=1784793843"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/marmot-puffer-mens-black-large-113912-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16175477490051,
+      "name": "Birds Of Prey Harley Davidson Full Zip Hoodie - Medium Red Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AB0F95A4-D71C-480C-B810-C453723E447A.webp?v=1784899700",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB0F95A4-D71C-480C-B810-C453723E447A.webp?v=1784899700",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/084C1DB9-0C63-410F-AAAD-1267F8A061C0.webp?v=1784899700",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/95AB4D39-4112-4F40-B938-6FC9DD2427E1.webp?v=1784899700"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/birds-of-prey-harley-davidson-hoodie-mens-red-medium-114598-a",
+      "available": true
+    },
     {
       "id": 16117305999747,
       "name": "Polo By Ralph Lauren Striped Rugby Hoodie - Large Navy Acrylic",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/bee-line-timberland-hoodie-mens-grey-small-114643-a",
       "available": true
-    },
-    {
-      "id": 16175487877507,
-      "name": "Motorcycles Harley Davidson Graphic Hoodie - Medium Grey Cotton Blend",
-      "price": 105,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6DD2E173-D22B-4133-B61F-7A65D72255B0.webp?v=1784899789",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DD2E173-D22B-4133-B61F-7A65D72255B0.webp?v=1784899789",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83C3110E-0ECB-4EE1-B7DC-F5F1AC039FE2.webp?v=1784899789",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2E364429-5BDB-4C55-8675-82740C4BCEB9.webp?v=1784899789"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-hoodie-womens-grey-medium-114628-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16117305803139,
+      "name": "Polo Player Polo By Ralph Lauren Graphic Sweatshirt - Large Blue Cotton",
+      "price": 117,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3F54FAB5-45D1-4757-9753-D865639CC24B.webp?v=1784730162",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3F54FAB5-45D1-4757-9753-D865639CC24B.webp?v=1784730162",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A7E7F75-CEBD-48C0-9480-0DEFEF59CC05.webp?v=1784730161",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/69D8A291-85AE-48AF-A2DE-A997BC950E5D.webp?v=1784730162"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/polo-player-polo-by-ralph-lauren-sweatshirt-mens-blue-large-112489-a",
+      "available": true
+    },
     {
       "id": 16015480357251,
       "name": "Force Nike Basketball Sweatshirt - Medium Blue Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/ohio-state-tultex-sweatshirt-mens-black-medium-106045-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16034985804163,
-      "name": "Pittsburgh Steelers Lee Sport Nfl Sweatshirt - Large Black Cotton",
-      "price": 92,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6D08803F-3BFD-4BB3-98BF-704E5A558F75.webp?v=1781705033",
+      "id": 16117287321987,
+      "name": "Polo By Ralph Lauren Striped Long Sleeve T-Shirt - Large Blue Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/127709DF-8403-4BCB-B695-C7AF85A4DF6E.webp?v=1784729635",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D08803F-3BFD-4BB3-98BF-704E5A558F75.webp?v=1781705033",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/96B147C5-2789-4546-B4AE-58666D3AE436.webp?v=1781705033",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/059A5E34-459C-4ECC-A919-F3E19F8EB717.webp?v=1781705033"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/127709DF-8403-4BCB-B695-C7AF85A4DF6E.webp?v=1784729635",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/641CF3F8-A2A7-45B5-A529-637F7B489C07.webp?v=1784729636",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A2940707-4719-4205-9CBF-EF952BE0E6A1.webp?v=1784729636"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/pittsburgh-steelers-lee-sport-sweatshirt-mens-black-large-102609-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-blue-large-112496-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16175475556739,
       "name": "Las Vegas Harley Davidson Graphic Long Sleeve T-Shirt - Large Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-large-114405-a",
-      "available": true
-    },
-    {
-      "id": 16117308817795,
-      "name": "Made In USA Nike Cropped T-Shirt - Large Blue Cotton",
-      "price": 96,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C8367E03-2783-44D8-94F7-0D0BB7C083CB.webp?v=1784730299",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8367E03-2783-44D8-94F7-0D0BB7C083CB.webp?v=1784730299",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C0C0263-CAB7-4B9E-A4FC-5EAD7D6F4C6D.webp?v=1784730299",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9B8B0B-D4B6-415F-B12A-16222EC7BE68.webp?v=1784730300"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-usa-nike-t-shirt-mens-blue-large-112396-a",
       "available": true
     }
   ]
