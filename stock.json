@@ -1,20 +1,20 @@
 {
   "jacket": [
     {
-      "id": 16115256787331,
-      "name": "Patagonia Puffer - Large Grey Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C7EE92F6-0E84-4186-BA13-8E768DB7A198.webp?v=1784717286",
+      "id": 16066349990275,
+      "name": "Skull Design Milwaekee Performance Motorcycle Jacket - Medium Black Polyester",
+      "price": 134,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/730D69DE-A62C-4182-ADF2-3404D134D2D7.webp?v=1783002554",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7EE92F6-0E84-4186-BA13-8E768DB7A198.webp?v=1784717286",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0AE8671-A4C3-4FF9-84D4-481735C046B1.webp?v=1784717286",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2349BCD9-2DE6-4C87-9480-D13C96EEDAC9.webp?v=1784717286"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/730D69DE-A62C-4182-ADF2-3404D134D2D7.webp?v=1783002554",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D652C15-2462-4A95-B030-05CD8A947B83.webp?v=1783002554",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3CE294C0-3766-4287-B878-80229C4A9BD6.webp?v=1783002555"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-grey-large-113778-a",
+      "url": "https://www.thrifted.com/products/skull-design-milwaekee-performance-jacket-mens-black-medium-104483-a",
       "available": true
     },
     {
@@ -49,6 +49,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/port-authority-jacket-mens-brown-large-113131-a",
+      "available": true
+    },
+    {
+      "id": 16115256787331,
+      "name": "Patagonia Puffer - Large Grey Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C7EE92F6-0E84-4186-BA13-8E768DB7A198.webp?v=1784717286",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7EE92F6-0E84-4186-BA13-8E768DB7A198.webp?v=1784717286",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0AE8671-A4C3-4FF9-84D4-481735C046B1.webp?v=1784717286",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2349BCD9-2DE6-4C87-9480-D13C96EEDAC9.webp?v=1784717286"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-grey-large-113778-a",
       "available": true
     },
     {
@@ -100,23 +117,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-pirates-daniels-sportswear-varsity-jacket-mens-black-large-90878-a",
-      "available": true
-    },
-    {
-      "id": 16117236531587,
-      "name": "Diesel Parka - Medium Beige Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/852BDCCC-F09F-49B0-AA48-2783C66AC679.webp?v=1784728250",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/852BDCCC-F09F-49B0-AA48-2783C66AC679.webp?v=1784728250",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/703D1212-364C-4988-9010-B3D882C7E265.webp?v=1784728249",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE324AB0-12B2-444D-9C4D-C0A240F0DA69.webp?v=1784728250"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/diesel-parka-mens-beige-medium-113536-a",
       "available": true
     },
     {
@@ -205,6 +205,23 @@
       "available": true
     },
     {
+      "id": 16117236531587,
+      "name": "Diesel Parka - Medium Beige Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/852BDCCC-F09F-49B0-AA48-2783C66AC679.webp?v=1784728250",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/852BDCCC-F09F-49B0-AA48-2783C66AC679.webp?v=1784728250",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/703D1212-364C-4988-9010-B3D882C7E265.webp?v=1784728249",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE324AB0-12B2-444D-9C4D-C0A240F0DA69.webp?v=1784728250"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/diesel-parka-mens-beige-medium-113536-a",
+      "available": true
+    },
+    {
       "id": 16115088228739,
       "name": "Port Authority Detroit Workwear Jacket - Medium Black Cotton",
       "price": 139,
@@ -236,23 +253,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/nautica-harrington-jacket-mens-red-small-109611-a",
-      "available": true
-    },
-    {
-      "id": 16073354281347,
-      "name": "Permanent Press National Patriot Bomber Jacket - Large Black Nylon",
-      "price": 142,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/37F1F022-FDFC-419B-9CA8-E96483A820B0.webp?v=1783350181",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/37F1F022-FDFC-419B-9CA8-E96483A820B0.webp?v=1783350181",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0DF90C9-2790-400E-9AD9-CC1FDEC8864E.webp?v=1783350181",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BB826E76-4BC8-40CC-A6E0-B7E31309B9C3.webp?v=1783350182"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/permanent-press-national-patriot-bomber-jacket-mens-black-large-106002-a",
       "available": true
     },
     {
@@ -321,6 +321,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/dickies-jacket-mens-black-medium-113598-a",
+      "available": true
+    },
+    {
+      "id": 16073354281347,
+      "name": "Permanent Press National Patriot Bomber Jacket - Large Black Nylon",
+      "price": 142,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/37F1F022-FDFC-419B-9CA8-E96483A820B0.webp?v=1783350181",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/37F1F022-FDFC-419B-9CA8-E96483A820B0.webp?v=1783350181",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0DF90C9-2790-400E-9AD9-CC1FDEC8864E.webp?v=1783350181",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BB826E76-4BC8-40CC-A6E0-B7E31309B9C3.webp?v=1783350182"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/permanent-press-national-patriot-bomber-jacket-mens-black-large-106002-a",
       "available": true
     },
     {
@@ -426,23 +443,6 @@
       "available": true
     },
     {
-      "id": 16115088261507,
-      "name": "World Tour Of Beers Tri Mountain Workwear Jacket - Small Black Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5677C675-5314-476B-B42B-004E240B606B.webp?v=1784717022",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5677C675-5314-476B-B42B-004E240B606B.webp?v=1784717022",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0C21DA6-FEDE-40B1-AFF4-AF6DF197B409.webp?v=1784717022",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C4C6CCC0-3440-4412-BDFD-785983DDD31D.webp?v=1784717023"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/world-tour-of-beers-tri-mountain-jacket-mens-black-small-113133-a",
-      "available": true
-    },
-    {
       "id": 15950831616387,
       "name": "90S Made In USA Blue Jays Street Legends Graphic Varsity Jacket - Large Blue Cotton",
       "price": 139,
@@ -457,6 +457,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-blue-jays-street-legends-varsity-jacket-mens-blue-large-90885-a",
+      "available": true
+    },
+    {
+      "id": 16115088261507,
+      "name": "World Tour Of Beers Tri Mountain Workwear Jacket - Small Black Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5677C675-5314-476B-B42B-004E240B606B.webp?v=1784717022",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5677C675-5314-476B-B42B-004E240B606B.webp?v=1784717022",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0C21DA6-FEDE-40B1-AFF4-AF6DF197B409.webp?v=1784717022",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C4C6CCC0-3440-4412-BDFD-785983DDD31D.webp?v=1784717023"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/world-tour-of-beers-tri-mountain-jacket-mens-black-small-113133-a",
       "available": true
     },
     {
@@ -491,23 +508,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/marlboro-leather-jacket-mens-brown-large-86068-a",
-      "available": true
-    },
-    {
-      "id": 15972718903683,
-      "name": "Packers Fan Spellout Windbreaker - Large Green Nylon",
-      "price": 134,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/65D38D14-6C09-4220-9762-DC97BA2E4717.webp?v=1779092560",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/237CD680-296D-4AB5-9540-658F4DD8CF36.webp?v=1779092560"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/packers-fan-windbreaker-mens-green-large-94914-a",
       "available": true
     },
     {
@@ -559,6 +559,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/mountain-hard-wear-puffer-mens-black-large-101485-a",
+      "available": true
+    },
+    {
+      "id": 15972718903683,
+      "name": "Packers Fan Spellout Windbreaker - Large Green Nylon",
+      "price": 134,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/65D38D14-6C09-4220-9762-DC97BA2E4717.webp?v=1779092560",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/237CD680-296D-4AB5-9540-658F4DD8CF36.webp?v=1779092560"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/packers-fan-windbreaker-mens-green-large-94914-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/inter-milan-nike-track-jacket-mens-black-large-112407-a",
       "available": true
-    },
-    {
-      "id": 16117254717827,
-      "name": "Oakley Parka - Large Black Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1F330514-E3FC-48A2-8D43-C2355726C21A.webp?v=1784728923",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1F330514-E3FC-48A2-8D43-C2355726C21A.webp?v=1784728923",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDFE2044-416A-4475-ABFB-6A975B40AEBA.webp?v=1784728923",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/25097C3A-1D71-4E63-94FA-7239E32519F2.webp?v=1784728923"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/oakley-parka-mens-black-large-113201-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16117315502467,
+      "name": "Polo Bear Polo By Ralph Lauren Hoodie - Small Blue Cotton",
+      "price": 125,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0F8DC5EA-8276-48B2-BD0F-5CFD39218EDD.webp?v=1784730433",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0F8DC5EA-8276-48B2-BD0F-5CFD39218EDD.webp?v=1784730433",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9D047C0-44E4-48BE-B878-A31FA4534D88.webp?v=1784730433",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E81C6042-29EF-4ADF-B76B-14241CF73092.webp?v=1784730433"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-bear-polo-by-ralph-lauren-hoodie-mens-blue-small-112189-a",
+      "available": true
+    },
     {
       "id": 16174904312195,
       "name": "Wood N Trail Camo Hoodie - Large Camo Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/birds-of-prey-harley-davidson-hoodie-mens-red-medium-114598-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16117305999747,
-      "name": "Polo By Ralph Lauren Striped Rugby Hoodie - Large Navy Acrylic",
-      "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4B6F3C5A-35CA-41A1-A23A-0F3716342A56.webp?v=1784730171",
+      "id": 16117213495683,
+      "name": "Adidas Equipment Sweatshirt - Large Grey Cotton Blend",
+      "price": 117,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/869F671C-75D8-4898-BE3B-DC9C6DE94F98.webp?v=1784727479",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4B6F3C5A-35CA-41A1-A23A-0F3716342A56.webp?v=1784730171",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/80D57532-6F3E-40AA-84C7-2592183E1AF3.webp?v=1784730171",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/76405331-08C9-4BDD-9DE0-000127ECC2E0.webp?v=1784730172"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/869F671C-75D8-4898-BE3B-DC9C6DE94F98.webp?v=1784727479",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/75DDEAE0-7E3E-4D1D-9AA8-6B4527B3B9FA.webp?v=1784727480",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E9E60F0B-5116-40B7-A14C-C1A4E64C4CAA.webp?v=1784727480"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-navy-large-112504-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/adidas-equipment-sweatshirt-mens-grey-large-113875-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16117306655107,
       "name": "Michigan Wolverines Nike College Sweatshirt - Large Navy Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/polo-player-polo-by-ralph-lauren-sweatshirt-mens-blue-large-112489-a",
       "available": true
-    },
-    {
-      "id": 16015480357251,
-      "name": "Force Nike Basketball Sweatshirt - Medium Blue Cotton Blend",
-      "price": 95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F92089AE-87D2-46F7-A5E4-854A07FDA7BD.webp?v=1780931745",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F92089AE-87D2-46F7-A5E4-854A07FDA7BD.webp?v=1780931745",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9C66BD74-8417-4D1B-AAAC-8BF7941F5860.webp?v=1780931745",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/734CF953-6620-46BC-A453-EAAE4F6E311B.webp?v=1780931745"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/force-nike-sweatshirt-mens-blue-medium-101114-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16114984878467,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Black Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8E862B86-F8BC-4F31-94BC-E80F3E738E75.webp?v=1784714397",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8E862B86-F8BC-4F31-94BC-E80F3E738E75.webp?v=1784714397",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/244C436A-0A13-404C-9407-8ACCE8D1CA4C.webp?v=1784714397",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A05EDA7E-9AEB-4946-BB1D-5B85B2C56B43.webp?v=1784714398"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-114378-a",
+      "available": true
+    },
     {
       "id": 16114978095491,
       "name": "Carhartt Long Sleeve T-Shirt - Large Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-blue-large-112496-a",
-      "available": true
-    },
-    {
-      "id": 16175475556739,
-      "name": "Las Vegas Harley Davidson Graphic Long Sleeve T-Shirt - Large Blue Cotton",
-      "price": 101,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/02196949-9C22-40FD-BFD6-6598CD20334C.webp?v=1784899663",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/02196949-9C22-40FD-BFD6-6598CD20334C.webp?v=1784899663",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3407135E-C179-475F-98BC-DCB2133AE311.webp?v=1784899663",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8A940F01-08B4-4A59-80F9-9712033ED805.webp?v=1784899663"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/las-vegas-harley-davidson-long-sleeve-t-shirt-mens-blue-large-114614-a",
       "available": true
     }
   ]
