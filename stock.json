@@ -18,6 +18,23 @@
       "available": true
     },
     {
+      "id": 16118532145539,
+      "name": "Marmot Puffer - Large Black Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8772BBAB-4F76-4422-BC21-2DA7D59FCB46.webp?v=1784793842",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8772BBAB-4F76-4422-BC21-2DA7D59FCB46.webp?v=1784793842",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/204B305A-AAC6-4ED8-B1D3-2C87691ED7D6.webp?v=1784793842",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/90550FFE-DD1C-4A34-A678-102BCF36F1ED.webp?v=1784793843"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/marmot-puffer-mens-black-large-113912-a",
+      "available": true
+    },
+    {
       "id": 16066349990275,
       "name": "Skull Design Milwaekee Performance Motorcycle Jacket - Medium Black Polyester",
       "price": 134,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-green-small-115002-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16175528345987,
-      "name": "Patagonia Puffer - Medium Red Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0E0C0A76-EB51-4C17-B228-19043FDDDA8D.webp?v=1784900387",
+      "id": 16175487877507,
+      "name": "Motorcycles Harley Davidson Graphic Hoodie - Medium Grey Cotton Blend",
+      "price": 105,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6DD2E173-D22B-4133-B61F-7A65D72255B0.webp?v=1784899789",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E0C0A76-EB51-4C17-B228-19043FDDDA8D.webp?v=1784900387",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6974047C-D16D-4588-8534-534F08DEBCC3.webp?v=1784900387",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/38329AEA-636A-42A7-9123-93B3F0E395EF.webp?v=1784900387"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DD2E173-D22B-4133-B61F-7A65D72255B0.webp?v=1784899789",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/83C3110E-0ECB-4EE1-B7DC-F5F1AC039FE2.webp?v=1784899789",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2E364429-5BDB-4C55-8675-82740C4BCEB9.webp?v=1784899789"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-red-medium-115023-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-hoodie-womens-grey-medium-114628-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16175477490051,
       "name": "Birds Of Prey Harley Davidson Full Zip Hoodie - Medium Red Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/made-in-usa-nike-hoodie-mens-grey-large-105585-a",
       "available": true
-    },
-    {
-      "id": 16174892712323,
-      "name": "Bee Line Timberland Two Tone After Hood Hoodie - Small Grey Cotton",
-      "price": 110,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8300DE09-C76E-4DBE-80DB-53262363D4F5.webp?v=1784884215",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8300DE09-C76E-4DBE-80DB-53262363D4F5.webp?v=1784884215",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BA9F714F-BC5E-42DC-AE00-0621AE63847A.webp?v=1784884215",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/79E8EA05-47CD-407B-9833-B356EE94DFDE.webp?v=1784884216"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/bee-line-timberland-hoodie-mens-grey-small-114643-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16034985804163,
+      "name": "Pittsburgh Steelers Lee Sport Nfl Sweatshirt - Large Black Cotton",
+      "price": 92,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6D08803F-3BFD-4BB3-98BF-704E5A558F75.webp?v=1781705033",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D08803F-3BFD-4BB3-98BF-704E5A558F75.webp?v=1781705033",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/96B147C5-2789-4546-B4AE-58666D3AE436.webp?v=1781705033",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/059A5E34-459C-4ECC-A919-F3E19F8EB717.webp?v=1781705033"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/pittsburgh-steelers-lee-sport-sweatshirt-mens-black-large-102609-a",
+      "available": true
+    },
     {
       "id": 16117305803139,
       "name": "Polo Player Polo By Ralph Lauren Graphic Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/nike-sweatshirt-mens-black-large-112365-a",
       "available": true
-    },
-    {
-      "id": 16049114546563,
-      "name": "Ohio State Tultex College Sweatshirt - Medium Black Cotton Blend",
-      "price": 92,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E794FB97-C1E5-4E40-9F33-A5176F720555.webp?v=1782311069",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E794FB97-C1E5-4E40-9F33-A5176F720555.webp?v=1782311069",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/71417B2C-21FF-42B9-A740-12CAE644AF8E.webp?v=1782311070",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8DB6FB7B-FA7C-4FA1-8EC2-D165EEE06D89.webp?v=1782311069"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/ohio-state-tultex-sweatshirt-mens-black-medium-106045-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16117308817795,
+      "name": "Made In USA Nike Cropped T-Shirt - Large Blue Cotton",
+      "price": 96,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C8367E03-2783-44D8-94F7-0D0BB7C083CB.webp?v=1784730299",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C8367E03-2783-44D8-94F7-0D0BB7C083CB.webp?v=1784730299",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7C0C0263-CAB7-4B9E-A4FC-5EAD7D6F4C6D.webp?v=1784730299",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB9B8B0B-D4B6-415F-B12A-16222EC7BE68.webp?v=1784730300"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/made-in-usa-nike-t-shirt-mens-blue-large-112396-a",
+      "available": true
+    },
     {
       "id": 16117287321987,
       "name": "Polo By Ralph Lauren Striped Long Sleeve T-Shirt - Large Blue Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/burberry-t-shirt-mens-black-small-100871-a",
-      "available": true
-    },
-    {
-      "id": 16114972066179,
-      "name": "Carhartt Long Sleeve T-Shirt - Large Grey Cotton",
-      "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3B927B3A-4287-4E7C-964D-E66AE64DD61F.webp?v=1784714191",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B927B3A-4287-4E7C-964D-E66AE64DD61F.webp?v=1784714191",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AFA96B7D-6FE6-4DD0-B23B-2420985A27D1.webp?v=1784714191",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D73319FD-7E18-4D82-A992-DD0FC5866CD8.webp?v=1784714192"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-large-114405-a",
       "available": true
     }
   ]
