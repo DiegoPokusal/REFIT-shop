@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16117254717827,
+      "name": "Oakley Parka - Large Black Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1F330514-E3FC-48A2-8D43-C2355726C21A.webp?v=1784728923",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1F330514-E3FC-48A2-8D43-C2355726C21A.webp?v=1784728923",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDFE2044-416A-4475-ABFB-6A975B40AEBA.webp?v=1784728923",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/25097C3A-1D71-4E63-94FA-7239E32519F2.webp?v=1784728923"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/oakley-parka-mens-black-large-113201-a",
+      "available": true
+    },
+    {
       "id": 16066349990275,
       "name": "Skull Design Milwaekee Performance Motorcycle Jacket - Medium Black Polyester",
       "price": 134,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/marmot-puffer-mens-black-large-113912-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16117278572931,
-      "name": "Inter Milan Nike Graphic Track Jacket - Large Black Polyester",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FADFB279-45F3-40AC-B8CB-90FA1DFA7AF0.webp?v=1784729493",
+      "id": 16117305999747,
+      "name": "Polo By Ralph Lauren Striped Rugby Hoodie - Large Navy Acrylic",
+      "price": 132,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4B6F3C5A-35CA-41A1-A23A-0F3716342A56.webp?v=1784730171",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FADFB279-45F3-40AC-B8CB-90FA1DFA7AF0.webp?v=1784729493",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E24EB3E-0D1F-4E9C-BFF6-D17CBB43E70E.webp?v=1784729493",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/042BF4C3-8336-44FB-8D5F-B1662859B831.webp?v=1784729496"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4B6F3C5A-35CA-41A1-A23A-0F3716342A56.webp?v=1784730171",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/80D57532-6F3E-40AA-84C7-2592183E1AF3.webp?v=1784730171",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/76405331-08C9-4BDD-9DE0-000127ECC2E0.webp?v=1784730172"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/inter-milan-nike-track-jacket-mens-black-large-112407-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-navy-large-112504-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16117315502467,
       "name": "Polo Bear Polo By Ralph Lauren Hoodie - Small Blue Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-hoodie-womens-grey-medium-114628-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16175477490051,
-      "name": "Birds Of Prey Harley Davidson Full Zip Hoodie - Medium Red Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AB0F95A4-D71C-480C-B810-C453723E447A.webp?v=1784899700",
+      "id": 16015480357251,
+      "name": "Force Nike Basketball Sweatshirt - Medium Blue Cotton Blend",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F92089AE-87D2-46F7-A5E4-854A07FDA7BD.webp?v=1780931745",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB0F95A4-D71C-480C-B810-C453723E447A.webp?v=1784899700",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/084C1DB9-0C63-410F-AAAD-1267F8A061C0.webp?v=1784899700",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/95AB4D39-4112-4F40-B938-6FC9DD2427E1.webp?v=1784899700"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F92089AE-87D2-46F7-A5E4-854A07FDA7BD.webp?v=1780931745",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9C66BD74-8417-4D1B-AAAC-8BF7941F5860.webp?v=1780931745",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/734CF953-6620-46BC-A453-EAAE4F6E311B.webp?v=1780931745"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/birds-of-prey-harley-davidson-hoodie-mens-red-medium-114598-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/force-nike-sweatshirt-mens-blue-medium-101114-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16117213495683,
       "name": "Adidas Equipment Sweatshirt - Large Grey Cotton Blend",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/pittsburgh-steelers-lee-sport-sweatshirt-mens-black-large-102609-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16117305803139,
-      "name": "Polo Player Polo By Ralph Lauren Graphic Sweatshirt - Large Blue Cotton",
-      "price": 117,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3F54FAB5-45D1-4757-9753-D865639CC24B.webp?v=1784730162",
+      "id": 16175475556739,
+      "name": "Las Vegas Harley Davidson Graphic Long Sleeve T-Shirt - Large Blue Cotton",
+      "price": 101,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/02196949-9C22-40FD-BFD6-6598CD20334C.webp?v=1784899663",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3F54FAB5-45D1-4757-9753-D865639CC24B.webp?v=1784730162",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A7E7F75-CEBD-48C0-9480-0DEFEF59CC05.webp?v=1784730161",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/69D8A291-85AE-48AF-A2DE-A997BC950E5D.webp?v=1784730162"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/02196949-9C22-40FD-BFD6-6598CD20334C.webp?v=1784899663",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3407135E-C179-475F-98BC-DCB2133AE311.webp?v=1784899663",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8A940F01-08B4-4A59-80F9-9712033ED805.webp?v=1784899663"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-player-polo-by-ralph-lauren-sweatshirt-mens-blue-large-112489-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/las-vegas-harley-davidson-long-sleeve-t-shirt-mens-blue-large-114614-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16114984878467,
       "name": "Carhartt Long Sleeve T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/made-in-usa-nike-t-shirt-mens-blue-large-112396-a",
-      "available": true
-    },
-    {
-      "id": 16117287321987,
-      "name": "Polo By Ralph Lauren Striped Long Sleeve T-Shirt - Large Blue Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/127709DF-8403-4BCB-B695-C7AF85A4DF6E.webp?v=1784729635",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/127709DF-8403-4BCB-B695-C7AF85A4DF6E.webp?v=1784729635",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/641CF3F8-A2A7-45B5-A529-637F7B489C07.webp?v=1784729636",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A2940707-4719-4205-9CBF-EF952BE0E6A1.webp?v=1784729636"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-blue-large-112496-a",
       "available": true
     }
   ]
