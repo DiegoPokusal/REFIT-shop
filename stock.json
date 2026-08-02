@@ -18,6 +18,23 @@
       "available": true
     },
     {
+      "id": 16115088261507,
+      "name": "World Tour Of Beers Tri Mountain Workwear Jacket - Small Black Polyester",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5677C675-5314-476B-B42B-004E240B606B.webp?v=1784717022",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5677C675-5314-476B-B42B-004E240B606B.webp?v=1784717022",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0C21DA6-FEDE-40B1-AFF4-AF6DF197B409.webp?v=1784717022",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C4C6CCC0-3440-4412-BDFD-785983DDD31D.webp?v=1784717023"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/world-tour-of-beers-tri-mountain-jacket-mens-black-small-113133-a",
+      "available": true
+    },
+    {
       "id": 16117216772483,
       "name": "Patagonia Windbreaker - Small Red Nylon",
       "price": 132,
@@ -86,23 +103,6 @@
       "available": true
     },
     {
-      "id": 15910918783363,
-      "name": "Marlboro Adventure Team Leather Jacket - Large Brown Leather",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A99EB7FA-C687-43FC-AEDB-85A523BA9CA5.webp?v=1776674025",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A99EB7FA-C687-43FC-AEDB-85A523BA9CA5.webp?v=1776674025",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D43C8E0-D0E6-4D73-B546-1FE6385C0F79.webp?v=1776674025",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B3CB54F8-3384-4DB5-909F-CB609546AD97.webp?v=1776674025"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/marlboro-leather-jacket-mens-brown-large-86068-a",
-      "available": true
-    },
-    {
       "id": 16115973030275,
       "name": "Unbranded Workwear Jacket - Medium Black Cotton",
       "price": 139,
@@ -134,6 +134,23 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/oakley-parka-mens-black-large-113201-a",
+      "available": true
+    },
+    {
+      "id": 15910918783363,
+      "name": "Marlboro Adventure Team Leather Jacket - Large Brown Leather",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A99EB7FA-C687-43FC-AEDB-85A523BA9CA5.webp?v=1776674025",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A99EB7FA-C687-43FC-AEDB-85A523BA9CA5.webp?v=1776674025",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D43C8E0-D0E6-4D73-B546-1FE6385C0F79.webp?v=1776674025",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B3CB54F8-3384-4DB5-909F-CB609546AD97.webp?v=1776674025"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/marlboro-leather-jacket-mens-brown-large-86068-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/90s-made-in-usa-blue-jays-street-legends-varsity-jacket-mens-blue-large-90885-a",
       "available": true
-    },
-    {
-      "id": 16015493759363,
-      "name": "Mossy Oak Camo Bomber Jacket - Large Camo Cotton",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C54081AE-F200-411F-90AF-00630447EFE0.webp?v=1780931982",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C54081AE-F200-411F-90AF-00630447EFE0.webp?v=1780931982",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/65A17B1B-DEEC-40B0-BA36-1440532BE458.webp?v=1780931983",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/960AB7C2-6B56-410D-848F-4DF78E8C6676.webp?v=1780931982"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/mossy-oak-bomber-jacket-mens-camo-large-101046-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16117235745155,
+      "name": "Nike Hoodie - Medium Black Cotton",
+      "price": 110,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3FC80FA1-19C7-4FDF-889C-F37681FB81C1.webp?v=1784728218",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3FC80FA1-19C7-4FDF-889C-F37681FB81C1.webp?v=1784728218",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1C54AF0E-3ECB-46D3-9DFE-BC62C23A255E.webp?v=1784728218",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/67582BC7-D23D-4E8F-A97C-B530F369F16E.webp?v=1784728219"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/nike-hoodie-mens-black-medium-113689-a",
+      "available": true
+    },
     {
       "id": 16174897496451,
       "name": "Red Head Camo Hoodie - Medium Camo Cotton Blend",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/tommy-hilfiger-hoodie-mens-red-medium-114656-a",
       "available": true
-    },
+    }
+  ],
+  "sweatshirt": [
     {
-      "id": 16174897791363,
-      "name": "Realtree Camo Hoodie - Large Camo Cotton Blend",
+      "id": 16175524381059,
+      "name": "Hudson Yards New York Champion Reverse Weave Sweatshirt - Large Grey Cotton",
       "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5274A6F3-091B-44FD-90CA-FFEFD7B18466.webp?v=1784900353",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FAB9D5AA-1A06-4D4C-9EC0-85E110E29B4D.webp?v=1784884539",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1868A3D7-E46D-4F9D-B11B-44A2ADE8937D.webp?v=1784884540"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5274A6F3-091B-44FD-90CA-FFEFD7B18466.webp?v=1784900353",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/14C7D283-0E24-4375-9FFA-4C5BE164A765.webp?v=1784900353",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/00A4A64B-2672-4861-BB6F-95102A540E52.webp?v=1784900354"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-large-112946-a",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/hudson-yards-new-york-champion-sweatshirt-mens-grey-large-115055-a",
       "available": true
-    }
-  ],
-  "sweatshirt": [
+    },
     {
       "id": 16118532178307,
       "name": "Rei Sweatshirt - Large Orange Cotton",
@@ -1739,23 +1756,6 @@
       "available": true
     },
     {
-      "id": 16117258879363,
-      "name": "Oakley Spellout Sweatshirt - Large Green Cotton",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D05FC996-A53D-47E1-9CE7-C4C8C733D2E1.webp?v=1784729151",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D05FC996-A53D-47E1-9CE7-C4C8C733D2E1.webp?v=1784729151",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6BEAF0F9-1F02-444F-AC6C-44DAD840817E.webp?v=1784729151",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/44DCD431-4D4D-41BE-A570-FF9BE8A6B5CD.webp?v=1784729152"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/oakley-sweatshirt-mens-green-large-113191-a",
-      "available": true
-    },
-    {
       "id": 15950693171587,
       "name": "Pittsburgh Steelers Logo 7 Nfl Sweatshirt - Large Black Cotton Blend",
       "price": 95,
@@ -1770,6 +1770,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/pittsburgh-steelers-logo-7-sweatshirt-mens-black-large-90362-a",
+      "available": true
+    },
+    {
+      "id": 16117258879363,
+      "name": "Oakley Spellout Sweatshirt - Large Green Cotton",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D05FC996-A53D-47E1-9CE7-C4C8C733D2E1.webp?v=1784729151",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D05FC996-A53D-47E1-9CE7-C4C8C733D2E1.webp?v=1784729151",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6BEAF0F9-1F02-444F-AC6C-44DAD840817E.webp?v=1784729151",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/44DCD431-4D4D-41BE-A570-FF9BE8A6B5CD.webp?v=1784729152"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/oakley-sweatshirt-mens-green-large-113191-a",
       "available": true
     },
     {
@@ -1858,23 +1875,6 @@
       "available": true
     },
     {
-      "id": 16081736401283,
-      "name": "Sunglasses Print Oakley Graphic Sweatshirt - Large Orange Cotton",
-      "price": 112,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C6E79534-96A7-495B-9A10-977060476E69.webp?v=1783597379",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C6E79534-96A7-495B-9A10-977060476E69.webp?v=1783597379",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/85288E01-0E9D-407D-A1B5-6FEAD4D7D841.webp?v=1783597379",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/82D092CF-E2A9-4D29-A93F-4FEE3EBEE879.webp?v=1783597380"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/sunglasses-print-oakley-sweatshirt-mens-orange-large-108436-a",
-      "available": true
-    },
-    {
       "id": 16081648746883,
       "name": "Made In USA, New York Jets Cliff Engle Nfl Sweatshirt - Large Green Cotton",
       "price": 92,
@@ -1906,6 +1906,23 @@
       ],
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-minnesota-vikings-pro-player-sweatshirt-mens-purple-large-110258-a",
+      "available": true
+    },
+    {
+      "id": 16081736401283,
+      "name": "Sunglasses Print Oakley Graphic Sweatshirt - Large Orange Cotton",
+      "price": 112,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C6E79534-96A7-495B-9A10-977060476E69.webp?v=1783597379",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C6E79534-96A7-495B-9A10-977060476E69.webp?v=1783597379",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/85288E01-0E9D-407D-A1B5-6FEAD4D7D841.webp?v=1783597379",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/82D092CF-E2A9-4D29-A93F-4FEE3EBEE879.webp?v=1783597380"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/sunglasses-print-oakley-sweatshirt-mens-orange-large-108436-a",
       "available": true
     },
     {
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/nike-sweatshirt-mens-blue-large-102872-a",
       "available": true
-    },
-    {
-      "id": 16076589760899,
-      "name": "90S Made In USA Nike Athletics Sweatshirt - Large Black Cotton",
-      "price": 108,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/839CF6F0-4E7A-4CDF-AC7C-79D78BCF8590.webp?v=1783438094",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/839CF6F0-4E7A-4CDF-AC7C-79D78BCF8590.webp?v=1783438094",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9E6B28F7-EE90-4480-A034-F1C9987D6680.webp?v=1783438094",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F0CB947-57B7-42DE-993E-C7F06EEDF3C8.webp?v=1783438094"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-nike-sweatshirt-mens-black-large-106423-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16174896382339,
+      "name": "Armani Exchange Exposed Seam Raglan Long Sleeve T-Shirt - Small Beige Cotton",
+      "price": 101,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E379DD2A-5585-400B-9672-CB35579C143E.webp?v=1784884456",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E379DD2A-5585-400B-9672-CB35579C143E.webp?v=1784884456",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/238B2E99-8BB9-4337-B3BA-C2B4D1A1C816.webp?v=1784884456",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/40013EBE-FFBF-4557-B46A-4CD49242B7B4.webp?v=1784884457"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/armani-exchange-long-sleeve-t-shirt-mens-beige-small-114123-a",
+      "available": true
+    },
     {
       "id": 16175482143107,
       "name": "Harley Davidson Long Sleeve T-Shirt - Small Orange Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
-      "available": true
-    },
-    {
-      "id": 16010029269379,
-      "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
-      "price": 105,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E8B2A29-4229-42CD-A263-38CBB099A228.webp?v=1780661505",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D56D913C-E5E5-4F02-B2F3-FE1932074832.webp?v=1780661505"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/mouse-graphic-stussy-t-shirt-mens-blue-medium-100803-a",
       "available": true
     }
   ]
