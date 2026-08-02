@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 15972718903683,
+      "name": "Packers Fan Spellout Windbreaker - Large Green Nylon",
+      "price": 134,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E0C14851-954F-422C-B6FB-229C258A6A3B.webp?v=1779092560",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/65D38D14-6C09-4220-9762-DC97BA2E4717.webp?v=1779092560",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/237CD680-296D-4AB5-9540-658F4DD8CF36.webp?v=1779092560"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/packers-fan-windbreaker-mens-green-large-94914-a",
+      "available": true
+    },
+    {
       "id": 16175528706435,
       "name": "Patagonia Puffer - Large Blue Polyester",
       "price": 139,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-windbreaker-mens-red-small-113585-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 16076577243523,
-      "name": "Patagonia Puffer - Medium Orange Polyester",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/80FFF9BB-3B35-46B6-A5BA-BADF8848C3F7.webp?v=1783437806",
+      "id": 16117285290371,
+      "name": "Polo By Ralph Lauren Striped Hoodie - Medium Red Cotton",
+      "price": 132,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/92C81CAE-1DD9-4E10-AC1E-4194CB645859.webp?v=1784729601",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/80FFF9BB-3B35-46B6-A5BA-BADF8848C3F7.webp?v=1783437806",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8BAB1DD4-1E57-43A5-87A9-53AF75917D49.webp?v=1783437807",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/65E41ED0-922A-482C-B354-01B88DD9810D.webp?v=1783437807"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/92C81CAE-1DD9-4E10-AC1E-4194CB645859.webp?v=1784729601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/423BB2AF-46C4-4D07-B786-5BE2BEA7F20A.webp?v=1784729601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/503FCB21-4EDA-484D-BB48-1BA38EF0A595.webp?v=1784729602"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-orange-medium-106508-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-red-medium-112477-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16174903689603,
       "name": "Boston Traders Realtree Camo Hoodie - Small Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/red-head-hoodie-mens-camo-medium-112936-a",
       "available": true
-    },
-    {
-      "id": 16073345499523,
-      "name": "Polo By Ralph Lauren Hoodie - Large Grey Cotton",
-      "price": 108,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D37154F4-83C4-49CD-8EF2-BC694F807744.webp?v=1783349962",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D37154F4-83C4-49CD-8EF2-BC694F807744.webp?v=1783349962",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0C8B37A5-BF70-4A78-9476-3A81E104A35A.webp?v=1783349962",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/285BA14D-DB38-48D1-B76C-9C34C2630852.webp?v=1783349962"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-grey-large-109483-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16066369356163,
+      "name": "Made In USA Nike Sweatshirt - Medium Grey Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/62CE7E21-C9B7-4DF5-A358-667CE15A4063.webp?v=1783003270",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/62CE7E21-C9B7-4DF5-A358-667CE15A4063.webp?v=1783003270",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B01071C2-6031-4D23-8608-4A83ABC23754.webp?v=1783003270",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D4F6E213-1A7C-4E53-9133-912F55818FA1.webp?v=1783003272"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-nike-sweatshirt-mens-grey-medium-105565-a",
+      "available": true
+    },
     {
       "id": 16038075302275,
       "name": "Nike Spellout Sweatshirt - Large Blue Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/rei-sweatshirt-mens-orange-large-113913-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16112414753155,
-      "name": "Still Plays Guitar Lee Sweatshirt - Large Black Cotton",
-      "price": 101,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2AC7E7D5-3420-4DCF-9D0C-7779CDF11DE6.webp?v=1784648020",
+      "id": 16114982322563,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Navy Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BFFA3618-6C80-4DE5-8953-4420E383890B.webp?v=1784714347",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2AC7E7D5-3420-4DCF-9D0C-7779CDF11DE6.webp?v=1784648020",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E392E4D9-2328-4734-8EA8-5C3FD6A598B9.webp?v=1784648020",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/062F1812-F18B-428A-9D2A-4D4F6C4633A6.webp?v=1784648020"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BFFA3618-6C80-4DE5-8953-4420E383890B.webp?v=1784714347",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/20E77F17-5561-40A8-B0C4-51A1E874EB12.webp?v=1784714347",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4111CEDE-5241-4E58-8BA3-A4CFA7C77739.webp?v=1784714347"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/still-plays-guitar-lee-sweatshirt-mens-black-large-111025-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-large-114327-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16010027860355,
       "name": "Stussy Spellout T-Shirt - Small Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/harley-davidson-long-sleeve-t-shirt-mens-orange-small-114636-a",
-      "available": true
-    },
-    {
-      "id": 16114980684163,
-      "name": "Carhartt Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 89,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4B7CA014-4E45-4560-97FD-15A9C0407B64.webp?v=1784714317",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4B7CA014-4E45-4560-97FD-15A9C0407B64.webp?v=1784714317",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/242C10B0-62AF-43BE-A59E-B1413F9FC1EF.webp?v=1784714317",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4273A9C2-77A0-4E40-889C-9C10AD608814.webp?v=1784714317"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-114320-a",
       "available": true
     }
   ]
