@@ -18,6 +18,23 @@
       "available": true
     },
     {
+      "id": 16015493759363,
+      "name": "Mossy Oak Camo Bomber Jacket - Large Camo Cotton",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C54081AE-F200-411F-90AF-00630447EFE0.webp?v=1780931982",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C54081AE-F200-411F-90AF-00630447EFE0.webp?v=1780931982",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/65A17B1B-DEEC-40B0-BA36-1440532BE458.webp?v=1780931983",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/960AB7C2-6B56-410D-848F-4DF78E8C6676.webp?v=1780931982"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/mossy-oak-bomber-jacket-mens-camo-large-101046-a",
+      "available": true
+    },
+    {
       "id": 16115088261507,
       "name": "World Tour Of Beers Tri Mountain Workwear Jacket - Small Black Polyester",
       "price": 139,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/coldwave-jacket-mens-black-medium-104489-a",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15950831616387,
-      "name": "90S Made In USA Blue Jays Street Legends Graphic Varsity Jacket - Large Blue Cotton",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8C8D6145-1AA6-470B-A249-A5FDA1592DEC.webp?v=1778142118",
+      "id": 16174897791363,
+      "name": "Realtree Camo Hoodie - Large Camo Cotton Blend",
+      "price": 103,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8C8D6145-1AA6-470B-A249-A5FDA1592DEC.webp?v=1778142118",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6195AD35-EF9F-4900-92EC-60C08152D5AB.webp?v=1778142117",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F18ACA0B-E41C-4523-BFA5-23813CA3ABE8.webp?v=1778142118"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FAB9D5AA-1A06-4D4C-9EC0-85E110E29B4D.webp?v=1784884539",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1868A3D7-E46D-4F9D-B11B-44A2ADE8937D.webp?v=1784884540"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/90s-made-in-usa-blue-jays-street-legends-varsity-jacket-mens-blue-large-90885-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-large-112946-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16117235745155,
       "name": "Nike Hoodie - Medium Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/made-in-usa-adidas-hoodie-mens-blue-large-112425-a",
       "available": true
-    },
-    {
-      "id": 16174894580099,
-      "name": "Tommy Hilfiger Full Zip Spellout Hoodie - Medium Red Cotton",
-      "price": 117,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2816EE57-8064-4092-A15B-64B21F44A1B1.webp?v=1784884336",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2816EE57-8064-4092-A15B-64B21F44A1B1.webp?v=1784884336",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E84E10F8-6E29-499E-B65F-FD42D1BDE4A2.webp?v=1784884337",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2717B84A-F9A2-4131-AD06-A3C59307AC1A.webp?v=1784884337"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-hoodie-mens-red-medium-114656-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16076589760899,
+      "name": "90S Made In USA Nike Athletics Sweatshirt - Large Black Cotton",
+      "price": 108,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/839CF6F0-4E7A-4CDF-AC7C-79D78BCF8590.webp?v=1783438094",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/839CF6F0-4E7A-4CDF-AC7C-79D78BCF8590.webp?v=1783438094",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9E6B28F7-EE90-4480-A034-F1C9987D6680.webp?v=1783438094",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F0CB947-57B7-42DE-993E-C7F06EEDF3C8.webp?v=1783438094"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/90s-made-in-usa-nike-sweatshirt-mens-black-large-106423-a",
+      "available": true
+    },
     {
       "id": 16175524381059,
       "name": "Hudson Yards New York Champion Reverse Weave Sweatshirt - Large Grey Cotton",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/made-in-usa-washington-redskins-nutmeg-sweatshirt-mens-red-medium-115293-a",
       "available": true
-    },
-    {
-      "id": 16038264406403,
-      "name": "Nike Sweatshirt - Large Blue Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB95AE32-172B-4C89-A3BF-CBBCFBEC99FE.webp?v=1781796428",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB95AE32-172B-4C89-A3BF-CBBCFBEC99FE.webp?v=1781796428",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/35DB6D58-403E-403F-A89B-880F0A84427B.webp?v=1781796428",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/18638C5C-D9B0-4F89-99B9-1DF6D07DE6C6.webp?v=1781796428"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/nike-sweatshirt-mens-blue-large-102872-a",
-      "available": true
     }
   ],
   "tee": [
+    {
+      "id": 16010029269379,
+      "name": "Mouse Graphic Stussy Rat Men T-Shirt - Medium Blue Cotton",
+      "price": 105,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2CE41F61-E11B-48DF-9B62-9C87381E9F25.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E8B2A29-4229-42CD-A263-38CBB099A228.webp?v=1780661505",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D56D913C-E5E5-4F02-B2F3-FE1932074832.webp?v=1780661505"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/mouse-graphic-stussy-t-shirt-mens-blue-medium-100803-a",
+      "available": true
+    },
     {
       "id": 16174896382339,
       "name": "Armani Exchange Exposed Seam Raglan Long Sleeve T-Shirt - Small Beige Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-small-114365-a",
-      "available": true
-    },
-    {
-      "id": 15995255128451,
-      "name": "Grateful Dead Liquid Blue Tie-Dye T-Shirt - Small Multicoloured Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDD2626F-9967-4C97-A6D8-A29E98534102.webp?v=1779954659",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/14AE7C1C-2E62-4DA9-9454-9D6F44F6F591.webp?v=1779954660",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/26C3B55F-DE0B-4E6E-844F-542224E157FC.webp?v=1779954660"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/grateful-dead-liquid-blue-t-shirt-mens-multicoloured-small-97087-a",
       "available": true
     }
   ]
