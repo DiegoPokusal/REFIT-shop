@@ -1,6 +1,23 @@
 {
   "jacket": [
     {
+      "id": 16115973128579,
+      "name": "20Th Anniversary Canada Sportswear Workwear Jacket - Medium Black Cotton",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CCC6EDAD-656B-422E-89F6-C8BF7F0C0F00.webp?v=1784718942",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CCC6EDAD-656B-422E-89F6-C8BF7F0C0F00.webp?v=1784718942",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0806618C-A853-4334-A84E-EAECECF83EB1.webp?v=1784718942",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/76D9358D-6BBC-4FBB-8B2F-9B82588027F2.webp?v=1784718943"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/20th-anniversary-canada-sportswear-jacket-mens-black-medium-113127-a",
+      "available": true
+    },
+    {
       "id": 15929940115843,
       "name": "Unbranded Leather Jacket - Large Black Leather",
       "price": 140,
@@ -224,7 +241,7 @@
     {
       "id": 15910918783363,
       "name": "Marlboro Adventure Team Leather Jacket - Large Brown Leather",
-      "price": 138,
+      "price": 139,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A99EB7FA-C687-43FC-AEDB-85A523BA9CA5.webp?v=1776674025",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/A99EB7FA-C687-43FC-AEDB-85A523BA9CA5.webp?v=1776674025",
@@ -460,20 +477,20 @@
       "available": true
     },
     {
-      "id": 16117248950659,
-      "name": "Red Head Camo Bomber Jacket - Large Camo Cotton",
+      "id": 16116027425155,
+      "name": "Quiksilver Jacket - Large Khaki Cotton",
       "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12059BB5-07D9-49AD-BC86-FAF0318D4D7E.webp?v=1784728662",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BF76CAF6-D8E1-43BD-8960-1D9DBB783FDF.webp?v=1784720532",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12059BB5-07D9-49AD-BC86-FAF0318D4D7E.webp?v=1784728662",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A20D2FE5-4565-4F05-BC55-B719CFF69B54.webp?v=1784728663",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/03B116EB-B4F0-484F-9691-315469DCB507.webp?v=1784728663"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF76CAF6-D8E1-43BD-8960-1D9DBB783FDF.webp?v=1784720532",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/56372222-D701-47B2-8E78-6AF38C768622.webp?v=1784720532",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6124E8A4-7C7B-4649-A06B-58EB36025751.webp?v=1784720533"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/red-head-bomber-jacket-mens-camo-large-113634-a",
+      "url": "https://www.thrifted.com/products/quiksilver-jacket-mens-khaki-large-110895-a",
       "available": true
     },
     {
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/vintage-armani-blazer-mens-beige-medium-397965",
       "available": true
-    },
+    }
+  ],
+  "hoodie": [
     {
-      "id": 15876912087427,
-      "name": "Raiders Unbranded Football Leather Jacket - Large Black Leather",
-      "price": 140,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0D40C840-6E3A-4FCC-BD54-E168DB3512A5.webp?v=1775143483",
+      "id": 16116018413955,
+      "name": "Carhartt Hoodie - Large Black Cotton",
+      "price": 117,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6920097C-D24F-4D05-81DE-890A69DA1489.webp?v=1784720248",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0D40C840-6E3A-4FCC-BD54-E168DB3512A5.webp?v=1775143483",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E9E2C178-BA8B-45C6-A34C-C90F8E5B7C84.webp?v=1775143483",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/71316FE5-D6F0-4CF8-9DD4-DC2D5595BDC4.webp?v=1775143483"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6920097C-D24F-4D05-81DE-890A69DA1489.webp?v=1784720248",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/14E0CC59-BAF2-4E55-B4FB-102C97B9A056.webp?v=1784720249",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4EAB82EC-DFAE-4FD0-9766-9F3B7CB79848.webp?v=1784720249"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/raiders-unbranded-leather-jacket-mens-black-large-83178-a",
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-large-110662-a",
       "available": true
-    }
-  ],
-  "hoodie": [
+    },
     {
       "id": 16117239841155,
       "name": "Billabong Graphic Hoodie - Large Black Cotton",
@@ -1344,26 +1361,26 @@
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/nike-hoodie-mens-red-medium-113652-a",
       "available": true
-    },
-    {
-      "id": 16117251899779,
-      "name": "Utah Jazz Nba Graphic Hoodie - Large Navy Cotton",
-      "price": 110,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BEF6B1FE-30F0-4C12-BB6F-BFB010EF74B1.webp?v=1784728780",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A18B1B4-49D9-4FBB-B410-B21B47E700EF.webp?v=1784728781"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/utah-jazz-nba-hoodie-mens-navy-large-112812-a",
-      "available": true
     }
   ],
   "sweatshirt": [
+    {
+      "id": 16006460965251,
+      "name": "Harley Davidson Graphic Sweatshirt - Medium Black Cotton",
+      "price": 95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BE5E3134-EC2F-43C0-97AD-657A2504366E.webp?v=1780478667",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E47E824E-3CA0-4BFD-B35D-25D4D016FF72.webp?v=1780478668",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/38492C0D-C9B9-4E43-96CC-B8D100C55A4B.webp?v=1780478669"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/harley-davidson-sweatshirt-mens-black-medium-98545-a",
+      "available": true
+    },
     {
       "id": 16201728426371,
       "name": "Clac Carhartt Graphic Sweatshirt - Medium Black Cotton",
@@ -1877,7 +1894,7 @@
     {
       "id": 15935469355395,
       "name": "Dolce & Gabbana Graphic Sweatshirt - Small Black Cotton Blend",
-      "price": 99,
+      "price": 100,
       "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
       "images": [
         "https://cdn.shopify.com/s/files/1/0556/1841/files/ele_more_designer_27.4114_233323e5-5b4d-40ee-ba80-9a7689572ef6.jpg?v=1777472249",
@@ -2026,26 +2043,26 @@
       "category": "sweatshirt",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-yellow-small-109506-a",
       "available": true
-    },
+    }
+  ],
+  "tee": [
     {
-      "id": 16073346613635,
-      "name": "Polo By Ralph Lauren Sweatshirt - Large Grey Cotton",
-      "price": 108,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FE7AEF43-13E2-4790-BE9D-B18D4ED8F4A4.webp?v=1783349991",
+      "id": 16114971967875,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Blue Cotton",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E8F57BD9-7910-4301-8A00-E3C575B3F999.webp?v=1784714188",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FE7AEF43-13E2-4790-BE9D-B18D4ED8F4A4.webp?v=1783349991",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A0EFDAB8-DA79-4DB8-A7AF-991B83B04224.webp?v=1783349991",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/662CC2DF-E7C8-4107-AD52-C4370D80A3CD.webp?v=1783349991"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8F57BD9-7910-4301-8A00-E3C575B3F999.webp?v=1784714188",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B34C96B6-0F7C-4564-B55F-7F1C0AE1772F.webp?v=1784714188",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/38FFF128-989B-46A8-A4D1-F9CD2B37C1B7.webp?v=1784714189"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-sweatshirt-mens-grey-large-109492-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-blue-large-114404-a",
       "available": true
-    }
-  ],
-  "tee": [
+    },
     {
       "id": 16062742495619,
       "name": "Bohse Onkelz 1994 Tour Fruit Of The Loom Single Stitch T-Shirt - Large Black Cotton",
@@ -2707,23 +2724,6 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/billy-ray-cyrus-1992-fruit-of-the-loom-t-shirt-mens-black-large-87800-a",
-      "available": true
-    },
-    {
-      "id": 16010027958659,
-      "name": "Crown Stussy Cropped T-Shirt - Small Blue Cotton",
-      "price": 90,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4672A5D2-064A-44AE-96D5-28A5B9092A42.webp?v=1780661434",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EEA58522-80B9-481F-9F3E-E1CE20741E1E.webp?v=1780661434",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/867DCFB0-9D3B-4248-AA96-EA9A4ED8E6B5.webp?v=1780661434"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/crown-stussy-t-shirt-womens-blue-small-100775-a",
       "available": true
     }
   ]
