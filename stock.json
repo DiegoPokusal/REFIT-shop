@@ -18,6 +18,23 @@
       "available": true
     },
     {
+      "id": 15950750089603,
+      "name": "Reversible Carhartt Camo Realtree Jacket - Large Camo Polyester",
+      "price": 145,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6C422F4E-2802-4BC3-BB3C-90A003FB4F89.webp?v=1778141034",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6C422F4E-2802-4BC3-BB3C-90A003FB4F89.webp?v=1778141034",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/21D31590-DCC2-49B6-B17A-FA2856C3F72B.webp?v=1778141034",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/91F02C3D-8F58-44CB-8BF4-D2C4EB0139E5.webp?v=1778141034"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/reversible-carhartt-jacket-mens-camo-large-90550-a",
+      "available": true
+    },
+    {
       "id": 15929940115843,
       "name": "Unbranded Leather Jacket - Large Black Leather",
       "price": 140,
@@ -134,23 +151,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/world-tour-of-beers-tri-mountain-jacket-mens-black-small-113133-a",
-      "available": true
-    },
-    {
-      "id": 16117294301571,
-      "name": "Guess Puffer - Small Black Polyester",
-      "price": 132,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/60DF92C9-E5B0-4BD3-8D3B-670D1D7B101D.webp?v=1784729785",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/60DF92C9-E5B0-4BD3-8D3B-670D1D7B101D.webp?v=1784729785",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/28A19B4C-59A9-408F-9183-439AFC7E550B.webp?v=1784729785",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/13A4809F-A5A2-4B8F-A4DD-AE1A8D6D09EF.webp?v=1784729785"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/guess-puffer-mens-black-small-112153-a",
       "available": true
     },
     {
@@ -700,20 +700,20 @@
       "available": true
     },
     {
-      "id": 16117251899779,
-      "name": "Utah Jazz Nba Graphic Hoodie - Large Navy Cotton",
-      "price": 110,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
+      "id": 16174894580099,
+      "name": "Tommy Hilfiger Full Zip Spellout Hoodie - Medium Red Cotton",
+      "price": 117,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2816EE57-8064-4092-A15B-64B21F44A1B1.webp?v=1784884336",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BEF6B1FE-30F0-4C12-BB6F-BFB010EF74B1.webp?v=1784728780",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A18B1B4-49D9-4FBB-B410-B21B47E700EF.webp?v=1784728781"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2816EE57-8064-4092-A15B-64B21F44A1B1.webp?v=1784884336",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E84E10F8-6E29-499E-B65F-FD42D1BDE4A2.webp?v=1784884337",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2717B84A-F9A2-4131-AD06-A3C59307AC1A.webp?v=1784884337"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/utah-jazz-nba-hoodie-mens-navy-large-112812-a",
+      "url": "https://www.thrifted.com/products/tommy-hilfiger-hoodie-mens-red-medium-114656-a",
       "available": true
     },
     {
@@ -768,20 +768,20 @@
       "available": true
     },
     {
-      "id": 16174897791363,
-      "name": "Realtree Camo Hoodie - Large Camo Cotton Blend",
-      "price": 103,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
+      "id": 16117251899779,
+      "name": "Utah Jazz Nba Graphic Hoodie - Large Navy Cotton",
+      "price": 110,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FAB9D5AA-1A06-4D4C-9EC0-85E110E29B4D.webp?v=1784884539",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1868A3D7-E46D-4F9D-B11B-44A2ADE8937D.webp?v=1784884540"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A4F290C6-4DA2-4387-B377-27F33733BD38.webp?v=1784728780",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BEF6B1FE-30F0-4C12-BB6F-BFB010EF74B1.webp?v=1784728780",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A18B1B4-49D9-4FBB-B410-B21B47E700EF.webp?v=1784728781"
       ],
       "sizes": [
         "Large"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-large-112946-a",
+      "url": "https://www.thrifted.com/products/utah-jazz-nba-hoodie-mens-navy-large-112812-a",
       "available": true
     },
     {
