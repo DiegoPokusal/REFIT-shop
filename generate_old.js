@@ -47,10 +47,6 @@ const html = `<!DOCTYPE html>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   html { scroll-behavior: smooth; }
   body { background: var(--black); color: var(--white); font-family: 'Space Mono', monospace; overflow-x: hidden; }
-  @media (pointer: fine) { body { cursor: none; } }
-  .cursor { width: 12px; height: 12px; background: var(--red); border-radius: 50%; position: fixed; top: 0; left: 0; pointer-events: none; z-index: 9999; mix-blend-mode: difference; }
-  .cursor-ring { width: 36px; height: 36px; border: 1px solid var(--white); border-radius: 50%; position: fixed; top: 0; left: 0; pointer-events: none; z-index: 9998; transition: all 0.08s ease; mix-blend-mode: difference; }
-  @media (pointer: coarse) { .cursor, .cursor-ring { display: none; } }
   nav { position: fixed; top: 0; left: 0; right: 0; z-index: 500; display: flex; justify-content: space-between; align-items: center; padding: 16px 20px; background: rgba(10,10,10,0.97); backdrop-filter: blur(4px); border-bottom: 1px solid var(--mid); }
   .logo { font-family: 'Bebas Neue', sans-serif; font-size: 1.8rem; letter-spacing: 0.15em; color: var(--white); text-decoration: none; }
   .logo span { color: var(--red); }
@@ -86,19 +82,18 @@ const html = `<!DOCTYPE html>
   .toggle-premium.active { background: linear-gradient(135deg, #b8860b, #daa520, #ffd700, #c0a060, #8b7536); color: var(--black); border-color: #ffd700; box-shadow: 0 0 20px rgba(218,165,32,0.4); }
   .toggle-premium.active::before { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.15) 50%, transparent 100%); animation: shimmer 2s infinite; }
   @keyframes shimmer { from { transform: translateX(-100%); } to { transform: translateX(100%); } }
-  .toggle-label { font-size: 0.55rem; letter-spacing: 0.2em; display: block; margin-top: 4px; }
-  .toggle-drops .toggle-label { color: var(--text-muted); }
-  .toggle-drops.active .toggle-label { color: #555; }
-  .toggle-premium .toggle-label { color: #666; }
-  .toggle-premium.active .toggle-label { color: rgba(0,0,0,0.6); }
   .shop-panel { display: none; }
   .shop-panel.active { display: block; }
   .section-header { display: flex; flex-direction: column; gap: 16px; margin-bottom: 24px; border-bottom: 1px solid var(--mid); padding-bottom: 20px; }
   @media (min-width: 600px) { .section-header { flex-direction: row; justify-content: space-between; align-items: flex-end; margin-bottom: 40px; } }
   .section-title { font-family: 'Bebas Neue', sans-serif; font-size: 2.5rem; letter-spacing: 0.1em; }
   .filters { display: flex; gap: 6px; flex-wrap: wrap; }
-  .filter-btn { background: none; border: 1px solid var(--mid); color: var(--text-muted); font-family: 'Space Mono', monospace; font-size: 0.6rem; letter-spacing: 0.1em; padding: 8px 12px; cursor: pointer; transition: all 0.2s; text-transform: uppercase; }
+  .filter-btn { background: none; border: 1px solid var(--mid); color: var(--text-muted); font-family: 'Space Mono', monospace; font-size: 0.6rem; letter-spacing: 0.1em; padding: 8px 12px; cursor: pointer; transition: all 0.2s; text-transform: uppercase; position: relative; overflow: hidden; }
   .filter-btn:hover, .filter-btn.active { background: var(--white); color: var(--black); border-color: var(--white); }
+  #premiumPanel .filter-btn { background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460); color: #aaa; border-color: #333; }
+  #premiumPanel .filter-btn:hover, #premiumPanel .filter-btn.active { background: linear-gradient(135deg, #b8860b, #daa520, #ffd700, #c0a060, #8b7536); color: var(--black); border-color: #ffd700; box-shadow: 0 0 14px rgba(218,165,32,0.4); }
+  #premiumPanel .filter-btn.active::before { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.2) 50%, transparent 100%); animation: shimmer 2s infinite; }
+  #premiumPanel .product-price { background: linear-gradient(135deg, #b8860b, #ffd700, #daa520); -webkit-background-clip: text; background-clip: text; color: transparent; }
   .product-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2px; }
   @media (min-width: 600px) { .product-grid { grid-template-columns: repeat(3, 1fr); } }
   @media (min-width: 1024px) { .product-grid { grid-template-columns: repeat(4, 1fr); } }
@@ -231,8 +226,6 @@ const html = `<!DOCTYPE html>
 </style>
 </head>
 <body>
-<div class="cursor" id="cursor"></div>
-<div class="cursor-ring" id="cursorRing"></div>
 <nav>
   <a href="#"><img src="/refit_logo.svg" alt="REFIT" style="height:48px;"></a>
   <ul class="nav-links">
@@ -260,11 +253,9 @@ const html = `<!DOCTYPE html>
   <div class="section-toggle">
     <button class="toggle-btn toggle-drops active" onclick="switchSection('drops')">
       DROPS
-      <span class="toggle-label">Do 110€ · Každodenný štýl</span>
     </button>
     <button class="toggle-btn toggle-premium" onclick="switchSection('premium')">
       ✦ PREMIUM
-      <span class="toggle-label">110–145€ · Značkové kúsky</span>
     </button>
   </div>
   <div class="shop-panel active" id="dropsPanel">
@@ -366,12 +357,6 @@ const html = `<!DOCTYPE html>
 <script>
 const PRODUCTS = ${JSON.stringify(productData)};
 const SERVER_URL = 'https://glorious-optimism-production-0039.up.railway.app';
-const cursor = document.getElementById('cursor');
-const ring = document.getElementById('cursorRing');
-let mx=0,my=0,rx=0,ry=0;
-document.addEventListener('mousemove',e=>{mx=e.clientX;my=e.clientY;cursor.style.left=mx-6+'px';cursor.style.top=my-6+'px';});
-function animRing(){rx+=(mx-rx)*0.12;ry+=(my-ry)*0.12;ring.style.left=rx-18+'px';ring.style.top=ry-18+'px';requestAnimationFrame(animRing);}
-animRing();
 let cart=[];
 function getCategoryName(cat){return{jacket:'Bunda',hoodie:'Hoodie',sweatshirt:'Sweatshirt',tee:'Tričko',other:'Oblečenie'}[cat]||'Oblečenie';}
 const DROPS = PRODUCTS.filter(p => p.price <= 110);
