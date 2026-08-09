@@ -69,20 +69,20 @@
       "available": true
     },
     {
-      "id": 16117278572931,
-      "name": "Inter Milan Nike Graphic Track Jacket - Large Black Polyester",
+      "id": 16115973128579,
+      "name": "20Th Anniversary Canada Sportswear Workwear Jacket - Medium Black Cotton",
       "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FADFB279-45F3-40AC-B8CB-90FA1DFA7AF0.webp?v=1784729493",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CCC6EDAD-656B-422E-89F6-C8BF7F0C0F00.webp?v=1784718942",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FADFB279-45F3-40AC-B8CB-90FA1DFA7AF0.webp?v=1784729493",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E24EB3E-0D1F-4E9C-BFF6-D17CBB43E70E.webp?v=1784729493",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/042BF4C3-8336-44FB-8D5F-B1662859B831.webp?v=1784729496"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CCC6EDAD-656B-422E-89F6-C8BF7F0C0F00.webp?v=1784718942",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0806618C-A853-4334-A84E-EAECECF83EB1.webp?v=1784718942",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/76D9358D-6BBC-4FBB-8B2F-9B82588027F2.webp?v=1784718943"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/inter-milan-nike-track-jacket-mens-black-large-112407-a",
+      "url": "https://www.thrifted.com/products/20th-anniversary-canada-sportswear-jacket-mens-black-medium-113127-a",
       "available": true
     },
     {
@@ -239,20 +239,20 @@
       "available": true
     },
     {
-      "id": 15950824636803,
-      "name": "1989 Lincoln Raiders Trophy Jackets College Varsity Jacket - Medium Red Wool Blend",
-      "price": 139,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/51559189-E6BE-4F9A-8952-999B51CA359B.webp?v=1778142000",
+      "id": 16117278572931,
+      "name": "Inter Milan Nike Graphic Track Jacket - Large Black Polyester",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FADFB279-45F3-40AC-B8CB-90FA1DFA7AF0.webp?v=1784729493",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/51559189-E6BE-4F9A-8952-999B51CA359B.webp?v=1778142000",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/97C3804A-C97E-4654-8C40-F7E91203B4C2.webp?v=1778141999",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4B262862-F7A8-4FC1-8416-321AAE6B7D74.webp?v=1778142001"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FADFB279-45F3-40AC-B8CB-90FA1DFA7AF0.webp?v=1784729493",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E24EB3E-0D1F-4E9C-BFF6-D17CBB43E70E.webp?v=1784729493",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/042BF4C3-8336-44FB-8D5F-B1662859B831.webp?v=1784729496"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/1989-lincoln-raiders-trophy-jackets-varsity-jacket-mens-red-medium-90863-a",
+      "url": "https://www.thrifted.com/products/inter-milan-nike-track-jacket-mens-black-large-112407-a",
       "available": true
     },
     {
@@ -358,6 +358,23 @@
       "available": true
     },
     {
+      "id": 15950824636803,
+      "name": "1989 Lincoln Raiders Trophy Jackets College Varsity Jacket - Medium Red Wool Blend",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/51559189-E6BE-4F9A-8952-999B51CA359B.webp?v=1778142000",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/51559189-E6BE-4F9A-8952-999B51CA359B.webp?v=1778142000",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/97C3804A-C97E-4654-8C40-F7E91203B4C2.webp?v=1778141999",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4B262862-F7A8-4FC1-8416-321AAE6B7D74.webp?v=1778142001"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/1989-lincoln-raiders-trophy-jackets-varsity-jacket-mens-red-medium-90863-a",
+      "available": true
+    },
+    {
       "id": 16049113399683,
       "name": "Dickies Bomber Jacket - Large Black Polyester",
       "price": 142,
@@ -423,23 +440,6 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/unbranded-jacket-mens-black-medium-113126-a",
-      "available": true
-    },
-    {
-      "id": 16117237023107,
-      "name": "Diesel Puffer - Medium Blue Polyester",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6A71F660-770A-4F4C-ADC1-C0C9032237D3.webp?v=1784728274",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A71F660-770A-4F4C-ADC1-C0C9032237D3.webp?v=1784728274",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4F9C6250-FD1B-49D4-B7FB-A4E6202F1302.webp?v=1784728274",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/195EA0DC-CC79-4F52-B71E-9E8D715280A3.webp?v=1784728275"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/diesel-puffer-mens-blue-medium-113531-a",
       "available": true
     },
     {
@@ -613,6 +613,23 @@
       "available": true
     },
     {
+      "id": 16117237023107,
+      "name": "Diesel Puffer - Medium Blue Polyester",
+      "price": 138,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6A71F660-770A-4F4C-ADC1-C0C9032237D3.webp?v=1784728274",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6A71F660-770A-4F4C-ADC1-C0C9032237D3.webp?v=1784728274",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4F9C6250-FD1B-49D4-B7FB-A4E6202F1302.webp?v=1784728274",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/195EA0DC-CC79-4F52-B71E-9E8D715280A3.webp?v=1784728275"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/diesel-puffer-mens-blue-medium-113531-a",
+      "available": true
+    },
+    {
       "id": 15950829224323,
       "name": "1970S Made In USA Delong Satin Varsity Jacket - Medium Burgundy Nylon",
       "price": 139,
@@ -662,26 +679,26 @@
       "category": "jacket",
       "url": "https://www.thrifted.com/products/dickies-jacket-mens-black-medium-113598-a",
       "available": true
-    },
-    {
-      "id": 16175528345987,
-      "name": "Patagonia Puffer - Medium Red Polyester",
-      "price": 138,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0E0C0A76-EB51-4C17-B228-19043FDDDA8D.webp?v=1784900387",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0E0C0A76-EB51-4C17-B228-19043FDDDA8D.webp?v=1784900387",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6974047C-D16D-4588-8534-534F08DEBCC3.webp?v=1784900387",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/38329AEA-636A-42A7-9123-93B3F0E395EF.webp?v=1784900387"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/patagonia-puffer-mens-red-medium-115023-a",
-      "available": true
     }
   ],
   "hoodie": [
+    {
+      "id": 16174904312195,
+      "name": "Wood N Trail Camo Hoodie - Large Camo Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9D013848-010E-49CB-997D-73880D6D3E7B.webp?v=1784884723",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9D013848-010E-49CB-997D-73880D6D3E7B.webp?v=1784884723",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5EA793E-AF2F-4CD7-99E2-2B0913BAEF07.webp?v=1784884723",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AEAC6E03-94F1-4B86-B826-699339678E5C.webp?v=1784884723"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/wood-n-trail-hoodie-mens-camo-large-112927-a",
+      "available": true
+    },
     {
       "id": 16174897725827,
       "name": "Realtree Camo Hoodie - Medium Camo Cotton",
@@ -697,23 +714,6 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-medium-112943-a",
-      "available": true
-    },
-    {
-      "id": 16117306294659,
-      "name": "Indians Nike Graphic Hoodie - Large Red Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E8504C99-F167-4283-A9F9-8B566FEEC646.webp?v=1784730186",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8504C99-F167-4283-A9F9-8B566FEEC646.webp?v=1784730186",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5641B9B7-DEEE-4BD9-A772-34BCF6477494.webp?v=1784730187",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DE2A9955-E287-4699-97BD-149468384B88.webp?v=1784730187"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/indians-nike-hoodie-mens-red-large-112373-a",
       "available": true
     },
     {
@@ -734,6 +734,23 @@
       "available": true
     },
     {
+      "id": 16117306294659,
+      "name": "Indians Nike Graphic Hoodie - Large Red Cotton",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E8504C99-F167-4283-A9F9-8B566FEEC646.webp?v=1784730186",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8504C99-F167-4283-A9F9-8B566FEEC646.webp?v=1784730186",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5641B9B7-DEEE-4BD9-A772-34BCF6477494.webp?v=1784730187",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DE2A9955-E287-4699-97BD-149468384B88.webp?v=1784730187"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/indians-nike-hoodie-mens-red-large-112373-a",
+      "available": true
+    },
+    {
       "id": 16045074579843,
       "name": "Armani Exchange Hoodie - Small Black Cotton",
       "price": 133,
@@ -748,23 +765,6 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/armani-exchange-hoodie-mens-black-small-102638-a",
-      "available": true
-    },
-    {
-      "id": 16117286961539,
-      "name": "Polo Jeans Co. Ralph Lauren Hoodie - Medium Black Cotton Blend",
-      "price": 130,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AAA8A203-8D77-4B10-AE5E-65D8B9221178.webp?v=1784729629",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AAA8A203-8D77-4B10-AE5E-65D8B9221178.webp?v=1784729629",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA39FA63-DCAF-4889-ABC6-427DD1F54DBC.webp?v=1784729629",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0061F2B6-674B-47DD-A082-8A2C5ABAD055.webp?v=1784729630"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/polo-jeans-co-ralph-lauren-hoodie-mens-black-medium-112483-a",
       "available": true
     },
     {
@@ -785,20 +785,20 @@
       "available": true
     },
     {
-      "id": 16175487877507,
-      "name": "Motorcycles Harley Davidson Graphic Hoodie - Medium Grey Cotton Blend",
-      "price": 105,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6DD2E173-D22B-4133-B61F-7A65D72255B0.webp?v=1784899789",
+      "id": 16117286961539,
+      "name": "Polo Jeans Co. Ralph Lauren Hoodie - Medium Black Cotton Blend",
+      "price": 130,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AAA8A203-8D77-4B10-AE5E-65D8B9221178.webp?v=1784729629",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DD2E173-D22B-4133-B61F-7A65D72255B0.webp?v=1784899789",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83C3110E-0ECB-4EE1-B7DC-F5F1AC039FE2.webp?v=1784899789",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2E364429-5BDB-4C55-8675-82740C4BCEB9.webp?v=1784899789"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AAA8A203-8D77-4B10-AE5E-65D8B9221178.webp?v=1784729629",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA39FA63-DCAF-4889-ABC6-427DD1F54DBC.webp?v=1784729629",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0061F2B6-674B-47DD-A082-8A2C5ABAD055.webp?v=1784729630"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-hoodie-womens-grey-medium-114628-a",
+      "url": "https://www.thrifted.com/products/polo-jeans-co-ralph-lauren-hoodie-mens-black-medium-112483-a",
       "available": true
     },
     {
@@ -1023,20 +1023,20 @@
       "available": true
     },
     {
-      "id": 16046362526083,
-      "name": "Harley Davidson Hoodie - Medium Grey Cotton",
-      "price": 112,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/04C3C4C2-3F89-4143-8E37-A3144663CFF6.webp?v=1782202802",
+      "id": 16175487877507,
+      "name": "Motorcycles Harley Davidson Graphic Hoodie - Medium Grey Cotton Blend",
+      "price": 105,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6DD2E173-D22B-4133-B61F-7A65D72255B0.webp?v=1784899789",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/04C3C4C2-3F89-4143-8E37-A3144663CFF6.webp?v=1782202802",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/44B7303E-AE34-44F2-9705-2C2948BE5555.webp?v=1782202802",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/89E86627-7E8E-4110-ABC3-9A037158A70A.webp?v=1782202803"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DD2E173-D22B-4133-B61F-7A65D72255B0.webp?v=1784899789",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/83C3110E-0ECB-4EE1-B7DC-F5F1AC039FE2.webp?v=1784899789",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2E364429-5BDB-4C55-8675-82740C4BCEB9.webp?v=1784899789"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-grey-medium-103261-a",
+      "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-hoodie-womens-grey-medium-114628-a",
       "available": true
     },
     {
@@ -1088,6 +1088,23 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/nike-hoodie-mens-black-medium-113689-a",
+      "available": true
+    },
+    {
+      "id": 16046362526083,
+      "name": "Harley Davidson Hoodie - Medium Grey Cotton",
+      "price": 112,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/04C3C4C2-3F89-4143-8E37-A3144663CFF6.webp?v=1782202802",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/04C3C4C2-3F89-4143-8E37-A3144663CFF6.webp?v=1782202802",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/44B7303E-AE34-44F2-9705-2C2948BE5555.webp?v=1782202802",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/89E86627-7E8E-4110-ABC3-9A037158A70A.webp?v=1782202803"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-grey-medium-103261-a",
       "available": true
     },
     {
@@ -1159,23 +1176,6 @@
       "available": true
     },
     {
-      "id": 16174897791363,
-      "name": "Realtree Camo Hoodie - Large Camo Cotton Blend",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FAB9D5AA-1A06-4D4C-9EC0-85E110E29B4D.webp?v=1784884539",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1868A3D7-E46D-4F9D-B11B-44A2ADE8937D.webp?v=1784884540"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-large-112946-a",
-      "available": true
-    },
-    {
       "id": 16174894580099,
       "name": "Tommy Hilfiger Full Zip Spellout Hoodie - Medium Red Cotton",
       "price": 116,
@@ -1193,6 +1193,23 @@
       "available": true
     },
     {
+      "id": 16174897791363,
+      "name": "Realtree Camo Hoodie - Large Camo Cotton Blend",
+      "price": 102,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AE1109F-47CB-4CAA-BD64-A7C68D201B52.webp?v=1784884540",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FAB9D5AA-1A06-4D4C-9EC0-85E110E29B4D.webp?v=1784884539",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1868A3D7-E46D-4F9D-B11B-44A2ADE8937D.webp?v=1784884540"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/realtree-hoodie-mens-camo-large-112946-a",
+      "available": true
+    },
+    {
       "id": 16116018413955,
       "name": "Carhartt Hoodie - Large Black Cotton",
       "price": 116,
@@ -1207,23 +1224,6 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-black-large-110662-a",
-      "available": true
-    },
-    {
-      "id": 16174896480643,
-      "name": "Armani Exchange Hoodie - Large Black Cotton",
-      "price": 102,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BA75F52B-0644-4028-A21A-C3D4B328D2AE.webp?v=1784884463",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BA75F52B-0644-4028-A21A-C3D4B328D2AE.webp?v=1784884463",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BBE275C1-DB8C-4004-AE17-624F6EA266A2.webp?v=1784884463",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2B497E02-4C6C-4FD2-8BA7-623F30212DBA.webp?v=1784884464"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/armani-exchange-hoodie-mens-black-large-114134-a",
       "available": true
     },
     {
