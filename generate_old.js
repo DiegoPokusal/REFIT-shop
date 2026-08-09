@@ -247,7 +247,7 @@ const html = `<!DOCTYPE html>
 <div class="cursor" id="cursor"></div>
 <div class="cursor-ring" id="cursorRing"></div>
 <nav>
-  <a href="#"><img src="/logo.svg" alt="REFIT" style="height:48px;"></a>
+  <a href="#"><img src="/refit_logo.svg" alt="REFIT" style="height:48px;"></a>
   <ul class="nav-links">
     <li><a href="#shop">Shop</a></li>
     <li><a href="#about">O nás</a></li>
