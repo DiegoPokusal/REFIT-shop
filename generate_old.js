@@ -357,7 +357,7 @@ const html = `<!DOCTYPE html>
 <script>
 const PRODUCTS = ${JSON.stringify(productData)};
 const SERVER_URL = 'https://glorious-optimism-production-0039.up.railway.app';
-let cart=[];
+let cart=JSON.parse(localStorage.getItem('refit_cart')||'[]');
 function getCategoryName(cat){return{jacket:'Bunda',hoodie:'Hoodie',sweatshirt:'Sweatshirt',tee:'Tričko',other:'Oblečenie'}[cat]||'Oblečenie';}
 const DROPS = PRODUCTS.filter(p => p.price <= 110);
 const PREMIUM = PRODUCTS.filter(p => p.price > 110);
@@ -453,6 +453,7 @@ function addToCart(id){
   if(!document.getElementById('cartSidebar').classList.contains('open'))toggleCart();
 }
 function updateCart(){
+  localStorage.setItem('refit_cart',JSON.stringify(cart));
   const count=cart.reduce((a,i)=>a+i.qty,0);
   const total=cart.reduce((a,i)=>a+i.price*i.qty,0);
   document.getElementById('cartCount').textContent=count;
@@ -515,6 +516,7 @@ function placeOrder(){
 document.addEventListener('DOMContentLoaded',()=>{
   renderProducts('all', 'drops');
   renderProducts('all', 'premium');
+  updateCart();
   const cn=document.getElementById('cardNum');
   if(cn)cn.addEventListener('input',e=>{let v=e.target.value.replace(/\\D/g,'').substring(0,16);e.target.value=v.replace(/(.{4})/g,'$1 ').trim();});
   const ce=document.getElementById('cardExp');
