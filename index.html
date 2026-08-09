@@ -208,7 +208,7 @@
 <div class="cursor" id="cursor"></div>
 <div class="cursor-ring" id="cursorRing"></div>
 <nav>
-  <a href="#" class="logo">RE<span>FIT</span></a>
+  <a href="#"><img src="/logo.svg" alt="REFIT" style="height:48px;"></a>
   <ul class="nav-links">
     <li><a href="#shop">Shop</a></li>
     <li><a href="#about">O nás</a></li>
@@ -450,7 +450,7 @@ document.getElementById('detailModal').addEventListener('click',function(e){if(e
 function addToCart(id){
   const p=PRODUCTS.find(x=>x.id===id);
   const ex=cart.find(x=>x.id===id);
-  if(ex)ex.qty++;else cart.push({...p,qty:1});
+  if(ex){ alert('Tento kus je už v košíku. Každý vintage kus je unikátny.'); return; } cart.push({...p,qty:1});
   updateCart();
   if(!document.getElementById('cartSidebar').classList.contains('open'))toggleCart();
 }
@@ -472,9 +472,7 @@ function updateCart(){
         <p class="cart-item-name">${item.name}</p>
         <p class="cart-item-meta">${getCategoryName(item.category)}</p>
         <div class="cart-item-controls">
-          <button class="qty-btn" onclick="changeQty(${item.id},-1)">−</button>
-          <span class="qty-value">${item.qty}</span>
-          <button class="qty-btn" onclick="changeQty(${item.id},1)">+</button>
+          <span style="font-size:0.6rem;color:#666;letter-spacing:0.1em;">1× UNIKÁTNY KUS</span>
           <button class="remove-btn" onclick="removeItem(${item.id})">Odstrániť</button>
         </div>
       </div>
