@@ -66,7 +66,14 @@ const html = `<!DOCTYPE html>
   .nav-links { display: flex; gap: 24px; list-style: none; }
   .nav-links a { color: var(--text-muted); text-decoration: none; font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase; transition: color 0.2s; }
   .nav-links a:hover { color: var(--white); }
-  @media (max-width: 480px) { .nav-links { display: none; } }
+  .nav-right { display: flex; align-items: center; gap: 8px; }
+  .menu-btn { display: none; background: none; border: 1px solid var(--mid); color: var(--white); width: 42px; height: 42px; font-size: 1.2rem; cursor: pointer; align-items: center; justify-content: center; }
+  @media (max-width: 480px) {
+    .menu-btn { display: flex; }
+    .nav-links { display: none; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; gap: 0; background: rgba(10,10,10,0.98); border-bottom: 1px solid var(--mid); }
+    .nav-links.open { display: flex; }
+    .nav-links a { display: block; padding: 18px 20px; border-bottom: 1px solid var(--mid); font-size: 0.75rem; }
+  }
   .cart-btn { background: none; border: 1px solid var(--mid); color: var(--white); font-family: 'Space Mono', monospace; font-size: 0.7rem; letter-spacing: 0.15em; padding: 10px 16px; cursor: pointer; transition: all 0.2s; position: relative; }
   .cart-btn:hover { background: var(--white); color: var(--black); }
   .cart-count { position: absolute; top: -8px; right: -8px; background: var(--red); color: var(--white); width: 18px; height: 18px; border-radius: 50%; font-size: 0.6rem; display: flex; align-items: center; justify-content: center; }
@@ -139,7 +146,7 @@ const html = `<!DOCTYPE html>
   .cart-sidebar.open { transform: translateX(0); }
   .cart-header { padding: 20px 24px; border-bottom: 1px solid var(--mid); display: flex; justify-content: space-between; align-items: center; }
   .cart-title { font-family: 'Bebas Neue', sans-serif; font-size: 1.5rem; letter-spacing: 0.15em; }
-  .close-btn { background: none; border: none; color: var(--white); font-size: 1.5rem; cursor: pointer; padding: 4px; transition: color 0.2s; }
+  .close-btn { background: none; border: none; color: var(--white); font-size: 1.5rem; cursor: pointer; padding: 10px 14px; transition: color 0.2s; }
   .close-btn:hover { color: var(--red); }
   .cart-items { flex: 1; overflow-y: auto; padding: 16px 24px; }
   .cart-empty { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; gap: 16px; color: var(--text-muted); }
@@ -155,7 +162,7 @@ const html = `<!DOCTYPE html>
   .qty-btn { background: var(--mid); border: none; color: var(--white); width: 28px; height: 28px; font-family: 'Space Mono', monospace; font-size: 0.9rem; cursor: pointer; transition: background 0.2s; display: flex; align-items: center; justify-content: center; }
   .qty-btn:hover { background: var(--red); }
   .qty-value { font-size: 0.75rem; min-width: 16px; text-align: center; }
-  .remove-btn { background: none; border: none; color: var(--text-muted); font-size: 0.55rem; letter-spacing: 0.1em; cursor: pointer; text-transform: uppercase; margin-left: auto; transition: color 0.2s; }
+  .remove-btn { background: none; border: none; color: var(--text-muted); font-size: 0.55rem; letter-spacing: 0.1em; cursor: pointer; text-transform: uppercase; margin-left: auto; transition: color 0.2s; padding: 12px 8px; margin-right: -8px; }
   .remove-btn:hover { color: var(--red); }
   .cart-item-price { font-size: 0.85rem; font-weight: 700; align-self: flex-start; margin-top: 4px; white-space: nowrap; }
   .cart-footer { padding: 20px 24px; border-top: 1px solid var(--mid); }
@@ -182,6 +189,7 @@ const html = `<!DOCTYPE html>
   .form-group { display: flex; flex-direction: column; gap: 6px; }
   .form-label { font-size: 0.55rem; letter-spacing: 0.15em; color: var(--text-muted); text-transform: uppercase; }
   .form-input { background: var(--mid); border: 1px solid transparent; color: var(--white); font-family: 'Space Mono', monospace; font-size: 0.8rem; padding: 12px 14px; transition: border-color 0.2s; outline: none; cursor: text; -webkit-appearance: none; border-radius: 0; }
+  @media (max-width: 480px) { .form-input { font-size: 16px; } }
   .form-input:focus { border-color: var(--red); }
   .form-input::placeholder { color: var(--text-muted); font-size: 0.7rem; }
   .order-summary { background: var(--black); border: 1px solid var(--mid); padding: 20px; margin-bottom: 20px; }
@@ -196,10 +204,11 @@ const html = `<!DOCTYPE html>
   .success-icon { width: 80px; height: 80px; border: 2px solid var(--red); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 2rem; }
   .success-title { font-family: 'Bebas Neue', sans-serif; font-size: 2rem; letter-spacing: 0.15em; }
   .success-text { font-size: 0.7rem; color: var(--text-muted); line-height: 1.8; max-width: 320px; }
-  .detail-modal { position: fixed; inset: 0; background: rgba(0,0,0,0.95); z-index: 2000; display: none; align-items: flex-start; justify-content: center; backdrop-filter: blur(8px); overflow-y: auto; padding: 20px 0; }
+  .detail-modal { position: fixed; inset: 0; background: rgba(0,0,0,0.95); z-index: 2000; display: none; align-items: flex-start; justify-content: center; backdrop-filter: blur(8px); overflow-y: auto; padding: 0; }
   @media (min-width: 600px) { .detail-modal { align-items: center; padding: 20px; } }
   .detail-modal.open { display: flex; }
-  .detail-box { background: var(--gray); border: 1px solid var(--mid); width: 95%; max-width: 960px; animation: fadeUp 0.3s ease; }
+  .detail-box { background: var(--gray); border: none; width: 100%; min-height: 100%; max-width: 100%; animation: fadeUp 0.3s ease; }
+  @media (min-width: 600px) { .detail-box { border: 1px solid var(--mid); width: 95%; min-height: 0; max-width: 960px; } }
   .detail-carousel { position: relative; overflow: hidden; background: var(--mid); }
   .detail-carousel-track { display: flex; transition: transform 0.35s ease; }
   .detail-carousel-track img { min-width: 100%; width: 100%; aspect-ratio: 3/4; object-fit: cover; flex-shrink: 0; }
@@ -241,11 +250,14 @@ const html = `<!DOCTYPE html>
 <body>
 <nav>
   <a href="#"><img src="/refit_logo.svg" alt="REFIT" style="height:48px;"></a>
-  <ul class="nav-links">
-    <li><a href="#shop">Shop</a></li>
-    <li><a href="#about">O nás</a></li>
+  <ul class="nav-links" id="navLinks">
+    <li><a href="#shop" onclick="closeMenu()">Shop</a></li>
+    <li><a href="#about" onclick="closeMenu()">O nás</a></li>
   </ul>
-  <button class="cart-btn" onclick="toggleCart()">KOŠÍK <span class="cart-count" id="cartCount">0</span></button>
+  <div class="nav-right">
+    <button class="menu-btn" onclick="toggleMenu()" aria-label="Menu">☰</button>
+    <button class="cart-btn" onclick="toggleCart()">KOŠÍK <span class="cart-count" id="cartCount">0</span></button>
+  </div>
 </nav>
 <section class="hero">
   <div class="hero-bg"></div>
@@ -495,6 +507,8 @@ function updateCart(){
 function changeQty(id,d){const i=cart.find(x=>x.id===id);if(!i)return;i.qty+=d;if(i.qty<=0)cart=cart.filter(x=>x.id!==id);updateCart();}
 function removeItem(id){cart=cart.filter(x=>x.id!==id);updateCart();}
 function toggleCart(){document.getElementById('cartSidebar').classList.toggle('open');document.getElementById('cartOverlay').classList.toggle('open');}
+function toggleMenu(){document.getElementById('navLinks').classList.toggle('open');}
+function closeMenu(){document.getElementById('navLinks').classList.remove('open');}
 function openCheckout(){
   if(!cart.length)return;
   const total=cart.reduce((a,i)=>a+i.price*i.qty,0);
