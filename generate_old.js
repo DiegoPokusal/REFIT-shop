@@ -430,6 +430,28 @@ function filterProducts(filter, btn, section){
   btn.classList.add('active');
   renderProducts(filter, section);
 }
+let scrollLockY=0, scrollLocked=false;
+function setScrollLock(lock){
+  if(lock && !scrollLocked){
+    scrollLockY=window.scrollY;
+    document.body.style.position='fixed';
+    document.body.style.top=(-scrollLockY)+'px';
+    document.body.style.width='100%';
+    scrollLocked=true;
+  } else if(!lock && scrollLocked){
+    document.body.style.position='';
+    document.body.style.top='';
+    document.body.style.width='';
+    window.scrollTo(0,scrollLockY);
+    scrollLocked=false;
+  }
+}
+function syncScrollLock(){
+  const detailOpen=document.getElementById('detailModal').classList.contains('open');
+  const checkoutOpen=document.getElementById('checkoutModal').classList.contains('open');
+  const cartMobileOpen=document.getElementById('cartSidebar').classList.contains('open') && window.matchMedia('(max-width: 480px)').matches;
+  setScrollLock(detailOpen || checkoutOpen || cartMobileOpen);
+}
 function openDetail(id){
   const p=PRODUCTS.find(x=>x.id===id);
   if(!p)return;
@@ -472,11 +494,11 @@ function openDetail(id){
     document.querySelectorAll('.carousel-dot').forEach((d,j) => d.classList.toggle('active', j === currentSlide));
   };
   document.getElementById('detailModal').classList.add('open');
-  document.body.style.overflow='hidden';
+  syncScrollLock();
 }
 function closeDetail(){
   document.getElementById('detailModal').classList.remove('open');
-  document.body.style.overflow='';
+  syncScrollLock();
 }
 document.getElementById('detailModal').addEventListener('click',function(e){if(e.target===this)closeDetail();});
 function addToCart(id){
@@ -516,9 +538,9 @@ function updateCart(){
 function changeQty(id,d){const i=cart.find(x=>x.id===id);if(!i)return;i.qty+=d;if(i.qty<=0)cart=cart.filter(x=>x.id!==id);updateCart();}
 function removeItem(id){cart=cart.filter(x=>x.id!==id);updateCart();}
 function toggleCart(){
-  const open=document.getElementById('cartSidebar').classList.toggle('open');
+  document.getElementById('cartSidebar').classList.toggle('open');
   document.getElementById('cartOverlay').classList.toggle('open');
-  if(window.matchMedia('(max-width: 480px)').matches) document.body.style.overflow=open?'hidden':'';
+  syncScrollLock();
 }
 function toggleMenu(){document.getElementById('navLinks').classList.toggle('open');}
 function closeMenu(){document.getElementById('navLinks').classList.remove('open');}
@@ -533,11 +555,11 @@ function openCheckout(){
   \`;
   toggleCart();
   document.getElementById('checkoutModal').classList.add('open');
-  document.body.style.overflow='hidden';
+  syncScrollLock();
 }
 function closeCheckout(){
   document.getElementById('checkoutModal').classList.remove('open');
-  document.body.style.overflow='';
+  syncScrollLock();
   document.getElementById('checkoutForm').classList.remove('hide');
   document.getElementById('successScreen').classList.remove('show');
 }
