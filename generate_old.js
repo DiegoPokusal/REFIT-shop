@@ -205,13 +205,21 @@ const html = `<!DOCTYPE html>
   .success-title { font-family: 'Bebas Neue', sans-serif; font-size: 2rem; letter-spacing: 0.15em; }
   .success-text { font-size: 0.7rem; color: var(--text-muted); line-height: 1.8; max-width: 320px; }
   .detail-modal { position: fixed; inset: 0; background: rgba(0,0,0,0.95); z-index: 2000; display: none; align-items: flex-start; justify-content: center; backdrop-filter: blur(8px); overflow-y: auto; padding: 0; }
-  @media (min-width: 600px) { .detail-modal { align-items: center; padding: 20px; } }
   .detail-modal.open { display: flex; }
   .detail-box { background: var(--gray); border: none; width: 100%; min-height: 100%; max-width: 100%; animation: fadeUp 0.3s ease; }
-  @media (min-width: 600px) { .detail-box { border: 1px solid var(--mid); width: 95%; min-height: 0; max-width: 960px; } }
+  @media (min-width: 768px) {
+    .detail-modal { overflow: hidden; }
+    .detail-box { height: 100vh; min-height: 100vh; }
+    .detail-layout { display: flex; height: 100%; }
+  }
   .detail-carousel { position: relative; overflow: hidden; background: var(--mid); }
   .detail-carousel-track { display: flex; transition: transform 0.35s ease; }
   .detail-carousel-track img { min-width: 100%; width: 100%; aspect-ratio: 3/4; object-fit: cover; flex-shrink: 0; }
+  @media (min-width: 768px) {
+    .detail-carousel { flex: 1 1 56%; height: 100%; }
+    .detail-carousel-track, .detail-carousel-track img { height: 100%; }
+    .detail-carousel-track img { aspect-ratio: auto; }
+  }
   .carousel-btn { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(10,10,10,0.7); border: 1px solid rgba(255,255,255,0.2); color: var(--white); font-size: 1.2rem; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 10; transition: background 0.2s; }
   .carousel-btn:hover { background: var(--red); }
   .carousel-prev { left: 8px; }
@@ -220,7 +228,7 @@ const html = `<!DOCTYPE html>
   .carousel-dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.4); cursor: pointer; transition: background 0.2s; }
   .carousel-dot.active { background: var(--white); }
   .detail-info { padding: 20px 24px; }
-  @media (min-width: 768px) { .detail-info { padding: 32px 40px; } }
+  @media (min-width: 768px) { .detail-info { flex: 1 1 44%; height: 100%; overflow-y: auto; display: flex; flex-direction: column; justify-content: center; padding: 60px 72px; } }
   .detail-category { font-size: 0.55rem; letter-spacing: 0.2em; color: var(--text-muted); text-transform: uppercase; margin-bottom: 8px; }
   .detail-name { font-family: 'Bebas Neue', sans-serif; font-size: 1.8rem; letter-spacing: 0.08em; margin-bottom: 12px; line-height: 1.1; }
   @media (min-width: 768px) { .detail-name { font-size: 2.5rem; } }
@@ -430,6 +438,7 @@ function openDetail(id){
   if(!imgs.length && p.image) imgs.push(p.image);
   let currentSlide=0;
   document.getElementById('detailBox').innerHTML=\`
+    <div class="detail-layout">
     <div class="detail-carousel">
       <div class="detail-carousel-track" id="carouselTrack">
         \${imgs.slice(0,3).map(src=>\`<img src="\${src}" alt="\${p.name}" onerror="this.style.display='none'">\`).join('')}
@@ -449,6 +458,7 @@ function openDetail(id){
 <p style="font-size:0.6rem;color:#555;letter-spacing:0.1em;margin-bottom:16px;"> vintage kus — môže obsahovať drobné znaky nosenia.</p>
       <div class="detail-sizes">\${(p.sizes||[]).map(s=>\`<span class="detail-size-tag">\${s}</span>\`).join('')}</div>
       <button class="detail-add-btn" onclick="addToCart(\${p.id});closeDetail()">PRIDAŤ DO KOŠÍKA</button>
+    </div>
     </div>
   \`;
   window.slideCarousel = function(dir) {
