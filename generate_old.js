@@ -66,7 +66,7 @@ const html = `<!DOCTYPE html>
   .nav-links { display: flex; gap: 24px; list-style: none; }
   .nav-links a { color: var(--text-muted); text-decoration: none; font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase; transition: color 0.2s; }
   .nav-links a:hover { color: var(--white); }
-  .nav-right { display: flex; align-items: center; gap: 8px; }
+  .nav-right { display: flex; align-items: center; gap: 8px; margin-left: auto; }
   .menu-btn { display: none; background: none; border: 1px solid var(--mid); color: var(--white); width: 42px; height: 42px; font-size: 1.2rem; cursor: pointer; align-items: center; justify-content: center; }
   @media (max-width: 480px) {
     .menu-btn { display: flex; }
