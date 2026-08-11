@@ -195,8 +195,11 @@
   .detail-name { font-family: 'Bebas Neue', sans-serif; font-size: 1.8rem; letter-spacing: 0.08em; margin-bottom: 12px; line-height: 1.1; }
   @media (min-width: 768px) { .detail-name { font-size: 2.5rem; } }
   .detail-price { font-size: 1.3rem; font-weight: 700; margin-bottom: 20px; }
-  .detail-sizes { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 24px; }
+  .detail-size-label { font-size: 0.55rem; letter-spacing: 0.2em; color: var(--text-muted); text-transform: uppercase; margin-bottom: 10px; }
+  .detail-sizes { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
   .detail-size-tag { font-size: 0.65rem; border: 1px solid var(--mid); padding: 8px 14px; color: var(--text-muted); letter-spacing: 0.1em; }
+  .size-guide-link { display: inline-block; font-size: 0.65rem; letter-spacing: 0.1em; color: var(--red); text-decoration: none; text-transform: uppercase; margin-bottom: 24px; border-bottom: 1px dashed var(--red); padding-bottom: 2px; transition: color 0.2s, border-color 0.2s; }
+  .size-guide-link:hover { color: var(--white); border-color: var(--white); }
   .detail-add-btn { width: 100%; background: var(--red); color: var(--white); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.2em; padding: 18px; cursor: pointer; transition: all 0.2s; margin-bottom: 12px; }
   .detail-add-btn:hover { background: var(--white); color: var(--black); }
   .detail-close { position: fixed; top: 16px; right: 16px; background: var(--gray); border: 1px solid var(--mid); color: var(--white); font-size: 1.5rem; cursor: pointer; z-index: 2001; transition: color 0.2s; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; }
@@ -440,7 +443,9 @@ function openDetail(id){
       <h2 class="detail-name">${p.name}</h2>
       <p class="detail-price">${p.price} €</p>
 <p style="font-size:0.6rem;color:#555;letter-spacing:0.1em;margin-bottom:16px;"> vintage kus — môže obsahovať drobné znaky nosenia.</p>
+      <p class="detail-size-label">Veľkosť</p>
       <div class="detail-sizes">${(p.sizes||[]).map(s=>`<span class="detail-size-tag">${s}</span>`).join('')}</div>
+      <a href="/velkostna-tabulka.html" target="_blank" class="size-guide-link">Ako vybrať správnu veľkosť →</a>
       <button class="detail-add-btn" onclick="addToCart(${p.id});closeDetail()">PRIDAŤ DO KOŠÍKA</button>
     </div>
     </div>

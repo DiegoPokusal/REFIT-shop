@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veľkostná tabuľka — REFIT</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root { --black: #0a0a0a; --white: #f0ece4; --red: #e63222; --gray: #1a1a1a; --mid: #2a2a2a; --muted: #666; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--black); color: var(--white); font-family: 'Space Mono', monospace; line-height: 1.8; }
+  nav { padding: 20px 40px; border-bottom: 1px solid var(--mid); display: flex; justify-content: space-between; align-items: center; }
+  .logo { font-family: 'Bebas Neue', sans-serif; font-size: 2rem; letter-spacing: 0.15em; color: var(--white); text-decoration: none; }
+  .logo span { color: var(--red); }
+  .back { color: var(--muted); text-decoration: none; font-size: 0.7rem; letter-spacing: 0.2em; text-transform: uppercase; transition: color 0.2s; }
+  .back:hover { color: var(--white); }
+  .container { max-width: 800px; margin: 0 auto; padding: 60px 40px; }
+  h1 { font-family: 'Bebas Neue', sans-serif; font-size: 3rem; letter-spacing: 0.1em; margin-bottom: 8px; }
+  .subtitle { font-size: 0.7rem; color: var(--muted); letter-spacing: 0.2em; text-transform: uppercase; margin-bottom: 48px; }
+  h2 { font-family: 'Bebas Neue', sans-serif; font-size: 1.5rem; letter-spacing: 0.1em; color: var(--red); margin: 40px 0 16px; }
+  p { font-size: 0.8rem; color: #ccc; margin-bottom: 16px; }
+  .size-table { width: 100%; border-collapse: collapse; margin: 8px 0 32px; }
+  .size-table th { font-family: 'Bebas Neue', sans-serif; font-size: 0.9rem; letter-spacing: 0.15em; color: var(--red); text-transform: uppercase; text-align: left; padding: 12px 16px; border-bottom: 1px dashed var(--mid); }
+  .size-table td { font-size: 0.85rem; color: #ccc; padding: 14px 16px; border-bottom: 1px solid var(--mid); }
+  .size-table tr:last-child td { border-bottom: none; }
+  .size-table td:first-child, .size-table th:first-child { color: var(--white); font-weight: 700; }
+  footer { text-align: center; padding: 40px; font-size: 0.65rem; color: var(--muted); border-top: 1px solid var(--mid); }
+</style>
+</head>
+<body>
+<nav>
+  <a href="/" class="logo">RE<span>FIT</span></a>
+  <a href="/" class="back">← Späť do shopu</a>
+</nav>
+<div class="container">
+  <h1>Veľkostná tabuľka</h1>
+  <p class="subtitle">Ako vybrať správnu veľkosť</p>
+
+  <p>Veľkosť vintage oblečenia ovplyvňuje mnoho faktorov — vek kusu, strih aj krajina pôvodu. Preto všetky naše kúsky ručne premeriavame a porovnávame s nižšie uvedenou štandardnou tabuľkou veľkostí.</p>
+
+  <h2>Pánske veľkosti</h2>
+  <table class="size-table">
+    <thead>
+      <tr>
+        <th>Veľkosť</th>
+        <th>Obvod hrudníka (cm)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>S</td><td>91–96</td></tr>
+      <tr><td>M</td><td>96–101</td></tr>
+      <tr><td>L</td><td>101–106</td></tr>
+    </tbody>
+  </table>
+</div>
+<footer>© 2025 REFIT — refitvintage.sk</footer>
+</body>
+</html>
