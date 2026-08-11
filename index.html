@@ -54,6 +54,18 @@
   .hero-ticker { position: absolute; bottom: 0; left: 0; right: 0; background: var(--red); padding: 10px 0; overflow: hidden; white-space: nowrap; }
   .ticker-inner { display: inline-flex; animation: ticker 20s linear infinite; }
   .ticker-inner span { font-family: 'Bebas Neue', sans-serif; font-size: 0.85rem; letter-spacing: 0.3em; padding: 0 32px; color: var(--white); }
+  .about-section { background: var(--gray); padding: 64px 20px; border-bottom: 1px solid var(--mid); }
+  @media (min-width: 768px) { .about-section { padding: 100px 40px; } }
+  .about-inner { max-width: 1080px; margin: 0 auto; }
+  .about-eyebrow { font-size: 0.65rem; letter-spacing: 0.3em; color: var(--red); text-transform: uppercase; margin-bottom: 16px; }
+  .about-headline { font-family: 'Bebas Neue', sans-serif; font-size: clamp(2rem, 5.5vw, 3.4rem); letter-spacing: 0.01em; line-height: 1.05; max-width: 14ch; margin-bottom: 24px; }
+  .about-lead { font-size: 0.85rem; line-height: 1.9; color: #ccc; max-width: 58ch; margin-bottom: 56px; }
+  @media (min-width: 768px) { .about-lead { margin-bottom: 72px; } }
+  .about-pillars { display: grid; grid-template-columns: 1fr; gap: 40px; }
+  @media (min-width: 700px) { .about-pillars { grid-template-columns: repeat(3, 1fr); gap: 32px; } }
+  .pillar { border-top: 1px solid var(--mid); padding-top: 20px; }
+  .pillar-label { font-family: 'Bebas Neue', sans-serif; font-size: 1.3rem; letter-spacing: 0.05em; color: var(--white); margin-bottom: 10px; }
+  .pillar-text { font-size: 0.78rem; line-height: 1.8; color: var(--text-muted); max-width: 34ch; }
   .shop-section { padding: 80px 16px 40px; }
   @media (min-width: 768px) { .shop-section { padding: 100px 40px 40px; } }
   .section-toggle { display: flex; gap: 12px; margin-bottom: 48px; }
@@ -250,6 +262,27 @@
     </div>
   </div>
 </section>
+<section class="about-section" id="about">
+  <div class="about-inner">
+    <p class="about-eyebrow">Prečo REFIT</p>
+    <h2 class="about-headline">Žiadne dva kusy nie sú rovnaké.</h2>
+    <p class="about-lead">Nie sme veľkosklad. Každý kus prejde cez naše ruky — vyberieme ho, premeriame, skontrolujeme stav. Keď sa predá, je preč navždy.</p>
+    <div class="about-pillars">
+      <div class="pillar">
+        <p class="pillar-label">Ručný výber</p>
+        <p class="pillar-text">Prehľadávame tisícky kusov naprieč vintage archívmi. Do ponuky sa dostane len zlomok z nich.</p>
+      </div>
+      <div class="pillar">
+        <p class="pillar-label">Presné meranie</p>
+        <p class="pillar-text">Každý kus ručne premeriame podľa veľkostnej tabuľky, nech vieš presne, čo si objednávaš.</p>
+      </div>
+      <div class="pillar">
+        <p class="pillar-label">Jeden kus, jeden zákazník</p>
+        <p class="pillar-text">Bez dopĺňania skladu, bez veľkovýroby. Keď je preč, je preč.</p>
+      </div>
+    </div>
+  </div>
+</section>
 <section class="shop-section" id="shop">
   <div class="section-toggle">
     <button class="toggle-btn toggle-drops active" onclick="switchSection('drops')">
@@ -286,7 +319,7 @@
     <div class="product-grid" id="premiumGrid"><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div></div>
   </div>
 </section>
-<footer id="about">
+<footer>
   <div class="footer-logo">REFIT</div>
   <div class="footer-info">
     <p>Vintage Streetwear</p>
