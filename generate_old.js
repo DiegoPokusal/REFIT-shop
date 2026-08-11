@@ -117,6 +117,9 @@ const html = `<!DOCTYPE html>
   .product-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2px; }
   @media (min-width: 600px) { .product-grid { grid-template-columns: repeat(3, 1fr); } }
   @media (min-width: 1024px) { .product-grid { grid-template-columns: repeat(4, 1fr); } }
+  .empty-state { grid-column: 1 / -1; text-align: center; padding: 60px 20px; color: var(--text-muted); font-size: 0.75rem; letter-spacing: 0.05em; line-height: 1.8; max-width: 400px; margin: 0 auto; }
+  .skeleton-card { aspect-ratio: 3/4; background: var(--gray); position: relative; overflow: hidden; }
+  .skeleton-card::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.05), transparent); animation: shimmer 1.4s infinite; }
   .product-card { background: var(--gray); position: relative; overflow: hidden; cursor: pointer; }
   .product-img { width: 100%; aspect-ratio: 3/4; background: var(--mid); position: relative; overflow: hidden; }
   .product-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease; }
@@ -304,7 +307,7 @@ const html = `<!DOCTYPE html>
         <button class="filter-btn" onclick="filterProducts('tee', this, 'drops')">Tričká</button>
       </div>
     </div>
-    <div class="product-grid" id="dropsGrid"></div>
+    <div class="product-grid" id="dropsGrid"><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div></div>
   </div>
   <div class="shop-panel" id="premiumPanel">
     <div class="section-header">
@@ -317,7 +320,7 @@ const html = `<!DOCTYPE html>
         <button class="filter-btn" onclick="filterProducts('tee', this, 'premium')">Tričká</button>
       </div>
     </div>
-    <div class="product-grid" id="premiumGrid"></div>
+    <div class="product-grid" id="premiumGrid"><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div></div>
   </div>
 </section>
 <footer id="about">
@@ -330,6 +333,7 @@ const html = `<!DOCTYPE html>
       <a href="/obchodne-podmienky.html">Obchodné podmienky</a>
       <a href="/gdpr.html">Ochrana údajov</a>
       <a href="/vratenie-tovaru.html">Vrátenie tovaru</a>
+      <a href="/velkostna-tabulka.html">Veľkostná tabuľka</a>
     </div>
   </div>
 </footer>
@@ -401,6 +405,10 @@ function renderProducts(filter, section){
   const gridId = section === 'drops' ? 'dropsGrid' : 'premiumGrid';
   const grid = document.getElementById(gridId);
   const filtered = filter === 'all' ? products : products.filter(p => p.category === filter);
+  if(!filtered.length){
+    grid.innerHTML = \`<div class="empty-state">V tejto kategórii momentálne nič nemáme. Skús inú kategóriu alebo sa vráť neskôr — sklad sa dopĺňa priebežne.</div>\`;
+    return;
+  }
   grid.innerHTML = filtered.map(p=>\`
     <div class="product-card" onclick="openDetail(\${p.id})">
       <div class="product-img">
