@@ -210,7 +210,9 @@ const html = `<!DOCTYPE html>
   .order-summary-title { font-size: 0.55rem; letter-spacing: 0.2em; color: var(--text-muted); text-transform: uppercase; margin-bottom: 12px; }
   .summary-line { display: flex; justify-content: space-between; font-size: 0.7rem; margin-bottom: 8px; }
   .summary-line.total { border-top: 1px solid var(--mid); padding-top: 12px; margin-top: 12px; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.1em; }
+  .checkout-note { font-size: 0.7rem; line-height: 1.7; color: var(--text-muted); margin-bottom: 24px; }
   .place-order-btn { width: 100%; background: var(--red); color: var(--white); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.2em; padding: 18px; cursor: pointer; transition: all 0.2s; }
+  .place-order-btn:disabled { opacity: 0.6; cursor: default; }
   .place-order-btn:hover { background: var(--white); color: var(--black); }
   .success-screen { display: none; flex-direction: column; align-items: center; justify-content: center; padding: 60px 24px; text-align: center; gap: 20px; }
   .success-screen.show { display: flex; }
@@ -390,32 +392,8 @@ const html = `<!DOCTYPE html>
     <div class="checkout-header"><span class="checkout-title">OBJEDNÁVKA</span><button class="close-btn" onclick="closeCheckout()">×</button></div>
     <div class="checkout-form checkout-body" id="checkoutForm">
       <div class="order-summary" id="orderSummary"></div>
-      <div class="form-section">
-        <p class="form-section-title">Kontaktné údaje</p>
-        <div class="form-row">
-          <div class="form-group"><label class="form-label">Meno</label><input type="text" class="form-input" placeholder="Ján" id="firstName" autocomplete="given-name"></div>
-          <div class="form-group"><label class="form-label">Priezvisko</label><input type="text" class="form-input" placeholder="Novák" id="lastName" autocomplete="family-name"></div>
-        </div>
-        <div class="form-row full"><div class="form-group"><label class="form-label">Email</label><input type="email" class="form-input" placeholder="jan@email.sk" id="email" autocomplete="email" inputmode="email"></div></div>
-        <div class="form-row full"><div class="form-group"><label class="form-label">Telefón</label><input type="tel" class="form-input" placeholder="+421 9XX XXX XXX" id="phone" autocomplete="tel" inputmode="tel"></div></div>
-      </div>
-      <div class="form-section">
-        <p class="form-section-title">Doručovacia adresa</p>
-        <div class="form-row full"><div class="form-group"><label class="form-label">Ulica a číslo</label><input type="text" class="form-input" placeholder="Hlavná 12" id="street" autocomplete="street-address"></div></div>
-        <div class="form-row">
-          <div class="form-group"><label class="form-label">Mesto</label><input type="text" class="form-input" placeholder="Bratislava" id="city" autocomplete="address-level2"></div>
-          <div class="form-group"><label class="form-label">PSČ</label><input type="text" class="form-input" placeholder="811 01" id="zip" autocomplete="postal-code" inputmode="numeric"></div>
-        </div>
-      </div>
-      <div class="form-section">
-        <p class="form-section-title">Platba</p>
-        <div class="form-row full"><div class="form-group"><label class="form-label">Číslo karty</label><input type="text" class="form-input" placeholder="1234 5678 9012 3456" id="cardNum" maxlength="19" inputmode="numeric" autocomplete="cc-number"></div></div>
-        <div class="form-row">
-          <div class="form-group"><label class="form-label">Platnosť</label><input type="text" class="form-input" placeholder="MM/RR" id="cardExp" maxlength="5" inputmode="numeric" autocomplete="cc-exp"></div>
-          <div class="form-group"><label class="form-label">CVV</label><input type="text" class="form-input" placeholder="123" id="cardCvv" maxlength="3" inputmode="numeric" autocomplete="cc-csc"></div>
-        </div>
-      </div>
-      <button class="place-order-btn" onclick="placeOrder()">DOKONČIŤ OBJEDNÁVKU →</button>
+      <p class="checkout-note">Kontaktné údaje, adresu doručenia aj platbu bezpečne zadáš v ďalšom kroku cez Stripe. REFIT nikdy nevidí a neukladá číslo tvojej karty.</p>
+      <button class="place-order-btn" id="payBtn" onclick="payWithStripe()">PREJSŤ K PLATBE →</button>
     </div>
     <div class="success-screen" id="successScreen">
       <div class="success-icon">✓</div>
@@ -432,6 +410,7 @@ const html = `<!DOCTYPE html>
 <script>
 const PRODUCTS = ${JSON.stringify(productData)};
 const SERVER_URL = 'https://glorious-optimism-production-0039.up.railway.app';
+const CHECKOUT_SERVER_URL = 'https://REPLACE-WITH-YOUR-STRIPE-SERVER.up.railway.app';
 let cart=JSON.parse(localStorage.getItem('refit_cart')||'[]');
 function getCategoryName(cat){return{jacket:'Bunda',hoodie:'Hoodie',sweatshirt:'Sweatshirt',tee:'Tričko',other:'Oblečenie'}[cat]||'Oblečenie';}
 const DROPS = PRODUCTS.filter(p => p.price <= 110);
@@ -622,28 +601,42 @@ function closeCheckout(){
   document.getElementById('checkoutForm').classList.remove('hide');
   document.getElementById('successScreen').classList.remove('show');
 }
-function placeOrder(){
-  const fields=['firstName','lastName','email','phone','street','city','zip','cardNum','cardExp','cardCvv'];
-  const empty=fields.find(f=>!document.getElementById(f).value.trim());
-  if(empty){document.getElementById(empty).focus();document.getElementById(empty).style.borderColor='#e63222';setTimeout(()=>document.getElementById(empty).style.borderColor='',2000);return;}
-  const total=cart.reduce((a,i)=>a+i.price*i.qty,0);
-  const order={
-    customer:{firstName:document.getElementById('firstName').value,lastName:document.getElementById('lastName').value,email:document.getElementById('email').value,phone:document.getElementById('phone').value,street:document.getElementById('street').value,city:document.getElementById('city').value,zip:document.getElementById('zip').value},
-    items:cart.map(i=>({name:i.name,price:i.price,qty:i.qty,size:i.sizes?.[0]||'N/A',url:i.url})),
-    total:(total+3.5).toFixed(2)
-  };
-  fetch(SERVER_URL+'/api/order',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(order)})
-    .then(()=>{document.getElementById('checkoutForm').classList.add('hide');document.getElementById('successScreen').classList.add('show');cart=[];updateCart();})
-    .catch(()=>alert('Chyba pri odoslaní. Skúste znova.'));
+async function payWithStripe(){
+  if(!cart.length)return;
+  const btn=document.getElementById('payBtn');
+  btn.disabled=true;
+  btn.textContent='NAČÍTAVAM...';
+  try{
+    const res=await fetch(CHECKOUT_SERVER_URL+'/create-checkout-session',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:cart})});
+    if(!res.ok)throw new Error('bad response');
+    const data=await res.json();
+    if(!data.url)throw new Error('no url');
+    window.location.href=data.url;
+  }catch(e){
+    alert('Nepodarilo sa prejsť k platbe. Skús to znova.');
+    btn.disabled=false;
+    btn.textContent='PREJSŤ K PLATBE →';
+  }
+}
+function handleStripeReturn(){
+  const params=new URLSearchParams(window.location.search);
+  const status=params.get('checkout');
+  if(!status)return;
+  history.replaceState({},'',window.location.pathname);
+  if(status==='success'){
+    cart=[];
+    updateCart();
+    document.getElementById('checkoutForm').classList.add('hide');
+    document.getElementById('successScreen').classList.add('show');
+    document.getElementById('checkoutModal').classList.add('open');
+    syncScrollLock();
+  }
 }
 document.addEventListener('DOMContentLoaded',()=>{
   renderProducts('all', 'drops');
   renderProducts('all', 'premium');
   updateCart();
-  const cn=document.getElementById('cardNum');
-  if(cn)cn.addEventListener('input',e=>{let v=e.target.value.replace(/\\D/g,'').substring(0,16);e.target.value=v.replace(/(.{4})/g,'$1 ').trim();});
-  const ce=document.getElementById('cardExp');
-  if(ce)ce.addEventListener('input',e=>{let v=e.target.value.replace(/\\D/g,'').substring(0,4);if(v.length>=2)v=v.slice(0,2)+'/'+v.slice(2);e.target.value=v;});
+  handleStripeReturn();
 });
 </script>
 <div id="cookieBanner" style="position:fixed;bottom:0;left:0;right:0;background:#1a1a1a;border-top:1px solid #2a2a2a;padding:12px 20px;display:flex;justify-content:space-between;align-items:center;z-index:3000;gap:16px">
