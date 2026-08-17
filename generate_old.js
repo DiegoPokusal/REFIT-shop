@@ -410,7 +410,7 @@ const html = `<!DOCTYPE html>
 <script>
 const PRODUCTS = ${JSON.stringify(productData)};
 const SERVER_URL = 'https://glorious-optimism-production-0039.up.railway.app';
-const CHECKOUT_SERVER_URL = 'https://REPLACE-WITH-YOUR-STRIPE-SERVER.up.railway.app';
+const CHECKOUT_SERVER_URL = 'https://refit-shop-production.up.railway.app';
 let cart=JSON.parse(localStorage.getItem('refit_cart')||'[]');
 function getCategoryName(cat){return{jacket:'Bunda',hoodie:'Hoodie',sweatshirt:'Sweatshirt',tee:'Tričko',other:'Oblečenie'}[cat]||'Oblečenie';}
 const DROPS = PRODUCTS.filter(p => p.price <= 110);
