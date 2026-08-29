@@ -34,6 +34,10 @@ const productData = allProducts.map(p => ({
   sizes: p.sizes || [],
   category: getCategory(p),
   url: p.url,
+  brand: p.brand || null,
+  material: p.material || null,
+  era: p.era || null,
+  condition: p.condition || null,
 }));
 const html = `<!DOCTYPE html>
 <html lang="sk">
@@ -256,6 +260,9 @@ const html = `<!DOCTYPE html>
   .detail-size-badge { width: 56px; height: 56px; border: 1.5px solid var(--white); display: flex; align-items: center; justify-content: center; font-family: 'Bebas Neue', sans-serif; font-size: 1.6rem; letter-spacing: 0.02em; flex-shrink: 0; }
   .detail-size-meta-label { font-size: 0.55rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 3px; }
   .detail-size-meta-value { font-size: 0.85rem; color: var(--white); letter-spacing: 0.03em; }
+  .detail-specs { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 16px; padding: 18px 0; margin-bottom: 22px; border-top: 1px solid var(--mid); border-bottom: 1px solid var(--mid); }
+  .detail-spec-label { display: block; font-size: 0.55rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 3px; }
+  .detail-spec-value { display: block; font-size: 0.8rem; color: var(--white); }
   .size-guide-link { display: inline-block; font-size: 0.65rem; letter-spacing: 0.1em; color: var(--red); text-decoration: none; text-transform: uppercase; margin-bottom: 24px; border-bottom: 1px dashed var(--red); padding-bottom: 2px; transition: color 0.2s, border-color 0.2s; }
   .size-guide-link:hover { color: var(--white); border-color: var(--white); }
   .detail-add-btn { width: 100%; background: var(--red); color: var(--white); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.2em; padding: 18px; cursor: pointer; transition: all 0.2s; margin-bottom: 12px; }
@@ -515,6 +522,17 @@ function openDetail(id){
         </div>
       </div>
       \`).join('')}
+      \${(function(){
+        var specs = [];
+        if (p.brand) specs.push(['Značka', p.brand]);
+        if (p.material) specs.push(['Materiál', p.material]);
+        if (p.era) specs.push(['Obdobie', p.era.replace(/S$/, 's')]);
+        if (p.condition) specs.push(['Stav', p.condition]);
+        if (!specs.length) return '';
+        return '<div class="detail-specs">' + specs.map(function(s){
+          return '<div class="detail-spec"><span class="detail-spec-label">' + s[0] + '</span><span class="detail-spec-value">' + s[1] + '</span></div>';
+        }).join('') + '</div>';
+      })()}
       <a href="/velkostna-tabulka.html" target="_blank" class="size-guide-link">Ako vybrať správnu veľkosť →</a>
       <button class="detail-add-btn" onclick="addToCart(\${p.id});closeDetail()">PRIDAŤ DO KOŠÍKA</button>
     </div>
