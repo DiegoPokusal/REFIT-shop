@@ -15,7 +15,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/lakin-mckey-jacket-mens-green-large-117745-a",
-      "available": true
+      "available": true,
+      "brand": "Lakin McKey",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16248328159619,
@@ -32,7 +36,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/walls-jacket-mens-brown-large-117742-a",
-      "available": true
+      "available": true,
+      "brand": "Walls",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248327831939,
@@ -49,7 +57,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/walls-bomber-jacket-mens-black-large-117741-a",
-      "available": true
+      "available": true,
+      "brand": "Walls",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16248327766403,
@@ -66,7 +78,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/republic-services-tri-mountain-bomber-jacket-mens-black-large-117740-a",
-      "available": true
+      "available": true,
+      "brand": "Tri-Mountain",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16245983248771,
@@ -83,7 +99,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/nike-puffer-mens-black-large-115928-a",
-      "available": true
+      "available": true,
+      "brand": "Nike",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245981643139,
@@ -100,7 +120,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/oakley-ski-jacket-mens-red-medium-115903-a",
-      "available": true
+      "available": true,
+      "brand": "Oakley",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16175528345987,
@@ -117,7 +141,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-red-medium-115023-a",
-      "available": true
+      "available": true,
+      "brand": "Patagonia",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16175525691779,
@@ -134,7 +162,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-green-small-115002-a",
-      "available": true
+      "available": true,
+      "brand": "Patagonia",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16118532145539,
@@ -151,7 +183,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/marmot-puffer-mens-black-large-113912-a",
-      "available": true
+      "available": true,
+      "brand": "Marmot",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117278572931,
@@ -168,7 +204,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/inter-milan-nike-track-jacket-mens-black-large-112407-a",
-      "available": true
+      "available": true,
+      "brand": "Nike",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117254717827,
@@ -185,7 +225,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/oakley-parka-mens-black-large-113201-a",
-      "available": true
+      "available": true,
+      "brand": "Oakley",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117237023107,
@@ -202,7 +246,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/diesel-puffer-mens-blue-medium-113531-a",
-      "available": true
+      "available": true,
+      "brand": "Diesel",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117234106755,
@@ -219,7 +267,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/nike-track-jacket-mens-black-large-113668-a",
-      "available": true
+      "available": true,
+      "brand": "Nike",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117214478723,
@@ -236,7 +288,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/dickies-jacket-mens-black-medium-113598-a",
-      "available": true
+      "available": true,
+      "brand": "Dickies",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16115973128579,
@@ -253,7 +309,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/20th-anniversary-canada-sportswear-jacket-mens-black-medium-113127-a",
-      "available": true
+      "available": true,
+      "brand": "Canada Sportswear",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16115973030275,
@@ -270,7 +330,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/unbranded-jacket-mens-black-medium-113126-a",
-      "available": true
+      "available": true,
+      "brand": "Unbranded",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16269266092419,
@@ -287,7 +351,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/barbour-jacket-womens-navy-small-103786-a",
-      "available": true
+      "available": true,
+      "brand": "Barbour",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248338153859,
@@ -304,7 +372,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-puffer-mens-black-medium-117705-a",
-      "available": true
+      "available": true,
+      "brand": "The North Face",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248324718979,
@@ -321,7 +393,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-gilet-mens-green-medium-117719-a",
-      "available": true
+      "available": true,
+      "brand": "The North Face",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248319967619,
@@ -338,7 +414,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-gilet-mens-blue-medium-117710-a",
-      "available": true
+      "available": true,
+      "brand": "The North Face",
+      "material": "Polyester",
+      "era": "1980S",
+      "condition": "Good"
     },
     {
       "id": 16248318361987,
@@ -355,7 +435,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/summit-series-the-north-face-puffer-mens-black-medium-117620-a",
-      "available": true
+      "available": true,
+      "brand": "The North Face",
+      "material": "Nylon",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248317804931,
@@ -372,7 +456,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-parka-mens-grey-medium-117629-a",
-      "available": true
+      "available": true,
+      "brand": "The North Face",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245999862147,
@@ -389,7 +477,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/juventus-nike-puffer-mens-black-small-115918-a",
-      "available": true
+      "available": true,
+      "brand": "Nike",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245983936899,
@@ -406,7 +498,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/nike-jacket-mens-black-large-115915-a",
-      "available": true
+      "available": true,
+      "brand": "Nike",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16175684780419,
@@ -423,7 +519,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/carhartt-gilet-mens-black-medium-115329-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16175684092291,
@@ -440,7 +540,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/carhartt-gilet-mens-black-medium-115332-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16175664857475,
@@ -457,7 +561,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/carhartt-gilet-mens-beige-large-115314-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16175661777283,
@@ -474,7 +582,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/first-district-mechanical-carhartt-gilet-mens-blue-large-115313-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16115827081603,
@@ -491,7 +603,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-waterproof-jacket-mens-blue-medium-112207-a",
-      "available": true
+      "available": true,
+      "brand": "The North Face",
+      "material": "Gore-Tex",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16115043893635,
@@ -508,7 +624,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/the-north-face-ski-jacket-mens-red-medium-112219-a",
-      "available": true
+      "available": true,
+      "brand": "The North Face",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16115043565955,
@@ -525,7 +645,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/made-in-usa-the-north-face-puffer-mens-blue-medium-112202-a",
-      "available": true
+      "available": true,
+      "brand": "The North Face",
+      "material": "Polyester",
+      "era": "1990S",
+      "condition": "Very Good"
     },
     {
       "id": 16073354576259,
@@ -542,7 +666,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/u-s-air-force-top-gun-bomber-jacket-mens-brown-small-106011-a",
-      "available": true
+      "available": true,
+      "brand": "Top Gun",
+      "material": "Nylon",
+      "era": "1990S",
+      "condition": "Very Good"
     },
     {
       "id": 16082328879491,
@@ -559,7 +687,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/nautica-harrington-jacket-mens-red-small-109611-a",
-      "available": true
+      "available": true,
+      "brand": "Nautica",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16073354281347,
@@ -576,7 +708,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/permanent-press-national-patriot-bomber-jacket-mens-black-large-106002-a",
-      "available": true
+      "available": true,
+      "brand": "National Patriot",
+      "material": "Nylon",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16076577243523,
@@ -593,7 +729,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/patagonia-puffer-mens-orange-medium-106508-a",
-      "available": true
+      "available": true,
+      "brand": "Patagonia",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16035059368323,
@@ -610,7 +750,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/mountain-hard-wear-puffer-mens-black-large-101485-a",
-      "available": true
+      "available": true,
+      "brand": "Mountain Hard Wear",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 15968051560835,
@@ -627,7 +771,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/oakley-puffer-mens-grey-large-94471-a",
-      "available": true
+      "available": true,
+      "brand": "Oakley",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16267166744963,
@@ -644,7 +792,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/arcteryx-fleece-jacket-mens-brown-medium-112114-a",
-      "available": true
+      "available": true,
+      "brand": "Arc''Teryx",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16267164746115,
@@ -661,7 +813,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/christian-dior-windbreaker-mens-blue-large-111810-a",
-      "available": true
+      "available": true,
+      "brand": "Christian Dior",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16269266420099,
@@ -678,7 +834,11 @@
       ],
       "category": "jacket",
       "url": "https://www.thrifted.com/products/barbour-gilet-mens-green-large-103800-a",
-      "available": true
+      "available": true,
+      "brand": "Barbour",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     }
   ],
   "hoodie": [
@@ -697,7 +857,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-jeans-co-ralph-lauren-hoodie-mens-black-medium-112483-a",
-      "available": true
+      "available": true,
+      "brand": "Ralph Lauren",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248384618883,
@@ -714,7 +878,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-hoodie-mens-black-large-116920-a",
-      "available": true
+      "available": true,
+      "brand": "Harley Davidson",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245997830531,
@@ -731,7 +899,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/bob-marley-and-the-wailers-zion-rootwear-hoodie-mens-black-small-115784-a",
-      "available": true
+      "available": true,
+      "brand": "Zion Rootwear",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245981708675,
@@ -748,7 +920,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/oakley-hoodie-mens-black-medium-115896-a",
-      "available": true
+      "available": true,
+      "brand": "Oakley",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16118531817859,
@@ -765,7 +941,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/kuhl-hoodie-mens-black-medium-113907-a",
-      "available": true
+      "available": true,
+      "brand": "Kuhl",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117315502467,
@@ -782,7 +962,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-bear-polo-by-ralph-lauren-hoodie-mens-blue-small-112189-a",
-      "available": true
+      "available": true,
+      "brand": "Polo by Ralph Lauren",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117285552515,
@@ -799,7 +983,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/rl-67-polo-jeans-ralph-lauren-hoodie-mens-grey-medium-112478-a",
-      "available": true
+      "available": true,
+      "brand": "Ralph Lauren",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16010029597059,
@@ -816,7 +1004,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/peace-and-love-stussy-hoodie-mens-brown-large-100811-a",
-      "available": true
+      "available": true,
+      "brand": "Stussy",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16010028482947,
@@ -833,7 +1025,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/reggae-stussy-hoodie-mens-grey-small-100776-a",
-      "available": true
+      "available": true,
+      "brand": "Stussy",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248385307011,
@@ -850,7 +1046,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/quiksilver-hoodie-mens-grey-medium-117188-a",
-      "available": true
+      "available": true,
+      "brand": "Quiksilver",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245996552579,
@@ -867,7 +1067,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-hoodie-mens-orange-small-110633-a",
-      "available": true
+      "available": true,
+      "brand": "Harley Davidson",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16174892712323,
@@ -884,7 +1088,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/bee-line-timberland-hoodie-mens-grey-small-114643-a",
-      "available": true
+      "available": true,
+      "brand": "Timberland",
+      "material": "Cotton",
+      "era": "2020S",
+      "condition": "Very Good"
     },
     {
       "id": 16117272478083,
@@ -901,7 +1109,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/72-ecko-unltd-hoodie-mens-red-medium-113008-a",
-      "available": true
+      "available": true,
+      "brand": "Ecko Unltd",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117251899779,
@@ -918,7 +1130,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/utah-jazz-nba-hoodie-mens-navy-large-112812-a",
-      "available": true
+      "available": true,
+      "brand": "NBA",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117243445635,
@@ -935,7 +1151,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/nike-hoodie-mens-red-medium-113652-a",
-      "available": true
+      "available": true,
+      "brand": "Nike",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16175487877507,
@@ -952,7 +1172,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-hoodie-womens-grey-medium-114628-a",
-      "available": true
+      "available": true,
+      "brand": "Harley Davidson",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248385536387,
@@ -969,7 +1193,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/skateboards-santa-cruz-hoodie-mens-black-large-117181-a",
-      "available": true
+      "available": true,
+      "brand": "Santa Cruz",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248385208707,
@@ -986,7 +1214,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/surfing-quiksilver-hoodie-mens-blue-medium-117187-a",
-      "available": true
+      "available": true,
+      "brand": "Quiksilver",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248345854339,
@@ -1003,7 +1235,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/santa-cruz-logo-santa-cruz-hoodie-mens-black-large-117230-a",
-      "available": true
+      "available": true,
+      "brand": "Santa Cruz",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16246000124291,
@@ -1020,7 +1256,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/skateboarding-thrasher-hoodie-mens-black-small-115835-a",
-      "available": true
+      "available": true,
+      "brand": "Thrasher",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245999763843,
@@ -1037,7 +1277,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/flame-logo-thrasher-hoodie-mens-black-small-115842-a",
-      "available": true
+      "available": true,
+      "brand": "Thrasher",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245998485891,
@@ -1054,7 +1298,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/san-francisco-thrasher-hoodie-mens-blue-small-115804-a",
-      "available": true
+      "available": true,
+      "brand": "Thrasher",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245998387587,
@@ -1139,7 +1387,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/harley-davidson-hoodie-mens-khaki-large-110639-a",
-      "available": true
+      "available": true,
+      "brand": "Harley Davidson",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245993439619,
@@ -1156,7 +1408,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/nike-hoodie-mens-red-large-115745-a",
-      "available": true
+      "available": true,
+      "brand": "Nike",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245983216003,
@@ -1173,7 +1429,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/oakley-hoodie-mens-black-large-115913-a",
-      "available": true
+      "available": true,
+      "brand": "Oakley",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245981970819,
@@ -1190,7 +1450,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/oakley-hoodie-mens-black-large-115899-a",
-      "available": true
+      "available": true,
+      "brand": "Oakley",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245981151619,
@@ -1207,7 +1471,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/thrasher-magazine-thrasher-hoodie-mens-black-large-115817-a",
-      "available": true
+      "available": true,
+      "brand": "Thrasher",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245980430723,
@@ -1224,7 +1492,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/skateboarding-thrasher-hoodie-mens-grey-small-115844-a",
-      "available": true
+      "available": true,
+      "brand": "Thrasher",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245973811587,
@@ -1241,7 +1513,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/michigan-nike-hoodie-mens-yellow-large-115728-a",
-      "available": true
+      "available": true,
+      "brand": "Nike",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245972009347,
@@ -1258,7 +1534,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-hoodie-mens-blue-small-115680-a",
-      "available": true
+      "available": true,
+      "brand": "Polo by Ralph Lauren",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117258060163,
@@ -1275,7 +1555,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/oakley-hoodie-mens-green-large-113241-a",
-      "available": true
+      "available": true,
+      "brand": "Oakley",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117252751747,
@@ -1292,7 +1576,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/vurt-hoodie-mens-black-medium-113023-a",
-      "available": true
+      "available": true,
+      "brand": "Vurt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117251244419,
@@ -1309,7 +1597,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/defined-by-design-ecko-unltd-hoodie-mens-grey-large-113027-a",
-      "available": true
+      "available": true,
+      "brand": "Ecko Unltd",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117248819587,
@@ -1326,7 +1618,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/mossy-oak-hoodie-mens-camo-medium-113632-a",
-      "available": true
+      "available": true,
+      "brand": "Mossy Oak",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117243085187,
@@ -1343,7 +1639,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/skateboarding-thrasher-hoodie-mens-black-large-113819-a",
-      "available": true
+      "available": true,
+      "brand": "Thrasher",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117238432131,
@@ -1360,7 +1660,11 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/vans-hoodie-mens-grey-large-113809-a",
-      "available": true
+      "available": true,
+      "brand": "Vans",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     }
   ],
   "sweatshirt": [],
@@ -1397,7 +1701,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/armani-exchange-long-sleeve-t-shirt-mens-beige-small-114123-a",
-      "available": true
+      "available": true,
+      "brand": "Armani Exchange",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248226218371,
@@ -1414,7 +1722,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-large-117080-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114986451331,
@@ -1431,7 +1743,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-medium-114374-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114986123651,
@@ -1448,7 +1764,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-large-114372-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114985730435,
@@ -1465,7 +1785,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-114370-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114984878467,
@@ -1482,7 +1806,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-114378-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16114984452483,
@@ -1499,7 +1827,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-large-114361-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16117253079427,
@@ -1516,7 +1848,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/true-religion-long-sleeve-t-shirt-mens-black-small-113142-a",
-      "available": true
+      "available": true,
+      "brand": "True Religion",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16017695998339,
@@ -1533,7 +1869,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/burberry-t-shirt-mens-black-small-100871-a",
-      "available": true
+      "available": true,
+      "brand": "Burberry",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16010027958659,
@@ -1550,7 +1890,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/crown-stussy-t-shirt-womens-blue-small-100775-a",
-      "available": true
+      "available": true,
+      "brand": "Stussy",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16269272744323,
@@ -1567,7 +1911,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/ed-hardy-t-shirt-womens-cream-medium-103594-a",
-      "available": true
+      "available": true,
+      "brand": "Ed Hardy",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114983960963,
@@ -1584,7 +1932,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-small-114365-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114982683011,
@@ -1601,7 +1953,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/jackson-energy-carhartt-long-sleeve-t-shirt-mens-navy-medium-114334-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114982322563,
@@ -1618,7 +1974,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-large-114327-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114980684163,
@@ -1635,7 +1995,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-114320-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114980520323,
@@ -1652,7 +2016,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-medium-114315-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114980192643,
@@ -1669,7 +2037,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-blue-large-114309-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114978521475,
@@ -1686,7 +2058,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/zona-builders-llc-carhartt-long-sleeve-t-shirt-mens-grey-large-114301-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114978095491,
@@ -1703,7 +2079,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-blue-large-114298-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114972426627,
@@ -1720,7 +2100,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-small-114382-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114972066179,
@@ -1737,7 +2121,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-large-114405-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16114971967875,
@@ -1754,7 +2142,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-blue-large-114404-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16112476520835,
@@ -1771,7 +2163,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-long-sleeve-t-shirt-mens-grey-large-111503-a",
-      "available": true
+      "available": true,
+      "brand": "Harley Davidson",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16112411312515,
@@ -1788,7 +2184,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-111164-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16112411050371,
@@ -1805,7 +2205,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-blue-medium-111161-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16112411017603,
@@ -1822,7 +2226,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-medium-111165-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16112410952067,
@@ -1839,7 +2247,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-111159-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16112409870723,
@@ -1856,7 +2268,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-111150-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16112409280899,
@@ -1873,7 +2289,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/ems-carhartt-long-sleeve-t-shirt-mens-navy-medium-111105-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16112408625539,
@@ -1890,7 +2310,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-large-111101-a",
-      "available": true
+      "available": true,
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 15873001456003,
@@ -1907,7 +2331,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/air-max-jordan-t-shirt-mens-black-large-81351-a",
-      "available": true
+      "available": true,
+      "brand": "Jordan",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248400576899,
@@ -1924,7 +2352,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/polo-jeans-ralph-lauren-long-sleeve-t-shirt-mens-grey-medium-117275-a",
-      "available": true
+      "available": true,
+      "brand": "Ralph Lauren",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248384749955,
@@ -1941,7 +2373,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/harley-davidson-long-sleeve-t-shirt-womens-brown-medium-116937-a",
-      "available": true
+      "available": true,
+      "brand": "Harley Davidson",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good"
     },
     {
       "id": 16248384094595,
@@ -1958,7 +2394,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-long-sleeve-t-shirt-mens-brown-small-116900-a",
-      "available": true
+      "available": true,
+      "brand": "Harley Davidson",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16248343495043,
@@ -1975,7 +2415,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/skateboarding-santa-cruz-long-sleeve-t-shirt-mens-black-small-117225-a",
-      "available": true
+      "available": true,
+      "brand": "Santa Cruz",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245999665539,
@@ -1992,7 +2436,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/quiksilver-long-sleeve-t-shirt-mens-brown-large-115837-a",
-      "available": true
+      "available": true,
+      "brand": "Quiksilver",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245988491651,
@@ -2009,7 +2457,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/skateboarding-santa-cruz-long-sleeve-t-shirt-mens-black-medium-115848-a",
-      "available": true
+      "available": true,
+      "brand": "Santa Cruz",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245985313155,
@@ -2026,7 +2478,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/layered-harley-davidson-long-sleeve-t-shirt-mens-brown-small-110605-a",
-      "available": true
+      "available": true,
+      "brand": "Harley Davidson",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     },
     {
       "id": 16245970534787,
@@ -2043,7 +2499,11 @@
       ],
       "category": "tee",
       "url": "https://www.thrifted.com/products/grand-canyon-harley-davidson-long-sleeve-t-shirt-womens-blue-medium-111600-a",
-      "available": true
+      "available": true,
+      "brand": "Harley Davidson",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good"
     }
   ]
 }
