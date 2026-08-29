@@ -288,6 +288,20 @@ const html = `<!DOCTYPE html>
   @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
   @keyframes popIn { from { transform: scale(0.5); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 </style>
+<!-- Meta Pixel — replace REPLACE-WITH-YOUR-PIXEL-ID with the real ID from Meta Events Manager -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', 'REPLACE-WITH-YOUR-PIXEL-ID');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=REPLACE-WITH-YOUR-PIXEL-ID&ev=PageView&noscript=1" /></noscript>
 </head>
 <body>
 <nav>
@@ -426,6 +440,10 @@ const html = `<!DOCTYPE html>
 const PRODUCTS = ${JSON.stringify(productData)};
 const SERVER_URL = 'https://glorious-optimism-production-0039.up.railway.app';
 const CHECKOUT_SERVER_URL = 'https://refit-shop-production.up.railway.app';
+function trackPixel(name,params,eventID){
+  if(typeof fbq==='undefined')return;
+  eventID?fbq('track',name,params,{eventID:eventID}):fbq('track',name,params);
+}
 let cart=JSON.parse(localStorage.getItem('refit_cart')||'[]');
 function getCategoryName(cat){return{jacket:'Bunda',hoodie:'Hoodie',sweatshirt:'Sweatshirt',tee:'Tričko',other:'Oblečenie'}[cat]||'Oblečenie';}
 const DROPS = PRODUCTS.filter(p => p.price <= 110);
@@ -496,6 +514,7 @@ function syncScrollLock(){
 function openDetail(id){
   const p=PRODUCTS.find(x=>x.id===id);
   if(!p)return;
+  trackPixel('ViewContent',{content_ids:[String(p.id)],content_type:'product',value:p.price,currency:'EUR'});
   const imgs=(p.images||[]).filter(Boolean);
   if(!imgs.length && p.image) imgs.push(p.image);
   let currentSlide=0;
@@ -569,6 +588,7 @@ function addToCart(id){
   const p=PRODUCTS.find(x=>x.id===id);
   const ex=cart.find(x=>x.id===id);
   if(ex){ alert('Tento kus je už v košíku. Každý vintage kus je unikátny.'); return; } cart.push({...p,qty:1});
+  trackPixel('AddToCart',{content_ids:[String(p.id)],content_type:'product',value:p.price,currency:'EUR'});
   updateCart();
   if(!document.getElementById('cartSidebar').classList.contains('open'))toggleCart();
 }
@@ -636,6 +656,8 @@ async function payWithStripe(){
   const btn=document.getElementById('payBtn');
   btn.disabled=true;
   btn.textContent='NAČÍTAVAM...';
+  const checkoutValue=cart.reduce((a,i)=>a+i.price*i.qty,0)+3.5;
+  trackPixel('InitiateCheckout',{content_ids:cart.map(i=>String(i.id)),content_type:'product',num_items:cart.length,value:checkoutValue,currency:'EUR'});
   try{
     const res=await fetch(CHECKOUT_SERVER_URL+'/create-checkout-session',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:cart})});
     if(!res.ok)throw new Error('bad response');
@@ -652,8 +674,13 @@ function handleStripeReturn(){
   const params=new URLSearchParams(window.location.search);
   const status=params.get('checkout');
   if(!status)return;
+  const sessionId=params.get('session_id');
   history.replaceState({},'',window.location.pathname);
   if(status==='success'){
+    if(cart.length){
+      const purchaseValue=cart.reduce((a,i)=>a+i.price*i.qty,0)+3.5;
+      trackPixel('Purchase',{content_ids:cart.map(i=>String(i.id)),content_type:'product',num_items:cart.length,value:purchaseValue,currency:'EUR'},sessionId);
+    }
     cart=[];
     updateCart();
     document.getElementById('checkoutForm').classList.add('hide');
