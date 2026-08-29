@@ -215,6 +215,10 @@ const html = `<!DOCTYPE html>
   .summary-line { display: flex; justify-content: space-between; font-size: 0.7rem; margin-bottom: 8px; }
   .summary-line.total { border-top: 1px solid var(--mid); padding-top: 12px; margin-top: 12px; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.1em; }
   .checkout-note { font-size: 0.7rem; line-height: 1.7; color: var(--text-muted); margin-bottom: 24px; }
+  .terms-checkbox { display: flex; align-items: flex-start; gap: 10px; font-size: 0.7rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 24px; cursor: pointer; }
+  .terms-checkbox input { margin-top: 3px; accent-color: var(--red); width: 16px; height: 16px; flex-shrink: 0; cursor: pointer; }
+  .terms-checkbox a { color: var(--red); text-decoration: none; }
+  .terms-checkbox a:hover { text-decoration: underline; }
   .place-order-btn { width: 100%; background: var(--red); color: var(--white); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.2em; padding: 18px; cursor: pointer; transition: all 0.2s; }
   .place-order-btn:disabled { opacity: 0.6; cursor: default; }
   .place-order-btn:hover { background: var(--white); color: var(--black); }
@@ -400,6 +404,10 @@ const html = `<!DOCTYPE html>
     <div class="checkout-form checkout-body" id="checkoutForm">
       <div class="order-summary" id="orderSummary"></div>
       <p class="checkout-note">Kontaktné údaje, adresu doručenia aj platbu bezpečne zadáš v ďalšom kroku cez Stripe. REFIT nikdy nevidí a neukladá číslo tvojej karty.</p>
+      <label class="terms-checkbox">
+        <input type="checkbox" id="agreeTerms">
+        <span>Súhlasím s <a href="/obchodne-podmienky.html" target="_blank">obchodnými podmienkami</a> a <a href="/gdpr.html" target="_blank">ochranou osobných údajov</a>.</span>
+      </label>
       <button class="place-order-btn" id="payBtn" onclick="payWithStripe()">PREJSŤ K PLATBE →</button>
     </div>
     <div class="success-screen" id="successScreen">
@@ -621,6 +629,10 @@ function closeCheckout(){
 }
 async function payWithStripe(){
   if(!cart.length)return;
+  if(!document.getElementById('agreeTerms').checked){
+    alert('Pre pokračovanie musíš súhlasiť s obchodnými podmienkami.');
+    return;
+  }
   const btn=document.getElementById('payBtn');
   btn.disabled=true;
   btn.textContent='NAČÍTAVAM...';
