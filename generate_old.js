@@ -288,7 +288,7 @@ const html = `<!DOCTYPE html>
   @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
   @keyframes popIn { from { transform: scale(0.5); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 </style>
-<!-- Meta Pixel — replace REPLACE-WITH-YOUR-PIXEL-ID with the real ID from Meta Events Manager -->
+<!-- Meta Pixel -->
 <script>
 !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -298,10 +298,10 @@ n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];
 s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', 'REPLACE-WITH-YOUR-PIXEL-ID');
+fbq('init', '1583569856638872');
 fbq('track', 'PageView');
 </script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=REPLACE-WITH-YOUR-PIXEL-ID&ev=PageView&noscript=1" /></noscript>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1583569856638872&ev=PageView&noscript=1" /></noscript>
 </head>
 <body>
 <nav>
