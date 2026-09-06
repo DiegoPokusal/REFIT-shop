@@ -130,7 +130,7 @@ const html = `<!DOCTYPE html>
   #premiumPanel .filter-btn { background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460); color: #aaa; border-color: #333; }
   #premiumPanel .filter-btn:hover, #premiumPanel .filter-btn.active { background: linear-gradient(135deg, #b8860b, #daa520, #ffd700, #c0a060, #8b7536); color: var(--black); border-color: #ffd700; box-shadow: 0 0 14px rgba(218,165,32,0.4); }
   #premiumPanel .filter-btn.active::before { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.2) 50%, transparent 100%); animation: shimmer 2s infinite; }
-  #premiumPanel .product-price { background: linear-gradient(135deg, #b8860b, #ffd700, #daa520); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  #premiumPanel .product-price { color: var(--white); }
   .product-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2px; }
   @media (min-width: 600px) { .product-grid { grid-template-columns: repeat(3, 1fr); } }
   @media (min-width: 1024px) { .product-grid { grid-template-columns: repeat(4, 1fr); } }
@@ -330,27 +330,6 @@ fbq('track', 'PageView');
     </div>
   </div>
 </section>
-<section class="about-section" id="about">
-  <div class="about-inner">
-    <p class="about-eyebrow">Prečo REFIT</p>
-    <h2 class="about-headline">Žiadne dva kusy nie sú rovnaké.</h2>
-    <p class="about-lead">Nie sme veľkosklad. Každý kus prejde cez naše ruky — vyberieme ho, premeriame, skontrolujeme stav. Keď sa predá, je preč navždy.</p>
-    <div class="about-pillars">
-      <div class="pillar">
-        <p class="pillar-label">Ručný výber</p>
-        <p class="pillar-text">Prehľadávame tisícky kusov naprieč vintage archívmi. Do ponuky sa dostane len zlomok z nich.</p>
-      </div>
-      <div class="pillar">
-        <p class="pillar-label">Presné meranie</p>
-        <p class="pillar-text">Každý kus ručne premeriame podľa veľkostnej tabuľky, nech vieš presne, čo si objednávaš.</p>
-      </div>
-      <div class="pillar">
-        <p class="pillar-label">Jeden kus, jeden zákazník</p>
-        <p class="pillar-text">Bez dopĺňania skladu, bez veľkovýroby. Keď je preč, je preč.</p>
-      </div>
-    </div>
-  </div>
-</section>
 <section class="shop-section" id="shop">
   <div class="section-toggle">
     <button class="toggle-btn toggle-drops active" onclick="switchSection('drops')">
@@ -385,6 +364,27 @@ fbq('track', 'PageView');
       </div>
     </div>
     <div class="product-grid" id="premiumGrid"><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div></div>
+  </div>
+</section>
+<section class="about-section" id="about">
+  <div class="about-inner">
+    <p class="about-eyebrow">Prečo REFIT</p>
+    <h2 class="about-headline">Žiadne dva kusy nie sú rovnaké.</h2>
+    <p class="about-lead">Nie sme veľkosklad. Každý kus prejde cez naše ruky — vyberieme ho, premeriame, skontrolujeme stav. Keď sa predá, je preč navždy.</p>
+    <div class="about-pillars">
+      <div class="pillar">
+        <p class="pillar-label">Ručný výber</p>
+        <p class="pillar-text">Prehľadávame tisícky kusov naprieč vintage archívmi. Do ponuky sa dostane len zlomok z nich.</p>
+      </div>
+      <div class="pillar">
+        <p class="pillar-label">Presné meranie</p>
+        <p class="pillar-text">Každý kus ručne premeriame podľa veľkostnej tabuľky, nech vieš presne, čo si objednávaš.</p>
+      </div>
+      <div class="pillar">
+        <p class="pillar-label">Jeden kus, jeden zákazník</p>
+        <p class="pillar-text">Bez dopĺňania skladu, bez veľkovýroby. Keď je preč, je preč.</p>
+      </div>
+    </div>
   </div>
 </section>
 <footer>
