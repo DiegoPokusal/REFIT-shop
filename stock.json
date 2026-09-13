@@ -508,444 +508,69 @@
     {
       "sourceId": 16245988491651,
       "removedAt": "2026-09-13T10:00:05.856Z"
+    },
+    {
+      "sourceId": 16248365318531,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248364433795,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248364958083,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248365154691,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248302338435,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248300601731,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248299979139,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248296833411,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248298275203,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248301977987,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248266064259,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248297587075,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248294900099,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16248294539651,
+      "removedAt": "2026-09-13T10:30:08.477Z"
+    },
+    {
+      "sourceId": 16118529556867,
+      "removedAt": "2026-09-13T10:30:08.477Z"
     }
   ],
   "products": [
-    {
-      "id": 16248365318531,
-      "sourceId": 16248365318531,
-      "name": "Reverse Weave Champion Graphic Hoodie - Medium Green Cotton",
-      "price": 99,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6030CE61-BFA2-4F37-B011-AA95A9248C0D.webp?v=1786717226",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6030CE61-BFA2-4F37-B011-AA95A9248C0D.webp?v=1786717226",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/31DA0B06-2C28-4DB7-ABD4-15DFC88C6CB0.webp?v=1786717226",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BDC72371-266E-430B-BAD3-D1D8C74BF371.webp?v=1786717227"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-green-medium-116819-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 71,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248364433795,
-      "sourceId": 16248364433795,
-      "name": "Reverse Weave Champion Spellout Hoodie - Large Burgundy Cotton",
-      "price": 99,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2E725ED4-4EBE-458A-A29D-0BBC0D5F78D7.webp?v=1786717208",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2E725ED4-4EBE-458A-A29D-0BBC0D5F78D7.webp?v=1786717208",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F28C799E-AB77-4BA3-A48F-A21926DA3AF7.webp?v=1786717208",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/40C67CFF-C811-42C0-86A8-F924C5C043D7.webp?v=1786717208"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-burgundy-large-116813-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 71,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248364958083,
-      "sourceId": 16248364958083,
-      "name": "Reverse Weave Champion Hoodie - Small Burgundy Cotton",
-      "price": 99,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/67E9C2E6-DAAF-4AF2-ADFC-E3E687005FEA.webp?v=1786717219",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/67E9C2E6-DAAF-4AF2-ADFC-E3E687005FEA.webp?v=1786717219",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/038278D0-42B2-404E-8038-A1155C056768.webp?v=1786717219",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/01F070F1-E6FA-4E08-BBEA-3CB5084145D7.webp?v=1786717220"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-burgundy-small-116817-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 66,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248365154691,
-      "sourceId": 16248365154691,
-      "name": "Reverse Weave Champion Hoodie - Large Green Cotton",
-      "price": 99,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E3FF87DF-0709-4DD2-BBEC-2CC4E748DB6D.webp?v=1786717223",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E3FF87DF-0709-4DD2-BBEC-2CC4E748DB6D.webp?v=1786717223",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A314651E-C171-4167-8EFE-032B59AF2202.webp?v=1786717223",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A2C7ED65-6851-4655-A956-2F5894F00693.webp?v=1786717224"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-green-large-116818-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 66,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248302338435,
-      "sourceId": 16248302338435,
-      "name": "Reverse Weave Champion Hoodie - Small Grey Cotton Blend",
-      "price": 99,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/59DF50F5-3AC8-4393-B602-899D8ACE8BC8.webp?v=1786715894",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/59DF50F5-3AC8-4393-B602-899D8ACE8BC8.webp?v=1786715894",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F5869CD2-CBC4-499B-9095-5023761F97E1.webp?v=1786715894",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BDB0A25B-96B0-4C36-ADC6-F26F3AB6456C.webp?v=1786715895"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-grey-small-116789-a",
-      "brand": "Champion",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 66,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248300601731,
-      "sourceId": 16248300601731,
-      "name": "Reverse Weave Champion Hoodie - Medium Black Cotton Blend",
-      "price": 99,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C58C21C2-D149-4A14-8C30-67CB910C7CB0.webp?v=1786715858",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C58C21C2-D149-4A14-8C30-67CB910C7CB0.webp?v=1786715858",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4FC6804C-E27A-4A4E-9489-DF532350A768.webp?v=1786715858",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C249DB9C-3ED2-46BC-A915-22B68D3033C1.webp?v=1786715858"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-black-medium-116820-a",
-      "brand": "Champion",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 66,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248299979139,
-      "sourceId": 16248299979139,
-      "name": "Reverse Weave Champion Hoodie - Medium Brown Cotton Blend",
-      "price": 99,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/280AAD08-027C-413A-939F-ACE503688998.webp?v=1786715845",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/280AAD08-027C-413A-939F-ACE503688998.webp?v=1786715845",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/21613C4F-BA02-49EA-9EF2-8DCB8AE8540F.webp?v=1786715844",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D01C9F24-95D9-4BA2-A3B9-A412CFE2B611.webp?v=1786715845"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-brown-medium-116804-a",
-      "brand": "Champion",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 66,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248296833411,
-      "sourceId": 16248296833411,
-      "name": "Reverse Weave Champion Hoodie - Medium Navy Cotton",
-      "price": 99,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FA44A47B-8C74-473E-AC2E-DFA33047B94D.webp?v=1786715822",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FA44A47B-8C74-473E-AC2E-DFA33047B94D.webp?v=1786715822",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B879AE79-811D-47BF-92B3-543FA588B995.webp?v=1786715821",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/61A9C4B5-7381-4416-8767-328578029BDF.webp?v=1786715822"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-navy-medium-116794-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 66,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248298275203,
-      "sourceId": 16248298275203,
-      "name": "Reverse Weave Champion Sweatshirt - Medium Green Cotton",
-      "price": 99,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5BAF93C8-C435-4114-9803-789019DF624F.webp?v=1786715828",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BAF93C8-C435-4114-9803-789019DF624F.webp?v=1786715828",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/72DEBE33-D831-4495-A497-DAD67A25EDFA.webp?v=1786715828",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/03388E67-704D-4792-A617-E46608E5020A.webp?v=1786715828"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-green-medium-116796-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 66,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248301977987,
-      "sourceId": 16248301977987,
-      "name": "Reverse Weave Champion Spellout Hoodie - Medium Black Cotton Blend",
-      "price": 83,
-      "sourcePrice": 41.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9E737D2C-D1CB-4CC4-BA8F-CCA34151AB4B.webp?v=1786715888",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9E737D2C-D1CB-4CC4-BA8F-CCA34151AB4B.webp?v=1786715888",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6D237ED7-FED4-4581-9F31-F9D7E7D5F5BC.webp?v=1786715888",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/843B9936-C73C-4AE5-A1AC-FE3771F17E76.webp?v=1786715888"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-black-medium-116787-a",
-      "brand": "Champion",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 65,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248266064259,
-      "sourceId": 16248266064259,
-      "name": "Reverse Weave Champion Spellout Hoodie - Medium Black Cotton",
-      "price": 83,
-      "sourcePrice": 41.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4224237E-E61F-4204-9876-E25803680E29.webp?v=1786715375",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4224237E-E61F-4204-9876-E25803680E29.webp?v=1786715375",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/132A9642-6F27-4911-9AA1-F88050F587AD.webp?v=1786715375",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3FE32D44-8556-41D9-80A9-66066FFD7D7D.webp?v=1786715375"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-black-medium-116802-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 65,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248297587075,
-      "sourceId": 16248297587075,
-      "name": "Reverse Weave Champion Spellout Sweatshirt - Medium Grey Cotton",
-      "price": 83,
-      "sourcePrice": 41.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5F94CE07-2575-4204-AE14-9E967069563F.webp?v=1786715825",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F94CE07-2575-4204-AE14-9E967069563F.webp?v=1786715825",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/20FD3C67-F615-4B7D-AE72-CF0B8B1B7795.webp?v=1786715825",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/567BF454-625D-4B2B-B3BD-911AFFE66716.webp?v=1786715825"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-grey-medium-116795-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 65,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248294900099,
-      "sourceId": 16248294900099,
-      "name": "Reverse Weave Champion Spellout Sweatshirt - Large Grey Cotton",
-      "price": 83,
-      "sourcePrice": 41.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/645ED4D4-5A3B-48B0-A514-AB45F919A562.webp?v=1786715805",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/645ED4D4-5A3B-48B0-A514-AB45F919A562.webp?v=1786715805",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C4C4C44A-84F7-473B-B1A1-FEB7B9838EE5.webp?v=1786715805",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0097AB29-F406-4499-86EA-F3B2FF4F58B4.webp?v=1786715806"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-grey-large-116799-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 65,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248294539651,
-      "sourceId": 16248294539651,
-      "name": "Reverse Weave Champion Spellout Sweatshirt - Medium Black Cotton Blend",
-      "price": 83,
-      "sourcePrice": 41.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/18775732-E3B7-40AC-A440-482A94FF3E29.webp?v=1786715798",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/18775732-E3B7-40AC-A440-482A94FF3E29.webp?v=1786715798",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F34EBC6C-CD07-4FC8-9EB2-9306A7BCA19D.webp?v=1786715798",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D78BEBE9-0B4D-41D1-83F2-33E738C9B583.webp?v=1786715798"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-black-medium-116806-a",
-      "brand": "Champion",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 65,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16118529556867,
-      "sourceId": 16118529556867,
-      "name": "Reverse Weave Champion Spellout Hoodie - Large Grey Cotton Blend",
-      "price": 99,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/750C1763-36EC-4F47-A3C6-28C8802BBB10.webp?v=1784793727",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/750C1763-36EC-4F47-A3C6-28C8802BBB10.webp?v=1784793727",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7704564D-260D-4CED-8669-83052D5D1357.webp?v=1784793727",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7757BA5E-372C-4194-94F8-0B16B0CC1141.webp?v=1784793727"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-grey-large-114052-a",
-      "brand": "Champion",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 63,
-      "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
     {
       "id": 16248320360835,
       "sourceId": 16248320360835,
@@ -968,11 +593,11 @@
       "era": "1980S",
       "condition": "Very Good",
       "tier": "premium",
-      "status": "available",
+      "status": "unavailable",
       "score": 93,
       "views": 0,
       "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
+      "soldAt": "2026-09-13T10:30:08.477Z",
       "carriedOver": false
     },
     {
@@ -997,11 +622,11 @@
       "era": "2000S",
       "condition": "Very Good",
       "tier": "premium",
-      "status": "available",
+      "status": "unavailable",
       "score": 82,
       "views": 0,
       "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
+      "soldAt": "2026-09-13T10:30:08.477Z",
       "carriedOver": false
     },
     {
@@ -1026,11 +651,11 @@
       "era": "1990S",
       "condition": "Very Good",
       "tier": "premium",
-      "status": "available",
+      "status": "unavailable",
       "score": 80,
       "views": 0,
       "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": null,
+      "soldAt": "2026-09-13T10:30:08.477Z",
       "carriedOver": false
     }
   ]
