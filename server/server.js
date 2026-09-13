@@ -1,3 +1,4 @@
+const fs = require('fs');
 const express = require('express');
 const cors = require('cors');
 const Stripe = require('stripe');
@@ -11,6 +12,12 @@ const {
   PORT = 4000,
   SHIPPING_PRICE_CENTS = 350,
   ALLOWED_SHIPPING_COUNTRIES = 'SK,CZ',
+  STOCK_JSON_URL = 'https://raw.githubusercontent.com/DiegoPokusal/REFIT-shop/main/stock.json',
+  // DATA_DIR should point at a mounted Railway Volume so state.json (views +
+  // sold events) survives across deploys/restarts — without a volume,
+  // Railway's container filesystem resets on every deploy. Same caveat as
+  // the order server's orders.json.
+  DATA_DIR = '.',
 } = process.env;
 
 if (!STRIPE_SECRET_KEY) {
@@ -27,6 +34,53 @@ const app = express();
 
 app.use(cors({ origin: ALLOWED_ORIGIN }));
 
+// --- Local state: view counts + sold events, read by smartupdate.js ---
+const STATE_FILE = `${DATA_DIR}/state.json`;
+const MAX_SOLD_EVENTS = 200;
+
+function loadState() {
+  if (!fs.existsSync(STATE_FILE)) return { views: {}, soldEvents: [] };
+  try {
+    const raw = JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
+    return { views: raw.views || {}, soldEvents: raw.soldEvents || [] };
+  } catch {
+    return { views: {}, soldEvents: [] };
+  }
+}
+
+function saveState(state) {
+  fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
+}
+
+// --- Canonical stock, fetched from the repo so we never trust the client's
+// cart data for price/availability (short in-memory cache to avoid hammering
+// GitHub on every detail view / checkout click) ---
+let stockCache = { data: null, fetchedAt: 0 };
+const STOCK_CACHE_MS = 60 * 1000;
+
+function flattenStock(raw) {
+  if (Array.isArray(raw?.products)) return raw.products;
+  // Legacy category-keyed shape ({jacket:[],hoodie:[],...})
+  const products = [];
+  for (const key of Object.keys(raw || {})) {
+    if (Array.isArray(raw[key])) products.push(...raw[key]);
+  }
+  return products;
+}
+
+async function fetchCanonicalStock() {
+  const now = Date.now();
+  if (stockCache.data && now - stockCache.fetchedAt < STOCK_CACHE_MS) {
+    return stockCache.data;
+  }
+  const res = await fetch(STOCK_JSON_URL, { signal: AbortSignal.timeout(10000) });
+  if (!res.ok) throw new Error(`stock.json fetch zlyhalo (${res.status})`);
+  const raw = await res.json();
+  const products = flattenStock(raw);
+  stockCache = { data: products, fetchedAt: now };
+  return products;
+}
+
 // --- Create Checkout Session ---
 // Body: { items: [{ id, name, price, image, url, sizes, category }] }
 app.post('/create-checkout-session', express.json(), async (req, res) => {
@@ -36,7 +90,41 @@ app.post('/create-checkout-session', express.json(), async (req, res) => {
       return res.status(400).json({ error: 'Košík je prázdny.' });
     }
 
-    const line_items = items.map(item => ({
+    let stock;
+    try {
+      stock = await fetchCanonicalStock();
+    } catch (err) {
+      console.error('❌ Nepodarilo sa overiť sklad:', err.message);
+      return res.status(503).json({ error: 'Nepodarilo sa overiť dostupnosť. Skús to znova.' });
+    }
+
+    const byId = new Map(stock.map(p => [String(p.id), p]));
+    const unavailable = [];
+    const resolvedItems = [];
+
+    for (const item of items) {
+      const product = byId.get(String(item.id));
+      if (!product) {
+        unavailable.push({ id: item.id, name: item.name, reason: 'not_found' });
+        continue;
+      }
+      if (product.status && product.status !== 'available') {
+        unavailable.push({ id: item.id, name: product.name, reason: product.status });
+        continue;
+      }
+      // Use the canonical price from stock.json, never the client's — this
+      // also closes off price tampering regardless of whether it matches.
+      resolvedItems.push({ ...item, name: product.name, price: product.price, image: product.image });
+    }
+
+    if (unavailable.length) {
+      return res.status(409).json({
+        error: 'Niektoré kusy v košíku už nie sú dostupné.',
+        unavailable,
+      });
+    }
+
+    const line_items = resolvedItems.map(item => ({
       price_data: {
         currency: 'eur',
         product_data: {
@@ -81,6 +169,24 @@ app.post('/create-checkout-session', express.json(), async (req, res) => {
   }
 });
 
+// --- View tracking (product detail opens) ---
+app.post('/api/track-view', express.json(), (req, res) => {
+  const productId = req.body?.productId;
+  if (!productId) return res.status(400).json({ error: 'Chýba productId.' });
+
+  const state = loadState();
+  const key = String(productId);
+  state.views[key] = (state.views[key] || 0) + 1;
+  saveState(state);
+  res.json({ ok: true });
+});
+
+// --- State read, polled by smartupdate.js every 30 min ---
+app.get('/api/state', (req, res) => {
+  const state = loadState();
+  res.json(state);
+});
+
 // --- Stripe webhook ---
 // Must use the raw body for signature verification, so this route is
 // registered BEFORE any global express.json() middleware would touch it.
@@ -122,6 +228,7 @@ async function handleCompletedCheckout(sessionId) {
   const items = lineItems
     .filter(li => li.price?.product?.metadata?.productId) // skip the shipping line item
     .map(li => ({
+      productId: li.price.product.metadata.productId,
       name: li.price.product.name,
       price: li.price.unit_amount / 100,
       qty: li.quantity,
@@ -139,7 +246,7 @@ async function handleCompletedCheckout(sessionId) {
       city: addr.city || '',
       zip: addr.postal_code || '',
     },
-    items,
+    items: items.map(({ productId, ...rest }) => rest), // order server doesn't need productId
     total: (session.amount_total / 100).toFixed(2),
     stripeSessionId: session.id,
     paymentStatus: session.payment_status,
@@ -154,6 +261,18 @@ async function handleCompletedCheckout(sessionId) {
   if (!res.ok) {
     throw new Error(`Order server odpovedal ${res.status}`);
   }
+
+  // Record sold items so smartupdate.js can mark them status:'sold' on its
+  // next run — this server doesn't know tier/score, it just reports what sold.
+  const state = loadState();
+  const soldAt = new Date().toISOString();
+  for (const item of items) {
+    state.soldEvents.push({ productId: item.productId, price: item.price, soldAt });
+  }
+  if (state.soldEvents.length > MAX_SOLD_EVENTS) {
+    state.soldEvents = state.soldEvents.slice(-MAX_SOLD_EVENTS);
+  }
+  saveState(state);
 
   console.log(`✅ Objednávka odoslaná pre session ${session.id}`);
 }

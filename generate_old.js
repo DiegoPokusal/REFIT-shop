@@ -1,8 +1,10 @@
 const fs = require('fs');
 const stockData = JSON.parse(fs.readFileSync('stock.json', 'utf8'));
-const products = Object.values(stockData).flat();
-const available = products.filter(p => p.available && p.price > 0 && p.price <= 145);
-console.log(`📦 Dostupných produktov: ${available.length} z ${products.length}`);
+// New shape is {lastCycleAt, removedHistory, products:[...]}; fall back to
+// the legacy category-keyed shape ({jacket:[],hoodie:[],...}) if it's ever
+// encountered mid-transition.
+const products = Array.isArray(stockData.products) ? stockData.products : Object.values(stockData).flat();
+console.log(`📦 Produktov v sklade: ${products.length}`);
 function getCategory(p) {
   const type = (p.category || '').toLowerCase();
   const tags = (p.tags || []).join(' ').toLowerCase();
@@ -17,13 +19,19 @@ function getCategory(p) {
 function getCategoryName(cat) {
   return { jacket:'Bunda', hoodie:'Hoodie', sweatshirt:'Sweatshirt', tee:'Tričko', other:'Oblečenie' }[cat] || 'Oblečenie';
 }
-const jackets = available.filter(p => getCategory(p) === 'jacket').slice(0, 40);
-const hoodies = available.filter(p => getCategory(p) === 'hoodie').slice(0, 40);
-const sweatshirts = available.filter(p => getCategory(p) === 'sweatshirt').slice(0, 40);
-const tees = available.filter(p => getCategory(p) === 'tee').slice(0, 40);
-const allProducts = [...jackets, ...hoodies, ...sweatshirts, ...tees];
-const dropsProducts = allProducts.filter(p => p.price <= 116);
-const premiumProducts = allProducts.filter(p => p.price > 116 && p.price <= 145);
+// Slot/tier management (DROPS 15, PREMIUM ≤10, scoring, sold retention) is
+// smartupdate.js's job now — the generator just renders whatever it decided,
+// sold/unavailable items included so they can show a badge instead of vanishing.
+// Legacy stock.json entries (pre-rewrite) have no tier/status yet — fall
+// back to a price-based split and "available" so they still render sanely
+// until smartupdate.js's next run replaces them with properly tiered data.
+const allProducts = products.map(p => ({
+  ...p,
+  tier: p.tier || (p.price <= 110 ? 'drops' : 'premium'),
+  status: p.status || 'available',
+}));
+const dropsProducts = allProducts.filter(p => p.tier === 'drops');
+const premiumProducts = allProducts.filter(p => p.tier === 'premium');
 console.log(`👕 DROPS: ${dropsProducts.length} | PREMIUM: ${premiumProducts.length}`);
 const productData = allProducts.map(p => ({
   id: p.id,
@@ -38,6 +46,8 @@ const productData = allProducts.map(p => ({
   material: p.material || null,
   era: p.era || null,
   condition: p.condition || null,
+  tier: p.tier,
+  status: p.status,
 }));
 const html = `<!DOCTYPE html>
 <html lang="sk">
@@ -148,6 +158,9 @@ const html = `<!DOCTYPE html>
   }
   .quick-add { background: var(--white); color: var(--black); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 0.85rem; letter-spacing: 0.15em; padding: 12px 20px; cursor: pointer; transition: all 0.2s; width: 85%; }
   .quick-add:hover { background: var(--red); color: var(--white); }
+  .quick-add:disabled { background: var(--mid); color: var(--text-muted); cursor: default; }
+  .product-card.sold .product-img img { opacity: 0.35; }
+  .sold-badge { position: absolute; top: 10px; left: 10px; background: var(--red); color: var(--white); font-family: 'Bebas Neue', sans-serif; font-size: 0.7rem; letter-spacing: 0.15em; padding: 6px 12px; z-index: 2; }
   .quick-detail { background: none; color: var(--white); border: 1px solid rgba(255,255,255,0.5); font-family: 'Bebas Neue', sans-serif; font-size: 0.75rem; letter-spacing: 0.15em; padding: 8px 20px; cursor: pointer; transition: all 0.2s; width: 85%; }
   .quick-detail:hover { background: var(--white); color: var(--black); }
   @media (pointer: coarse) { .quick-detail { display: none; } }
@@ -272,6 +285,7 @@ const html = `<!DOCTYPE html>
   .size-guide-link:hover { color: var(--white); border-color: var(--white); }
   .detail-add-btn { width: 100%; background: var(--red); color: var(--white); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.2em; padding: 18px; cursor: pointer; transition: all 0.2s; margin-bottom: 12px; }
   .detail-add-btn:hover { background: var(--white); color: var(--black); }
+  .detail-add-btn:disabled { background: var(--mid); color: var(--text-muted); cursor: default; }
   .detail-close { position: fixed; top: 16px; right: 16px; background: var(--gray); border: 1px solid var(--mid); color: var(--white); font-size: 1.5rem; cursor: pointer; z-index: 2001; transition: color 0.2s; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; }
   .detail-close:hover { color: var(--red); }
   footer { margin-top: 80px; border-top: 1px solid var(--mid); padding: 40px 20px; }
@@ -447,8 +461,8 @@ function trackPixel(name,params,eventID){
 }
 let cart=JSON.parse(localStorage.getItem('refit_cart')||'[]');
 function getCategoryName(cat){return{jacket:'Bunda',hoodie:'Hoodie',sweatshirt:'Sweatshirt',tee:'Tričko',other:'Oblečenie'}[cat]||'Oblečenie';}
-const DROPS = PRODUCTS.filter(p => p.price <= 110);
-const PREMIUM = PRODUCTS.filter(p => p.price > 110);
+const DROPS = PRODUCTS.filter(p => p.tier === 'drops');
+const PREMIUM = PRODUCTS.filter(p => p.tier === 'premium');
 function renderProducts(filter, section){
   const products = section === 'drops' ? DROPS : PREMIUM;
   const gridId = section === 'drops' ? 'dropsGrid' : 'premiumGrid';
@@ -458,13 +472,19 @@ function renderProducts(filter, section){
     grid.innerHTML = \`<div class="empty-state">V tejto kategórii momentálne nič nemáme. Skús inú kategóriu alebo sa vráť neskôr — sklad sa dopĺňa priebežne.</div>\`;
     return;
   }
-  grid.innerHTML = filtered.map(p=>\`
-    <div class="product-card" onclick="openDetail(\${p.id})">
+  grid.innerHTML = filtered.map(p=>{
+    const sold = p.status && p.status !== 'available';
+    const badgeText = p.status === 'sold' ? 'PREDANÉ' : 'NEDOSTUPNÉ';
+    return \`
+    <div class="product-card\${sold ? ' sold' : ''}" onclick="openDetail(\${p.id})">
       <div class="product-img">
         <img src="\${p.image}" alt="\${p.name}" loading="lazy" onerror="this.style.display='none'">
+        \${sold ? \`<div class="sold-badge">\${badgeText}</div>\` : ''}
         <div class="product-overlay">
           <button class="quick-detail" onclick="event.stopPropagation();openDetail(\${p.id})">ZOBRAZIŤ DETAIL</button>
-          <button class="quick-add" onclick="event.stopPropagation();addToCart(\${p.id})">PRIDAŤ DO KOŠÍKA</button>
+          \${sold
+            ? \`<button class="quick-add" disabled>\${badgeText}</button>\`
+            : \`<button class="quick-add" onclick="event.stopPropagation();addToCart(\${p.id})">PRIDAŤ DO KOŠÍKA</button>\`}
         </div>
       </div>
       <div class="product-info">
@@ -476,7 +496,7 @@ function renderProducts(filter, section){
         </div>
       </div>
     </div>
-  \`).join('');
+  \`;}).join('');
 }
 function switchSection(section){
   document.querySelectorAll('.shop-panel').forEach(p=>p.classList.remove('active'));
@@ -516,6 +536,7 @@ function openDetail(id){
   const p=PRODUCTS.find(x=>x.id===id);
   if(!p)return;
   trackPixel('ViewContent',{content_ids:[String(p.id)],content_type:'product',value:p.price,currency:'EUR'});
+  fetch(CHECKOUT_SERVER_URL+'/api/track-view',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({productId:p.id})}).catch(()=>{});
   const imgs=(p.images||[]).filter(Boolean);
   if(!imgs.length && p.image) imgs.push(p.image);
   let currentSlide=0;
@@ -562,7 +583,9 @@ function openDetail(id){
         }).join('') + '</div>';
       })()}
       <a href="/velkostna-tabulka.html" target="_blank" class="size-guide-link">Ako vybrať správnu veľkosť →</a>
-      <button class="detail-add-btn" onclick="addToCart(\${p.id});closeDetail()">PRIDAŤ DO KOŠÍKA</button>
+      \${p.status && p.status !== 'available'
+        ? \`<button class="detail-add-btn" disabled>\${p.status === 'sold' ? 'PREDANÉ' : 'NEDOSTUPNÉ'}</button>\`
+        : \`<button class="detail-add-btn" onclick="addToCart(\${p.id});closeDetail()">PRIDAŤ DO KOŠÍKA</button>\`}
     </div>
     </div>
   \`;
@@ -587,6 +610,7 @@ function closeDetail(){
 document.getElementById('detailModal').addEventListener('click',function(e){if(e.target===this)closeDetail();});
 function addToCart(id){
   const p=PRODUCTS.find(x=>x.id===id);
+  if(!p || (p.status && p.status !== 'available')){ alert('Tento kus už nie je dostupný.'); return; }
   const ex=cart.find(x=>x.id===id);
   if(ex){ alert('Tento kus je už v košíku. Každý vintage kus je unikátny.'); return; } cart.push({...p,qty:1});
   trackPixel('AddToCart',{content_ids:[String(p.id)],content_type:'product',value:p.price,currency:'EUR'});
@@ -661,6 +685,16 @@ async function payWithStripe(){
   trackPixel('InitiateCheckout',{content_ids:cart.map(i=>String(i.id)),content_type:'product',num_items:cart.length,value:checkoutValue,currency:'EUR'});
   try{
     const res=await fetch(CHECKOUT_SERVER_URL+'/create-checkout-session',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:cart})});
+    if(res.status===409){
+      const data=await res.json().catch(()=>({}));
+      const unavailableIds=new Set((data.unavailable||[]).map(u=>String(u.id)));
+      cart=cart.filter(i=>!unavailableIds.has(String(i.id)));
+      updateCart();
+      alert('Niektoré kusy v košíku už nie sú dostupné a boli odstránené. Skontroluj košík a skús to znova.');
+      btn.disabled=false;
+      btn.textContent='PREJSŤ K PLATBE →';
+      return;
+    }
     if(!res.ok)throw new Error('bad response');
     const data=await res.json();
     if(!data.url)throw new Error('no url');
