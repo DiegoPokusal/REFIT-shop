@@ -1,5 +1,5 @@
 {
-  "lastCycleAt": "2026-09-13T11:59:50.612Z",
+  "lastCycleAt": "2026-09-13T12:00:29.065Z",
   "removedHistory": [
     {
       "sourceId": 16248365318531,
@@ -63,63 +63,63 @@
     },
     {
       "sourceId": 16117229027715,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16112401777027,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16112393257347,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16248250073475,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16248253284739,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16248252924291,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16248249713027,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16248226218371,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16175534080387,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16117216936323,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16175536931203,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16248400576899,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16248308236675,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16248281858435,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     },
     {
       "sourceId": 16248384094595,
-      "removedAt": "2026-09-13T12:00:44.333Z"
+      "removedAt": "2026-09-13T12:01:06.081Z"
     }
   ],
   "products": [
@@ -148,7 +148,7 @@
       "status": "available",
       "score": 73,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -177,7 +177,7 @@
       "status": "available",
       "score": 73,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -206,7 +206,7 @@
       "status": "available",
       "score": 73,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -235,7 +235,7 @@
       "status": "available",
       "score": 64,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -264,7 +264,7 @@
       "status": "available",
       "score": 64,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -293,7 +293,7 @@
       "status": "available",
       "score": 61,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -322,7 +322,7 @@
       "status": "available",
       "score": 56,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -351,7 +351,7 @@
       "status": "available",
       "score": 56,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -380,7 +380,7 @@
       "status": "available",
       "score": 56,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -409,7 +409,7 @@
       "status": "available",
       "score": 54,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -438,7 +438,7 @@
       "status": "available",
       "score": 54,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -467,7 +467,7 @@
       "status": "available",
       "score": 51,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -496,7 +496,7 @@
       "status": "available",
       "score": 49,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -525,7 +525,7 @@
       "status": "available",
       "score": 48,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -554,7 +554,7 @@
       "status": "available",
       "score": 48,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -757,7 +757,7 @@
       "status": "available",
       "score": 93,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -786,7 +786,7 @@
       "status": "available",
       "score": 74,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -815,7 +815,7 @@
       "status": "available",
       "score": 74,
       "views": 0,
-      "addedAt": "2026-09-13T12:00:44.334Z",
+      "addedAt": "2026-09-13T12:01:06.082Z",
       "soldAt": null,
       "carriedOver": false
     },
