@@ -120,6 +120,18 @@
     {
       "sourceId": 16248384094595,
       "removedAt": "2026-09-13T12:01:06.081Z"
+    },
+    {
+      "sourceId": 16267169726851,
+      "removedAt": "2026-09-17T10:58:36.885Z"
+    },
+    {
+      "sourceId": 16267168219523,
+      "removedAt": "2026-09-17T10:58:36.885Z"
+    },
+    {
+      "sourceId": 16267170939267,
+      "removedAt": "2026-09-17T10:58:36.885Z"
     }
   ],
   "products": [
@@ -555,93 +567,6 @@
       "score": 48,
       "views": 0,
       "addedAt": "2026-09-13T12:01:06.082Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16267169726851,
-      "sourceId": 16267169726851,
-      "name": "Stussy Spellout Hoodie - Medium Black Cotton",
-      "price": 143,
-      "sourcePrice": 112.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DB99A928-7C73-4006-AD9D-B2AFA83B27DD.webp?v=1787664171",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DB99A928-7C73-4006-AD9D-B2AFA83B27DD.webp?v=1787664171",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5E2A2457-D22F-424E-A937-5D895FAB33A6.webp?v=1787664171",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FF29F0AA-9A4F-4934-B9AA-19465566F63E.webp?v=1787664172"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/stussy-hoodie-mens-black-medium-112137-a",
-      "brand": "Stussy",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 68,
-      "views": 0,
-      "addedAt": "2026-09-13T10:42:46.089Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16267168219523,
-      "sourceId": 16267168219523,
-      "name": "Love Kills Slowly Ed Hardy Graphic Hoodie - Medium Brown Cotton",
-      "price": 143,
-      "sourcePrice": 112.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7A9B6420-F588-4405-A86B-51FD9DED313B.webp?v=1787664141",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7A9B6420-F588-4405-A86B-51FD9DED313B.webp?v=1787664141",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/90886F8A-651E-4D50-9586-987460001508.webp?v=1787664141",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/24C4BD46-8EEF-468D-B42C-090AB38881CC.webp?v=1787664141"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/love-kills-slowly-ed-hardy-hoodie-mens-brown-medium-112139-a",
-      "brand": "Ed Hardy",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 68,
-      "views": 1,
-      "addedAt": "2026-09-13T10:42:46.089Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16267170939267,
-      "sourceId": 16267170939267,
-      "name": "Faded Stussy Graphic Hoodie - Medium Green Cotton",
-      "price": 137,
-      "sourcePrice": 106.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8F1B0ABC-B830-453C-AE07-60CF66DD9DFD.webp?v=1787664198",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8F1B0ABC-B830-453C-AE07-60CF66DD9DFD.webp?v=1787664198",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D4BFCAD4-09F0-465F-9157-24D844CDE818.webp?v=1787664197",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/521E3EEF-B5DF-4B95-98BB-73379D8769CE.webp?v=1787664198"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/faded-stussy-hoodie-mens-green-medium-112143-a",
-      "brand": "Stussy",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 65,
-      "views": 0,
-      "addedAt": "2026-09-13T10:42:46.089Z",
       "soldAt": null,
       "carriedOver": false
     },
