@@ -1,5 +1,5 @@
 {
-  "lastCycleAt": "2026-09-17T11:14:13.555Z",
+  "lastCycleAt": "2026-09-22T19:01:48.249Z",
   "removedHistory": [
     {
       "sourceId": 16248365318531,
@@ -192,415 +192,65 @@
     {
       "sourceId": 16112476520835,
       "removedAt": "2026-09-17T11:14:41.069Z"
+    },
+    {
+      "sourceId": 16175530770819,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16175519793539,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16118533456259,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16118539518339,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16118538830211,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16201736978819,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16245970534787,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16175481160067,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16115924337027,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16245986230659,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16115973915011,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16115538919811,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16248218026371,
+      "removedAt": "2026-09-22T19:02:16.607Z"
+    },
+    {
+      "sourceId": 16248239686019,
+      "removedAt": "2026-09-22T19:02:16.607Z"
     }
   ],
   "products": [
-    {
-      "id": 16175530770819,
-      "sourceId": 16175530770819,
-      "name": "Reverse Weave Champion Spellout Hoodie - Small Red Cotton",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F520E3E9-D85E-4C4C-A14B-93914F1BEF2A.webp?v=1784900415",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F520E3E9-D85E-4C4C-A14B-93914F1BEF2A.webp?v=1784900415",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A8968A0F-C52B-49A7-8265-643947C90FD9.webp?v=1784900415",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3A4227DC-2A1B-4727-B6A5-5869A559238C.webp?v=1784900415"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-red-small-115042-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 78,
-      "views": 4,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16175519793539,
-      "sourceId": 16175519793539,
-      "name": "Reverse Weave Champion Spellout Hoodie - Large Yellow Cotton",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FBD85A8E-BA32-4E8E-8E2E-71A3056F3923.webp?v=1784900271",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FBD85A8E-BA32-4E8E-8E2E-71A3056F3923.webp?v=1784900271",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2349CE6B-120B-437A-9AB5-62CBC5114159.webp?v=1784900271",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BEE47EF4-1527-4B0C-9121-BEB51C0245B9.webp?v=1784900272"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-yellow-large-115049-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 78,
-      "views": 4,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16118533456259,
-      "sourceId": 16118533456259,
-      "name": "Reverse Weave Champion Spellout Hoodie - Large Black Cotton Blend",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DD145126-8205-4FAC-8C54-8E08CC482608.webp?v=1784793921",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD145126-8205-4FAC-8C54-8E08CC482608.webp?v=1784793921",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/22FC395B-2B98-4FD7-986C-AAB611B8F19E.webp?v=1784793921",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0C01E1E0-43DF-4007-ADCD-C2F7AFE4AE57.webp?v=1784793922"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-black-large-114033-a",
-      "brand": "Champion",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 78,
-      "views": 1,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16118539518339,
-      "sourceId": 16118539518339,
-      "name": "Loose Fit Carhartt Spellout Hoodie - Large Brown Cotton Blend",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8898B63F-1B33-47CB-9DE9-E52F7A4E4AE4.webp?v=1784794069",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8898B63F-1B33-47CB-9DE9-E52F7A4E4AE4.webp?v=1784794069",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DCA98ABC-ABF4-4331-9494-BB945B22319A.webp?v=1784794069",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/18C20024-08FD-4490-B6D2-A75108C5DDDC.webp?v=1784794069"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/loose-fit-carhartt-hoodie-mens-brown-large-114063-a",
-      "brand": "Carhartt",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 66,
-      "views": 2,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16118538830211,
-      "sourceId": 16118538830211,
-      "name": "Carhartt Spellout Hoodie - Large Grey Cotton Blend",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DE04EEBF-FFFF-4221-BD39-EEB6A5329998.webp?v=1784794029",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DE04EEBF-FFFF-4221-BD39-EEB6A5329998.webp?v=1784794029",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/24FECE32-BED2-4C5F-BB06-979EE77FAA80.webp?v=1784794029",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/35D55EFF-D9A5-43F4-B43D-69DC138E559C.webp?v=1784794029"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-grey-large-114076-a",
-      "brand": "Carhartt",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 66,
-      "views": 0,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16201736978819,
-      "sourceId": 16201736978819,
-      "name": "Carhartt Force Carhartt Sweatshirt - Large Grey Cotton Blend",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/203DD760-70CE-4982-A0E7-987C774F37F2.webp?v=1785143874",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/203DD760-70CE-4982-A0E7-987C774F37F2.webp?v=1785143874",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B5F5C8D4-A772-4352-A296-C5FABDF28D76.webp?v=1785143873",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/942F0B8D-710C-4326-898D-664B5B478B7F.webp?v=1785143874"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/carhartt-force-carhartt-sweatshirt-mens-grey-large-115393-a",
-      "brand": "Carhartt",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 61,
-      "views": 1,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16245970534787,
-      "sourceId": 16245970534787,
-      "name": "Grand Canyon Harley Davidson Graphic Long Sleeve T-Shirt - Medium Blue Cotton",
-      "price": 86,
-      "sourcePrice": 52.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2EB55719-DB9E-4F2E-964D-64F14A794DF5.webp?v=1786608095",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2EB55719-DB9E-4F2E-964D-64F14A794DF5.webp?v=1786608095",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/62BBCAA3-7A7E-45C9-A0EC-552F5CA26DF6.webp?v=1786608095",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/877F7544-8EEE-4A67-BE09-05BFC33F9E4B.webp?v=1786608096"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/grand-canyon-harley-davidson-long-sleeve-t-shirt-womens-blue-medium-111600-a",
-      "brand": "Harley Davidson",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 57,
-      "views": 0,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16175481160067,
-      "sourceId": 16175481160067,
-      "name": "Kitchener Harley Davidson Graphic Long Sleeve T-Shirt - Medium Black Cotton",
-      "price": 86,
-      "sourcePrice": 52.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/27035329-C2AE-4D25-AEA2-4807FFC216D0.webp?v=1784899768",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/27035329-C2AE-4D25-AEA2-4807FFC216D0.webp?v=1784899768",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E27BD51E-8954-4530-A63F-E91286116397.webp?v=1784899768",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/38AFF171-57D5-43AD-8C1D-3D9344E20F6D.webp?v=1784899769"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/kitchener-harley-davidson-long-sleeve-t-shirt-mens-black-medium-114635-a",
-      "brand": "Harley Davidson",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 57,
-      "views": 0,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16115924337027,
-      "sourceId": 16115924337027,
-      "name": "Tommy Hilfiger College Sweatshirt - Large Navy Cotton",
-      "price": 82,
-      "sourcePrice": 48.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9BE18DFF-8C3F-46B8-A12D-0B8435C3FAF0.webp?v=1784718375",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9BE18DFF-8C3F-46B8-A12D-0B8435C3FAF0.webp?v=1784718375",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A8CFAFA7-FA86-42BD-8141-789E7E73AC85.webp?v=1784718375",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/52EBBEDA-3CAC-49A0-8F89-EA5E5A47AD05.webp?v=1784718375"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-sweatshirt-mens-navy-large-112782-a",
-      "brand": "Tommy Hilfiger",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 56,
-      "views": 0,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16245986230659,
-      "sourceId": 16245986230659,
-      "name": "Sport Center Of Orland Harley Davidson Graphic Long Sleeve T-Shirt - Medium Black Cotton",
-      "price": 81,
-      "sourcePrice": 47.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3422BEC9-F0FA-4371-866C-D26423C6D2BB.webp?v=1786608856",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3422BEC9-F0FA-4371-866C-D26423C6D2BB.webp?v=1786608856",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/430078D0-E16C-47C6-9585-0B1C5CCDAC61.webp?v=1786608856",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0691B3EA-3F47-437A-A058-FC8A91E1CF4F.webp?v=1786608857"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/sport-center-of-orland-harley-davidson-long-sleeve-t-shirt-womens-black-medium-110627-a",
-      "brand": "Harley Davidson",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 55,
-      "views": 2,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16115973915011,
-      "sourceId": 16115973915011,
-      "name": "The North Face Fleece Jacket - Small Black Polyester",
-      "price": 87,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/700B98B1-8ACA-453E-B73A-AEB4D8AC21E8.webp?v=1784718974",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/700B98B1-8ACA-453E-B73A-AEB4D8AC21E8.webp?v=1784718974",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C83CB2B0-0C61-45B7-8287-329CFAF32DEE.webp?v=1784718974",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D7FA887E-91D9-4139-9091-43DD0BE9B324.webp?v=1784718974"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-fleece-jacket-womens-black-small-113255-a",
-      "brand": "The North Face",
-      "material": "Polyester",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 53,
-      "views": 1,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16115538919811,
-      "sourceId": 16115538919811,
-      "name": "The North Face Fleece Jacket - Large Blue Polyester",
-      "price": 87,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3E22FD2F-ED85-45F0-93CF-A11AC05D89BC.webp?v=1784717563",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3E22FD2F-ED85-45F0-93CF-A11AC05D89BC.webp?v=1784717563",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2F7A2990-611D-4284-BA6F-90BF7C5D2A8E.webp?v=1784717564",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9EA24C2A-DC8C-41E4-B93D-91E29772D53D.webp?v=1784717564"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-fleece-jacket-womens-blue-large-111997-a",
-      "brand": "The North Face",
-      "material": "Polyester",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 53,
-      "views": 2,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248218026371,
-      "sourceId": 16248218026371,
-      "name": "Polo By Ralph Lauren Long Sleeve T-Shirt - Medium Green Cotton",
-      "price": 82,
-      "sourcePrice": 48.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ACC16C74-718F-47F2-BF9D-E1E56DAC8B2A.webp?v=1786714568",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ACC16C74-718F-47F2-BF9D-E1E56DAC8B2A.webp?v=1786714568",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9881A7CE-74A8-4169-961F-8A3B60437CCB.webp?v=1786714568",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/78DA381A-0A5E-45AD-9BFD-6C4FE33B8B80.webp?v=1786714569"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-long-sleeve-t-shirt-mens-green-medium-117450-a",
-      "brand": "Polo by Ralph Lauren",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 51,
-      "views": 0,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248239686019,
-      "sourceId": 16248239686019,
-      "name": "Tommy Hilfiger Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/928B7716-D015-4B33-80CE-959064656917.webp?v=1786714906",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/928B7716-D015-4B33-80CE-959064656917.webp?v=1786714906",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CCDDA54A-02A9-4D9E-BD6C-B7122A2693C5.webp?v=1786714907",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2FAE8EFF-DF18-4D26-A490-237BC427D1D2.webp?v=1786714907"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-long-sleeve-t-shirt-mens-black-large-117518-a",
-      "brand": "Tommy Hilfiger",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 48,
-      "views": 1,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
     {
       "id": 16248321016195,
       "sourceId": 16248321016195,
