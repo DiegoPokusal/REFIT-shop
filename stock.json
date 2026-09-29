@@ -275,7 +275,7 @@
       "tier": "drops",
       "status": "available",
       "score": 89,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-09-27T22:00:33.309Z",
       "soldAt": null,
       "carriedOver": false
@@ -478,7 +478,7 @@
       "tier": "drops",
       "status": "available",
       "score": 73,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-09-27T22:00:33.309Z",
       "soldAt": null,
       "carriedOver": false
@@ -652,7 +652,7 @@
       "tier": "drops",
       "status": "available",
       "score": 51,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-09-27T22:00:33.309Z",
       "soldAt": null,
       "carriedOver": false
@@ -740,35 +740,6 @@
       "status": "available",
       "score": 78,
       "views": 1,
-      "addedAt": "2026-09-13T11:21:57.671Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248322589059,
-      "sourceId": 16248322589059,
-      "name": "700 Fill The North Face Puffer - Large Purple Nylon",
-      "price": 157,
-      "sourcePrice": 123.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5C829528-69E7-43A3-AA4D-C94F61A6E1CC.webp?v=1786716265",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5C829528-69E7-43A3-AA4D-C94F61A6E1CC.webp?v=1786716265",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F41D054-21F3-40DA-B299-4318C4966E2D.webp?v=1786716264",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3A94A1F1-A5CA-4E32-8589-61DE2E0560A0.webp?v=1786716266"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/700-fill-the-north-face-puffer-mens-purple-large-117639-a",
-      "brand": "The North Face",
-      "material": "Nylon",
-      "era": "2000S",
-      "condition": "Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 73,
-      "views": 5,
       "addedAt": "2026-09-13T11:21:57.671Z",
       "soldAt": null,
       "carriedOver": false
@@ -913,7 +884,7 @@
       "tier": "premium",
       "status": "available",
       "score": 72,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-09-17T11:14:41.069Z",
       "soldAt": null,
       "carriedOver": false
@@ -942,7 +913,7 @@
       "tier": "premium",
       "status": "available",
       "score": 100,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-09-27T22:00:33.309Z",
       "soldAt": null,
       "carriedOver": false
@@ -971,9 +942,38 @@
       "tier": "premium",
       "status": "available",
       "score": 93,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-09-27T22:00:33.309Z",
       "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16248322589059,
+      "sourceId": 16248322589059,
+      "name": "700 Fill The North Face Puffer - Large Purple Nylon",
+      "price": 157,
+      "sourcePrice": 123.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5C829528-69E7-43A3-AA4D-C94F61A6E1CC.webp?v=1786716265",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5C829528-69E7-43A3-AA4D-C94F61A6E1CC.webp?v=1786716265",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F41D054-21F3-40DA-B299-4318C4966E2D.webp?v=1786716264",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3A94A1F1-A5CA-4E32-8589-61DE2E0560A0.webp?v=1786716266"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/700-fill-the-north-face-puffer-mens-purple-large-117639-a",
+      "brand": "The North Face",
+      "material": "Nylon",
+      "era": "2000S",
+      "condition": "Good",
+      "tier": "premium",
+      "status": "unavailable",
+      "score": 73,
+      "views": 5,
+      "addedAt": "2026-09-13T11:21:57.671Z",
+      "soldAt": "2026-09-29T21:30:05.346Z",
       "carriedOver": false
     },
     {
