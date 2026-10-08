@@ -1,5 +1,5 @@
 {
-  "lastCycleAt": "2026-10-03T01:22:57.206Z",
+  "lastCycleAt": "2026-10-08T20:30:13.935Z",
   "removedHistory": [
     {
       "sourceId": 16248365318531,
@@ -308,85 +308,76 @@
     {
       "sourceId": 16347791196547,
       "removedAt": "2026-10-03T02:06:44.114Z"
+    },
+    {
+      "sourceId": 16347751317891,
+      "removedAt": "2026-10-08T20:30:57.873Z"
+    },
+    {
+      "sourceId": 16347756626307,
+      "removedAt": "2026-10-08T20:30:57.873Z"
+    },
+    {
+      "sourceId": 16248302174595,
+      "removedAt": "2026-10-08T20:30:57.873Z"
+    },
+    {
+      "sourceId": 16248296046979,
+      "removedAt": "2026-10-08T20:30:57.873Z"
+    },
+    {
+      "sourceId": 16248295162243,
+      "removedAt": "2026-10-08T20:30:57.873Z"
     }
   ],
   "products": [
     {
-      "id": 16347751317891,
-      "sourceId": 16347751317891,
-      "name": "Rain Defender Carhartt Hoodie - Large Navy Cotton Blend",
-      "price": 83,
-      "sourcePrice": 49.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B146BD12-E686-478B-BD75-7692C1EC83EC.webp?v=1790244335",
+      "id": 16248299553155,
+      "sourceId": 16248299553155,
+      "name": "Reverse Weave Champion Sweatshirt - Small Burgundy Cotton Blend",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E8291AE3-774C-42D6-9608-93F07A5F6701.webp?v=1786715835",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B146BD12-E686-478B-BD75-7692C1EC83EC.webp?v=1790244335",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/45BD835E-78DC-4ED2-8EF1-234B9D289ED8.webp?v=1790244335",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/949D9882-D15D-49E3-BC7A-F447473E2595.webp?v=1790244335"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E8291AE3-774C-42D6-9608-93F07A5F6701.webp?v=1786715835",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6826BD3D-974B-41D4-A272-3D0FF3662A78.webp?v=1786715835",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F1E247FD-3FAD-4AE2-9698-BF3F9F1F644F.webp?v=1786715835"
       ],
       "sizes": [
-        "Large"
+        "Small"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-navy-large-131911-a",
-      "brand": "Carhartt",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-burgundy-small-116810-a",
+      "brand": "Champion",
       "material": "Cotton Blend",
-      "era": "2020S",
+      "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 74,
+      "score": 72,
       "views": 0,
-      "addedAt": "2026-10-03T02:06:44.114Z",
+      "addedAt": "2026-10-08T20:30:57.873Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16347756626307,
-      "sourceId": 16347756626307,
-      "name": "Original Fit Carhartt Hoodie - Medium Black Cotton Blend",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/12CA4528-8277-4C70-A16B-C20494DC0ADC.webp?v=1790244482",
+      "id": 16359208714627,
+      "sourceId": 16359208714627,
+      "name": "Alberta Canada Harley Davidson Graphic Long Sleeve T-Shirt - Small Black Cotton",
+      "price": 87,
+      "sourcePrice": 53.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4A37F194-D5A9-4596-B18C-743715366912.webp?v=1790855965",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/12CA4528-8277-4C70-A16B-C20494DC0ADC.webp?v=1790244482",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9E505E3E-50D1-4907-91C0-82DC4E86D891.webp?v=1790244483",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1380E42-A789-4A60-8457-B39364807072.webp?v=1790244482"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4A37F194-D5A9-4596-B18C-743715366912.webp?v=1790855965",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BA3BB2F-8C50-41F4-AFE2-EE6D89BDD68F.webp?v=1790855965",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F4FEBAFD-ECEB-44FF-9EFF-E2506BB0C18F.webp?v=1790855965"
       ],
       "sizes": [
-        "Medium"
+        "Small"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/original-fit-carhartt-hoodie-mens-black-medium-131944-a",
-      "brand": "Carhartt",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 69,
-      "views": 0,
-      "addedAt": "2026-10-03T02:06:44.114Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248302174595,
-      "sourceId": 16248302174595,
-      "name": "Reverse Weave Champion Hoodie - Large Black Cotton",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B93B97C3-4B34-4CAA-9514-80CC18EB4370.webp?v=1786715890",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B93B97C3-4B34-4CAA-9514-80CC18EB4370.webp?v=1786715890",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/47D88882-367F-4DC0-AA4D-703201605F79.webp?v=1786715890",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/586344A7-42EF-4685-9978-0271A21868AC.webp?v=1786715891"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-black-large-116788-a",
-      "brand": "Champion",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/alberta-canada-harley-davidson-long-sleeve-t-shirt-mens-black-small-118120-a",
+      "brand": "Harley Davidson",
       "material": "Cotton",
       "era": "2000S",
       "condition": "Very Good",
@@ -394,65 +385,384 @@
       "status": "available",
       "score": 68,
       "views": 0,
-      "addedAt": "2026-10-03T02:06:44.114Z",
+      "addedAt": "2026-10-08T20:30:57.873Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16248296046979,
-      "sourceId": 16248296046979,
-      "name": "Reverse Weave Champion Hoodie - Small Navy Cotton",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/33F106D8-7461-413E-A32B-2B251D7733BB.webp?v=1786715818",
+      "id": 16347798241667,
+      "sourceId": 16347798241667,
+      "name": "Csuf Champion College Sweatshirt - Large Navy Cotton Blend",
+      "price": 87,
+      "sourcePrice": 53.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/40F757B1-4BBC-49CA-8598-7479820FC364.webp?v=1790246262",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/33F106D8-7461-413E-A32B-2B251D7733BB.webp?v=1786715818",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A190C2E4-6A43-490C-84C8-35272A203155.webp?v=1786715818",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/073E8CF2-F4E9-497F-919A-D88E5166FFDB.webp?v=1786715819"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/40F757B1-4BBC-49CA-8598-7479820FC364.webp?v=1790246262",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7F8B98FF-9F93-4D54-B6AC-DDFC23C28CC6.webp?v=1790246262",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BB9E4A69-22B6-41DC-80FD-1DDB54199A28.webp?v=1790246262"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/csuf-champion-sweatshirt-mens-navy-large-132579-a",
+      "brand": "Champion",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 66,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16248299028867,
+      "sourceId": 16248299028867,
+      "name": "Reverse Weave Champion Hoodie - Small Black Cotton",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/96B3280B-6721-4EDD-AEBC-A97EA94317E4.webp?v=1786715831",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/96B3280B-6721-4EDD-AEBC-A97EA94317E4.webp?v=1786715831",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7E27CC00-0761-410D-9D14-1B288E0B8B3E.webp?v=1786715831",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CEC94C83-78BB-4EE3-ADF4-BB8AE04C9291.webp?v=1786715831"
       ],
       "sizes": [
         "Small"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-navy-small-116793-a",
+      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-black-small-116811-a",
       "brand": "Champion",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 65,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16359260488067,
+      "sourceId": 16359260488067,
+      "name": "Made In USA Ace Sportswear Camo T-Shirt - Large Khaki Cotton",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FD7C0113-EA45-481D-B524-76ADE9FE692E.webp?v=1790857334",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FD7C0113-EA45-481D-B524-76ADE9FE692E.webp?v=1790857334",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CFA4D8EC-31D4-406D-97A7-300FE774A164.webp?v=1790857334",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CAB229FF-1422-43CA-9A7D-915408E36AB0.webp?v=1790857334"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/made-in-usa-ace-sportswear-t-shirt-mens-khaki-large-118478-a",
+      "brand": "Ace Sportswear",
       "material": "Cotton",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 68,
+      "score": 65,
       "views": 0,
-      "addedAt": "2026-10-03T02:06:44.114Z",
+      "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16248295162243,
-      "sourceId": 16248295162243,
-      "name": "Reverse Weave Champion Hoodie - Medium Beige Cotton",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B924D45F-FEBA-4067-88D3-CDF5EFC01C3B.webp?v=1786715812",
+      "id": 16359211958659,
+      "sourceId": 16359211958659,
+      "name": "Onalaska Harley Davidson Graphic T-Shirt - Medium Navy Cotton",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/48AB60D9-D79E-4AB0-BCBF-AF2EF75F350A.webp?v=1790856072",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B924D45F-FEBA-4067-88D3-CDF5EFC01C3B.webp?v=1786715812",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/10EF9DD2-4D99-43FC-92C5-0A676E81FF09.webp?v=1786715812",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/59E57865-3B83-4B3D-A967-7D7842F23142.webp?v=1786715813"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/48AB60D9-D79E-4AB0-BCBF-AF2EF75F350A.webp?v=1790856072",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FD8C0836-AA1B-4A7E-B65E-2F2297D49831.webp?v=1790856073",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BC7EEA49-9931-4837-8CAA-42A77FC59A47.webp?v=1790856073"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/onalaska-harley-davidson-t-shirt-mens-navy-medium-118145-a",
+      "brand": "Harley Davidson",
+      "material": "Cotton",
+      "era": "1990S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 65,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16347746599299,
+      "sourceId": 16347746599299,
+      "name": "Patagonia Oversized Hoodie - Medium Burgundy Cotton Blend",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/51C17973-F9D1-4778-8F88-C76E3E501DF9.webp?v=1790244080",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/51C17973-F9D1-4778-8F88-C76E3E501DF9.webp?v=1790244080",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AC291535-75F1-4808-B706-EBA2A022B5E7.webp?v=1790244080",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F7F48A05-C9B3-40CC-933A-3C0E8738D0D3.webp?v=1790244080"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-hoodie-mens-beige-medium-116798-a",
-      "brand": "Champion",
+      "url": "https://www.thrifted.com/products/patagonia-hoodie-mens-burgundy-medium-131853-a",
+      "brand": "Patagonia",
+      "material": "Cotton Blend",
+      "era": "2020S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 63,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16359385989507,
+      "sourceId": 16359385989507,
+      "name": "The North Face Hoodie - Small Khaki Cotton Blend",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/94725C68-10E7-4FC8-BFF2-194A8749714A.webp?v=1790860189",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/94725C68-10E7-4FC8-BFF2-194A8749714A.webp?v=1790860189",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/89450B67-DF04-427E-AF1E-80C80DCAE4DA.webp?v=1790860189",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/93CA4808-0022-4316-9A04-C2DD3820C58D.webp?v=1790860189"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/the-north-face-hoodie-mens-khaki-small-119254-a",
+      "brand": "The North Face",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 62,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16359385137539,
+      "sourceId": 16359385137539,
+      "name": "The North Face Hoodie - Large Black Cotton Blend",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A7049492-99A1-41A6-AA11-98ADC24679BC.webp?v=1790860128",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A7049492-99A1-41A6-AA11-98ADC24679BC.webp?v=1790860128",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/180404CC-5BEB-486B-A4C9-E0C1FF4C52D9.webp?v=1790860128",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6CC165BF-B4E1-43A2-A837-2087402E63D9.webp?v=1790860128"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/the-north-face-hoodie-mens-black-large-119239-a",
+      "brand": "The North Face",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 62,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16359385170307,
+      "sourceId": 16359385170307,
+      "name": "Levis Hoodie - Large Black Cotton Blend",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/90C5748A-EEDB-46D0-8F1E-CBEE120C21E6.webp?v=1790860132",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/90C5748A-EEDB-46D0-8F1E-CBEE120C21E6.webp?v=1790860132",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/31550447-9096-49AF-8459-800872C7C7C6.webp?v=1790860132",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D22C4CDC-3CF4-4585-B752-CDDA6C141861.webp?v=1790860133"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/levis-hoodie-mens-black-large-119240-a",
+      "brand": "Levis",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 62,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16359218577795,
+      "sourceId": 16359218577795,
+      "name": "Harley Davidson Graphic T-Shirt - Large Black Cotton",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/245FE73F-CE0C-459C-AAD8-DB58E1218BDB.webp?v=1790856303",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/245FE73F-CE0C-459C-AAD8-DB58E1218BDB.webp?v=1790856303",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D64C579-0363-4799-B534-9D8609F09BDC.webp?v=1790856303",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/55ADA2B7-9C68-425E-ADCD-F0F1B6252D13.webp?v=1790856303"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/harley-davidson-t-shirt-mens-black-large-118200-a",
+      "brand": "Harley Davidson",
       "material": "Cotton",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 68,
+      "score": 62,
       "views": 0,
-      "addedAt": "2026-10-03T02:06:44.114Z",
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16359185777027,
+      "sourceId": 16359185777027,
+      "name": "Green Bay Packers Logo Athletics Graphic Sweatshirt - Large Green Cotton Blend",
+      "price": 87,
+      "sourcePrice": 53.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/31E5B47B-3117-4F2F-BF44-838F5DA2CA1E.webp?v=1790855316",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/31E5B47B-3117-4F2F-BF44-838F5DA2CA1E.webp?v=1790855316",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E87FDA4B-A25D-4EAE-BA00-5ADED2B8C127.webp?v=1790855316",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/46A8DFB5-7206-4563-8999-1A1C43034DA1.webp?v=1790855316"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/green-bay-packers-logo-athletics-sweatshirt-mens-green-large-117953-a",
+      "brand": "Logo Athletics",
+      "material": "Cotton Blend",
+      "era": "1990S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 61,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16359281295747,
+      "sourceId": 16359281295747,
+      "name": "Guess Spellout Sweatshirt - Medium Orange Cotton",
+      "price": 84,
+      "sourcePrice": 50.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/42E1DD89-A030-470B-8A8D-28F65C4E5F48.webp?v=1790857796",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/42E1DD89-A030-470B-8A8D-28F65C4E5F48.webp?v=1790857796",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8E6B9932-2D21-4131-8089-16E2202AD0FB.webp?v=1790857796",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4881ACB9-152B-4266-BB67-9593FB01713B.webp?v=1790857796"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/guess-sweatshirt-mens-orange-medium-118586-a",
+      "brand": "Guess",
+      "material": "Cotton",
+      "era": "1990S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 60,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16248226054531,
+      "sourceId": 16248226054531,
+      "name": "Carhartt Long Sleeve T-Shirt - Medium Black Cotton",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C2C1B299-908A-4DB9-9CE9-233D21AFA87E.webp?v=1786714662",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2C1B299-908A-4DB9-9CE9-233D21AFA87E.webp?v=1786714662",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FCC39C11-7DB2-4898-937B-7C15FE5F0014.webp?v=1786714662",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9CE59B4B-3337-4123-A274-A5FE28544E38.webp?v=1786714662"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-womens-black-medium-117079-a",
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 60,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16347760066947,
+      "sourceId": 16347760066947,
+      "name": "Green Bay Packers Lee Sport Graphic Sweatshirt - Large Green Cotton Blend",
+      "price": 87,
+      "sourcePrice": 53.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ABA75C78-296E-4BB3-A96B-74AF76A9A781.webp?v=1790244679",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ABA75C78-296E-4BB3-A96B-74AF76A9A781.webp?v=1790244679",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1ACF1407-99C9-42CC-8A57-07E36E62E291.webp?v=1790244680",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E29C07FB-DAD6-44F3-9059-B33B0D7066BD.webp?v=1790244680"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/green-bay-packers-lee-sport-sweatshirt-mens-green-large-131991-a",
+      "brand": "Lee Sport",
+      "material": "Cotton Blend",
+      "era": "1990S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 54,
+      "views": 0,
+      "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -480,7 +790,7 @@
       "tier": "premium",
       "status": "available",
       "score": 80,
-      "views": 3,
+      "views": 1,
       "addedAt": "2026-09-13T11:21:57.671Z",
       "soldAt": null,
       "carriedOver": false
@@ -654,7 +964,7 @@
       "tier": "premium",
       "status": "available",
       "score": 72,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-09-17T11:14:41.069Z",
       "soldAt": null,
       "carriedOver": false
@@ -712,7 +1022,7 @@
       "tier": "premium",
       "status": "available",
       "score": 93,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-09-27T22:00:33.309Z",
       "soldAt": null,
       "carriedOver": false
