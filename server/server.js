@@ -18,6 +18,11 @@ const {
   // Railway's container filesystem resets on every deploy. Same caveat as
   // the order server's orders.json.
   DATA_DIR = '.',
+  // Shared secret for the mobile "add a piece" page and smartupdate.js — not
+  // meant to be bank-grade security, just enough to stop randoms from
+  // spamming the manual-picks list. If unset, those endpoints are disabled
+  // rather than left open.
+  ADMIN_TOKEN,
 } = process.env;
 
 if (!STRIPE_SECRET_KEY) {
@@ -39,17 +44,30 @@ const STATE_FILE = `${DATA_DIR}/state.json`;
 const MAX_SOLD_EVENTS = 200;
 
 function loadState() {
-  if (!fs.existsSync(STATE_FILE)) return { views: {}, soldEvents: [] };
+  if (!fs.existsSync(STATE_FILE)) return { views: {}, soldEvents: [], manualPicks: [] };
   try {
     const raw = JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
-    return { views: raw.views || {}, soldEvents: raw.soldEvents || [] };
+    return { views: raw.views || {}, soldEvents: raw.soldEvents || [], manualPicks: raw.manualPicks || [] };
   } catch {
-    return { views: {}, soldEvents: [] };
+    return { views: {}, soldEvents: [], manualPicks: [] };
   }
 }
 
 function saveState(state) {
   fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
+}
+
+function checkAdminToken(req, res) {
+  if (!ADMIN_TOKEN) {
+    res.status(503).json({ error: 'Ručný výber nie je nastavený (chýba ADMIN_TOKEN).' });
+    return false;
+  }
+  const given = req.body?.token || req.query?.token;
+  if (given !== ADMIN_TOKEN) {
+    res.status(401).json({ error: 'Nesprávny token.' });
+    return false;
+  }
+  return true;
 }
 
 // --- Canonical stock, fetched from the repo so we never trust the client's
@@ -185,6 +203,58 @@ app.post('/api/track-view', express.json(), (req, res) => {
 app.get('/api/state', (req, res) => {
   const state = loadState();
   res.json(state);
+});
+
+// --- Manual picks: owner-curated pieces that bypass the rarity score but
+// still go through smartupdate.js's safety filters (price cap, blocked
+// batches, min listing age). Same list serves both the mobile "add a piece"
+// page and smartupdate.js's polling — token-gated since it's a write path. ---
+app.post('/api/manual-picks', express.json(), (req, res) => {
+  if (!checkAdminToken(req, res)) return;
+  const url = String(req.body?.url || '').trim();
+  if (!/^https:\/\/(www\.)?thrifted\.com\/products\//.test(url)) {
+    return res.status(400).json({ error: 'Zadaj platný odkaz na produkt z thrifted.com.' });
+  }
+  const state = loadState();
+  const entry = {
+    id: Date.now().toString(36) + Math.random().toString(36).slice(2, 7),
+    url,
+    status: 'pending', // pending | added | rejected
+    reason: null,
+    addedAt: new Date().toISOString(),
+    resolvedAt: null,
+  };
+  state.manualPicks.push(entry);
+  saveState(state);
+  res.json({ ok: true, entry });
+});
+
+app.get('/api/manual-picks', (req, res) => {
+  if (!checkAdminToken(req, res)) return;
+  res.json({ manualPicks: loadState().manualPicks });
+});
+
+// smartupdate.js reports back what happened to each pick so the mobile page
+// can show real status instead of "pending" forever.
+app.patch('/api/manual-picks/:id', express.json(), (req, res) => {
+  if (!checkAdminToken(req, res)) return;
+  const state = loadState();
+  const entry = state.manualPicks.find(p => p.id === req.params.id);
+  if (!entry) return res.status(404).json({ error: 'Nenájdené.' });
+  if (req.body?.status) entry.status = req.body.status;
+  if (req.body?.reason !== undefined) entry.reason = req.body.reason;
+  if (entry.status !== 'pending') entry.resolvedAt = new Date().toISOString();
+  saveState(state);
+  res.json({ ok: true, entry });
+});
+
+app.delete('/api/manual-picks/:id', (req, res) => {
+  if (!checkAdminToken(req, res)) return;
+  const state = loadState();
+  const before = state.manualPicks.length;
+  state.manualPicks = state.manualPicks.filter(p => p.id !== req.params.id);
+  saveState(state);
+  res.json({ ok: true, removed: before - state.manualPicks.length });
 });
 
 // --- Stripe webhook ---

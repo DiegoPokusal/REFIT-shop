@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Pridať kus — REFIT</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root { --black: #0a0a0a; --white: #f0ece4; --red: #e63222; --gray: #1a1a1a; --mid: #2a2a2a; --text-muted: #666; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--black); color: var(--white); font-family: 'Space Mono', monospace; min-height: 100vh; -webkit-text-size-adjust: 100%; }
+  .wrap { max-width: 480px; margin: 0 auto; padding: 24px 20px 60px; }
+  h1 { font-family: 'Bebas Neue', sans-serif; font-size: 2.4rem; letter-spacing: 0.08em; margin: 0 0 4px; }
+  h1 span { color: var(--red); }
+  .sub { font-size: 0.7rem; color: var(--text-muted); letter-spacing: 0.05em; margin-bottom: 28px; }
+  .card { background: var(--gray); border: 1px solid var(--mid); padding: 18px; margin-bottom: 16px; }
+  label { display: block; font-size: 0.6rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 8px; }
+  input[type="text"], input[type="password"] { width: 100%; background: var(--black); border: 1px solid var(--mid); color: var(--white); font-family: 'Space Mono', monospace; font-size: 16px; padding: 14px; margin-bottom: 14px; }
+  input:focus { outline: none; border-color: var(--red); }
+  button { width: 100%; background: var(--red); color: var(--white); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.15em; padding: 16px; cursor: pointer; }
+  button:active { background: var(--white); color: var(--black); }
+  button:disabled { opacity: 0.5; }
+  .msg { font-size: 0.72rem; line-height: 1.6; padding: 12px 14px; margin-bottom: 16px; display: none; }
+  .msg.show { display: block; }
+  .msg.ok { background: rgba(70,180,100,0.12); border-left: 2px solid #4ab464; color: #8fd4a8; }
+  .msg.err { background: rgba(230,50,34,0.1); border-left: 2px solid var(--red); color: #f0a898; }
+  .list-title { font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-muted); margin: 32px 0 12px; }
+  .pick { display: flex; align-items: flex-start; gap: 10px; padding: 12px 0; border-bottom: 1px solid var(--mid); }
+  .pick-url { font-size: 0.68rem; word-break: break-all; color: var(--white); flex: 1; line-height: 1.5; }
+  .pick-reason { font-size: 0.65rem; color: var(--text-muted); margin-top: 4px; line-height: 1.5; }
+  .badge { font-size: 0.55rem; letter-spacing: 0.1em; text-transform: uppercase; padding: 3px 8px; white-space: nowrap; flex-shrink: 0; }
+  .badge.pending { background: var(--mid); color: var(--text-muted); }
+  .badge.added { background: rgba(70,180,100,0.15); color: #4ab464; }
+  .badge.rejected { background: rgba(230,50,34,0.15); color: var(--red); }
+  .del-btn { background: none; border: 1px solid var(--mid); color: var(--text-muted); font-size: 0.6rem; padding: 6px 10px; cursor: pointer; flex-shrink: 0; }
+  .empty { font-size: 0.7rem; color: var(--text-muted); padding: 20px 0; text-align: center; }
+  #gate { max-width: 340px; margin: 80px auto; padding: 0 20px; }
+</style>
+</head>
+<body>
+
+<div id="gate">
+  <h1>RE<span>FIT</span></h1>
+  <p class="sub">Ručný výber kusov</p>
+  <div class="card">
+    <label for="tokenInput">Heslo</label>
+    <input type="password" id="tokenInput" autocomplete="off">
+    <button onclick="unlock()">ODOMKNÚŤ</button>
+  </div>
+</div>
+
+<div class="wrap" id="app" style="display:none">
+  <h1>RE<span>FIT</span></h1>
+  <p class="sub">Vlož link na kus z thrifted.com, bot ho spracuje do 30 minút.</p>
+
+  <div class="card">
+    <label for="urlInput">Link na produkt</label>
+    <input type="text" id="urlInput" placeholder="https://www.thrifted.com/products/...">
+    <button id="addBtn" onclick="addPick()">PRIDAŤ</button>
+  </div>
+
+  <div class="msg" id="msg"></div>
+
+  <div class="list-title">Tvoje výbery</div>
+  <div id="list"><div class="empty">Načítavam...</div></div>
+</div>
+
+<script>
+const SERVER = 'https://refit-shop-production.up.railway.app';
+let token = localStorage.getItem('refit_admin_token') || '';
+
+function unlock() {
+  const t = document.getElementById('tokenInput').value.trim();
+  if (!t) return;
+  token = t;
+  localStorage.setItem('refit_admin_token', t);
+  showApp();
+}
+
+function showMsg(text, ok) {
+  const el = document.getElementById('msg');
+  el.textContent = text;
+  el.className = 'msg show ' + (ok ? 'ok' : 'err');
+}
+
+function statusLabel(s) {
+  return s === 'added' ? 'Pridané' : s === 'rejected' ? 'Zamietnuté' : 'Čaká';
+}
+
+async function loadList() {
+  const listEl = document.getElementById('list');
+  try {
+    const res = await fetch(SERVER + '/api/manual-picks?token=' + encodeURIComponent(token));
+    if (res.status === 401) { localStorage.removeItem('refit_admin_token'); location.reload(); return; }
+    const data = await res.json();
+    const picks = (data.manualPicks || []).slice().reverse();
+    if (!picks.length) { listEl.innerHTML = '<div class="empty">Zatiaľ žiadne výbery.</div>'; return; }
+    listEl.innerHTML = picks.map(p => `
+      <div class="pick">
+        <div class="pick-url">${p.url}${p.reason ? `<div class="pick-reason">${p.reason}</div>` : ''}</div>
+        <span class="badge ${p.status}">${statusLabel(p.status)}</span>
+        <button class="del-btn" onclick="removePick('${p.id}')">×</button>
+      </div>
+    `).join('');
+  } catch (e) {
+    listEl.innerHTML = '<div class="empty">Nepodarilo sa načítať zoznam.</div>';
+  }
+}
+
+async function addPick() {
+  const input = document.getElementById('urlInput');
+  const btn = document.getElementById('addBtn');
+  const url = input.value.trim();
+  if (!url) return;
+  btn.disabled = true;
+  btn.textContent = 'PRIDÁVAM...';
+  try {
+    const res = await fetch(SERVER + '/api/manual-picks', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ token, url }),
+    });
+    const data = await res.json();
+    if (!res.ok) { showMsg(data.error || 'Nepodarilo sa pridať.', false); }
+    else { showMsg('Pridané do čakacieho zoznamu — bot to spracuje do 30 minút.', true); input.value = ''; loadList(); }
+  } catch (e) {
+    showMsg('Chyba pripojenia, skús znova.', false);
+  }
+  btn.disabled = false;
+  btn.textContent = 'PRIDAŤ';
+}
+
+async function removePick(id) {
+  try {
+    await fetch(SERVER + '/api/manual-picks/' + id + '?token=' + encodeURIComponent(token), { method: 'DELETE' });
+    loadList();
+  } catch (e) {}
+}
+
+function showApp() {
+  document.getElementById('gate').style.display = 'none';
+  document.getElementById('app').style.display = 'block';
+  loadList();
+}
+
+if (token) showApp();
+</script>
+</body>
+</html>
