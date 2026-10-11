@@ -336,6 +336,14 @@
     {
       "sourceId": 16347746599299,
       "removedAt": "2026-10-11T13:54:15.949Z"
+    },
+    {
+      "sourceId": 16248384618883,
+      "removedAt": "2026-10-11T14:00:09.824Z"
+    },
+    {
+      "sourceId": 16269276184963,
+      "removedAt": "2026-10-11T14:00:10.053Z"
     }
   ],
   "products": [
@@ -862,64 +870,6 @@
       "carriedOver": false
     },
     {
-      "id": 16269276184963,
-      "sourceId": 16269276184963,
-      "name": "Yin Yang Logo Stussy Graphic Long Sleeve T-Shirt - Small Cream Cotton",
-      "price": 131,
-      "sourcePrice": 97.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FFBE75B1-EBE4-46E7-B86A-A872532F159A.webp?v=1787748541",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FFBE75B1-EBE4-46E7-B86A-A872532F159A.webp?v=1787748541",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F882F934-ADAF-48B8-B506-05EB300BB29B.webp?v=1787748541",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/190331C7-09AA-43A5-A973-4A77A626BF0D.webp?v=1787748542"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/yin-yang-logo-stussy-long-sleeve-t-shirt-mens-cream-small-103604-a",
-      "brand": "Stussy",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 73,
-      "views": 1,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248384618883,
-      "sourceId": 16248384618883,
-      "name": "Motorcycles Harley Davidson Graphic Hoodie - Large Black Cotton Blend",
-      "price": 119,
-      "sourcePrice": 85.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/19CED450-842D-4A45-95F8-C2EC2F7EBDAB.webp?v=1786717699",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/19CED450-842D-4A45-95F8-C2EC2F7EBDAB.webp?v=1786717699",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/72352850-2B67-4935-8EA9-37A485B2BBF4.webp?v=1786717699",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/18294A65-858F-4458-B695-7504A67BF3B8.webp?v=1786717699"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/motorcycles-harley-davidson-hoodie-mens-black-large-116920-a",
-      "brand": "Harley Davidson",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 72,
-      "views": 2,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
       "id": 16347750334851,
       "sourceId": 16347750334851,
       "name": "Patagonia Puffer - Large Blue Down",
@@ -943,7 +893,7 @@
       "tier": "premium",
       "status": "available",
       "score": 100,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-09-27T22:00:33.309Z",
       "soldAt": null,
       "carriedOver": false
@@ -1030,8 +980,68 @@
       "tier": "drops",
       "status": "available",
       "score": 55,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-11T13:40:54.600Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16347716452739,
+      "sourceId": 16347716452739,
+      "name": "Stussy Graphic T-Shirt - Large Navy Cotton",
+      "price": 123,
+      "sourcePrice": 89.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BC854E15-713C-4672-B63B-77703A26F87B.webp?v=1790243166",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BC854E15-713C-4672-B63B-77703A26F87B.webp?v=1790243166",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DC19BAC1-DAEC-4F66-B16A-00925B5BEB6E.webp?v=1790243165",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9149DAFE-D151-44AC-B371-969FA2DE434B.webp?v=1790243166"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/stussy-t-shirt-mens-navy-large-132539-a",
+      "brand": "Stussy",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "available",
+      "score": 58,
+      "views": 0,
+      "addedAt": "2026-10-11T14:00:09.824Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16347697217923,
+      "sourceId": 16347697217923,
+      "name": "Patagonia Fleece - Large Red Polyester",
+      "price": 111,
+      "sourcePrice": 77.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FCA06159-5629-41EF-A4E1-9A4F65595BB6.webp?v=1790242512",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FCA06159-5629-41EF-A4E1-9A4F65595BB6.webp?v=1790242512",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D52AC951-C9A8-4ACE-BEBB-5BB320FE310C.webp?v=1790242512",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DD0E120C-D4A5-4B49-B361-F165BA47C016.webp?v=1790242512"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/patagonia-fleece-mens-red-large-132668-a",
+      "brand": "Patagonia",
+      "material": "Polyester",
+      "era": "1990S",
+      "condition": "Good",
+      "tier": "premium",
+      "status": "available",
+      "score": 81,
+      "views": 0,
+      "addedAt": "2026-10-11T14:00:10.053Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
