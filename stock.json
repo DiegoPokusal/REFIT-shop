@@ -344,6 +344,10 @@
     {
       "sourceId": 16269276184963,
       "removedAt": "2026-10-11T14:00:10.053Z"
+    },
+    {
+      "sourceId": 16115905167747,
+      "removedAt": "2026-10-11T14:30:06.966Z"
     }
   ],
   "products": [
@@ -783,35 +787,6 @@
       "carriedOver": false
     },
     {
-      "id": 16115905167747,
-      "sourceId": 16115905167747,
-      "name": "Made In USA Adidas Hoodie - Large Blue Cotton Blend",
-      "price": 104,
-      "sourcePrice": 70.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AFB48EF5-34DE-4F07-8F9C-1838BC1FFBE5.webp?v=1784718184",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AFB48EF5-34DE-4F07-8F9C-1838BC1FFBE5.webp?v=1784718184",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D6BCC7F8-C615-4630-A86B-17F0F43CB84F.webp?v=1784718184",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/109A4ECF-0BF0-4BF3-9C80-6CBFD415BBD5.webp?v=1784718185"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/made-in-usa-adidas-hoodie-mens-blue-large-112425-a",
-      "brand": "Adidas",
-      "material": "Cotton Blend",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 74,
-      "views": 1,
-      "addedAt": "2026-09-13T12:01:06.082Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
       "id": 16175520940419,
       "sourceId": 16175520940419,
       "name": "Made In USA, Washington Redskins Nutmeg Nfl Sweatshirt - Medium Red Cotton",
@@ -922,7 +897,7 @@
       "tier": "premium",
       "status": "available",
       "score": 93,
-      "views": 2,
+      "views": 3,
       "addedAt": "2026-09-27T22:00:33.309Z",
       "soldAt": null,
       "carriedOver": false
@@ -951,7 +926,7 @@
       "tier": "premium",
       "status": "available",
       "score": 100,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-03T02:06:44.114Z",
       "soldAt": null,
       "carriedOver": false
@@ -1010,7 +985,7 @@
       "tier": "premium",
       "status": "available",
       "score": 58,
-      "views": 0,
+      "views": 2,
       "addedAt": "2026-10-11T14:00:09.824Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1042,6 +1017,36 @@
       "score": 81,
       "views": 0,
       "addedAt": "2026-10-11T14:00:10.053Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16347697021315,
+      "sourceId": 16347697021315,
+      "name": "Red Bull Jacket - Large Navy Nylon",
+      "price": 135,
+      "sourcePrice": 101.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/295DB07B-1804-46DC-90C4-9126BF24CCB7.webp?v=1790242499",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/295DB07B-1804-46DC-90C4-9126BF24CCB7.webp?v=1790242499",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6662EBF2-724C-4380-85BF-64CFA02B4EA8.webp?v=1790242499",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3659B615-9A94-4E21-8B35-EF7EB6206F07.webp?v=1790242499"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/red-bull-jacket-mens-navy-large-132665-a",
+      "brand": "Red Bull",
+      "material": "Nylon",
+      "era": "1990S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "available",
+      "score": 63,
+      "views": 0,
+      "addedAt": "2026-10-11T14:30:06.965Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
