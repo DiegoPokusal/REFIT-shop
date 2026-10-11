@@ -328,6 +328,10 @@
     {
       "sourceId": 16248295162243,
       "removedAt": "2026-10-08T20:30:57.873Z"
+    },
+    {
+      "sourceId": 16347760066947,
+      "removedAt": "2026-10-11T13:40:54.600Z"
     }
   ],
   "products": [
@@ -355,7 +359,7 @@
       "tier": "drops",
       "status": "available",
       "score": 72,
-      "views": 0,
+      "views": 4,
       "addedAt": "2026-10-08T20:30:57.873Z",
       "soldAt": null,
       "carriedOver": false
@@ -384,7 +388,7 @@
       "tier": "drops",
       "status": "available",
       "score": 68,
-      "views": 0,
+      "views": 2,
       "addedAt": "2026-10-08T20:30:57.873Z",
       "soldAt": null,
       "carriedOver": false
@@ -413,7 +417,7 @@
       "tier": "drops",
       "status": "available",
       "score": 66,
-      "views": 0,
+      "views": 3,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -442,7 +446,7 @@
       "tier": "drops",
       "status": "available",
       "score": 65,
-      "views": 0,
+      "views": 3,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -471,7 +475,7 @@
       "tier": "drops",
       "status": "available",
       "score": 65,
-      "views": 0,
+      "views": 4,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -500,7 +504,7 @@
       "tier": "drops",
       "status": "available",
       "score": 65,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -529,7 +533,7 @@
       "tier": "drops",
       "status": "available",
       "score": 63,
-      "views": 0,
+      "views": 6,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -558,7 +562,7 @@
       "tier": "drops",
       "status": "available",
       "score": 62,
-      "views": 0,
+      "views": 4,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -587,7 +591,7 @@
       "tier": "drops",
       "status": "available",
       "score": 62,
-      "views": 0,
+      "views": 4,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -616,7 +620,7 @@
       "tier": "drops",
       "status": "available",
       "score": 62,
-      "views": 0,
+      "views": 4,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -645,7 +649,7 @@
       "tier": "drops",
       "status": "available",
       "score": 62,
-      "views": 0,
+      "views": 3,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -674,7 +678,7 @@
       "tier": "drops",
       "status": "available",
       "score": 61,
-      "views": 0,
+      "views": 4,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -703,7 +707,7 @@
       "tier": "drops",
       "status": "available",
       "score": 60,
-      "views": 0,
+      "views": 3,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -732,35 +736,6 @@
       "tier": "drops",
       "status": "available",
       "score": 60,
-      "views": 0,
-      "addedAt": "2026-10-08T20:30:57.874Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16347760066947,
-      "sourceId": 16347760066947,
-      "name": "Green Bay Packers Lee Sport Graphic Sweatshirt - Large Green Cotton Blend",
-      "price": 87,
-      "sourcePrice": 53.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ABA75C78-296E-4BB3-A96B-74AF76A9A781.webp?v=1790244679",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ABA75C78-296E-4BB3-A96B-74AF76A9A781.webp?v=1790244679",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1ACF1407-99C9-42CC-8A57-07E36E62E291.webp?v=1790244680",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E29C07FB-DAD6-44F3-9059-B33B0D7066BD.webp?v=1790244680"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/green-bay-packers-lee-sport-sweatshirt-mens-green-large-131991-a",
-      "brand": "Lee Sport",
-      "material": "Cotton Blend",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 54,
       "views": 0,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
@@ -1055,6 +1030,36 @@
       "addedAt": "2026-10-03T02:06:44.114Z",
       "soldAt": null,
       "carriedOver": false
+    },
+    {
+      "id": 16376833540483,
+      "sourceId": 16376833540483,
+      "name": "Timberland Hoodie - Large Black Cotton Blend",
+      "price": 75,
+      "sourcePrice": 41.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DF3ADE48-49C4-4FD1-A3D7-7AF30878F47C.webp?v=1791566936",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DF3ADE48-49C4-4FD1-A3D7-7AF30878F47C.webp?v=1791566936",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B6FF4B5C-10CA-4C24-844E-B1CE880F8977.webp?v=1791566936",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/899F2976-B693-4D52-A618-9532B7505537.webp?v=1791566937"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/timberland-hoodie-mens-black-large-122845-a",
+      "brand": "Timberland",
+      "material": "Cotton Blend",
+      "era": "2020S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 55,
+      "views": 0,
+      "addedAt": "2026-10-11T13:40:54.600Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
     },
     {
       "id": 16248322589059,
