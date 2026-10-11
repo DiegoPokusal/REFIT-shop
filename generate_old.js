@@ -1,4 +1,9 @@
 const fs = require('fs');
+// Written alongside index.html only when generate_old.js actually runs,
+// which only happens when smartupdate.js found a real change — so a client
+// polling version.json only ever sees a bump when something genuinely new
+// is live, never on an empty 30-min check.
+const buildVersion = Date.now().toString();
 const stockData = JSON.parse(fs.readFileSync('stock.json', 'utf8'));
 // New shape is {lastCycleAt, removedHistory, products:[...]}; fall back to
 // the legacy category-keyed shape ({jacket:[],hoodie:[],...}) if it's ever
@@ -459,6 +464,7 @@ fbq('track', 'PageView');
 const PRODUCTS = ${JSON.stringify(productData)};
 const SERVER_URL = 'https://glorious-optimism-production-0039.up.railway.app';
 const CHECKOUT_SERVER_URL = 'https://refit-shop-production.up.railway.app';
+const BUILD_VERSION = '${buildVersion}';
 function trackPixel(name,params,eventID){
   if(typeof fbq==='undefined')return;
   eventID?fbq('track',name,params,{eventID:eventID}):fbq('track',name,params);
@@ -734,7 +740,32 @@ document.addEventListener('DOMContentLoaded',()=>{
   updateCart();
   handleStripeReturn();
 });
+(function(){
+  var CHECK_INTERVAL_MS = 90000;
+  var dismissed = sessionStorage.getItem('refit_update_dismissed') === BUILD_VERSION;
+  function checkVersion(){
+    if(dismissed)return;
+    fetch('/version.json?t='+Date.now()).then(function(r){return r.json();}).then(function(data){
+      if(data && data.v && data.v !== BUILD_VERSION && !dismissed){
+        document.getElementById('updateBanner').style.display='flex';
+      }
+    }).catch(function(){});
+  }
+  window.dismissUpdateBanner = function(){
+    document.getElementById('updateBanner').style.display='none';
+    sessionStorage.setItem('refit_update_dismissed', BUILD_VERSION);
+    dismissed = true;
+  };
+  setInterval(checkVersion, CHECK_INTERVAL_MS);
+})();
 </script>
+<div id="updateBanner" style="display:none;position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:#e63222;color:#f0ece4;padding:14px 18px;z-index:4000;align-items:center;gap:14px;font-family:'Space Mono',monospace;box-shadow:0 4px 20px rgba(0,0,0,0.4);max-width:90vw;">
+  <p style="font-size:0.68rem;letter-spacing:0.03em;margin:0;white-space:nowrap;">Pribudli nové kusy v ponuke</p>
+  <div style="display:flex;gap:8px;flex-shrink:0;">
+    <button onclick="location.reload()" style="background:#f0ece4;color:#e63222;border:none;font-family:'Bebas Neue',sans-serif;font-size:0.8rem;letter-spacing:0.1em;padding:8px 16px;cursor:pointer;">OBNOVIŤ</button>
+    <button onclick="dismissUpdateBanner()" style="background:none;color:#f0ece4;border:1px solid rgba(240,236,228,0.5);font-size:0.9rem;padding:6px 12px;cursor:pointer;line-height:1;">×</button>
+  </div>
+</div>
 <div id="cookieBanner" style="position:fixed;bottom:0;left:0;right:0;background:#1a1a1a;border-top:1px solid #2a2a2a;padding:12px 20px;display:flex;justify-content:space-between;align-items:center;z-index:3000;gap:16px">
   <p style="font-size:0.6rem;color:#999;letter-spacing:0.1em;line-height:1.6;">Táto stránka používa nevyhnutné cookies. <a href="/gdpr.html" style="color:#e63222;">Viac info</a></p>
   <button onclick="document.getElementById('cookieBanner').style.display='none';localStorage.setItem('cookies','1')" style="background:#e63222;color:#fff;border:none;font-family:'Bebas Neue',sans-serif;font-size:0.85rem;letter-spacing:0.15em;padding:10px 20px;cursor:pointer;white-space:nowrap;flex-shrink:0">SÚHLASÍM</button>
@@ -743,5 +774,6 @@ document.addEventListener('DOMContentLoaded',()=>{
 </body>
 </html>`;
 fs.writeFileSync('index.html', html);
+fs.writeFileSync('version.json', JSON.stringify({ v: buildVersion }));
 console.log('✅ index.html vygenerovaný s reálnymi produktmi!');
 console.log('📁 Nahraj index.html do GitHub repozitára REFIT-shop');
