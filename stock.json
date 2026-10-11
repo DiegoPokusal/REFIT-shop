@@ -332,6 +332,10 @@
     {
       "sourceId": 16347760066947,
       "removedAt": "2026-10-11T13:40:54.600Z"
+    },
+    {
+      "sourceId": 16347746599299,
+      "removedAt": "2026-10-11T13:54:15.949Z"
     }
   ],
   "products": [
@@ -505,35 +509,6 @@
       "status": "available",
       "score": 65,
       "views": 1,
-      "addedAt": "2026-10-08T20:30:57.874Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16347746599299,
-      "sourceId": 16347746599299,
-      "name": "Patagonia Oversized Hoodie - Medium Burgundy Cotton Blend",
-      "price": 75,
-      "sourcePrice": 41.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/51C17973-F9D1-4778-8F88-C76E3E501DF9.webp?v=1790244080",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/51C17973-F9D1-4778-8F88-C76E3E501DF9.webp?v=1790244080",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AC291535-75F1-4808-B706-EBA2A022B5E7.webp?v=1790244080",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F7F48A05-C9B3-40CC-933A-3C0E8738D0D3.webp?v=1790244080"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/patagonia-hoodie-mens-burgundy-medium-131853-a",
-      "brand": "Patagonia",
-      "material": "Cotton Blend",
-      "era": "2020S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 63,
-      "views": 6,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
