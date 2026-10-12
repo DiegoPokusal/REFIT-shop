@@ -9,6 +9,10 @@ const stockData = JSON.parse(fs.readFileSync('stock.json', 'utf8'));
 // the legacy category-keyed shape ({jacket:[],hoodie:[],...}) if it's ever
 // encountered mid-transition.
 const products = Array.isArray(stockData.products) ? stockData.products : Object.values(stockData).flat();
+// Mirrors CYCLE_INTERVAL_DAYS in smartupdate.js: the DROPS rotation fires
+// 5 days after the last cycle, so that's when the countdown on the page ends.
+const DROP_INTERVAL_MS = 5 * 24 * 60 * 60 * 1000;
+const nextDropAt = stockData.lastCycleAt ? new Date(stockData.lastCycleAt).getTime() + DROP_INTERVAL_MS : null;
 console.log(`📦 Produktov v sklade: ${products.length}`);
 function getCategory(p) {
   const type = (p.category || '').toLowerCase();
@@ -138,6 +142,13 @@ const html = `<!DOCTYPE html>
   .shop-panel.active { display: block; }
   .section-header { display: flex; flex-direction: column; gap: 16px; margin-bottom: 24px; border-bottom: 1px solid var(--mid); padding-bottom: 20px; }
   @media (min-width: 600px) { .section-header { flex-direction: row; justify-content: space-between; align-items: flex-end; margin-bottom: 40px; } }
+  .drop-countdown { background: var(--black); border: 1px solid var(--mid); padding: 28px 16px; text-align: center; margin-bottom: 32px; }
+  .drop-countdown-label { font-size: 0.7rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--red); }
+  .drop-countdown-grid { display: flex; justify-content: center; gap: 10px; margin-top: 14px; }
+  .drop-countdown-grid div { background: var(--gray); border: 1px solid var(--mid); flex: 1; max-width: 90px; min-width: 0; padding: 10px 4px; }
+  .drop-countdown-grid b { display: block; font-family: 'Bebas Neue', sans-serif; font-size: 2.6rem; line-height: 1; font-weight: 400; letter-spacing: 0.05em; color: var(--white); }
+  .drop-countdown-grid span { font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--muted); }
+  @media (max-width: 480px) { .drop-countdown-grid { gap: 6px; } .drop-countdown-grid b { font-size: 2.1rem; } .drop-countdown-grid span { font-size: 0.5rem; letter-spacing: 0.1em; } }
   .section-title { font-family: 'Bebas Neue', sans-serif; font-size: 2.5rem; letter-spacing: 0.1em; }
   .filters { display: flex; gap: 6px; flex-wrap: wrap; }
   .filter-btn { background: none; border: 1px solid var(--mid); color: var(--text-muted); font-family: 'Space Mono', monospace; font-size: 0.6rem; letter-spacing: 0.1em; padding: 8px 12px; cursor: pointer; transition: all 0.2s; text-transform: uppercase; position: relative; overflow: hidden; }
@@ -359,6 +370,15 @@ fbq('track', 'PageView');
     </button>
   </div>
   <div class="shop-panel active" id="dropsPanel">
+    ${nextDropAt ? `<div class="drop-countdown" id="dropCountdown" style="display:none">
+      <div class="drop-countdown-label">Ďalší drop</div>
+      <div class="drop-countdown-grid">
+        <div><b id="cdD">0</b><span>dní</span></div>
+        <div><b id="cdH">00</b><span>hodín</span></div>
+        <div><b id="cdM">00</b><span>minút</span></div>
+        <div><b id="cdS">00</b><span>sekúnd</span></div>
+      </div>
+    </div>` : ''}
     <div class="section-header">
       <h2 class="section-title">DROPS</h2>
       <div class="filters">
@@ -741,6 +761,30 @@ document.addEventListener('DOMContentLoaded',()=>{
   handleStripeReturn();
 });
 (function(){
+  var box = document.getElementById('dropCountdown');
+  if(!box) return;
+  var target = ${nextDropAt};
+  function pad(n){ return String(n).padStart(2,'0'); }
+  function tick(){
+    var r = Math.floor((target - Date.now())/1000);
+    if(r <= 0){ box.style.display = 'none'; return; }
+    box.style.display = '';
+    document.getElementById('cdD').textContent = Math.floor(r/86400);
+    document.getElementById('cdH').textContent = pad(Math.floor(r%86400/3600));
+    document.getElementById('cdM').textContent = pad(Math.floor(r%3600/60));
+    document.getElementById('cdS').textContent = pad(r%60);
+  }
+  tick();
+  setInterval(tick, 1000);
+  // After a drop the new target arrives via version.json, so an open tab
+  // picks up the next countdown without a reload.
+  setInterval(function(){
+    fetch('/version.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+      if(d && d.nextDropAt && d.nextDropAt > target){ target = d.nextDropAt; tick(); }
+    }).catch(function(){});
+  }, 90000);
+})();
+(function(){
   var CHECK_INTERVAL_MS = 90000;
   var dismissed = sessionStorage.getItem('refit_update_dismissed') === BUILD_VERSION;
   function checkVersion(){
@@ -774,6 +818,6 @@ document.addEventListener('DOMContentLoaded',()=>{
 </body>
 </html>`;
 fs.writeFileSync('index.html', html);
-fs.writeFileSync('version.json', JSON.stringify({ v: buildVersion }));
+fs.writeFileSync('version.json', JSON.stringify({ v: buildVersion, nextDropAt }));
 console.log('✅ index.html vygenerovaný s reálnymi produktmi!');
 console.log('📁 Nahraj index.html do GitHub repozitára REFIT-shop');
