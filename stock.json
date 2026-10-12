@@ -1046,7 +1046,7 @@
       "tier": "drops",
       "status": "available",
       "score": 53,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-12T10:38:06.053Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1076,8 +1076,38 @@
       "tier": "premium",
       "status": "available",
       "score": 72,
-      "views": 0,
+      "views": 2,
       "addedAt": "2026-10-12T10:38:06.352Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16347791720835,
+      "sourceId": 16347791720835,
+      "name": "St. Louis Cardinals Majestic Mlb Baseball Jacket - XL Red Polyester",
+      "price": 131,
+      "sourcePrice": 97.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ADEF983C-AE4C-42CE-A424-A2822F7A4620.webp?v=1790246102",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ADEF983C-AE4C-42CE-A424-A2822F7A4620.webp?v=1790246102",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7FEB76DD-9560-451A-8F91-F6DACD5E1BC6.webp?v=1790246102",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/89F7DE20-B476-4311-9337-C4FF771A31A7.webp?v=1790246102"
+      ],
+      "sizes": [
+        "X-Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/st-louis-cardinals-majestic-baseball-jacket-mens-red-x-large-132435-a",
+      "brand": "Majestic",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "available",
+      "score": 53,
+      "views": 0,
+      "addedAt": "2026-10-12T12:03:16.303Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
