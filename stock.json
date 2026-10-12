@@ -549,7 +549,7 @@
       "tier": "drops",
       "status": "available",
       "score": 62,
-      "views": 4,
+      "views": 5,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -874,35 +874,6 @@
       "carriedOver": false
     },
     {
-      "id": 16347760787843,
-      "sourceId": 16347760787843,
-      "name": "J149 Thermal Lined Carhartt Hoodie - Large Navy Cotton Blend",
-      "price": 113,
-      "sourcePrice": 79.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1B62A496-7242-4F3E-926C-279B342E15D1.webp?v=1790244709",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1B62A496-7242-4F3E-926C-279B342E15D1.webp?v=1790244709",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B910BA8-C5BC-4888-BF68-CA4CFAB372C4.webp?v=1790244710",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/98189EA5-B0F5-4829-B028-0A53933AD2C5.webp?v=1790244709"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/j149-thermal-lined-carhartt-hoodie-mens-navy-large-131998-a",
-      "brand": "Carhartt",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 93,
-      "views": 3,
-      "addedAt": "2026-09-27T22:00:33.309Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
       "id": 16347748467075,
       "sourceId": 16347748467075,
       "name": "800 Fill The North Face Oversized Puffer - Small Navy Down",
@@ -985,7 +956,7 @@
       "tier": "premium",
       "status": "available",
       "score": 58,
-      "views": 2,
+      "views": 3,
       "addedAt": "2026-10-11T14:00:09.824Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1015,7 +986,7 @@
       "tier": "premium",
       "status": "available",
       "score": 81,
-      "views": 0,
+      "views": 2,
       "addedAt": "2026-10-11T14:00:10.053Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1045,11 +1016,40 @@
       "tier": "premium",
       "status": "available",
       "score": 63,
-      "views": 0,
+      "views": 2,
       "addedAt": "2026-10-11T14:30:06.965Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
+    },
+    {
+      "id": 16347760787843,
+      "sourceId": 16347760787843,
+      "name": "J149 Thermal Lined Carhartt Hoodie - Large Navy Cotton Blend",
+      "price": 113,
+      "sourcePrice": 79.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1B62A496-7242-4F3E-926C-279B342E15D1.webp?v=1790244709",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1B62A496-7242-4F3E-926C-279B342E15D1.webp?v=1790244709",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B910BA8-C5BC-4888-BF68-CA4CFAB372C4.webp?v=1790244710",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/98189EA5-B0F5-4829-B028-0A53933AD2C5.webp?v=1790244709"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/j149-thermal-lined-carhartt-hoodie-mens-navy-large-131998-a",
+      "brand": "Carhartt",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "unavailable",
+      "score": 93,
+      "views": 3,
+      "addedAt": "2026-09-27T22:00:33.309Z",
+      "soldAt": "2026-10-12T10:30:06.146Z",
+      "carriedOver": false
     },
     {
       "id": 16248322589059,
