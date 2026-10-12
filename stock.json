@@ -1023,6 +1023,66 @@
       "manualPick": true
     },
     {
+      "id": 16359420592515,
+      "sourceId": 16359420592515,
+      "name": "Fila Checked Track Jacket - Medium White Polyester",
+      "price": 69,
+      "sourcePrice": 35.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F66B0EDC-9D6E-494B-B397-12D7B487286A.webp?v=1790861218",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F66B0EDC-9D6E-494B-B397-12D7B487286A.webp?v=1790861218",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/84074C22-E81F-44D8-ADCE-3AE799B5365C.webp?v=1790861217",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/37EF93A9-203C-4D8A-B9D9-2EA3CA60749D.webp?v=1790861217"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/fila-track-jacket-mens-white-medium-119503-a",
+      "brand": "Fila",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 53,
+      "views": 0,
+      "addedAt": "2026-10-12T10:38:06.053Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16359594885507,
+      "sourceId": 16359594885507,
+      "name": "Sherpa Lined Levis Camo Jacket - XL Camo Faux Fur",
+      "price": 117,
+      "sourcePrice": 83.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9A0A8BD1-4ADC-47DF-AFA4-1EA50CDE370C.webp?v=1790865038",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9A0A8BD1-4ADC-47DF-AFA4-1EA50CDE370C.webp?v=1790865038",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E7E00663-6F36-4AEE-AD14-5FDDC371A2A2.webp?v=1790865038",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9C1F2F43-19CE-4401-8D3A-69E9E4AD429B.webp?v=1790865038"
+      ],
+      "sizes": [
+        "X-Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/sherpa-lined-levis-jacket-mens-camo-x-large-120683-a",
+      "brand": "Levis",
+      "material": "Faux Fur",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "available",
+      "score": 72,
+      "views": 0,
+      "addedAt": "2026-10-12T10:38:06.352Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
       "id": 16347760787843,
       "sourceId": 16347760787843,
       "name": "J149 Thermal Lined Carhartt Hoodie - Large Navy Cotton Blend",
