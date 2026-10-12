@@ -636,7 +636,7 @@
       "tier": "drops",
       "status": "available",
       "score": 62,
-      "views": 3,
+      "views": 4,
       "addedAt": "2026-10-08T20:30:57.874Z",
       "soldAt": null,
       "carriedOver": false
@@ -1108,6 +1108,36 @@
       "score": 53,
       "views": 0,
       "addedAt": "2026-10-12T12:03:16.303Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16248324653443,
+      "sourceId": 16248324653443,
+      "name": "Racing Sno Gear Motorcycle Ski Jacket - Medium Black Polyester",
+      "price": 143,
+      "sourcePrice": 109.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/04B1965F-4A9E-4A47-B66F-A277632907AF.webp?v=1786716314",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/04B1965F-4A9E-4A47-B66F-A277632907AF.webp?v=1786716314",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5942771D-385B-4007-AB4D-00E1D871D363.webp?v=1786716314",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E20B294A-AEF0-4636-8E7E-7756C7020D4F.webp?v=1786716315"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/racing-sno-gear-ski-jacket-mens-black-medium-117685-a",
+      "brand": "Sno Gear",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Good",
+      "tier": "premium",
+      "status": "available",
+      "score": 38,
+      "views": 0,
+      "addedAt": "2026-10-12T16:01:38.417Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
