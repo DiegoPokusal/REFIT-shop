@@ -958,6 +958,36 @@
       "manualPick": true
     },
     {
+      "id": 15950881227139,
+      "sourceId": 15950881227139,
+      "name": "Polo By Ralph Lauren T-Shirt - Large Navy Cotton",
+      "price": 43,
+      "sourcePrice": 9.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A9E8B39B-DB1B-4ED7-9188-A09B645A10BF.webp?v=1778228488",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A9E8B39B-DB1B-4ED7-9188-A09B645A10BF.webp?v=1778228488",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/118C2A72-A866-448B-8FFD-AB1D5636C9A7.webp?v=1778228478",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF71D11E-AC5E-42FF-AE17-D4B2DDC60845.webp?v=1778228505"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/polo-by-ralph-lauren-t-shirt-mens-navy-large-91203-a",
+      "brand": "Polo by Ralph Lauren",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 12,
+      "views": 0,
+      "addedAt": "2026-10-13T20:02:27.786Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
       "id": 16347760787843,
       "sourceId": 16347760787843,
       "name": "J149 Thermal Lined Carhartt Hoodie - Large Navy Cotton Blend",
