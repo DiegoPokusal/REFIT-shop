@@ -35,6 +35,14 @@
   .badge.added { background: rgba(70,180,100,0.15); color: #4ab464; }
   .badge.rejected { background: rgba(230,50,34,0.15); color: var(--red); }
   .del-btn { background: none; border: 1px solid var(--mid); color: var(--text-muted); font-size: 0.6rem; padding: 6px 10px; cursor: pointer; flex-shrink: 0; }
+  .shop-item { display: flex; align-items: center; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--mid); }
+  .shop-item img { width: 52px; height: 52px; object-fit: cover; background: var(--gray); flex-shrink: 0; }
+  .shop-item-info { flex: 1; min-width: 0; }
+  .shop-item-name { font-size: 0.68rem; line-height: 1.4; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+  .shop-item-meta { font-size: 0.6rem; color: var(--text-muted); margin-top: 3px; letter-spacing: 0.05em; }
+  .rm-btn { width: auto; background: none; border: 1px solid var(--red); color: var(--red); font-size: 0.95rem; padding: 8px 12px; flex-shrink: 0; }
+  .rm-btn:active { background: var(--red); color: var(--white); }
+  .rm-btn:disabled { border-color: var(--mid); color: var(--text-muted); font-size: 0.8rem; }
   .empty { font-size: 0.7rem; color: var(--text-muted); padding: 20px 0; text-align: center; }
   #gate { max-width: 340px; margin: 80px auto; padding: 0 20px; }
 </style>
@@ -65,6 +73,9 @@
 
   <div class="list-title">Tvoje výbery</div>
   <div id="list"><div class="empty">Načítavam...</div></div>
+
+  <div class="list-title">Aktuálne v obchode</div>
+  <div id="shopList"><div class="empty">Načítavam...</div></div>
 </div>
 
 <script>
@@ -95,17 +106,78 @@ async function loadList() {
     const res = await fetch(SERVER + '/api/manual-picks?token=' + encodeURIComponent(token));
     if (res.status === 401) { localStorage.removeItem('refit_admin_token'); location.reload(); return; }
     const data = await res.json();
-    const picks = (data.manualPicks || []).slice().reverse();
-    if (!picks.length) { listEl.innerHTML = '<div class="empty">Zatiaľ žiadne výbery.</div>'; return; }
-    listEl.innerHTML = picks.map(p => `
+    const all = data.manualPicks || [];
+    pendingRemovals = new Set(all.filter(p => p.action === 'remove' && p.status === 'pending').map(p => String(p.productId)));
+    const picks = all.slice().reverse();
+    if (!picks.length) { listEl.innerHTML = '<div class="empty">Zatiaľ žiadne výbery.</div>'; }
+    else listEl.innerHTML = picks.map(p => {
+      const isRm = p.action === 'remove';
+      const label = isRm ? (p.status === 'added' ? 'Odstránené' : p.status === 'rejected' ? 'Zamietnuté' : 'Čaká') : statusLabel(p.status);
+      const text = isRm ? 'Odstrániť: ' + esc(p.name || p.productId) : esc(p.url);
+      return `
       <div class="pick">
-        <div class="pick-url">${p.url}${p.reason ? `<div class="pick-reason">${p.reason}</div>` : ''}</div>
-        <span class="badge ${p.status}">${statusLabel(p.status)}</span>
-        <button class="del-btn" onclick="removePick('${p.id}')">×</button>
-      </div>
-    `).join('');
+        <div class="pick-url">${text}${p.reason ? `<div class="pick-reason">${esc(p.reason)}</div>` : ''}</div>
+        <span class="badge ${p.status}">${label}</span>
+        <button class="del-btn" onclick="removePick('${esc(p.id)}')">×</button>
+      </div>`;
+    }).join('');
+    renderShop();
   } catch (e) {
     listEl.innerHTML = '<div class="empty">Nepodarilo sa načítať zoznam.</div>';
+  }
+}
+
+let shopProducts = [];
+let pendingRemovals = new Set();
+
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+async function loadShop() {
+  try {
+    const res = await fetch('/stock.json?t=' + Date.now());
+    const data = await res.json();
+    shopProducts = (data.products || []).filter(p => (p.status || 'available') === 'available');
+    renderShop();
+  } catch (e) {
+    document.getElementById('shopList').innerHTML = '<div class="empty">Nepodarilo sa načítať obchod.</div>';
+  }
+}
+
+function renderShop() {
+  const el = document.getElementById('shopList');
+  if (!shopProducts.length) { el.innerHTML = '<div class="empty">V obchode nie sú žiadne kusy.</div>'; return; }
+  const sorted = shopProducts.slice().sort((a, b) => (a.tier === b.tier ? 0 : a.tier === 'premium' ? -1 : 1));
+  el.innerHTML = sorted.map(p => {
+    const waiting = pendingRemovals.has(String(p.id));
+    return `
+    <div class="shop-item">
+      <img src="${esc(p.image)}" alt="" loading="lazy">
+      <div class="shop-item-info">
+        <div class="shop-item-name">${esc(p.name)}</div>
+        <div class="shop-item-meta">${p.tier === 'premium' ? 'PREMIUM' : 'DROPS'} · ${esc(p.price)}€</div>
+      </div>
+      <button class="rm-btn" ${waiting ? 'disabled' : ''} onclick="requestRemoval('${esc(p.id)}')">${waiting ? 'ČAKÁ' : '×'}</button>
+    </div>`;
+  }).join('');
+}
+
+async function requestRemoval(id) {
+  const p = shopProducts.find(x => String(x.id) === String(id));
+  if (!p) return;
+  if (!confirm('Odstrániť z obchodu?\n\n' + p.name)) return;
+  try {
+    const res = await fetch(SERVER + '/api/manual-picks', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ token, action: 'remove', productId: String(p.id), name: p.name, url: p.url }),
+    });
+    const data = await res.json();
+    if (!res.ok) showMsg(data.error || 'Nepodarilo sa odstrániť.', false);
+    else { showMsg('Odstránenie zaradené — bot ho vykoná do 30 minút.', true); loadList(); }
+  } catch (e) {
+    showMsg('Chyba pripojenia, skús znova.', false);
   }
 }
 
@@ -142,6 +214,7 @@ async function removePick(id) {
 function showApp() {
   document.getElementById('gate').style.display = 'none';
   document.getElementById('app').style.display = 'block';
+  loadShop();
   loadList();
 }
 

@@ -211,13 +211,38 @@ app.get('/api/state', (req, res) => {
 // page and smartupdate.js's polling — token-gated since it's a write path. ---
 app.post('/api/manual-picks', express.json(), (req, res) => {
   if (!checkAdminToken(req, res)) return;
+  const state = loadState();
+  const newId = Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+
+  // Removal request: same queue, picked up by smartupdate.js next run.
+  if (req.body?.action === 'remove') {
+    const productId = String(req.body?.productId || '').trim();
+    if (!/^\d+$/.test(productId)) return res.status(400).json({ error: 'Neplatné ID produktu.' });
+    if (state.manualPicks.some(p => p.action === 'remove' && p.productId === productId && p.status === 'pending')) {
+      return res.status(409).json({ error: 'Tento kus už čaká na odstránenie.' });
+    }
+    const entry = {
+      id: newId,
+      action: 'remove',
+      productId,
+      name: String(req.body?.name || '').slice(0, 200),
+      url: String(req.body?.url || '').slice(0, 500),
+      status: 'pending',
+      reason: null,
+      addedAt: new Date().toISOString(),
+      resolvedAt: null,
+    };
+    state.manualPicks.push(entry);
+    saveState(state);
+    return res.json({ ok: true, entry });
+  }
+
   const url = String(req.body?.url || '').trim();
   if (!/^https:\/\/(www\.)?thrifted\.com\/products\//.test(url)) {
     return res.status(400).json({ error: 'Zadaj platný odkaz na produkt z thrifted.com.' });
   }
-  const state = loadState();
   const entry = {
-    id: Date.now().toString(36) + Math.random().toString(36).slice(2, 7),
+    id: newId,
     url,
     status: 'pending', // pending | added | rejected
     reason: null,
