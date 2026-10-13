@@ -28,7 +28,9 @@
   .msg.err { background: rgba(230,50,34,0.1); border-left: 2px solid var(--red); color: #f0a898; }
   .list-title { font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-muted); margin: 32px 0 12px; }
   .pick { display: flex; align-items: flex-start; gap: 10px; padding: 12px 0; border-bottom: 1px solid var(--mid); }
-  .pick-url { font-size: 0.68rem; word-break: break-all; color: var(--white); flex: 1; line-height: 1.5; }
+  .pick { align-items: center; padding: 8px 0; }
+  .pick-url { font-size: 0.8rem; color: var(--white); flex: 1; line-height: 1.5; }
+  .pick-url a { color: var(--white); text-decoration: none; }
   .pick-reason { font-size: 0.65rem; color: var(--text-muted); margin-top: 4px; line-height: 1.5; }
   .badge { font-size: 0.55rem; letter-spacing: 0.1em; text-transform: uppercase; padding: 3px 8px; white-space: nowrap; flex-shrink: 0; }
   .badge.pending { background: var(--mid); color: var(--text-muted); }
@@ -108,15 +110,15 @@ async function loadList() {
     const data = await res.json();
     const all = data.manualPicks || [];
     pendingRemovals = new Set(all.filter(p => p.action === 'remove' && p.status === 'pending').map(p => String(p.productId)));
-    const picks = all.slice().reverse();
+    const picks = all.map((p, i) => ({ ...p, n: i + 1 })).reverse();
     if (!picks.length) { listEl.innerHTML = '<div class="empty">Zatiaľ žiadne výbery.</div>'; }
     else listEl.innerHTML = picks.map(p => {
       const isRm = p.action === 'remove';
       const label = isRm ? (p.status === 'added' ? 'Odstránené' : p.status === 'rejected' ? 'Zamietnuté' : 'Čaká') : statusLabel(p.status);
-      const text = isRm ? 'Odstrániť: ' + esc(p.name || p.productId) : esc(p.url);
+      const num = p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener">#${p.n}</a>` : `#${p.n}`;
       return `
       <div class="pick">
-        <div class="pick-url">${text}${p.reason ? `<div class="pick-reason">${esc(p.reason)}</div>` : ''}</div>
+        <div class="pick-url">${num}${isRm ? ' <span class="pick-reason">odstrániť</span>' : ''}${p.reason ? `<div class="pick-reason">${esc(p.reason)}</div>` : ''}</div>
         <span class="badge ${p.status}">${label}</span>
         <button class="del-btn" onclick="removePick('${esc(p.id)}')">×</button>
       </div>`;
