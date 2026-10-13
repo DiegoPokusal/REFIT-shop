@@ -44,12 +44,12 @@ const STATE_FILE = `${DATA_DIR}/state.json`;
 const MAX_SOLD_EVENTS = 200;
 
 function loadState() {
-  if (!fs.existsSync(STATE_FILE)) return { views: {}, soldEvents: [], manualPicks: [] };
+  if (!fs.existsSync(STATE_FILE)) return { views: {}, soldEvents: [], manualPicks: [], botStatus: null };
   try {
     const raw = JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
-    return { views: raw.views || {}, soldEvents: raw.soldEvents || [], manualPicks: raw.manualPicks || [] };
+    return { views: raw.views || {}, soldEvents: raw.soldEvents || [], manualPicks: raw.manualPicks || [], botStatus: raw.botStatus || null };
   } catch {
-    return { views: {}, soldEvents: [], manualPicks: [] };
+    return { views: {}, soldEvents: [], manualPicks: [], botStatus: null };
   }
 }
 
@@ -280,6 +280,28 @@ app.delete('/api/manual-picks/:id', (req, res) => {
   state.manualPicks = state.manualPicks.filter(p => p.id !== req.params.id);
   saveState(state);
   res.json({ ok: true, removed: before - state.manualPicks.length });
+});
+
+// --- Bot heartbeat: smartupdate.js reports every run, the mobile page shows it ---
+app.post('/api/bot-status', express.json(), (req, res) => {
+  if (!checkAdminToken(req, res)) return;
+  const state = loadState();
+  const now = new Date().toISOString();
+  const ok = !!req.body?.ok;
+  state.botStatus = {
+    lastRunAt: now,
+    ok,
+    message: String(req.body?.message || '').slice(0, 200),
+    lastSuccessAt: ok ? now : (state.botStatus?.lastSuccessAt || null),
+    lastChangeAt: req.body?.changed ? now : (state.botStatus?.lastChangeAt || null),
+  };
+  saveState(state);
+  res.json({ ok: true });
+});
+
+app.get('/api/bot-status', (req, res) => {
+  if (!checkAdminToken(req, res)) return;
+  res.json({ botStatus: loadState().botStatus });
 });
 
 // --- Stripe webhook ---

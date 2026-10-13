@@ -37,6 +37,9 @@
   .badge.added { background: rgba(70,180,100,0.15); color: #4ab464; }
   .badge.rejected { background: rgba(230,50,34,0.15); color: var(--red); }
   .del-btn { background: none; border: 1px solid var(--mid); color: var(--text-muted); font-size: 0.6rem; padding: 6px 10px; cursor: pointer; flex-shrink: 0; }
+  .bot-status { font-size: 0.68rem; line-height: 1.5; padding: 10px 14px; margin-bottom: 16px; border-left: 2px solid var(--mid); background: var(--gray); color: var(--text-muted); }
+  .bot-status.ok { border-left-color: #4ab464; color: #8fd4a8; }
+  .bot-status.bad { border-left-color: var(--red); color: #f0a898; }
   .shop-item { display: flex; align-items: center; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--mid); }
   .shop-item img { width: 52px; height: 52px; object-fit: cover; background: var(--gray); flex-shrink: 0; }
   .shop-item-info { flex: 1; min-width: 0; }
@@ -64,6 +67,8 @@
 <div class="wrap" id="app" style="display:none">
   <h1>RE<span>FIT</span></h1>
   <p class="sub">Vlož link na kus z thrifted.com, bot ho spracuje do 30 minút.</p>
+
+  <div class="bot-status" id="botStatus">Bot: načítavam...</div>
 
   <div class="card">
     <label for="urlInput">Link na produkt</label>
@@ -126,6 +131,42 @@ async function loadList() {
     renderShop();
   } catch (e) {
     listEl.innerHTML = '<div class="empty">Nepodarilo sa načítať zoznam.</div>';
+  }
+}
+
+// Cron fires every 30 min; anything past ~75 min without a heartbeat means
+// the run didn't happen (or crashed before it could report).
+const STALE_MS = 75 * 60 * 1000;
+
+function ago(iso) {
+  const m = Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 60000));
+  if (m < 1) return 'práve teraz';
+  if (m < 60) return 'pred ' + m + ' min';
+  const h = Math.floor(m / 60);
+  if (h < 24) return 'pred ' + h + ' h ' + (m % 60) + ' min';
+  return 'pred ' + Math.floor(h / 24) + ' d';
+}
+
+async function loadBotStatus() {
+  const el = document.getElementById('botStatus');
+  try {
+    const res = await fetch(SERVER + '/api/bot-status?token=' + encodeURIComponent(token));
+    const s = (await res.json()).botStatus;
+    if (!s) { el.className = 'bot-status'; el.textContent = 'Bot: zatiaľ žiadny záznam o behu.'; return; }
+    const stale = Date.now() - new Date(s.lastRunAt).getTime() > STALE_MS;
+    if (stale) {
+      el.className = 'bot-status bad';
+      el.textContent = 'Bot nebeží: posledný beh ' + ago(s.lastRunAt) + '. Skontroluj Railway.';
+    } else if (!s.ok) {
+      el.className = 'bot-status bad';
+      el.textContent = 'Posledný beh ' + ago(s.lastRunAt) + ' zlyhal: ' + (s.message || 'neznáma chyba');
+    } else {
+      el.className = 'bot-status ok';
+      el.textContent = 'Posledný beh ' + ago(s.lastRunAt) + ': v poriadku' + (s.lastChangeAt ? ' · posledná zmena ' + ago(s.lastChangeAt) : '');
+    }
+  } catch (e) {
+    el.className = 'bot-status bad';
+    el.textContent = 'Nepodarilo sa načítať stav bota.';
   }
 }
 
@@ -218,6 +259,8 @@ function showApp() {
   document.getElementById('app').style.display = 'block';
   loadShop();
   loadList();
+  loadBotStatus();
+  setInterval(loadBotStatus, 60000);
 }
 
 if (token) showApp();
