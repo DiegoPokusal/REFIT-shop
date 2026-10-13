@@ -2,126 +2,6 @@
   "lastCycleAt": "2026-10-08T20:30:13.935Z",
   "removedHistory": [
     {
-      "sourceId": 16248365318531,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248364433795,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248364958083,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248365154691,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248302338435,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248300601731,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248299979139,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248296833411,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248298275203,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248301977987,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248266064259,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248297587075,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248294900099,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16248294539651,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16118529556867,
-      "removedAt": "2026-09-13T11:21:57.671Z"
-    },
-    {
-      "sourceId": 16117229027715,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16112401777027,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16112393257347,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16248250073475,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16248253284739,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16248252924291,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16248249713027,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16248226218371,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16175534080387,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16117216936323,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16175536931203,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16248400576899,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16248308236675,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16248281858435,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
-      "sourceId": 16248384094595,
-      "removedAt": "2026-09-13T12:01:06.081Z"
-    },
-    {
       "sourceId": 16267169726851,
       "removedAt": "2026-09-17T10:58:36.885Z"
     },
@@ -956,7 +836,7 @@
       "tier": "premium",
       "status": "available",
       "score": 58,
-      "views": 3,
+      "views": 4,
       "addedAt": "2026-10-11T14:00:09.824Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1016,7 +896,7 @@
       "tier": "premium",
       "status": "available",
       "score": 63,
-      "views": 2,
+      "views": 3,
       "addedAt": "2026-10-11T14:30:06.965Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1076,7 +956,7 @@
       "tier": "premium",
       "status": "available",
       "score": 72,
-      "views": 2,
+      "views": 5,
       "addedAt": "2026-10-12T10:38:06.352Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1106,7 +986,7 @@
       "tier": "premium",
       "status": "available",
       "score": 53,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-12T12:03:16.303Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1136,8 +1016,68 @@
       "tier": "premium",
       "status": "available",
       "score": 38,
-      "views": 0,
+      "views": 2,
       "addedAt": "2026-10-12T16:01:38.417Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16112455811459,
+      "sourceId": 16112455811459,
+      "name": "Racing Snap On Graphic Jacket - Large Black Polyester",
+      "price": 113,
+      "sourcePrice": 79.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25568323-F08B-4922-9229-EE2A5EB28FA8.webp?v=1784648997",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/25568323-F08B-4922-9229-EE2A5EB28FA8.webp?v=1784648997",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/78D5EF84-1972-4774-A931-C8DFF93C2CC5.webp?v=1784648997",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0F2D9B42-B86A-4E04-9823-F9A65E4641BF.webp?v=1784648997"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/racing-snap-on-jacket-mens-black-large-111287-a",
+      "brand": "Snap On",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "available",
+      "score": 5,
+      "views": 0,
+      "addedAt": "2026-10-13T15:33:05.839Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16359303053699,
+      "sourceId": 16359303053699,
+      "name": "Vans Graphic Jacket - Small Black Cotton",
+      "price": 107,
+      "sourcePrice": 73.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/392C93E1-02DD-4B46-B163-3A25AA57FBA9.webp?v=1790858121",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/392C93E1-02DD-4B46-B163-3A25AA57FBA9.webp?v=1790858121",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C5D2CC02-03B9-4CB5-935C-56700E4E4DA6.webp?v=1790858121",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/75203BEC-7298-45CF-98DE-A708B45EF5B2.webp?v=1790858122"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/vans-jacket-mens-black-small-118733-a",
+      "brand": "Vans",
+      "material": "Cotton",
+      "era": "2020S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "available",
+      "score": 60,
+      "views": 0,
+      "addedAt": "2026-10-13T15:33:05.839Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
