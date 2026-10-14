@@ -292,6 +292,14 @@
     {
       "sourceId": 16248226054531,
       "removedAt": "2026-10-13T20:33:10.080Z"
+    },
+    {
+      "sourceId": 16376841404803,
+      "removedAt": "2026-10-14T07:30:13.189Z"
+    },
+    {
+      "sourceId": 16376841568643,
+      "removedAt": "2026-10-14T07:30:13.189Z"
     }
   ],
   "products": [
@@ -319,7 +327,7 @@
       "tier": "drops",
       "status": "available",
       "score": 55,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-10-11T13:40:54.600Z",
       "soldAt": null,
       "carriedOver": false,
@@ -379,7 +387,7 @@
       "tier": "drops",
       "status": "available",
       "score": 12,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:02:27.786Z",
       "soldAt": null,
       "carriedOver": false,
@@ -438,7 +446,7 @@
       "tier": "drops",
       "status": "available",
       "score": 79,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -496,7 +504,7 @@
       "tier": "drops",
       "status": "available",
       "score": 76,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -525,7 +533,7 @@
       "tier": "drops",
       "status": "available",
       "score": 66,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -554,65 +562,7 @@
       "tier": "drops",
       "status": "available",
       "score": 66,
-      "views": 0,
-      "addedAt": "2026-10-13T20:33:10.080Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16376841568643,
-      "sourceId": 16376841568643,
-      "name": "Dickies Jacket - Large Black Nylon",
-      "price": 81,
-      "sourcePrice": 47.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E23244BB-4AE4-495E-9500-65C3E4EF64ED.webp?v=1791567116",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E23244BB-4AE4-495E-9500-65C3E4EF64ED.webp?v=1791567116",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6DA1EF54-17D4-46C3-8BCD-25A1BDCB6281.webp?v=1791567116",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/90F2A9F7-9C6E-42E5-8A99-28B17A56FB0C.webp?v=1791567117"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/dickies-jacket-mens-black-large-122885-a",
-      "brand": "Dickies",
-      "material": "Nylon",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 65,
-      "views": 0,
-      "addedAt": "2026-10-13T20:33:10.080Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16376841404803,
-      "sourceId": 16376841404803,
-      "name": "Dickies Jacket - Medium Blue Nylon",
-      "price": 81,
-      "sourcePrice": 47.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D0D6A2A7-507A-4A3B-B788-CDF252A0576A.webp?v=1791567112",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D0D6A2A7-507A-4A3B-B788-CDF252A0576A.webp?v=1791567112",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EAC99991-79DF-4879-BAB7-0AB5DC33C7D5.webp?v=1791567111",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/807F7912-157E-442B-AB02-36180CB0EEF1.webp?v=1791567112"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/dickies-jacket-mens-blue-medium-122884-a",
-      "brand": "Dickies",
-      "material": "Nylon",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 65,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -641,7 +591,7 @@
       "tier": "drops",
       "status": "available",
       "score": 63,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -699,7 +649,7 @@
       "tier": "drops",
       "status": "available",
       "score": 60,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -757,7 +707,7 @@
       "tier": "drops",
       "status": "available",
       "score": 58,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
