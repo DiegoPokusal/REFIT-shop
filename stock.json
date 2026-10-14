@@ -1136,6 +1136,36 @@
       "manualPick": true
     },
     {
+      "id": 16373584003459,
+      "sourceId": 16373584003459,
+      "name": "Columbia Fleece Jacket - Medium Grey Polyester",
+      "price": 64,
+      "sourcePrice": 30.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6905CDDC-88E4-43AA-ACA9-8287470A012F.webp?v=1791469773",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6905CDDC-88E4-43AA-ACA9-8287470A012F.webp?v=1791469773",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD1015E2-72E3-459B-BD15-D510BD09BC67.webp?v=1791469773",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF25856C-CC94-41CF-B9DD-31C40F289F08.webp?v=1791469773"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/columbia-fleece-jacket-mens-grey-medium-121990-a",
+      "brand": "Columbia",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 60,
+      "views": 0,
+      "addedAt": "2026-10-14T20:02:47.298Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
       "id": 16359594885507,
       "sourceId": 16359594885507,
       "name": "Sherpa Lined Levis Camo Jacket - XL Camo Faux Fur",
