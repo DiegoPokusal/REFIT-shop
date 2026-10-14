@@ -300,6 +300,14 @@
     {
       "sourceId": 16376841568643,
       "removedAt": "2026-10-14T07:30:13.189Z"
+    },
+    {
+      "sourceId": 16376835473795,
+      "removedAt": "2026-10-14T19:32:48.679Z"
+    },
+    {
+      "sourceId": 16376752341379,
+      "removedAt": "2026-10-14T19:32:48.679Z"
     }
   ],
   "products": [
@@ -327,7 +335,7 @@
       "tier": "drops",
       "status": "available",
       "score": 55,
-      "views": 2,
+      "views": 3,
       "addedAt": "2026-10-11T13:40:54.600Z",
       "soldAt": null,
       "carriedOver": false,
@@ -387,7 +395,7 @@
       "tier": "drops",
       "status": "available",
       "score": 12,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-10-13T20:02:27.786Z",
       "soldAt": null,
       "carriedOver": false,
@@ -504,7 +512,7 @@
       "tier": "drops",
       "status": "available",
       "score": 76,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -533,7 +541,7 @@
       "tier": "drops",
       "status": "available",
       "score": 66,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -562,36 +570,7 @@
       "tier": "drops",
       "status": "available",
       "score": 66,
-      "views": 1,
-      "addedAt": "2026-10-13T20:33:10.080Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16376835473795,
-      "sourceId": 16376835473795,
-      "name": "The North Face Hoodie - Small Green Cotton Blend",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A3C2B824-7FFA-4FEB-BB73-71B07DA3E04F.webp?v=1791566980",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3C2B824-7FFA-4FEB-BB73-71B07DA3E04F.webp?v=1791566980",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/896F3507-2689-4107-9AC7-1E9CB707D761.webp?v=1791566978",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DEB64A1F-FD1B-469C-9E31-141CFB90A5E9.webp?v=1791566979"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/the-north-face-hoodie-mens-green-small-122855-a",
-      "brand": "The North Face",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 63,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -620,7 +599,7 @@
       "tier": "drops",
       "status": "available",
       "score": 63,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -649,7 +628,7 @@
       "tier": "drops",
       "status": "available",
       "score": 60,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -678,7 +657,7 @@
       "tier": "drops",
       "status": "available",
       "score": 60,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -707,7 +686,7 @@
       "tier": "drops",
       "status": "available",
       "score": 58,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -736,7 +715,7 @@
       "tier": "drops",
       "status": "available",
       "score": 58,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -765,7 +744,7 @@
       "tier": "drops",
       "status": "available",
       "score": 58,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -794,35 +773,6 @@
       "tier": "drops",
       "status": "available",
       "score": 58,
-      "views": 0,
-      "addedAt": "2026-10-13T20:33:10.080Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16376752341379,
-      "sourceId": 16376752341379,
-      "name": "2Nd Bn 36Th Inf Tees That Talk Graphic Sweatshirt - Large Grey Cotton Blend",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9FCC953B-8F33-4F47-A212-35723D3E8A5C.webp?v=1791565041",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9FCC953B-8F33-4F47-A212-35723D3E8A5C.webp?v=1791565041",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/69B46540-0181-4981-B561-9670E3DBDB7E.webp?v=1791565041",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/46531C1B-626B-48A1-A726-30801F1719FD.webp?v=1791565042"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/2nd-bn-36th-inf-tees-that-talk-sweatshirt-mens-grey-large-122944-a",
-      "brand": "Tees That Talk",
-      "material": "Cotton Blend",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 56,
       "views": 0,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
@@ -1121,6 +1071,66 @@
       "score": 60,
       "views": 1,
       "addedAt": "2026-10-13T15:33:05.839Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16385697317251,
+      "sourceId": 16385697317251,
+      "name": "The North Face Shell Jacket - Large Black Polyester",
+      "price": 121,
+      "sourcePrice": 87.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AFA89DE8-C2D0-427C-A856-25160CFEE9E7.webp?v=1791988752",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AFA89DE8-C2D0-427C-A856-25160CFEE9E7.webp?v=1791988752",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3A48478A-6D45-443A-B1EB-DF45E17A9EBF.webp?v=1791988752",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F8344ECB-123A-4D6C-98A2-7A6701618309.webp?v=1791988752"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-shell-jacket-mens-black-large-123156-a",
+      "brand": "The North Face",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "available",
+      "score": 72,
+      "views": 0,
+      "addedAt": "2026-10-14T19:33:05.436Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16376781177219,
+      "sourceId": 16376781177219,
+      "name": "The North Face Fleece Jacket - Medium Blue Polyester",
+      "price": 100,
+      "sourcePrice": 66.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/532AE6A2-F779-42EA-9F7E-C6CC1B208AA3.webp?v=1791565749",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/532AE6A2-F779-42EA-9F7E-C6CC1B208AA3.webp?v=1791565749",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6FE91665-BA1B-4557-AFA7-84BE5362C696.webp?v=1791565749",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EEF21A9D-C60B-4974-8F3B-5C1CB8831B1C.webp?v=1791565749"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-fleece-jacket-mens-blue-medium-122563-a",
+      "brand": "The North Face",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 65,
+      "views": 0,
+      "addedAt": "2026-10-14T19:33:05.437Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
