@@ -837,35 +837,6 @@
       "carriedOver": false
     },
     {
-      "id": 16116013957507,
-      "sourceId": 16116013957507,
-      "name": "Thermal Lined Carhartt Full Zip Hoodie - Large Grey Cotton",
-      "price": 113,
-      "sourcePrice": 79.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB176EF5-760C-4D4D-9959-5E18A517466B.webp?v=1784720200",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB176EF5-760C-4D4D-9959-5E18A517466B.webp?v=1784720200",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E24CD6C2-940C-4F8E-BCC7-09AA7E916B32.webp?v=1784720199",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A6A42764-FE9B-4C6C-B3DE-20850B90D065.webp?v=1784720200"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/thermal-lined-carhartt-hoodie-mens-grey-large-110648-a",
-      "brand": "Carhartt",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 77,
-      "views": 1,
-      "addedAt": "2026-09-17T11:14:41.069Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
       "id": 16347716452739,
       "sourceId": 16347716452739,
       "name": "Stussy Graphic T-Shirt - Large Navy Cotton",
@@ -1129,7 +1100,7 @@
       "tier": "drops",
       "status": "available",
       "score": 65,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-14T19:33:05.437Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1159,11 +1130,40 @@
       "tier": "drops",
       "status": "available",
       "score": 60,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-14T20:02:47.298Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
+    },
+    {
+      "id": 16116013957507,
+      "sourceId": 16116013957507,
+      "name": "Thermal Lined Carhartt Full Zip Hoodie - Large Grey Cotton",
+      "price": 113,
+      "sourcePrice": 79.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EB176EF5-760C-4D4D-9959-5E18A517466B.webp?v=1784720200",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB176EF5-760C-4D4D-9959-5E18A517466B.webp?v=1784720200",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E24CD6C2-940C-4F8E-BCC7-09AA7E916B32.webp?v=1784720199",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A6A42764-FE9B-4C6C-B3DE-20850B90D065.webp?v=1784720200"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/thermal-lined-carhartt-hoodie-mens-grey-large-110648-a",
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "unavailable",
+      "score": 77,
+      "views": 1,
+      "addedAt": "2026-09-17T11:14:41.069Z",
+      "soldAt": "2026-10-15T17:01:13.209Z",
+      "carriedOver": false
     },
     {
       "id": 16359594885507,
