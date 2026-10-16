@@ -1160,8 +1160,38 @@
       "tier": "drops",
       "status": "available",
       "score": 72,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-16T11:32:09.449Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16376819548547,
+      "sourceId": 16376819548547,
+      "name": "Baltimore Ravens Logo Athletics Nfl Hoodie - XL Purple Cotton",
+      "price": 88,
+      "sourcePrice": 54.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A56957FB-A6C4-4D7A-A70B-CBF755005337.webp?v=1791566738",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A56957FB-A6C4-4D7A-A70B-CBF755005337.webp?v=1791566738",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC849C4C-3B7E-413A-B078-4F9C7549CAF1.webp?v=1791566739",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BD8ADD7-4C98-46EB-B044-5AF3E829D041.webp?v=1791566739"
+      ],
+      "sizes": [
+        "X-Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/baltimore-ravens-logo-athletics-hoodie-mens-purple-x-large-122797-a",
+      "brand": "Logo Athletics",
+      "material": "Cotton",
+      "era": "1990S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 70,
+      "views": 0,
+      "addedAt": "2026-10-16T18:32:55.010Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
