@@ -3,8 +3,12 @@
    piece is wrapped so a failure disables only that effect, never the shop. */
 (function () {
   var mm = window.matchMedia;
-  if (!mm || !mm('(min-width:1025px) and (hover:hover) and (pointer:fine)').matches) return;
-  if (mm('(prefers-reduced-motion:reduce)').matches) return;
+  /* ?fx=on forces the effects for testing (ignores width / reduced-motion) */
+  var force = /[?&]fx=on(&|$)/.test(location.search);
+  if (!force) {
+    if (!mm || !mm('(min-width:1025px) and (hover:hover) and (pointer:fine)').matches) return;
+    if (mm('(prefers-reduced-motion:reduce)').matches) return;
+  }
   document.documentElement.classList.add('fx');
 
   var LBL = ['Pred', 'Zad', 'Štítok'];
