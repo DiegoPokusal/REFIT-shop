@@ -4,6 +4,11 @@ const fs = require('fs');
 // polling version.json only ever sees a bump when something genuinely new
 // is live, never on an empty 30-min check.
 const buildVersion = Date.now().toString();
+// Desktop-only visual effects (hero lens, 3D cards, detail loupe). Set to false to
+// rebuild the site exactly as it was before the effects existed.
+const FX_ENABLED = true;
+const fxCss = FX_ENABLED ? fs.readFileSync(require('path').join(__dirname, 'fx', 'fx.css'), 'utf8') : '';
+const fxJs = FX_ENABLED ? fs.readFileSync(require('path').join(__dirname, 'fx', 'fx.js'), 'utf8') : '';
 const stockData = JSON.parse(fs.readFileSync('stock.json', 'utf8'));
 // New shape is {lastCycleAt, removedHistory, products:[...]}; fall back to
 // the legacy category-keyed shape ({jacket:[],hoodie:[],...}) if it's ever
@@ -318,6 +323,7 @@ const html = `<!DOCTYPE html>
   @keyframes fadeIn { from { opacity: 0; transform: translateX(10px); } to { opacity: 1; transform: translateX(0); } }
   @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
   @keyframes popIn { from { transform: scale(0.5); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+${fxCss}
 </style>
 <!-- Meta Pixel -->
 <script>
@@ -631,6 +637,7 @@ function openDetail(id){
     document.querySelectorAll('.carousel-dot').forEach((d,j) => d.classList.toggle('active', j === currentSlide));
   };
   document.getElementById('detailModal').classList.add('open');
+  if(window.REFIT_FX&&REFIT_FX.detail)REFIT_FX.detail();
   syncScrollLock();
 }
 function closeDetail(){
@@ -803,6 +810,7 @@ document.addEventListener('DOMContentLoaded',()=>{
   setInterval(checkVersion, CHECK_INTERVAL_MS);
 })();
 </script>
+${fxJs ? `<script>${fxJs}</script>` : ""}
 <div id="updateBanner" style="display:none;position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:#e63222;color:#f0ece4;padding:14px 18px;z-index:4000;align-items:center;gap:14px;font-family:'Space Mono',monospace;box-shadow:0 4px 20px rgba(0,0,0,0.4);max-width:90vw;">
   <p style="font-size:0.68rem;letter-spacing:0.03em;margin:0;white-space:nowrap;">Pribudli nové kusy v ponuke</p>
   <div style="display:flex;gap:8px;flex-shrink:0;">
