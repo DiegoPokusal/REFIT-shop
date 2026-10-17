@@ -308,6 +308,14 @@
     {
       "sourceId": 16376752341379,
       "removedAt": "2026-10-14T19:32:48.679Z"
+    },
+    {
+      "sourceId": 16175520940419,
+      "removedAt": "2026-10-17T10:00:16.628Z"
+    },
+    {
+      "sourceId": 16376742543747,
+      "removedAt": "2026-10-17T10:00:32.778Z"
     }
   ],
   "products": [
@@ -395,7 +403,7 @@
       "tier": "drops",
       "status": "available",
       "score": 12,
-      "views": 3,
+      "views": 4,
       "addedAt": "2026-10-13T20:02:27.786Z",
       "soldAt": null,
       "carriedOver": false,
@@ -663,35 +671,6 @@
       "carriedOver": false
     },
     {
-      "id": 16376742543747,
-      "sourceId": 16376742543747,
-      "name": "Iowa Hawkeyes Santee College Sweatshirt - Large Black Cotton Blend",
-      "price": 80,
-      "sourcePrice": 46.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FC42269F-EDBD-45F0-BCBE-5506DC4E96E4.webp?v=1791564916",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/FC42269F-EDBD-45F0-BCBE-5506DC4E96E4.webp?v=1791564916",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/22B144E4-B52E-4011-A3A8-2EF53E4D0E2D.webp?v=1791564916",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5918B1B-A799-4267-A86C-C25789A8DF3C.webp?v=1791564916"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/iowa-hawkeyes-santee-sweatshirt-mens-black-large-122914-a",
-      "brand": "Santee",
-      "material": "Cotton Blend",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 58,
-      "views": 3,
-      "addedAt": "2026-10-13T20:33:10.080Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
       "id": 16248297587075,
       "sourceId": 16248297587075,
       "name": "Reverse Weave Champion Spellout Sweatshirt - Medium Grey Cotton",
@@ -808,35 +787,6 @@
       "carriedOver": false
     },
     {
-      "id": 16175520940419,
-      "sourceId": 16175520940419,
-      "name": "Made In USA, Washington Redskins Nutmeg Nfl Sweatshirt - Medium Red Cotton",
-      "price": 104,
-      "sourcePrice": 70.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6F963C24-22F4-4872-A7F3-AA53341DC1DD.webp?v=1784900281",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6F963C24-22F4-4872-A7F3-AA53341DC1DD.webp?v=1784900281",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF4347CA-A560-4BAC-B83C-AE7F248A36FC.webp?v=1784900281",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DC3CA7AF-7605-458C-93CE-0F82FD69B860.webp?v=1784900281"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-washington-redskins-nutmeg-sweatshirt-mens-red-medium-115293-a",
-      "brand": "Nutmeg",
-      "material": "Cotton",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 74,
-      "views": 2,
-      "addedAt": "2026-09-13T12:01:06.082Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
       "id": 16347716452739,
       "sourceId": 16347716452739,
       "name": "Stussy Graphic T-Shirt - Large Navy Cotton",
@@ -860,7 +810,7 @@
       "tier": "premium",
       "status": "available",
       "score": 58,
-      "views": 4,
+      "views": 5,
       "addedAt": "2026-10-11T14:00:09.824Z",
       "soldAt": null,
       "carriedOver": false,
@@ -890,7 +840,7 @@
       "tier": "premium",
       "status": "available",
       "score": 81,
-      "views": 2,
+      "views": 3,
       "addedAt": "2026-10-11T14:00:10.053Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1190,8 +1140,38 @@
       "tier": "drops",
       "status": "available",
       "score": 70,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-16T18:32:55.010Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16066340323715,
+      "sourceId": 16066340323715,
+      "name": "The North Face Denali Camo Fleece Jacket - Large Black Polyester",
+      "price": 82,
+      "sourcePrice": 48.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4D5E856E-C895-49E6-B4B4-CFABC4C516AE.webp?v=1783002269",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D5E856E-C895-49E6-B4B4-CFABC4C516AE.webp?v=1783002269",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/336F6D04-177E-4146-8013-53F2DD598982.webp?v=1783002269",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/740B5004-C9F1-4E6F-94A9-2AAC5D700E4B.webp?v=1783002270"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-fleece-jacket-mens-black-large-105401-a",
+      "brand": "The North Face",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 12,
+      "views": 0,
+      "addedAt": "2026-10-17T10:00:32.778Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
