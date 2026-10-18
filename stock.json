@@ -1,5 +1,5 @@
 {
-  "lastCycleAt": "2026-10-13T20:32:19.741Z",
+  "lastCycleAt": "2026-10-18T20:33:57.901Z",
   "removedHistory": [
     {
       "sourceId": 16175530770819,
@@ -248,6 +248,50 @@
     {
       "sourceId": 16359413252483,
       "removedAt": "2026-10-18T15:32:30.377Z"
+    },
+    {
+      "sourceId": 16373359149443,
+      "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16373358002563,
+      "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16373356429699,
+      "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16373579645315,
+      "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16373612052867,
+      "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16376832819587,
+      "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16373610611075,
+      "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16359273988483,
+      "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16248297587075,
+      "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16248294900099,
+      "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16248294539651,
+      "removedAt": "2026-10-18T20:34:47.906Z"
     }
   ],
   "products": [
@@ -305,7 +349,7 @@
       "tier": "drops",
       "status": "available",
       "score": 53,
-      "views": 3,
+      "views": 6,
       "addedAt": "2026-10-12T10:38:06.053Z",
       "soldAt": null,
       "carriedOver": false,
@@ -342,138 +386,259 @@
       "manualPick": true
     },
     {
-      "id": 16373359149443,
-      "sourceId": 16373359149443,
-      "name": "Carhartt Long Sleeve T-Shirt - Medium Green Cotton",
-      "price": 82,
-      "sourcePrice": 48.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C78E4732-1FAF-482F-9368-9F27E7A55573.webp?v=1791464678",
+      "id": 16376781177219,
+      "sourceId": 16376781177219,
+      "name": "The North Face Fleece Jacket - Medium Blue Polyester",
+      "price": 100,
+      "sourcePrice": 66.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/532AE6A2-F779-42EA-9F7E-C6CC1B208AA3.webp?v=1791565749",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C78E4732-1FAF-482F-9368-9F27E7A55573.webp?v=1791464678",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/845221BB-A3EC-42FF-A1CD-C8086E5E5613.webp?v=1791464678",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D15BAF85-A6E3-4C06-B369-85485C5D0575.webp?v=1791464679"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/532AE6A2-F779-42EA-9F7E-C6CC1B208AA3.webp?v=1791565749",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6FE91665-BA1B-4557-AFA7-84BE5362C696.webp?v=1791565749",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EEF21A9D-C60B-4974-8F3B-5C1CB8831B1C.webp?v=1791565749"
       ],
       "sizes": [
         "Medium"
       ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-green-medium-120779-a",
-      "brand": "Carhartt",
-      "material": "Cotton",
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/the-north-face-fleece-jacket-mens-blue-medium-122563-a",
+      "brand": "The North Face",
+      "material": "Polyester",
       "era": "2000S",
-      "condition": "Very Good",
+      "condition": "Good",
       "tier": "drops",
       "status": "available",
-      "score": 79,
-      "views": 1,
-      "addedAt": "2026-10-13T20:33:10.080Z",
+      "score": 65,
+      "views": 4,
+      "addedAt": "2026-10-14T19:33:05.437Z",
       "soldAt": null,
-      "carriedOver": false
+      "carriedOver": false,
+      "manualPick": true
     },
     {
-      "id": 16373358002563,
-      "sourceId": 16373358002563,
-      "name": "Carhartt Long Sleeve T-Shirt - Small Black Cotton",
-      "price": 82,
-      "sourcePrice": 48.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/48A750CC-64A7-4C3A-A625-D6EBE60A8AAB.webp?v=1791464651",
+      "id": 16373584003459,
+      "sourceId": 16373584003459,
+      "name": "Columbia Fleece Jacket - Medium Grey Polyester",
+      "price": 64,
+      "sourcePrice": 30.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6905CDDC-88E4-43AA-ACA9-8287470A012F.webp?v=1791469773",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/48A750CC-64A7-4C3A-A625-D6EBE60A8AAB.webp?v=1791464651",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/54F56214-9E30-4FD1-819E-7E5DD36F3FF9.webp?v=1791464651",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A4AB0078-4EE2-4F2F-B6BC-97A81408A653.webp?v=1791464651"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6905CDDC-88E4-43AA-ACA9-8287470A012F.webp?v=1791469773",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD1015E2-72E3-459B-BD15-D510BD09BC67.webp?v=1791469773",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF25856C-CC94-41CF-B9DD-31C40F289F08.webp?v=1791469773"
       ],
       "sizes": [
-        "Small"
+        "Medium"
       ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-small-120772-a",
-      "brand": "Carhartt",
-      "material": "Cotton",
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/columbia-fleece-jacket-mens-grey-medium-121990-a",
+      "brand": "Columbia",
+      "material": "Polyester",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 79,
+      "score": 60,
       "views": 3,
-      "addedAt": "2026-10-13T20:33:10.080Z",
+      "addedAt": "2026-10-14T20:02:47.298Z",
       "soldAt": null,
-      "carriedOver": false
+      "carriedOver": false,
+      "manualPick": true
     },
     {
-      "id": 16373356429699,
-      "sourceId": 16373356429699,
-      "name": "Carhartt Long Sleeve T-Shirt - Large Cream Cotton",
-      "price": 82,
-      "sourcePrice": 48.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AE50DCE7-C6F2-4CD4-81A2-4D34EBCB8581.webp?v=1791464614",
+      "id": 16388874305923,
+      "sourceId": 16388874305923,
+      "name": "Champion Striped Windbreaker - Medium Grey Polyester",
+      "price": 70,
+      "sourcePrice": 36.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CE8B5372-86F1-48D7-AB0D-630BF4457F5D.webp?v=1792140018",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE50DCE7-C6F2-4CD4-81A2-4D34EBCB8581.webp?v=1791464614",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3238013-E16A-44B3-B21F-8E839130AE6B.webp?v=1791464614",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AFADD03-E921-4451-B776-A163910A824E.webp?v=1791464614"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CE8B5372-86F1-48D7-AB0D-630BF4457F5D.webp?v=1792140018",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/887B4DD7-2EA0-4A2E-BFC9-3967A5A812B4.webp?v=1792140018",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3AF1E3C-83BE-4E5D-8D2D-D8ED72F20846.webp?v=1792140019"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-cream-large-120763-a",
-      "brand": "Carhartt",
-      "material": "Cotton",
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/champion-windbreaker-mens-grey-medium-124645-a",
+      "brand": "Champion",
+      "material": "Polyester",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 79,
+      "score": 72,
       "views": 1,
-      "addedAt": "2026-10-13T20:33:10.080Z",
+      "addedAt": "2026-10-16T11:32:09.449Z",
       "soldAt": null,
-      "carriedOver": false
+      "carriedOver": false,
+      "manualPick": true
     },
     {
-      "id": 16373579645315,
-      "sourceId": 16373579645315,
-      "name": "Made In USA Columbia Fleece Jacket - Large Blue Polyester",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D842A47A-A27B-4FD2-BAF8-413AD9739F0F.webp?v=1791469692",
+      "id": 16376819548547,
+      "sourceId": 16376819548547,
+      "name": "Baltimore Ravens Logo Athletics Nfl Hoodie - XL Purple Cotton",
+      "price": 88,
+      "sourcePrice": 54.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A56957FB-A6C4-4D7A-A70B-CBF755005337.webp?v=1791566738",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D842A47A-A27B-4FD2-BAF8-413AD9739F0F.webp?v=1791469692",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F7EE62C3-A0CC-4D49-8898-8E265543D45C.webp?v=1791469692",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A3EBBD3A-427B-45E7-A307-F269CC41183C.webp?v=1791469692"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A56957FB-A6C4-4D7A-A70B-CBF755005337.webp?v=1791566738",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC849C4C-3B7E-413A-B078-4F9C7549CAF1.webp?v=1791566739",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BD8ADD7-4C98-46EB-B044-5AF3E829D041.webp?v=1791566739"
+      ],
+      "sizes": [
+        "X-Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/baltimore-ravens-logo-athletics-hoodie-mens-purple-x-large-122797-a",
+      "brand": "Logo Athletics",
+      "material": "Cotton",
+      "era": "1990S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 70,
+      "views": 2,
+      "addedAt": "2026-10-16T18:32:55.010Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16066340323715,
+      "sourceId": 16066340323715,
+      "name": "The North Face Denali Camo Fleece Jacket - Large Black Polyester",
+      "price": 82,
+      "sourcePrice": 48.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4D5E856E-C895-49E6-B4B4-CFABC4C516AE.webp?v=1783002269",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D5E856E-C895-49E6-B4B4-CFABC4C516AE.webp?v=1783002269",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/336F6D04-177E-4146-8013-53F2DD598982.webp?v=1783002269",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/740B5004-C9F1-4E6F-94A9-2AAC5D700E4B.webp?v=1783002270"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/made-in-usa-columbia-fleece-jacket-mens-blue-large-121971-a",
-      "brand": "Columbia",
+      "url": "https://www.thrifted.com/products/the-north-face-fleece-jacket-mens-black-large-105401-a",
+      "brand": "The North Face",
       "material": "Polyester",
-      "era": "1990S",
+      "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 76,
-      "views": 7,
-      "addedAt": "2026-10-13T20:33:10.080Z",
+      "score": 12,
+      "views": 2,
+      "addedAt": "2026-10-17T10:00:32.778Z",
+      "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16373355381123,
+      "sourceId": 16373355381123,
+      "name": "Carhartt Long Sleeve T-Shirt - Medium Navy Cotton",
+      "price": 82,
+      "sourcePrice": 48.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AF6D4E77-0D1D-43B9-B61A-49DBBC1FC570.webp?v=1791464586",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AF6D4E77-0D1D-43B9-B61A-49DBBC1FC570.webp?v=1791464586",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB42D78F-BFE4-45C6-8334-9FF406FC2338.webp?v=1791464586",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C553745F-0CF8-41B4-A7B6-77BBDB744F55.webp?v=1791464587"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-medium-120755-a",
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 79,
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16373612052867,
-      "sourceId": 16373612052867,
-      "name": "Nike Long Sleeve T-Shirt - Large Blue Cotton",
-      "price": 86,
-      "sourcePrice": 52.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/515D3ECB-73FC-4F78-88B9-1D43E0CA758E.webp?v=1791470485",
+      "id": 16373355020675,
+      "sourceId": 16373355020675,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Grey Cotton Blend",
+      "price": 82,
+      "sourcePrice": 48.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/364C406F-BE8E-4842-AEA6-95805CC5B8AD.webp?v=1791464578",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/515D3ECB-73FC-4F78-88B9-1D43E0CA758E.webp?v=1791470485",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AEF438D-DF73-49FB-8471-B46AFDEFC5AE.webp?v=1791470485",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/68CD4CDE-A852-4A36-BD31-DE58CED15F9E.webp?v=1791470486"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/364C406F-BE8E-4842-AEA6-95805CC5B8AD.webp?v=1791464578",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1355CFE4-B9FD-4973-A98E-6863E7246567.webp?v=1791464578",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ECA74670-EE74-45F4-A77B-569B655108A6.webp?v=1791464578"
       ],
       "sizes": [
         "Large"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/nike-long-sleeve-t-shirt-mens-blue-large-122164-a",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-grey-large-120753-a",
+      "brand": "Carhartt",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 79,
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16373354824067,
+      "sourceId": 16373354824067,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Navy Cotton",
+      "price": 82,
+      "sourcePrice": 48.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CA307116-7088-476A-97AB-9A4DF0F5C3EC.webp?v=1791464574",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA307116-7088-476A-97AB-9A4DF0F5C3EC.webp?v=1791464574",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AE40013F-00ED-4AFA-BA2B-EFD313BE8DA8.webp?v=1791464574",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5A7ADF3B-39E0-46D3-8C7F-68ECAB53FE56.webp?v=1791464574"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-large-120752-a",
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 79,
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16373508276611,
+      "sourceId": 16373508276611,
+      "name": "Dallas Cowboys Nike Graphic T-Shirt - Large Grey Cotton",
+      "price": 76,
+      "sourcePrice": 42.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC38DF8-FD6B-4782-9BE7-7EAFF693066A.webp?v=1791468244",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3AC38DF8-FD6B-4782-9BE7-7EAFF693066A.webp?v=1791468244",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/09ED1C36-9D92-4FCF-A493-AB6B25E6AFB7.webp?v=1791468244",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2DA53607-89E7-49CC-B9C0-A4FC21BFB8CA.webp?v=1791468244"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/dallas-cowboys-nike-t-shirt-mens-grey-large-121618-a",
       "brand": "Nike",
       "material": "Cotton",
       "era": "1990S",
@@ -481,182 +646,240 @@
       "tier": "drops",
       "status": "available",
       "score": 66,
-      "views": 4,
-      "addedAt": "2026-10-13T20:33:10.080Z",
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16376832819587,
-      "sourceId": 16376832819587,
-      "name": "The North Face Hoodie - Large Burgundy Cotton Blend",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/104F24BC-5EF7-4420-BF99-1E4DEF2EB4DB.webp?v=1791566921",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/104F24BC-5EF7-4420-BF99-1E4DEF2EB4DB.webp?v=1791566921",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83C17987-2B93-4D76-87D0-F3107E0A9267.webp?v=1791566921",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/67C24632-1C66-4CAE-9708-05E671269F13.webp?v=1791566921"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/the-north-face-hoodie-mens-burgundy-large-122841-a",
-      "brand": "The North Face",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 63,
-      "views": 1,
-      "addedAt": "2026-10-13T20:33:10.080Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16373610611075,
-      "sourceId": 16373610611075,
-      "name": "Jackson Basketball Nike Graphic Hoodie - Large Grey Cotton Blend",
+      "id": 16373491827075,
+      "sourceId": 16373491827075,
+      "name": "Vans Spellout Sweatshirt - Medium Grey Cotton Blend",
       "price": 85,
       "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/85F6AA48-1769-490A-8AA7-D10FFD64AF32.webp?v=1791470388",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0B456604-7022-4A2C-9C10-F6368F6A579F.webp?v=1791467732",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/85F6AA48-1769-490A-8AA7-D10FFD64AF32.webp?v=1791470388",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D97A6C1-1915-4423-A84A-1AC401034D32.webp?v=1791470388",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9250F8A1-133E-4521-8139-AA2D42746D77.webp?v=1791470388"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B456604-7022-4A2C-9C10-F6368F6A579F.webp?v=1791467732",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9D567206-08C7-4575-A49B-DB05CA662498.webp?v=1791467732",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/78FA9D7E-2327-4B14-B536-3F505449BEDA.webp?v=1791467732"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/jackson-basketball-nike-hoodie-mens-grey-large-122142-a",
-      "brand": "Nike",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/vans-sweatshirt-mens-grey-medium-121462-a",
+      "brand": "Vans",
       "material": "Cotton Blend",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
       "score": 60,
-      "views": 2,
-      "addedAt": "2026-10-13T20:33:10.080Z",
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16359273988483,
-      "sourceId": 16359273988483,
-      "name": "Arizona Nike College Hoodie - Medium Grey Cotton Blend",
-      "price": 85,
-      "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C7AD32C8-9827-43D0-84FE-35E3147ADDDA.webp?v=1790857621",
+      "id": 16376820072835,
+      "sourceId": 16376820072835,
+      "name": "Green Bay Packers (Rodgers #12) Nfl Graphic Hoodie - Small Green Cotton Blend",
+      "price": 76,
+      "sourcePrice": 42.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/05C9D448-C1D2-47D7-A490-928FDA0F1BCD.webp?v=1791566750",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C7AD32C8-9827-43D0-84FE-35E3147ADDDA.webp?v=1790857621",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/38909B20-2C16-46D8-9643-8A5850117EC1.webp?v=1790857621",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F1BDCFD1-97DC-42B7-B7DD-A3ED0C56C4FE.webp?v=1790857621"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/05C9D448-C1D2-47D7-A490-928FDA0F1BCD.webp?v=1791566750",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8D13DDD4-3289-4706-AEDB-C30A19A3F6DD.webp?v=1791566750",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/379C1A45-08DE-4D3F-942F-B7C0D9ECD347.webp?v=1791566750"
       ],
       "sizes": [
-        "Medium"
+        "Small"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/arizona-nike-hoodie-mens-grey-medium-118544-a",
+      "url": "https://www.thrifted.com/products/green-bay-packers-rodgers-12-nfl-hoodie-mens-green-small-122800-a",
+      "brand": "NFL",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 56,
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16376810209667,
+      "sourceId": 16376810209667,
+      "name": "Mount Carmel Baseball Nike College Sweatshirt - Large Grey Cotton Blend",
+      "price": 76,
+      "sourcePrice": 42.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3D729D0C-A196-4591-A64A-C4FA4037F51B.webp?v=1791566521",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D729D0C-A196-4591-A64A-C4FA4037F51B.webp?v=1791566521",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E7B4ABB8-EE2E-4123-9983-336DB7E39A3A.webp?v=1791566521",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AD6B08B2-7C20-4A39-BBC3-C2201BE4654B.webp?v=1791566521"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/mount-carmel-baseball-nike-sweatshirt-mens-grey-large-122745-a",
       "brand": "Nike",
       "material": "Cotton Blend",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 60,
-      "views": 1,
-      "addedAt": "2026-10-13T20:33:10.080Z",
+      "score": 56,
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16248297587075,
-      "sourceId": 16248297587075,
-      "name": "Reverse Weave Champion Spellout Sweatshirt - Medium Grey Cotton",
+      "id": 16376751391107,
+      "sourceId": 16376751391107,
+      "name": "Peoria Rivermen Crable College Sweatshirt - Large Blue Polyester Blend",
       "price": 76,
       "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5F94CE07-2575-4204-AE14-9E967069563F.webp?v=1786715825",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1A1B0F1F-51DF-4DB1-8736-A6F630B83937.webp?v=1791565027",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F94CE07-2575-4204-AE14-9E967069563F.webp?v=1786715825",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/20FD3C67-F615-4B7D-AE72-CF0B8B1B7795.webp?v=1786715825",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/567BF454-625D-4B2B-B3BD-911AFFE66716.webp?v=1786715825"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-grey-medium-116795-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 58,
-      "views": 1,
-      "addedAt": "2026-10-13T20:33:10.080Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16248294900099,
-      "sourceId": 16248294900099,
-      "name": "Reverse Weave Champion Spellout Sweatshirt - Large Grey Cotton",
-      "price": 76,
-      "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/645ED4D4-5A3B-48B0-A514-AB45F919A562.webp?v=1786715805",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/645ED4D4-5A3B-48B0-A514-AB45F919A562.webp?v=1786715805",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C4C4C44A-84F7-473B-B1A1-FEB7B9838EE5.webp?v=1786715805",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0097AB29-F406-4499-86EA-F3B2FF4F58B4.webp?v=1786715806"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A1B0F1F-51DF-4DB1-8736-A6F630B83937.webp?v=1791565027",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FC9A10E4-89C7-4601-9234-4A621166E5F5.webp?v=1791565027",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/42AAFBBC-396F-40D4-A08E-302774D5571E.webp?v=1791565028"
       ],
       "sizes": [
         "Large"
       ],
       "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-grey-large-116799-a",
-      "brand": "Champion",
-      "material": "Cotton",
-      "era": "2000S",
+      "url": "https://www.thrifted.com/products/peoria-rivermen-crable-sweatshirt-mens-blue-large-122941-a",
+      "brand": "Crable",
+      "material": "Polyester Blend",
+      "era": "1990S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 58,
-      "views": 3,
-      "addedAt": "2026-10-13T20:33:10.080Z",
+      "score": 56,
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16248294539651,
-      "sourceId": 16248294539651,
-      "name": "Reverse Weave Champion Spellout Sweatshirt - Medium Black Cotton Blend",
+      "id": 16376745755011,
+      "sourceId": 16376745755011,
+      "name": "Northern Elements Graphic Sweatshirt - Large Grey Cotton Blend",
       "price": 76,
       "sourcePrice": 42.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/18775732-E3B7-40AC-A440-482A94FF3E29.webp?v=1786715798",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E444A67E-887C-4EC6-A71E-32048ED47D1F.webp?v=1791564975",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/18775732-E3B7-40AC-A440-482A94FF3E29.webp?v=1786715798",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F34EBC6C-CD07-4FC8-9EB2-9306A7BCA19D.webp?v=1786715798",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D78BEBE9-0B4D-41D1-83F2-33E738C9B583.webp?v=1786715798"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E444A67E-887C-4EC6-A71E-32048ED47D1F.webp?v=1791564975",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/88338D77-79D5-4B32-B1E6-BFD22D48437A.webp?v=1791564975",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C4F5C3F6-46B8-41ED-8119-69349A84C033.webp?v=1791564975"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/reverse-weave-champion-sweatshirt-mens-black-medium-116806-a",
-      "brand": "Champion",
+      "url": "https://www.thrifted.com/products/northern-elements-sweatshirt-mens-grey-large-122929-a",
+      "brand": "Northern Elements",
+      "material": "Cotton Blend",
+      "era": "1990S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 56,
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16385688699267,
+      "sourceId": 16385688699267,
+      "name": "Russell Athletic Camo Hoodie - Large Camo Cotton Blend",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/77B1A140-66D4-460D-AB25-BB8C3C5F1F53.webp?v=1791988527",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/77B1A140-66D4-460D-AB25-BB8C3C5F1F53.webp?v=1791988527",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/306C4803-9D51-42FF-833C-C24EE9597615.webp?v=1791988527",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E221321F-96BF-4DC6-A306-5D04344A0F28.webp?v=1791988527"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/russell-athletic-hoodie-mens-camo-large-123095-a",
+      "brand": "Russell Athletic",
       "material": "Cotton Blend",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 58,
-      "views": 1,
-      "addedAt": "2026-10-13T20:33:10.080Z",
+      "score": 55,
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16373493039491,
+      "sourceId": 16373493039491,
+      "name": "Vans Checked Hoodie - Large Black Cotton Blend",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B39CAD83-008D-406F-86BF-B02E89C1A057.webp?v=1791467777",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B39CAD83-008D-406F-86BF-B02E89C1A057.webp?v=1791467777",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B9BF7AB-4F93-4144-B0CB-91F901EAB74D.webp?v=1791467777",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/48551630-0649-4A1A-B34A-13ED1CED742E.webp?v=1791467777"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/vans-hoodie-mens-black-large-121472-a",
+      "brand": "Vans",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 55,
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16376746344835,
+      "sourceId": 16376746344835,
+      "name": "University Of Minnesota Tultex College Sweatshirt - Large Burgundy Cotton Blend",
+      "price": 82,
+      "sourcePrice": 48.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7644A1B3-C7BF-421B-B187-20524244BD7D.webp?v=1791564989",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7644A1B3-C7BF-421B-B187-20524244BD7D.webp?v=1791564989",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A61017C3-5224-4B0C-A932-74739456D520.webp?v=1791564989",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1FB139E4-28CE-4A07-ADF3-782B66AFFC36.webp?v=1791564989"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/university-of-minnesota-tultex-sweatshirt-mens-burgundy-large-122932-a",
+      "brand": "Tultex",
+      "material": "Cotton Blend",
+      "era": "1990S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 52,
+      "views": 0,
+      "addedAt": "2026-10-18T20:34:47.907Z",
       "soldAt": null,
       "carriedOver": false
     },
@@ -925,156 +1148,6 @@
       "score": 72,
       "views": 0,
       "addedAt": "2026-10-14T19:33:05.436Z",
-      "soldAt": null,
-      "carriedOver": false,
-      "manualPick": true
-    },
-    {
-      "id": 16376781177219,
-      "sourceId": 16376781177219,
-      "name": "The North Face Fleece Jacket - Medium Blue Polyester",
-      "price": 100,
-      "sourcePrice": 66.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/532AE6A2-F779-42EA-9F7E-C6CC1B208AA3.webp?v=1791565749",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/532AE6A2-F779-42EA-9F7E-C6CC1B208AA3.webp?v=1791565749",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6FE91665-BA1B-4557-AFA7-84BE5362C696.webp?v=1791565749",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EEF21A9D-C60B-4974-8F3B-5C1CB8831B1C.webp?v=1791565749"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-fleece-jacket-mens-blue-medium-122563-a",
-      "brand": "The North Face",
-      "material": "Polyester",
-      "era": "2000S",
-      "condition": "Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 65,
-      "views": 4,
-      "addedAt": "2026-10-14T19:33:05.437Z",
-      "soldAt": null,
-      "carriedOver": false,
-      "manualPick": true
-    },
-    {
-      "id": 16373584003459,
-      "sourceId": 16373584003459,
-      "name": "Columbia Fleece Jacket - Medium Grey Polyester",
-      "price": 64,
-      "sourcePrice": 30.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6905CDDC-88E4-43AA-ACA9-8287470A012F.webp?v=1791469773",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6905CDDC-88E4-43AA-ACA9-8287470A012F.webp?v=1791469773",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD1015E2-72E3-459B-BD15-D510BD09BC67.webp?v=1791469773",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BF25856C-CC94-41CF-B9DD-31C40F289F08.webp?v=1791469773"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/columbia-fleece-jacket-mens-grey-medium-121990-a",
-      "brand": "Columbia",
-      "material": "Polyester",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 60,
-      "views": 3,
-      "addedAt": "2026-10-14T20:02:47.298Z",
-      "soldAt": null,
-      "carriedOver": false,
-      "manualPick": true
-    },
-    {
-      "id": 16388874305923,
-      "sourceId": 16388874305923,
-      "name": "Champion Striped Windbreaker - Medium Grey Polyester",
-      "price": 70,
-      "sourcePrice": 36.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CE8B5372-86F1-48D7-AB0D-630BF4457F5D.webp?v=1792140018",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CE8B5372-86F1-48D7-AB0D-630BF4457F5D.webp?v=1792140018",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/887B4DD7-2EA0-4A2E-BFC9-3967A5A812B4.webp?v=1792140018",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3AF1E3C-83BE-4E5D-8D2D-D8ED72F20846.webp?v=1792140019"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/champion-windbreaker-mens-grey-medium-124645-a",
-      "brand": "Champion",
-      "material": "Polyester",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 72,
-      "views": 1,
-      "addedAt": "2026-10-16T11:32:09.449Z",
-      "soldAt": null,
-      "carriedOver": false,
-      "manualPick": true
-    },
-    {
-      "id": 16376819548547,
-      "sourceId": 16376819548547,
-      "name": "Baltimore Ravens Logo Athletics Nfl Hoodie - XL Purple Cotton",
-      "price": 88,
-      "sourcePrice": 54.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A56957FB-A6C4-4D7A-A70B-CBF755005337.webp?v=1791566738",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A56957FB-A6C4-4D7A-A70B-CBF755005337.webp?v=1791566738",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC849C4C-3B7E-413A-B078-4F9C7549CAF1.webp?v=1791566739",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5BD8ADD7-4C98-46EB-B044-5AF3E829D041.webp?v=1791566739"
-      ],
-      "sizes": [
-        "X-Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/baltimore-ravens-logo-athletics-hoodie-mens-purple-x-large-122797-a",
-      "brand": "Logo Athletics",
-      "material": "Cotton",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 70,
-      "views": 2,
-      "addedAt": "2026-10-16T18:32:55.010Z",
-      "soldAt": null,
-      "carriedOver": false,
-      "manualPick": true
-    },
-    {
-      "id": 16066340323715,
-      "sourceId": 16066340323715,
-      "name": "The North Face Denali Camo Fleece Jacket - Large Black Polyester",
-      "price": 82,
-      "sourcePrice": 48.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4D5E856E-C895-49E6-B4B4-CFABC4C516AE.webp?v=1783002269",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4D5E856E-C895-49E6-B4B4-CFABC4C516AE.webp?v=1783002269",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/336F6D04-177E-4146-8013-53F2DD598982.webp?v=1783002269",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/740B5004-C9F1-4E6F-94A9-2AAC5D700E4B.webp?v=1783002270"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-fleece-jacket-mens-black-large-105401-a",
-      "brand": "The North Face",
-      "material": "Polyester",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 12,
-      "views": 1,
-      "addedAt": "2026-10-17T10:00:32.778Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
