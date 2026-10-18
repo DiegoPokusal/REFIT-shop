@@ -307,8 +307,6 @@ const html = `<!DOCTYPE html>
   .detail-add-btn { width: 100%; background: var(--red); color: var(--white); border: none; font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.2em; padding: 18px; cursor: pointer; transition: all 0.2s; margin-bottom: 12px; }
   .detail-add-btn:hover { background: var(--white); color: var(--black); }
   .detail-add-btn:disabled { background: var(--mid); color: var(--text-muted); cursor: default; }
-  .detail-copy { width: 100%; background: none; border: 1px solid var(--mid); color: var(--text-muted); font-family: 'Space Mono', monospace; font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; padding: 13px; cursor: pointer; transition: all 0.2s; margin-bottom: 12px; }
-  .detail-copy:hover { border-color: var(--white); color: var(--white); }
   .link-toast { position: fixed; bottom: 90px; left: 50%; transform: translateX(-50%); background: var(--white); color: var(--black); font-size: 0.7rem; letter-spacing: 0.08em; padding: 14px 20px; z-index: 4500; max-width: 90vw; text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.4); }
   .detail-close { position: fixed; top: 16px; right: 16px; background: var(--gray); border: 1px solid var(--mid); color: var(--white); font-size: 1.5rem; cursor: pointer; z-index: 2001; transition: color 0.2s; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; }
   .detail-close:hover { color: var(--red); }
@@ -625,7 +623,6 @@ function openDetail(id){
       \${p.status && p.status !== 'available'
         ? \`<button class="detail-add-btn" disabled>\${p.status === 'sold' ? 'PREDANÉ' : 'NEDOSTUPNÉ'}</button>\`
         : \`<button class="detail-add-btn" onclick="addToCart(\${p.id});closeDetail()">PRIDAŤ DO KOŠÍKA</button>\`}
-      <button class="detail-copy" onclick="copyProductLink(\${p.id}, this)">Kopírovať odkaz na tento kus</button>
     </div>
     </div>
   \`;
@@ -766,13 +763,6 @@ function handleStripeReturn(){
     document.getElementById('checkoutModal').classList.add('open');
     syncScrollLock();
   }
-}
-function productLink(id){return location.origin+'/#kus-'+id;}
-function copyProductLink(id, btn){
-  var url=productLink(id);
-  var done=function(){if(!btn)return;var t=btn.textContent;btn.textContent='Odkaz skopírovaný ✓';setTimeout(function(){btn.textContent=t;},1800);};
-  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(done,function(){window.prompt('Skopíruj odkaz:',url);});}
-  else{window.prompt('Skopíruj odkaz:',url);}
 }
 function showLinkToast(text){
   var t=document.createElement('div');t.className='link-toast';t.textContent=text;document.body.appendChild(t);
