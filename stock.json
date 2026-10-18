@@ -2,78 +2,6 @@
   "lastCycleAt": "2026-10-13T20:32:19.741Z",
   "removedHistory": [
     {
-      "sourceId": 16267169726851,
-      "removedAt": "2026-09-17T10:58:36.885Z"
-    },
-    {
-      "sourceId": 16267168219523,
-      "removedAt": "2026-09-17T10:58:36.885Z"
-    },
-    {
-      "sourceId": 16267170939267,
-      "removedAt": "2026-09-17T10:58:36.885Z"
-    },
-    {
-      "sourceId": 16118531260803,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16118529917315,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16112402137475,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16248194630019,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16248193155459,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16114989171075,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16175538471299,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16175528837507,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16115991347587,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16248379146627,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16248303485315,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16245968339331,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16248385110403,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16117222310275,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
-      "sourceId": 16112476520835,
-      "removedAt": "2026-09-17T11:14:41.069Z"
-    },
-    {
       "sourceId": 16175530770819,
       "removedAt": "2026-09-22T19:02:16.607Z"
     },
@@ -316,6 +244,10 @@
     {
       "sourceId": 16376742543747,
       "removedAt": "2026-10-17T10:00:32.778Z"
+    },
+    {
+      "sourceId": 16359413252483,
+      "removedAt": "2026-10-18T15:32:30.377Z"
     }
   ],
   "products": [
@@ -343,7 +275,7 @@
       "tier": "drops",
       "status": "available",
       "score": 55,
-      "views": 4,
+      "views": 5,
       "addedAt": "2026-10-11T13:40:54.600Z",
       "soldAt": null,
       "carriedOver": false,
@@ -373,7 +305,7 @@
       "tier": "drops",
       "status": "available",
       "score": 53,
-      "views": 2,
+      "views": 3,
       "addedAt": "2026-10-12T10:38:06.053Z",
       "soldAt": null,
       "carriedOver": false,
@@ -403,7 +335,7 @@
       "tier": "drops",
       "status": "available",
       "score": 12,
-      "views": 4,
+      "views": 5,
       "addedAt": "2026-10-13T20:02:27.786Z",
       "soldAt": null,
       "carriedOver": false,
@@ -433,7 +365,7 @@
       "tier": "drops",
       "status": "available",
       "score": 79,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -462,7 +394,7 @@
       "tier": "drops",
       "status": "available",
       "score": 79,
-      "views": 1,
+      "views": 3,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -491,7 +423,7 @@
       "tier": "drops",
       "status": "available",
       "score": 79,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -520,36 +452,7 @@
       "tier": "drops",
       "status": "available",
       "score": 76,
-      "views": 3,
-      "addedAt": "2026-10-13T20:33:10.080Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16359413252483,
-      "sourceId": 16359413252483,
-      "name": "Dickies Fleece Jacket - Medium Black Polyester",
-      "price": 82,
-      "sourcePrice": 48.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/1612903F-E3F4-43E5-BAAE-4D93E210759E.webp?v=1790861067",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1612903F-E3F4-43E5-BAAE-4D93E210759E.webp?v=1790861067",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/378F086B-B22F-4119-A303-CA97A3D29277.webp?v=1790861068",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2121571E-76DE-436A-B72D-05BCA691051B.webp?v=1790861068"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/dickies-fleece-jacket-mens-black-medium-119469-a",
-      "brand": "Dickies",
-      "material": "Polyester",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 66,
-      "views": 3,
+      "views": 7,
       "addedAt": "2026-10-13T20:33:10.080Z",
       "soldAt": null,
       "carriedOver": false
@@ -1050,7 +953,7 @@
       "tier": "drops",
       "status": "available",
       "score": 65,
-      "views": 3,
+      "views": 4,
       "addedAt": "2026-10-14T19:33:05.437Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1140,7 +1043,7 @@
       "tier": "drops",
       "status": "available",
       "score": 70,
-      "views": 1,
+      "views": 2,
       "addedAt": "2026-10-16T18:32:55.010Z",
       "soldAt": null,
       "carriedOver": false,
@@ -1170,7 +1073,7 @@
       "tier": "drops",
       "status": "available",
       "score": 12,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-17T10:00:32.778Z",
       "soldAt": null,
       "carriedOver": false,
