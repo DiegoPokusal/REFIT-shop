@@ -292,6 +292,10 @@
     {
       "sourceId": 16248294539651,
       "removedAt": "2026-10-18T20:34:47.906Z"
+    },
+    {
+      "sourceId": 16388874305923,
+      "removedAt": "2026-10-19T15:34:55.601Z"
     }
   ],
   "products": [
@@ -441,36 +445,6 @@
       "score": 60,
       "views": 3,
       "addedAt": "2026-10-14T20:02:47.298Z",
-      "soldAt": null,
-      "carriedOver": false,
-      "manualPick": true
-    },
-    {
-      "id": 16388874305923,
-      "sourceId": 16388874305923,
-      "name": "Champion Striped Windbreaker - Medium Grey Polyester",
-      "price": 70,
-      "sourcePrice": 36.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CE8B5372-86F1-48D7-AB0D-630BF4457F5D.webp?v=1792140018",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CE8B5372-86F1-48D7-AB0D-630BF4457F5D.webp?v=1792140018",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/887B4DD7-2EA0-4A2E-BFC9-3967A5A812B4.webp?v=1792140018",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D3AF1E3C-83BE-4E5D-8D2D-D8ED72F20846.webp?v=1792140019"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/champion-windbreaker-mens-grey-medium-124645-a",
-      "brand": "Champion",
-      "material": "Polyester",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 72,
-      "views": 1,
-      "addedAt": "2026-10-16T11:32:09.449Z",
       "soldAt": null,
       "carriedOver": false,
       "manualPick": true
@@ -762,7 +736,7 @@
       "tier": "drops",
       "status": "available",
       "score": 56,
-      "views": 0,
+      "views": 2,
       "addedAt": "2026-10-18T20:34:47.907Z",
       "soldAt": null,
       "carriedOver": false
@@ -791,7 +765,7 @@
       "tier": "drops",
       "status": "available",
       "score": 56,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-18T20:34:47.907Z",
       "soldAt": null,
       "carriedOver": false
@@ -820,7 +794,7 @@
       "tier": "drops",
       "status": "available",
       "score": 55,
-      "views": 0,
+      "views": 1,
       "addedAt": "2026-10-18T20:34:47.907Z",
       "soldAt": null,
       "carriedOver": false
