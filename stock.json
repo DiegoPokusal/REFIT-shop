@@ -2,62 +2,6 @@
   "lastCycleAt": "2026-10-18T20:33:57.901Z",
   "removedHistory": [
     {
-      "sourceId": 16175530770819,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16175519793539,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16118533456259,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16118539518339,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16118538830211,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16201736978819,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16245970534787,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16175481160067,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16115924337027,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16245986230659,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16115973915011,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16115538919811,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16248218026371,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
-      "sourceId": 16248239686019,
-      "removedAt": "2026-09-22T19:02:16.607Z"
-    },
-    {
       "sourceId": 16347800371587,
       "removedAt": "2026-10-03T02:06:44.114Z"
     },
@@ -736,7 +680,7 @@
       "tier": "drops",
       "status": "available",
       "score": 56,
-      "views": 2,
+      "views": 3,
       "addedAt": "2026-10-18T20:34:47.907Z",
       "soldAt": null,
       "carriedOver": false
@@ -947,36 +891,6 @@
       "manualPick": true
     },
     {
-      "id": 16347697021315,
-      "sourceId": 16347697021315,
-      "name": "Red Bull Jacket - Large Navy Nylon",
-      "price": 135,
-      "sourcePrice": 101.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/295DB07B-1804-46DC-90C4-9126BF24CCB7.webp?v=1790242499",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/295DB07B-1804-46DC-90C4-9126BF24CCB7.webp?v=1790242499",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6662EBF2-724C-4380-85BF-64CFA02B4EA8.webp?v=1790242499",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3659B615-9A94-4E21-8B35-EF7EB6206F07.webp?v=1790242499"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/red-bull-jacket-mens-navy-large-132665-a",
-      "brand": "Red Bull",
-      "material": "Nylon",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 63,
-      "views": 3,
-      "addedAt": "2026-10-11T14:30:06.965Z",
-      "soldAt": null,
-      "carriedOver": false,
-      "manualPick": true
-    },
-    {
       "id": 16347791720835,
       "sourceId": 16347791720835,
       "name": "St. Louis Cardinals Majestic Mlb Baseball Jacket - XL Red Polyester",
@@ -1123,6 +1037,36 @@
       "views": 0,
       "addedAt": "2026-10-14T19:33:05.436Z",
       "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16347697021315,
+      "sourceId": 16347697021315,
+      "name": "Red Bull Jacket - Large Navy Nylon",
+      "price": 135,
+      "sourcePrice": 101.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/295DB07B-1804-46DC-90C4-9126BF24CCB7.webp?v=1790242499",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/295DB07B-1804-46DC-90C4-9126BF24CCB7.webp?v=1790242499",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6662EBF2-724C-4380-85BF-64CFA02B4EA8.webp?v=1790242499",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3659B615-9A94-4E21-8B35-EF7EB6206F07.webp?v=1790242499"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/red-bull-jacket-mens-navy-large-132665-a",
+      "brand": "Red Bull",
+      "material": "Nylon",
+      "era": "1990S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "unavailable",
+      "score": 63,
+      "views": 3,
+      "addedAt": "2026-10-11T14:30:06.965Z",
+      "soldAt": "2026-10-22T22:03:38.187Z",
       "carriedOver": false,
       "manualPick": true
     },
