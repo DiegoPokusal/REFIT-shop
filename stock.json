@@ -1109,11 +1109,11 @@
       "era": "2000S",
       "condition": "Very Good",
       "tier": "premium",
-      "status": "available",
+      "status": "unavailable",
       "score": 72,
       "views": 0,
       "addedAt": "2026-10-14T19:33:05.436Z",
-      "soldAt": null,
+      "soldAt": "2026-10-25T02:02:54.034Z",
       "carriedOver": false,
       "manualPick": true
     },
