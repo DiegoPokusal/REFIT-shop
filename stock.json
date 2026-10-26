@@ -288,6 +288,10 @@
     {
       "sourceId": 16376746344835,
       "removedAt": "2026-10-23T21:04:24.360Z"
+    },
+    {
+      "sourceId": 16388865851779,
+      "removedAt": "2026-10-26T14:30:15.635Z"
     }
   ],
   "products": [
@@ -525,35 +529,6 @@
       "tier": "drops",
       "status": "available",
       "score": 91,
-      "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388865851779,
-      "sourceId": 16388865851779,
-      "name": "Carhartt Gilet - Large Green Cotton Blend",
-      "price": 86,
-      "sourcePrice": 52.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B6355815-83AD-4BEF-8DD1-3726EF64EEC7.webp?v=1792139670",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B6355815-83AD-4BEF-8DD1-3726EF64EEC7.webp?v=1792139670",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9D076269-6DCD-42D8-AB6F-FFF1194C2077.webp?v=1792139670",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F8B2CE98-AB96-4670-8E67-477CDC625A30.webp?v=1792139671"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/carhartt-gilet-mens-green-large-124556-a",
-      "brand": "Carhartt",
-      "material": "Cotton Blend",
-      "era": "1990S",
-      "condition": "Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 83,
       "views": 0,
       "addedAt": "2026-10-23T21:04:24.360Z",
       "soldAt": null,
