@@ -1,5 +1,5 @@
 {
-  "lastCycleAt": "2026-10-23T21:03:35.017Z",
+  "lastCycleAt": "2026-10-28T21:04:07.711Z",
   "removedHistory": [
     {
       "sourceId": 16347800371587,
@@ -292,6 +292,54 @@
     {
       "sourceId": 16388865851779,
       "removedAt": "2026-10-26T14:30:15.635Z"
+    },
+    {
+      "sourceId": 16388853268867,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16388851499395,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16388851335555,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16388854055299,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16388851401091,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16388858511747,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16373354267011,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16373460140419,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16388826464643,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16388832919939,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16388839309699,
+      "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16385696694659,
+      "removedAt": "2026-10-28T21:05:00.627Z"
     }
   ],
   "products": [
@@ -506,196 +554,22 @@
       "manualPick": true
     },
     {
-      "id": 16388853268867,
-      "sourceId": 16388853268867,
-      "name": "Made In USA Russell Athletic Asbury College Sweatshirt - Medium Grey Cotton Blend",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CA54A733-41DC-442F-83A9-E5FD3AF9DD7E.webp?v=1792139098",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA54A733-41DC-442F-83A9-E5FD3AF9DD7E.webp?v=1792139098",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/401932C7-51B3-46FC-AD59-B636F96E96FE.webp?v=1792139098",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E12E79AC-2D19-42FF-BF85-CC1EEABA58B4.webp?v=1792139098"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-russell-athletic-sweatshirt-mens-grey-medium-124413-a",
-      "brand": "Russell Athletic",
-      "material": "Cotton Blend",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 91,
-      "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388851499395,
-      "sourceId": 16388851499395,
-      "name": "Patagonia Henley Long Sleeve T-Shirt - Small Navy Cotton",
-      "price": 86,
-      "sourcePrice": 52.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/932E381F-67F7-497D-A268-52DAF60BB326.webp?v=1792139000",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/932E381F-67F7-497D-A268-52DAF60BB326.webp?v=1792139000",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/29D978EC-FE33-492C-93DD-EA802D592F02.webp?v=1792139000",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C5879897-4FA3-4E27-992C-DBF25AF1A6E5.webp?v=1792139000"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/patagonia-long-sleeve-t-shirt-mens-navy-small-124389-a",
-      "brand": "Patagonia",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 80,
-      "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388851335555,
-      "sourceId": 16388851335555,
-      "name": "Patagonia Graphic Long Sleeve T-Shirt - Large Red Cotton",
-      "price": 74,
-      "sourcePrice": 40.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CA2AFB5B-0C6B-4DDF-B51E-6F01796B4344.webp?v=1792138984",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CA2AFB5B-0C6B-4DDF-B51E-6F01796B4344.webp?v=1792138984",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C1E44B4B-8542-471A-95C8-F912D6F7D773.webp?v=1792138985",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0FE167E8-AA82-4B01-A4BC-8298712F264E.webp?v=1792138985"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/patagonia-long-sleeve-t-shirt-mens-red-large-124385-a",
-      "brand": "Patagonia",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 80,
-      "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388854055299,
-      "sourceId": 16388854055299,
-      "name": "Made In USA Russell Athletic Auburn Tigers Sweatshirt - Large Navy Cotton",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/4F3A854A-32CC-49BD-84C9-32D02BB191B5.webp?v=1792139158",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4F3A854A-32CC-49BD-84C9-32D02BB191B5.webp?v=1792139158",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2D19954-2C4C-4EDC-9CC0-A2FACA44BC58.webp?v=1792139158",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/00394D31-44E1-4DB7-AD5B-08FFA306EB7E.webp?v=1792139157"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-russell-athletic-sweatshirt-mens-navy-large-124428-a",
-      "brand": "Russell Athletic",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 76,
-      "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388851401091,
-      "sourceId": 16388851401091,
-      "name": "Patagonia Long Sleeve T-Shirt - Medium Beige Cotton",
-      "price": 74,
-      "sourcePrice": 40.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EFBBC687-BA5C-476D-AAC0-394C0E431618.webp?v=1792138993",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EFBBC687-BA5C-476D-AAC0-394C0E431618.webp?v=1792138993",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C6DB75FF-A6EB-494B-86B2-2415CF25181F.webp?v=1792138993",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D80B4C24-1697-4E6A-8C16-0BF9DE93E9DF.webp?v=1792138993"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/patagonia-long-sleeve-t-shirt-mens-beige-medium-124387-a",
-      "brand": "Patagonia",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 75,
-      "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388858511747,
-      "sourceId": 16388858511747,
-      "name": "Made In USA Russell Athletic University Of Texas Sweatshirt - Large Orange Cotton Blend",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/143C400D-E957-499D-9ACF-9B92135A6234.webp?v=1792139235",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/143C400D-E957-499D-9ACF-9B92135A6234.webp?v=1792139235",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B3431870-0797-4143-8B4B-E0825F0FC1B9.webp?v=1792139235",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3B91F8BD-7897-42A0-891B-89188D4FAC80.webp?v=1792139235"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/made-in-usa-russell-athletic-sweatshirt-mens-orange-large-124448-a",
-      "brand": "Russell Athletic",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 74,
-      "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16373354267011,
-      "sourceId": 16373354267011,
-      "name": "Carhartt Long Sleeve T-Shirt - Medium Navy Cotton",
+      "id": 16373353775491,
+      "sourceId": 16373353775491,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Blue Cotton",
       "price": 83,
       "sourcePrice": 49.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/692825A4-FB10-45C9-9FBC-849C89E0B100.webp?v=1791464563",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C2181607-9D28-4291-9CE2-1C3ED5D6D63B.webp?v=1791464553",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/692825A4-FB10-45C9-9FBC-849C89E0B100.webp?v=1791464563",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1EF3BEF0-18C4-492B-BFBA-432E316DB3D9.webp?v=1791464563",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/953911CB-AC2C-4507-96F3-289CC1B4440C.webp?v=1791464564"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2181607-9D28-4291-9CE2-1C3ED5D6D63B.webp?v=1791464553",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C777CD09-4769-45B2-8507-26915A56ADEA.webp?v=1791464553",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F6328F64-C5DE-4D58-AE34-069D133A249D.webp?v=1791464553"
       ],
       "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-medium-120748-a",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-blue-large-120745-a",
       "brand": "Carhartt",
       "material": "Cotton",
       "era": "2000S",
@@ -704,114 +578,230 @@
       "status": "available",
       "score": 72,
       "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
+      "addedAt": "2026-10-28T21:05:00.627Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16373460140419,
-      "sourceId": 16373460140419,
-      "name": "Carhartt Hoodie - Large Green Cotton Blend",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EC3FD036-6C86-4382-AFE2-FFE85C80364B.webp?v=1791466748",
+      "id": 16373353218435,
+      "sourceId": 16373353218435,
+      "name": "Carhartt Long Sleeve T-Shirt - Medium Brown Cotton",
+      "price": 83,
+      "sourcePrice": 49.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9FD8FADB-2126-48D4-8C27-71ACBFF7AE08.webp?v=1791464538",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EC3FD036-6C86-4382-AFE2-FFE85C80364B.webp?v=1791466748",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/587B84DE-6FE8-4D50-A410-04A237B28A4B.webp?v=1791466748",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/010819FD-63AC-4083-9689-28E6B54B2FCC.webp?v=1791466748"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9FD8FADB-2126-48D4-8C27-71ACBFF7AE08.webp?v=1791464538",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DABD85AE-784E-46F4-BDDA-2801146AADA9.webp?v=1791464538",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/79183DFB-59D0-420C-B8C1-2B6FC97C6B8B.webp?v=1791464538"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/carhartt-hoodie-mens-green-large-121319-a",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-brown-medium-120741-a",
       "brand": "Carhartt",
-      "material": "Cotton Blend",
+      "material": "Cotton",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 69,
+      "score": 72,
       "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
+      "addedAt": "2026-10-28T21:05:00.627Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16388826464643,
-      "sourceId": 16388826464643,
-      "name": "St. Louis Cardinals Nike Graphic Hoodie - Large Grey Cotton Blend",
+      "id": 16373353513347,
+      "sourceId": 16373353513347,
+      "name": "Carhartt Long Sleeve T-Shirt - Large Black Cotton",
+      "price": 83,
+      "sourcePrice": 49.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2464AA2B-885D-47E0-89F7-4B254D876992.webp?v=1791464545",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2464AA2B-885D-47E0-89F7-4B254D876992.webp?v=1791464545",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D8DC7B6C-0CCB-461A-8E06-374E740BBB87.webp?v=1791464545",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/499D62FA-0559-406B-A5FC-0576D15AD14E.webp?v=1791464545"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-120743-a",
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 72,
+      "views": 0,
+      "addedAt": "2026-10-28T21:05:00.627Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16388851073411,
+      "sourceId": 16388851073411,
+      "name": "Patagonia Long Sleeve T-Shirt - Small Grey Cotton",
+      "price": 74,
+      "sourcePrice": 40.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AB235F70-441A-461F-8C60-02003994CFA3.webp?v=1792138968",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB235F70-441A-461F-8C60-02003994CFA3.webp?v=1792138968",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8870DFD5-004D-463F-9DCE-638B09D7B1A6.webp?v=1792138968",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3A7BABF1-27B0-47D8-9882-4C9CD3C14E18.webp?v=1792138968"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/patagonia-long-sleeve-t-shirt-mens-grey-small-124381-a",
+      "brand": "Patagonia",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 70,
+      "views": 0,
+      "addedAt": "2026-10-28T21:05:00.627Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16388850418051,
+      "sourceId": 16388850418051,
+      "name": "Patagonia Hoodie - Large Grey Polyester Blend",
       "price": 85,
       "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E265081E-CA31-415E-84C8-DF07B2A9B59E.webp?v=1792137803",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E375C7A6-9D1F-47C1-8A97-E3BCD0493392.webp?v=1792138930",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E265081E-CA31-415E-84C8-DF07B2A9B59E.webp?v=1792137803",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/70297211-487D-40BF-B2A7-63D3525BFFB4.webp?v=1792137803",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5909DF3E-424A-4F80-8D81-2FB97B722AE7.webp?v=1792137803"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E375C7A6-9D1F-47C1-8A97-E3BCD0493392.webp?v=1792138930",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F30A934C-8413-4E0C-B333-80F0527DDB59.webp?v=1792138930",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5551BE9-F6D7-431E-80F1-FF0807A0C159.webp?v=1792138931"
       ],
       "sizes": [
         "Large"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/st-louis-cardinals-nike-hoodie-mens-grey-large-124099-a",
-      "brand": "Nike",
-      "material": "Cotton Blend",
+      "url": "https://www.thrifted.com/products/patagonia-hoodie-mens-grey-large-124372-a",
+      "brand": "Patagonia",
+      "material": "Polyester Blend",
       "era": "2000S",
-      "condition": "Very Good",
+      "condition": "Good",
       "tier": "drops",
       "status": "available",
-      "score": 60,
+      "score": 68,
       "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
+      "addedAt": "2026-10-28T21:05:00.627Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16388832919939,
-      "sourceId": 16388832919939,
-      "name": "Green Bay Packers Nfl Graphic Sweatshirt - Large Black Cotton Blend",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AB3FF5D2-531C-4A05-9DD6-A8E37BA476D2.webp?v=1792138022",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB3FF5D2-531C-4A05-9DD6-A8E37BA476D2.webp?v=1792138022",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDA01944-0E24-4AC9-83DD-180568B79F29.webp?v=1792138022",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D7C334E-16D5-4C30-9120-4EACC7DB65C2.webp?v=1792138022"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/green-bay-packers-nfl-sweatshirt-mens-black-large-124150-a",
-      "brand": "NFL",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 56,
-      "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388839309699,
-      "sourceId": 16388839309699,
-      "name": "Vans College Sweatshirt - Large Grey Cotton Blend",
+      "id": 16388851138947,
+      "sourceId": 16388851138947,
+      "name": "Patagonia Sweatshirt - Large Navy Cotton",
       "price": 85,
       "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0644EAE8-B0E5-4BB2-83F5-D7A1AF4DB2B6.webp?v=1792138363",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0DFFFACE-B4BA-4E12-831D-0628C13D6C77.webp?v=1792138972",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0644EAE8-B0E5-4BB2-83F5-D7A1AF4DB2B6.webp?v=1792138363",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4AB66786-020E-444B-B4BD-F742596F3D5B.webp?v=1792138363",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B16411F-2074-440F-8189-1CE9A74B3E1A.webp?v=1792138363"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DFFFACE-B4BA-4E12-831D-0628C13D6C77.webp?v=1792138972",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E98BAAA1-316D-4831-83F5-B9876C80C85E.webp?v=1792138972",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A12954B-020A-4732-B0BB-E5548F4EDF37.webp?v=1792138972"
       ],
       "sizes": [
         "Large"
       ],
       "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vans-sweatshirt-mens-grey-large-124233-a",
+      "url": "https://www.thrifted.com/products/patagonia-sweatshirt-mens-navy-large-124382-a",
+      "brand": "Patagonia",
+      "material": "Cotton",
+      "era": "2000S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 68,
+      "views": 0,
+      "addedAt": "2026-10-28T21:05:00.627Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16388875157891,
+      "sourceId": 16388875157891,
+      "name": "Champion Windbreaker - Large Navy Nylon",
+      "price": 83,
+      "sourcePrice": 49.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ED5EC847-0DEB-4DCD-A277-7CCEE0CAC535.webp?v=1792140080",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED5EC847-0DEB-4DCD-A277-7CCEE0CAC535.webp?v=1792140080",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/83E01A15-3B2B-45EF-A87C-18C8FB374A72.webp?v=1792140081",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/49E968E0-26A0-4DD1-8ED0-AD566515BE7D.webp?v=1792140081"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/champion-windbreaker-mens-navy-large-124659-a",
+      "brand": "Champion",
+      "material": "Nylon",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 61,
+      "views": 0,
+      "addedAt": "2026-10-28T21:05:00.627Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16388840227203,
+      "sourceId": 16388840227203,
+      "name": "Vans Graphic Hoodie - Small Black Cotton Blend",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B32F6920-6FC1-41AE-A84E-5FCB167D126F.webp?v=1792138420",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B32F6920-6FC1-41AE-A84E-5FCB167D126F.webp?v=1792138420",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9EF6FA57-53E1-4933-A7BF-AC143B768920.webp?v=1792138420",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1B361F3-FE7F-4945-B61B-3F096C192227.webp?v=1792138420"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/vans-hoodie-mens-black-small-124247-a",
+      "brand": "Vans",
+      "material": "Cotton Blend",
+      "era": "2020S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 55,
+      "views": 0,
+      "addedAt": "2026-10-28T21:05:00.627Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16388841374083,
+      "sourceId": 16388841374083,
+      "name": "Vans Sweatshirt - Medium Grey Cotton Blend",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CD710AEE-AB0E-486A-A990-4358C4C34045.webp?v=1792138515",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD710AEE-AB0E-486A-A990-4358C4C34045.webp?v=1792138515",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/58C7CE46-838F-43A8-BFAE-484814D75DA7.webp?v=1792138515",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/11A0E457-35B3-41EC-B7BF-28D9380A3948.webp?v=1792138516"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/vans-sweatshirt-mens-grey-medium-124270-a",
       "brand": "Vans",
       "material": "Cotton Blend",
       "era": "2000S",
@@ -820,36 +810,123 @@
       "status": "available",
       "score": 55,
       "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
+      "addedAt": "2026-10-28T21:05:00.627Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16385696694659,
-      "sourceId": 16385696694659,
-      "name": "Green Bay Packers N.F.L. Team Apparel Graphic Hoodie - Small White Cotton",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F3C240F5-32C7-4FDD-934C-4EBAF70D7C49.webp?v=1791988710",
+      "id": 16388838621571,
+      "sourceId": 16388838621571,
+      "name": "Vans Animal Print Sweatshirt - Large Navy Cotton Blend",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F876AFB6-7D16-4299-AE7D-8C499DB90FBF.webp?v=1792138324",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F3C240F5-32C7-4FDD-934C-4EBAF70D7C49.webp?v=1791988710",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2DFD9F04-4009-4261-8118-7670CB2FFE9F.webp?v=1791988710",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E7CB1D37-D5C5-416A-B1A8-8C9AB4EA1E32.webp?v=1791988710"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F876AFB6-7D16-4299-AE7D-8C499DB90FBF.webp?v=1792138324",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9C55DF3D-3EAC-44A0-9C48-A8C57236E057.webp?v=1792138324",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/63FDDE0C-C753-43E5-8D05-7A66909BB638.webp?v=1792138324"
       ],
       "sizes": [
-        "Small"
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/vans-sweatshirt-mens-navy-large-124224-a",
+      "brand": "Vans",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 55,
+      "views": 0,
+      "addedAt": "2026-10-28T21:05:00.627Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16359174340995,
+      "sourceId": 16359174340995,
+      "name": "Mountain Hard Wear Graphic Hoodie - Medium Black Cotton Blend",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16A103F6-1435-45E7-A9F8-52997C7CFD9A.webp?v=1790855116",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/16A103F6-1435-45E7-A9F8-52997C7CFD9A.webp?v=1790855116",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8036C270-7096-4CA2-99C4-7B091E5C0A7E.webp?v=1790855116",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0D00CD0-5970-4260-8B95-9DC654B2B72C.webp?v=1790855116"
+      ],
+      "sizes": [
+        "Medium"
       ],
       "category": "hoodie",
-      "url": "https://www.thrifted.com/products/green-bay-packers-n-f-l-team-apparel-hoodie-mens-white-small-123144-a",
+      "url": "https://www.thrifted.com/products/mountain-hard-wear-hoodie-mens-black-medium-117905-a",
+      "brand": "Mountain Hard Wear",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 53,
+      "views": 0,
+      "addedAt": "2026-10-28T21:05:00.627Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16388833542531,
+      "sourceId": 16388833542531,
+      "name": "Los Angeles Chargers N.F.L. Team Apparel Graphic Sweatshirt - Medium Grey Cotton Blend",
+      "price": 77,
+      "sourcePrice": 43.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6BD8E668-9253-4251-BBEF-5A528CBC1D8D.webp?v=1792138051",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6BD8E668-9253-4251-BBEF-5A528CBC1D8D.webp?v=1792138051",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/9D56797E-7B7A-46AA-B917-6B1EDC709501.webp?v=1792138051",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/23277FF0-19F4-468A-9A4E-2783735825CE.webp?v=1792138052"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/los-angeles-chargers-n-f-l-team-apparel-sweatshirt-mens-grey-medium-124157-a",
       "brand": "N.F.L. Team Apparel",
-      "material": "Cotton",
+      "material": "Cotton Blend",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
       "score": 51,
       "views": 0,
-      "addedAt": "2026-10-23T21:04:24.360Z",
+      "addedAt": "2026-10-28T21:05:00.627Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16388838949251,
+      "sourceId": 16388838949251,
+      "name": "Quiksilver Sweatshirt - Medium Black Cotton Blend",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D1A899C1-D9DE-4043-9B0D-E87ACB0DEDF4.webp?v=1792138341",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1A899C1-D9DE-4043-9B0D-E87ACB0DEDF4.webp?v=1792138341",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/85DC1618-5208-4F53-B164-1B621486534C.webp?v=1792138341",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C148C2B3-248A-4D0C-BA7E-513EA9FE9EC3.webp?v=1792138341"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/quiksilver-sweatshirt-mens-black-medium-124228-a",
+      "brand": "Quiksilver",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 50,
+      "views": 0,
+      "addedAt": "2026-10-28T21:05:00.627Z",
       "soldAt": null,
       "carriedOver": false
     },
