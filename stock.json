@@ -340,6 +340,10 @@
     {
       "sourceId": 16385696694659,
       "removedAt": "2026-10-28T21:05:00.627Z"
+    },
+    {
+      "sourceId": 16115043565955,
+      "removedAt": "2026-10-30T22:31:13.865Z"
     }
   ],
   "products": [
@@ -1020,36 +1024,6 @@
       "manualPick": true
     },
     {
-      "id": 16347791720835,
-      "sourceId": 16347791720835,
-      "name": "St. Louis Cardinals Majestic Mlb Baseball Jacket - XL Red Polyester",
-      "price": 131,
-      "sourcePrice": 97.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ADEF983C-AE4C-42CE-A424-A2822F7A4620.webp?v=1790246102",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ADEF983C-AE4C-42CE-A424-A2822F7A4620.webp?v=1790246102",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7FEB76DD-9560-451A-8F91-F6DACD5E1BC6.webp?v=1790246102",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/89F7DE20-B476-4311-9337-C4FF771A31A7.webp?v=1790246102"
-      ],
-      "sizes": [
-        "X-Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/st-louis-cardinals-majestic-baseball-jacket-mens-red-x-large-132435-a",
-      "brand": "Majestic",
-      "material": "Polyester",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 53,
-      "views": 1,
-      "addedAt": "2026-10-12T12:03:16.303Z",
-      "soldAt": null,
-      "carriedOver": false,
-      "manualPick": true
-    },
-    {
       "id": 16248324653443,
       "sourceId": 16248324653443,
       "name": "Racing Sno Gear Motorcycle Ski Jacket - Medium Black Polyester",
@@ -1136,6 +1110,36 @@
       "views": 1,
       "addedAt": "2026-10-13T15:33:05.839Z",
       "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16347791720835,
+      "sourceId": 16347791720835,
+      "name": "St. Louis Cardinals Majestic Mlb Baseball Jacket - XL Red Polyester",
+      "price": 131,
+      "sourcePrice": 97.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ADEF983C-AE4C-42CE-A424-A2822F7A4620.webp?v=1790246102",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/ADEF983C-AE4C-42CE-A424-A2822F7A4620.webp?v=1790246102",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7FEB76DD-9560-451A-8F91-F6DACD5E1BC6.webp?v=1790246102",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/89F7DE20-B476-4311-9337-C4FF771A31A7.webp?v=1790246102"
+      ],
+      "sizes": [
+        "X-Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/st-louis-cardinals-majestic-baseball-jacket-mens-red-x-large-132435-a",
+      "brand": "Majestic",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "unavailable",
+      "score": 53,
+      "views": 1,
+      "addedAt": "2026-10-12T12:03:16.303Z",
+      "soldAt": "2026-10-30T22:31:13.853Z",
       "carriedOver": false,
       "manualPick": true
     },
@@ -1399,35 +1403,6 @@
       "status": "unavailable",
       "score": 82,
       "views": 0,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": "2026-09-13T10:30:08.477Z",
-      "carriedOver": false
-    },
-    {
-      "id": 16115043565955,
-      "sourceId": 16115043565955,
-      "name": "Made In USA The North Face Puffer - Medium Blue Polyester",
-      "price": 160,
-      "sourcePrice": 100.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A8709157-9C63-4DDA-9A35-62CC1503332D.webp?v=1784716192",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A8709157-9C63-4DDA-9A35-62CC1503332D.webp?v=1784716192",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C66068D3-4F7D-4CA9-919A-DECD73322642.webp?v=1784716192",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/64A6D3D5-0835-4D2C-B5DD-CDBAE42C41CF.webp?v=1784716193"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/made-in-usa-the-north-face-puffer-mens-blue-medium-112202-a",
-      "brand": "The North Face",
-      "material": "Polyester",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "unavailable",
-      "score": 80,
-      "views": 1,
       "addedAt": "2026-09-13T10:00:41.405Z",
       "soldAt": "2026-09-13T10:30:08.477Z",
       "carriedOver": false
