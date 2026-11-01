@@ -344,6 +344,10 @@
     {
       "sourceId": 16115043565955,
       "removedAt": "2026-10-30T22:31:13.865Z"
+    },
+    {
+      "sourceId": 16388851138947,
+      "removedAt": "2026-11-01T23:32:27.526Z"
     }
   ],
   "products": [
@@ -692,35 +696,6 @@
       "url": "https://www.thrifted.com/products/patagonia-hoodie-mens-grey-large-124372-a",
       "brand": "Patagonia",
       "material": "Polyester Blend",
-      "era": "2000S",
-      "condition": "Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 68,
-      "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388851138947,
-      "sourceId": 16388851138947,
-      "name": "Patagonia Sweatshirt - Large Navy Cotton",
-      "price": 85,
-      "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0DFFFACE-B4BA-4E12-831D-0628C13D6C77.webp?v=1792138972",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0DFFFACE-B4BA-4E12-831D-0628C13D6C77.webp?v=1792138972",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E98BAAA1-316D-4831-83F5-B9876C80C85E.webp?v=1792138972",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1A12954B-020A-4732-B0BB-E5548F4EDF37.webp?v=1792138972"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/patagonia-sweatshirt-mens-navy-large-124382-a",
-      "brand": "Patagonia",
-      "material": "Cotton",
       "era": "2000S",
       "condition": "Good",
       "tier": "drops",
