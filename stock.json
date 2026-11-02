@@ -1,66 +1,6 @@
 {
-  "lastCycleAt": "2026-10-28T21:04:07.711Z",
+  "lastCycleAt": "2026-11-02T21:33:40.926Z",
   "removedHistory": [
-    {
-      "sourceId": 16347800371587,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347776811395,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347751612803,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347751186819,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347786412419,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347714847107,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16248364335491,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16248300274051,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16248300470659,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347705672067,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347751514499,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347707736451,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347752235395,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347752006019,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
-    {
-      "sourceId": 16347791196547,
-      "removedAt": "2026-10-03T02:06:44.114Z"
-    },
     {
       "sourceId": 16347751317891,
       "removedAt": "2026-10-08T20:30:57.873Z"
@@ -348,6 +288,54 @@
     {
       "sourceId": 16388851138947,
       "removedAt": "2026-11-01T23:32:27.526Z"
+    },
+    {
+      "sourceId": 16373353775491,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16373353218435,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16373353513347,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16388851073411,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16388850418051,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16388875157891,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16388840227203,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16388841374083,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16388838621571,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16359174340995,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16388833542531,
+      "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16388838949251,
+      "removedAt": "2026-11-02T21:34:22.103Z"
     }
   ],
   "products": [
@@ -562,350 +550,379 @@
       "manualPick": true
     },
     {
-      "id": 16373353775491,
-      "sourceId": 16373353775491,
-      "name": "Carhartt Long Sleeve T-Shirt - Large Blue Cotton",
-      "price": 83,
-      "sourcePrice": 49.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C2181607-9D28-4291-9CE2-1C3ED5D6D63B.webp?v=1791464553",
+      "id": 16417694122371,
+      "sourceId": 16417694122371,
+      "name": "Made In USA Mickey Inc Cartoon Sweatshirt - Large Grey Cotton Blend",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/50798BA9-5CCC-473C-A108-C05E754D2723.webp?v=1793375601",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2181607-9D28-4291-9CE2-1C3ED5D6D63B.webp?v=1791464553",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C777CD09-4769-45B2-8507-26915A56ADEA.webp?v=1791464553",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F6328F64-C5DE-4D58-AE34-069D133A249D.webp?v=1791464553"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/50798BA9-5CCC-473C-A108-C05E754D2723.webp?v=1793375601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0B519C76-1188-4670-B80C-80E4B6F68D13.webp?v=1793375601",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4B278D35-341E-469A-8729-4944A884AF79.webp?v=1793375601"
       ],
       "sizes": [
         "Large"
       ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-blue-large-120745-a",
-      "brand": "Carhartt",
-      "material": "Cotton",
-      "era": "2000S",
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/made-in-usa-mickey-inc-sweatshirt-mens-grey-large-126784-a",
+      "brand": "Mickey Inc",
+      "material": "Cotton Blend",
+      "era": "1990S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 72,
+      "score": 85,
       "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
+      "addedAt": "2026-11-02T21:34:22.103Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16373353218435,
-      "sourceId": 16373353218435,
-      "name": "Carhartt Long Sleeve T-Shirt - Medium Brown Cotton",
-      "price": 83,
-      "sourcePrice": 49.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9FD8FADB-2126-48D4-8C27-71ACBFF7AE08.webp?v=1791464538",
+      "id": 16417691173251,
+      "sourceId": 16417691173251,
+      "name": "Made In USA Disney Cartoon T-Shirt - Medium Red Cotton Blend",
+      "price": 77,
+      "sourcePrice": 43.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FA2212-DAFB-432E-8609-EADA8B8BA067.webp?v=1793375528",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9FD8FADB-2126-48D4-8C27-71ACBFF7AE08.webp?v=1791464538",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DABD85AE-784E-46F4-BDDA-2801146AADA9.webp?v=1791464538",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/79183DFB-59D0-420C-B8C1-2B6FC97C6B8B.webp?v=1791464538"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C3FA2212-DAFB-432E-8609-EADA8B8BA067.webp?v=1793375528",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD899F48-425F-461B-A606-5DCBC1EDAFEE.webp?v=1793375528",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4EC37F75-B42F-4A8E-B912-D4264916AAD3.webp?v=1793375528"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-brown-medium-120741-a",
-      "brand": "Carhartt",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 72,
-      "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16373353513347,
-      "sourceId": 16373353513347,
-      "name": "Carhartt Long Sleeve T-Shirt - Large Black Cotton",
-      "price": 83,
-      "sourcePrice": 49.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2464AA2B-885D-47E0-89F7-4B254D876992.webp?v=1791464545",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/2464AA2B-885D-47E0-89F7-4B254D876992.webp?v=1791464545",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D8DC7B6C-0CCB-461A-8E06-374E740BBB87.webp?v=1791464545",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/499D62FA-0559-406B-A5FC-0576D15AD14E.webp?v=1791464545"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-black-large-120743-a",
-      "brand": "Carhartt",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 72,
-      "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388851073411,
-      "sourceId": 16388851073411,
-      "name": "Patagonia Long Sleeve T-Shirt - Small Grey Cotton",
-      "price": 74,
-      "sourcePrice": 40.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AB235F70-441A-461F-8C60-02003994CFA3.webp?v=1792138968",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/AB235F70-441A-461F-8C60-02003994CFA3.webp?v=1792138968",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8870DFD5-004D-463F-9DCE-638B09D7B1A6.webp?v=1792138968",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3A7BABF1-27B0-47D8-9882-4C9CD3C14E18.webp?v=1792138968"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/patagonia-long-sleeve-t-shirt-mens-grey-small-124381-a",
-      "brand": "Patagonia",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 70,
-      "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388850418051,
-      "sourceId": 16388850418051,
-      "name": "Patagonia Hoodie - Large Grey Polyester Blend",
-      "price": 85,
-      "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E375C7A6-9D1F-47C1-8A97-E3BCD0493392.webp?v=1792138930",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E375C7A6-9D1F-47C1-8A97-E3BCD0493392.webp?v=1792138930",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F30A934C-8413-4E0C-B333-80F0527DDB59.webp?v=1792138930",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D5551BE9-F6D7-431E-80F1-FF0807A0C159.webp?v=1792138931"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/patagonia-hoodie-mens-grey-large-124372-a",
-      "brand": "Patagonia",
-      "material": "Polyester Blend",
-      "era": "2000S",
+      "url": "https://www.thrifted.com/products/made-in-usa-disney-t-shirt-mens-red-medium-126761-a",
+      "brand": "Disney",
+      "material": "Cotton Blend",
+      "era": "1990S",
       "condition": "Good",
       "tier": "drops",
       "status": "available",
-      "score": 68,
+      "score": 79,
       "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
+      "addedAt": "2026-11-02T21:34:22.103Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16388875157891,
-      "sourceId": 16388875157891,
-      "name": "Champion Windbreaker - Large Navy Nylon",
+      "id": 16416410993027,
+      "sourceId": 16416410993027,
+      "name": "Champion Graphic T-Shirt - Medium Navy Cotton",
+      "price": 77,
+      "sourcePrice": 43.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6E64560D-5D28-4EF8-8C37-4C7BDEBB82BE.webp?v=1793354528",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6E64560D-5D28-4EF8-8C37-4C7BDEBB82BE.webp?v=1793354528",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DB23CE3A-C28B-403A-8447-08E65FDC2AF3.webp?v=1793354527",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6EF3FD85-1F39-46CA-AE77-C6B40BDBE3AE.webp?v=1793354528"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/champion-t-shirt-mens-navy-medium-123677-a",
+      "brand": "Champion",
+      "material": "Cotton",
+      "era": "1980S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 78,
+      "views": 0,
+      "addedAt": "2026-11-02T21:34:22.103Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16416601112963,
+      "sourceId": 16416601112963,
+      "name": "Carhartt Loose Fit Sweatshirt - Large Grey Cotton Blend",
       "price": 83,
       "sourcePrice": 49.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/ED5EC847-0DEB-4DCD-A277-7CCEE0CAC535.webp?v=1792140080",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B4B7ED5C-3116-4462-8A01-AA184081FC8E.webp?v=1793358099",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/ED5EC847-0DEB-4DCD-A277-7CCEE0CAC535.webp?v=1792140080",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/83E01A15-3B2B-45EF-A87C-18C8FB374A72.webp?v=1792140081",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/49E968E0-26A0-4DD1-8ED0-AD566515BE7D.webp?v=1792140081"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B4B7ED5C-3116-4462-8A01-AA184081FC8E.webp?v=1793358099",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/336CEC88-A428-4CBF-AFAB-14F74D4400A0.webp?v=1793358099",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/77B29F3A-4413-4AA5-B6B9-573FFC08B265.webp?v=1793358099"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/carhartt-sweatshirt-mens-grey-large-126559-a",
+      "brand": "Carhartt",
+      "material": "Cotton Blend",
+      "era": "2010S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 74,
+      "views": 0,
+      "addedAt": "2026-11-02T21:34:22.103Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16373570994563,
+      "sourceId": 16373570994563,
+      "name": "Carhartt Jacket - Large Navy Polyester",
+      "price": 82,
+      "sourcePrice": 48.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B0B70D69-62D7-4157-A3A1-2E3021514368.webp?v=1791469597",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B0B70D69-62D7-4157-A3A1-2E3021514368.webp?v=1791469597",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E64B0CE8-F16B-4E8C-B57E-EFE69E95F2CA.webp?v=1791469597",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/608A11F5-A2D4-4407-803F-C7D9DCCFFA30.webp?v=1791469598"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/champion-windbreaker-mens-navy-large-124659-a",
-      "brand": "Champion",
-      "material": "Nylon",
+      "url": "https://www.thrifted.com/products/carhartt-jacket-mens-navy-large-121949-a",
+      "brand": "Carhartt",
+      "material": "Polyester",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 61,
+      "score": 72,
       "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
+      "addedAt": "2026-11-02T21:34:22.103Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16388840227203,
-      "sourceId": 16388840227203,
-      "name": "Vans Graphic Hoodie - Small Black Cotton Blend",
-      "price": 85,
-      "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/B32F6920-6FC1-41AE-A84E-5FCB167D126F.webp?v=1792138420",
+      "id": 16373352497539,
+      "sourceId": 16373352497539,
+      "name": "Carhartt Long Sleeve T-Shirt - Medium Navy Cotton",
+      "price": 83,
+      "sourcePrice": 49.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/FFB15649-DB98-4984-9CC4-E3195357C743.webp?v=1791464520",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B32F6920-6FC1-41AE-A84E-5FCB167D126F.webp?v=1792138420",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9EF6FA57-53E1-4933-A7BF-AC143B768920.webp?v=1792138420",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1B361F3-FE7F-4945-B61B-3F096C192227.webp?v=1792138420"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/FFB15649-DB98-4984-9CC4-E3195357C743.webp?v=1791464520",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/B037F4B5-CF32-4310-87E9-794AC399E6BF.webp?v=1791464520",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0D921F8D-BEC8-4F2A-88E4-F9508A6C61F9.webp?v=1791464520"
       ],
       "sizes": [
-        "Small"
+        "Medium"
       ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/vans-hoodie-mens-black-small-124247-a",
-      "brand": "Vans",
-      "material": "Cotton Blend",
-      "era": "2020S",
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/carhartt-long-sleeve-t-shirt-mens-navy-medium-120737-a",
+      "brand": "Carhartt",
+      "material": "Cotton",
+      "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 55,
+      "score": 72,
       "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
+      "addedAt": "2026-11-02T21:34:22.103Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16388841374083,
-      "sourceId": 16388841374083,
-      "name": "Vans Sweatshirt - Medium Grey Cotton Blend",
-      "price": 85,
-      "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/CD710AEE-AB0E-486A-A990-4358C4C34045.webp?v=1792138515",
+      "id": 16416609042819,
+      "sourceId": 16416609042819,
+      "name": "Tommy Hilfiger Spellout Sweatshirt - Medium Navy Cotton Blend",
+      "price": 77,
+      "sourcePrice": 43.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/436BE2C6-B20B-41ED-A29F-E565BCAFED0A.webp?v=1793358226",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/CD710AEE-AB0E-486A-A990-4358C4C34045.webp?v=1792138515",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/58C7CE46-838F-43A8-BFAE-484814D75DA7.webp?v=1792138515",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/11A0E457-35B3-41EC-B7BF-28D9380A3948.webp?v=1792138516"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/436BE2C6-B20B-41ED-A29F-E565BCAFED0A.webp?v=1793358226",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6B305999-3E78-4E3C-9C10-BE1FC078BD28.webp?v=1793358227",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/273FE3FB-CD12-4AA4-92C7-5BBB5EC47725.webp?v=1793358226"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vans-sweatshirt-mens-grey-medium-124270-a",
-      "brand": "Vans",
+      "url": "https://www.thrifted.com/products/tommy-hilfiger-sweatshirt-mens-navy-medium-126598-a",
+      "brand": "Tommy Hilfiger",
       "material": "Cotton Blend",
       "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
-      "score": 55,
+      "score": 68,
       "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
+      "addedAt": "2026-11-02T21:34:22.103Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16388838621571,
-      "sourceId": 16388838621571,
-      "name": "Vans Animal Print Sweatshirt - Large Navy Cotton Blend",
+      "id": 16388851007875,
+      "sourceId": 16388851007875,
+      "name": "Patagonia Graphic Long Sleeve T-Shirt - Small Grey Polyester Blend",
+      "price": 74,
+      "sourcePrice": 40.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/2D1A8661-AC05-4686-9272-6717159D5323.webp?v=1792138963",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2D1A8661-AC05-4686-9272-6717159D5323.webp?v=1792138963",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DF7ECCED-9F92-423E-9C86-2F30D1894573.webp?v=1792138963",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0D9DA896-BC55-411F-B6E5-D05CC20B23BF.webp?v=1792138963"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/patagonia-long-sleeve-t-shirt-mens-grey-small-124380-a",
+      "brand": "Patagonia",
+      "material": "Polyester Blend",
+      "era": "2020S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 68,
+      "views": 0,
+      "addedAt": "2026-11-02T21:34:22.103Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16347776811395,
+      "sourceId": 16347776811395,
+      "name": "Patagonia Hoodie - Large Grey Cotton Blend",
       "price": 85,
       "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/F876AFB6-7D16-4299-AE7D-8C499DB90FBF.webp?v=1792138324",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EDA8EDE9-B539-4DED-ACA6-8CA6535BAB7D.webp?v=1790245515",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F876AFB6-7D16-4299-AE7D-8C499DB90FBF.webp?v=1792138324",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9C55DF3D-3EAC-44A0-9C48-A8C57236E057.webp?v=1792138324",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/63FDDE0C-C753-43E5-8D05-7A66909BB638.webp?v=1792138324"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EDA8EDE9-B539-4DED-ACA6-8CA6535BAB7D.webp?v=1790245515",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AFE2447E-994F-4A87-9F62-5850CBF7BB23.webp?v=1790245515",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EB0106A9-8B17-4370-ACFB-A6DD78A437AD.webp?v=1790245516"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/patagonia-hoodie-mens-grey-large-132290-a",
+      "brand": "Patagonia",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 65,
+      "views": 0,
+      "addedAt": "2026-11-02T21:34:22.103Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16417722466691,
+      "sourceId": 16417722466691,
+      "name": "Dickies Hoodie - Large Black Polyester Blend",
+      "price": 77,
+      "sourcePrice": 43.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6CC54367-2651-48E1-9363-945692A238F0.webp?v=1793376370",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6CC54367-2651-48E1-9363-945692A238F0.webp?v=1793376370",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2BADD81-29A6-4ACE-9C6B-29C3A89382D3.webp?v=1793376370",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7AECD8CC-336D-422D-89B6-EE3F2DF49A36.webp?v=1793376370"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/dickies-hoodie-mens-black-large-126664-a",
+      "brand": "Dickies",
+      "material": "Polyester Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 63,
+      "views": 0,
+      "addedAt": "2026-11-02T21:34:22.103Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16417721876867,
+      "sourceId": 16417721876867,
+      "name": "The North Face Spellout Hoodie - Large Orange Cotton Blend",
+      "price": 77,
+      "sourcePrice": 43.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D0A08901-56FE-421A-8F3A-2FC79AB057CC.webp?v=1793376361",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D0A08901-56FE-421A-8F3A-2FC79AB057CC.webp?v=1793376361",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A471ECFD-3A4C-4A0A-A733-056315CCB553.webp?v=1793376361",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BA3B3F4B-58D3-4018-A023-F7FB7D490450.webp?v=1793376361"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/the-north-face-hoodie-mens-orange-large-126659-a",
+      "brand": "The North Face",
+      "material": "Cotton Blend",
+      "era": "2010S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 63,
+      "views": 0,
+      "addedAt": "2026-11-02T21:34:22.103Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16388850778499,
+      "sourceId": 16388850778499,
+      "name": "Patagonia Sweatshirt - Large Navy Cotton",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/26065A14-41E5-4F14-BC25-1BB10DC2384B.webp?v=1792138951",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/26065A14-41E5-4F14-BC25-1BB10DC2384B.webp?v=1792138951",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/2718DF3D-0BBC-4C0A-9DF3-0B83B644803B.webp?v=1792138951",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/607831D3-3B49-4465-BBD6-2DD9C990372A.webp?v=1792138952"
       ],
       "sizes": [
         "Large"
       ],
       "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/vans-sweatshirt-mens-navy-large-124224-a",
-      "brand": "Vans",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
+      "url": "https://www.thrifted.com/products/patagonia-sweatshirt-mens-navy-large-124377-a",
+      "brand": "Patagonia",
+      "material": "Cotton",
+      "era": "2020S",
+      "condition": "Good",
       "tier": "drops",
       "status": "available",
-      "score": 55,
+      "score": 61,
       "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
+      "addedAt": "2026-11-02T21:34:22.103Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16359174340995,
-      "sourceId": 16359174340995,
-      "name": "Mountain Hard Wear Graphic Hoodie - Medium Black Cotton Blend",
+      "id": 16417693598083,
+      "sourceId": 16417693598083,
+      "name": "Eeyore Disney Cartoon Sweatshirt - Large Blue Cotton Blend",
       "price": 85,
       "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/16A103F6-1435-45E7-A9F8-52997C7CFD9A.webp?v=1790855116",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/BEFA6C69-44A5-44E2-A39C-BC88E96E25A0.webp?v=1793375587",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/16A103F6-1435-45E7-A9F8-52997C7CFD9A.webp?v=1790855116",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/8036C270-7096-4CA2-99C4-7B091E5C0A7E.webp?v=1790855116",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C0D00CD0-5970-4260-8B95-9DC654B2B72C.webp?v=1790855116"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/BEFA6C69-44A5-44E2-A39C-BC88E96E25A0.webp?v=1793375587",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/17269BC7-CF94-4529-8E53-7EE069FB7631.webp?v=1793375587",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/1830090D-5B5D-4263-AEAE-76812987008B.webp?v=1793375587"
       ],
       "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/mountain-hard-wear-hoodie-mens-black-medium-117905-a",
-      "brand": "Mountain Hard Wear",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 53,
-      "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388833542531,
-      "sourceId": 16388833542531,
-      "name": "Los Angeles Chargers N.F.L. Team Apparel Graphic Sweatshirt - Medium Grey Cotton Blend",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6BD8E668-9253-4251-BBEF-5A528CBC1D8D.webp?v=1792138051",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6BD8E668-9253-4251-BBEF-5A528CBC1D8D.webp?v=1792138051",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9D56797E-7B7A-46AA-B917-6B1EDC709501.webp?v=1792138051",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/23277FF0-19F4-468A-9A4E-2783735825CE.webp?v=1792138052"
-      ],
-      "sizes": [
-        "Medium"
+        "Large"
       ],
       "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/los-angeles-chargers-n-f-l-team-apparel-sweatshirt-mens-grey-medium-124157-a",
-      "brand": "N.F.L. Team Apparel",
+      "url": "https://www.thrifted.com/products/eeyore-disney-sweatshirt-mens-blue-large-126780-a",
+      "brand": "Disney",
       "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
+      "era": "1990S",
+      "condition": "Good",
       "tier": "drops",
       "status": "available",
-      "score": 51,
+      "score": 58,
       "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16388838949251,
-      "sourceId": 16388838949251,
-      "name": "Quiksilver Sweatshirt - Medium Black Cotton Blend",
-      "price": 85,
-      "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/D1A899C1-D9DE-4043-9B0D-E87ACB0DEDF4.webp?v=1792138341",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1A899C1-D9DE-4043-9B0D-E87ACB0DEDF4.webp?v=1792138341",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/85DC1618-5208-4F53-B164-1B621486534C.webp?v=1792138341",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C148C2B3-248A-4D0C-BA7E-513EA9FE9EC3.webp?v=1792138341"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/quiksilver-sweatshirt-mens-black-medium-124228-a",
-      "brand": "Quiksilver",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 50,
-      "views": 0,
-      "addedAt": "2026-10-28T21:05:00.627Z",
+      "addedAt": "2026-11-02T21:34:22.103Z",
       "soldAt": null,
       "carriedOver": false
     },
