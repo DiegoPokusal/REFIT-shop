@@ -336,6 +336,10 @@
     {
       "sourceId": 16388838949251,
       "removedAt": "2026-11-02T21:34:22.103Z"
+    },
+    {
+      "sourceId": 16417722466691,
+      "removedAt": "2026-11-04T14:01:07.644Z"
     }
   ],
   "products": [
@@ -805,35 +809,6 @@
       "tier": "drops",
       "status": "available",
       "score": 65,
-      "views": 0,
-      "addedAt": "2026-11-02T21:34:22.103Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16417722466691,
-      "sourceId": 16417722466691,
-      "name": "Dickies Hoodie - Large Black Polyester Blend",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6CC54367-2651-48E1-9363-945692A238F0.webp?v=1793376370",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6CC54367-2651-48E1-9363-945692A238F0.webp?v=1793376370",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C2BADD81-29A6-4ACE-9C6B-29C3A89382D3.webp?v=1793376370",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7AECD8CC-336D-422D-89B6-EE3F2DF49A36.webp?v=1793376370"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/dickies-hoodie-mens-black-large-126664-a",
-      "brand": "Dickies",
-      "material": "Polyester Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 63,
       "views": 0,
       "addedAt": "2026-11-02T21:34:22.103Z",
       "soldAt": null,
