@@ -340,6 +340,10 @@
     {
       "sourceId": 16417722466691,
       "removedAt": "2026-11-04T14:01:07.644Z"
+    },
+    {
+      "sourceId": 16416609042819,
+      "removedAt": "2026-11-06T01:00:21.462Z"
     }
   ],
   "products": [
@@ -722,35 +726,6 @@
       "tier": "drops",
       "status": "available",
       "score": 72,
-      "views": 0,
-      "addedAt": "2026-11-02T21:34:22.103Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16416609042819,
-      "sourceId": 16416609042819,
-      "name": "Tommy Hilfiger Spellout Sweatshirt - Medium Navy Cotton Blend",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/436BE2C6-B20B-41ED-A29F-E565BCAFED0A.webp?v=1793358226",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/436BE2C6-B20B-41ED-A29F-E565BCAFED0A.webp?v=1793358226",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6B305999-3E78-4E3C-9C10-BE1FC078BD28.webp?v=1793358227",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/273FE3FB-CD12-4AA4-92C7-5BBB5EC47725.webp?v=1793358226"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/tommy-hilfiger-sweatshirt-mens-navy-medium-126598-a",
-      "brand": "Tommy Hilfiger",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 68,
       "views": 0,
       "addedAt": "2026-11-02T21:34:22.103Z",
       "soldAt": null,
