@@ -368,6 +368,10 @@
     {
       "sourceId": 16417693598083,
       "removedAt": "2026-11-07T21:35:11.137Z"
+    },
+    {
+      "sourceId": 16425082651011,
+      "removedAt": "2026-11-08T09:02:35.611Z"
     }
   ],
   "products": [
@@ -717,35 +721,6 @@
       "brand": "Patagonia",
       "material": "Cotton Blend",
       "era": "2020S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 65,
-      "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16425082651011,
-      "sourceId": 16425082651011,
-      "name": "Patagonia Long Sleeve T-Shirt - Medium Navy Cotton",
-      "price": 74,
-      "sourcePrice": 40.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E104B0E7-56E8-4FA5-8D60-16C5BC1559F4.webp?v=1793809395",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/E104B0E7-56E8-4FA5-8D60-16C5BC1559F4.webp?v=1793809395",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/810ADC88-0E86-4310-BAAB-3120BC789C6F.webp?v=1793809395",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1860FC77-CF86-4002-929D-9FE993417482.webp?v=1793809395"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/patagonia-long-sleeve-t-shirt-mens-navy-medium-128326-a",
-      "brand": "Patagonia",
-      "material": "Cotton",
-      "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
