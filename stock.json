@@ -372,6 +372,10 @@
     {
       "sourceId": 16425082651011,
       "removedAt": "2026-11-08T09:02:35.611Z"
+    },
+    {
+      "sourceId": 16425060729219,
+      "removedAt": "2026-11-08T14:34:44.362Z"
     }
   ],
   "products": [
@@ -776,35 +780,6 @@
       ],
       "category": "hoodie",
       "url": "https://www.thrifted.com/products/vans-hoodie-mens-blue-medium-128220-a",
-      "brand": "Vans",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 60,
-      "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16425060729219,
-      "sourceId": 16425060729219,
-      "name": "Vans Spellout Hoodie - Medium Black Cotton Blend",
-      "price": 85,
-      "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/84657B4D-7D1D-40C3-B484-A40C3BB191DC.webp?v=1793807953",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/84657B4D-7D1D-40C3-B484-A40C3BB191DC.webp?v=1793807953",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/28E948C7-195F-4AA6-B679-B27C1A010BAE.webp?v=1793807953",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D754B0A8-7ECA-4D46-B850-86FB1451342C.webp?v=1793807954"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/vans-hoodie-mens-black-medium-126856-a",
       "brand": "Vans",
       "material": "Cotton Blend",
       "era": "2000S",
