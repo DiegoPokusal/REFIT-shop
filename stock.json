@@ -1,70 +1,6 @@
 {
-  "lastCycleAt": "2026-11-07T21:34:32.553Z",
+  "lastCycleAt": "2026-11-12T22:01:04.993Z",
   "removedHistory": [
-    {
-      "sourceId": 16347750334851,
-      "removedAt": "2026-10-13T18:34:10.751Z"
-    },
-    {
-      "sourceId": 16175522611587,
-      "removedAt": "2026-10-13T18:34:10.751Z"
-    },
-    {
-      "sourceId": 16347748467075,
-      "removedAt": "2026-10-13T18:34:10.751Z"
-    },
-    {
-      "sourceId": 16359208714627,
-      "removedAt": "2026-10-13T18:34:10.751Z"
-    },
-    {
-      "sourceId": 16359211958659,
-      "removedAt": "2026-10-13T18:34:10.751Z"
-    },
-    {
-      "sourceId": 16248299553155,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
-    {
-      "sourceId": 16347798241667,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
-    {
-      "sourceId": 16248299028867,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
-    {
-      "sourceId": 16359260488067,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
-    {
-      "sourceId": 16359385989507,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
-    {
-      "sourceId": 16359385137539,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
-    {
-      "sourceId": 16359385170307,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
-    {
-      "sourceId": 16359218577795,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
-    {
-      "sourceId": 16359185777027,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
-    {
-      "sourceId": 16359281295747,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
-    {
-      "sourceId": 16248226054531,
-      "removedAt": "2026-10-13T20:33:10.080Z"
-    },
     {
       "sourceId": 16376841404803,
       "removedAt": "2026-10-14T07:30:13.189Z"
@@ -360,6 +296,50 @@
     {
       "sourceId": 16115703939459,
       "removedAt": "2026-11-12T02:30:32.828Z"
+    },
+    {
+      "sourceId": 16425077244291,
+      "removedAt": "2026-11-12T22:01:53.758Z"
+    },
+    {
+      "sourceId": 16425081831811,
+      "removedAt": "2026-11-12T22:01:53.758Z"
+    },
+    {
+      "sourceId": 16423128465795,
+      "removedAt": "2026-11-12T22:01:53.758Z"
+    },
+    {
+      "sourceId": 16422529958275,
+      "removedAt": "2026-11-12T22:01:53.758Z"
+    },
+    {
+      "sourceId": 16425082880387,
+      "removedAt": "2026-11-12T22:01:53.758Z"
+    },
+    {
+      "sourceId": 16425080947075,
+      "removedAt": "2026-11-12T22:01:53.758Z"
+    },
+    {
+      "sourceId": 16425080684931,
+      "removedAt": "2026-11-12T22:01:53.758Z"
+    },
+    {
+      "sourceId": 16423021543811,
+      "removedAt": "2026-11-12T22:01:53.758Z"
+    },
+    {
+      "sourceId": 16416526369155,
+      "removedAt": "2026-11-12T22:01:53.758Z"
+    },
+    {
+      "sourceId": 16416601932163,
+      "removedAt": "2026-11-12T22:01:53.758Z"
+    },
+    {
+      "sourceId": 16416600555907,
+      "removedAt": "2026-11-12T22:01:53.758Z"
     }
   ],
   "products": [
@@ -574,321 +554,379 @@
       "manualPick": true
     },
     {
-      "id": 16425077244291,
-      "sourceId": 16425077244291,
-      "name": "Made In USA Nike T-Shirt - Large Blue Cotton",
-      "price": 77,
-      "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/A78288D1-179A-4548-938D-9CAF7921D7D3.webp?v=1793809022",
+      "id": 16426473390467,
+      "sourceId": 16426473390467,
+      "name": "Made In USA Red Kap Gilet - Large Black Polyester Blend",
+      "price": 86,
+      "sourcePrice": 52.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/EE0C0F6F-AE76-42EF-8173-0DBEC3DD4EFC.webp?v=1793877699",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A78288D1-179A-4548-938D-9CAF7921D7D3.webp?v=1793809022",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/05537BBB-6210-4DF6-B5BF-70A4F6ACC30D.webp?v=1793809022",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/BED61F96-FCAB-4CEC-9B76-6CD280195405.webp?v=1793809022"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "tee",
-      "url": "https://www.thrifted.com/products/made-in-usa-nike-t-shirt-mens-blue-large-127677-a",
-      "brand": "Nike",
-      "material": "Cotton",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 86,
-      "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16425081831811,
-      "sourceId": 16425081831811,
-      "name": "Patagonia Sweatshirt - Small Grey Cotton",
-      "price": 85,
-      "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D16F124-A1BC-4CE1-A7F5-0444C38BAE8F.webp?v=1793809363",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D16F124-A1BC-4CE1-A7F5-0444C38BAE8F.webp?v=1793809363",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5F1BDD87-0373-4058-BEA5-D3FDDFF74519.webp?v=1793809363",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/F5ECC007-A36F-4B48-B228-B08635841AF9.webp?v=1793809363"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/patagonia-sweatshirt-mens-grey-small-128316-a",
-      "brand": "Patagonia",
-      "material": "Cotton",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 70,
-      "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16423128465795,
-      "sourceId": 16423128465795,
-      "name": "Reebok Spellout Windbreaker - Large Navy Nylon",
-      "price": 83,
-      "sourcePrice": 49.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/7304D963-BBD8-4614-9DD6-4D1B485B2AF8.webp?v=1793723309",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/7304D963-BBD8-4614-9DD6-4D1B485B2AF8.webp?v=1793723309",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D9FC28EB-47EB-4846-9724-894B06F82EAC.webp?v=1793723309",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/4ED810FD-8C72-4FBA-8C81-3D431FC81DED.webp?v=1793723309"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE0C0F6F-AE76-42EF-8173-0DBEC3DD4EFC.webp?v=1793877699",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E2935856-8AF5-4D12-9542-7C49031FAF6F.webp?v=1793877699",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CBE1DC92-92B5-4CE0-8A1B-45FF31CCFCA1.webp?v=1793877700"
       ],
       "sizes": [
         "Large"
       ],
       "category": "jacket",
-      "url": "https://www.thrifted.com/products/reebok-windbreaker-mens-navy-large-126679-a",
-      "brand": "Reebok",
-      "material": "Nylon",
+      "url": "https://www.thrifted.com/products/made-in-usa-red-kap-gilet-mens-black-large-128945-a",
+      "brand": "Red Kap",
+      "material": "Polyester Blend",
       "era": "1990S",
-      "condition": "Very Good",
+      "condition": "Good",
       "tier": "drops",
       "status": "available",
-      "score": 69,
+      "score": 73,
       "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
+      "addedAt": "2026-11-12T22:01:53.758Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16422529958275,
-      "sourceId": 16422529958275,
-      "name": "Nike Graphic T-Shirt - Large Green Cotton",
+      "id": 16416605667715,
+      "sourceId": 16416605667715,
+      "name": "Rain Defender Carhartt Spellout Hoodie - Small Burgundy Cotton Blend",
       "price": 77,
       "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/09F7A6B6-1EA9-400E-99A2-F144960F9FDA.webp?v=1793710267",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/92FB98EF-F024-4122-B0D3-C599B60CCF0D.webp?v=1793358176",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/09F7A6B6-1EA9-400E-99A2-F144960F9FDA.webp?v=1793710267",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/B519ACDB-4655-4086-B690-D4D86B320994.webp?v=1793710267",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/94F521C0-9BCC-4D0E-9AA1-DDBCF5C2094E.webp?v=1793710267"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/92FB98EF-F024-4122-B0D3-C599B60CCF0D.webp?v=1793358176",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7B1D1AD3-6944-4697-8CFB-9172AF8754AB.webp?v=1793358176",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/DC1460A1-CFA9-4367-B0F8-5735C09A3B7E.webp?v=1793358177"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/rain-defender-carhartt-hoodie-mens-burgundy-small-126583-a",
+      "brand": "Carhartt",
+      "material": "Cotton Blend",
+      "era": "2010S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 69,
+      "views": 0,
+      "addedAt": "2026-11-12T22:01:53.758Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16425085305219,
+      "sourceId": 16425085305219,
+      "name": "Ralph Lauren Long Sleeve T-Shirt - Large Red Cotton",
+      "price": 82,
+      "sourcePrice": 48.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/6F07E92B-73BA-44DA-9D12-03C9D67D376F.webp?v=1793809556",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/6F07E92B-73BA-44DA-9D12-03C9D67D376F.webp?v=1793809556",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A34A52D0-9288-4A9B-B1ED-43397D797F6A.webp?v=1793809556",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E320C8B5-8734-4CCE-80A1-50211175DEB4.webp?v=1793809556"
       ],
       "sizes": [
         "Large"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/nike-t-shirt-mens-green-large-126039-a",
-      "brand": "Nike",
+      "url": "https://www.thrifted.com/products/ralph-lauren-long-sleeve-t-shirt-mens-red-large-128376-a",
+      "brand": "Ralph Lauren",
       "material": "Cotton",
       "era": "1990S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 69,
+      "views": 0,
+      "addedAt": "2026-11-12T22:01:53.758Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16426647716227,
+      "sourceId": 16426647716227,
+      "name": "Harley Davidson Spellout T-Shirt - Medium Blue Cotton",
+      "price": 83,
+      "sourcePrice": 49.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0A9E023C-38A3-467D-95ED-4DAA313CE022.webp?v=1793890015",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0A9E023C-38A3-467D-95ED-4DAA313CE022.webp?v=1793890015",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/97D18958-5C81-413B-B917-0114EC99D527.webp?v=1793890014",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/4E894F20-619D-4032-9B9D-F8A204885D40.webp?v=1793890015"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/harley-davidson-t-shirt-womens-blue-medium-128712-a",
+      "brand": "Harley Davidson",
+      "material": "Cotton",
+      "era": "2000S",
       "condition": "Very Good",
       "tier": "drops",
       "status": "available",
       "score": 66,
       "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
+      "addedAt": "2026-11-12T22:01:53.758Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16425082880387,
-      "sourceId": 16425082880387,
-      "name": "Patagonia Spellout Long Sleeve T-Shirt - Medium Navy Cotton Blend",
-      "price": 74,
-      "sourcePrice": 40.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/DDA6CA6C-8C30-4AB9-B053-E548D92BA8C2.webp?v=1793809414",
+      "id": 16428314984835,
+      "sourceId": 16428314984835,
+      "name": "Four Corners, Farmington, New Mexico Harley Davidson Graphic T-Shirt - Medium Khaki Cotton",
+      "price": 77,
+      "sourcePrice": 43.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5B511ECB-5D86-492A-AA91-8FE3209A8C8C.webp?v=1793980078",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DDA6CA6C-8C30-4AB9-B053-E548D92BA8C2.webp?v=1793809414",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/5DE5BD07-44B4-4C05-9771-3D954789CC80.webp?v=1793809414",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/EE897880-69F1-4F98-80C4-4B2302C22826.webp?v=1793809414"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5B511ECB-5D86-492A-AA91-8FE3209A8C8C.webp?v=1793980078",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/87D624C3-696E-46D1-8E1C-5131966F84F8.webp?v=1793980078",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CC3E818E-7754-4195-A3AE-BD6EC6EDAF38.webp?v=1793980078"
       ],
       "sizes": [
         "Medium"
       ],
       "category": "tee",
-      "url": "https://www.thrifted.com/products/patagonia-long-sleeve-t-shirt-mens-navy-medium-128332-a",
+      "url": "https://www.thrifted.com/products/four-corners-farmington-new-mexico-harley-davidson-t-shirt-mens-khaki-medium-128833-a",
+      "brand": "Harley Davidson",
+      "material": "Cotton",
+      "era": "1990S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 66,
+      "views": 0,
+      "addedAt": "2026-11-12T22:01:53.758Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16425088909699,
+      "sourceId": 16425088909699,
+      "name": "Levis T-Shirt - Medium Black Cotton",
+      "price": 77,
+      "sourcePrice": 43.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/AD952D34-59A7-4897-8846-84ADAE46CE70.webp?v=1793809785",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/AD952D34-59A7-4897-8846-84ADAE46CE70.webp?v=1793809785",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/024A65BD-A253-4567-B84F-91C9466064D8.webp?v=1793809785",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/882F241F-6B25-466C-B151-1C2D59E12515.webp?v=1793809785"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "tee",
+      "url": "https://www.thrifted.com/products/levis-t-shirt-mens-black-medium-128398-a",
+      "brand": "Levis",
+      "material": "Cotton",
+      "era": "1990S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 66,
+      "views": 0,
+      "addedAt": "2026-11-12T22:01:53.758Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16347751612803,
+      "sourceId": 16347751612803,
+      "name": "Loose Fit Carhartt Hoodie - Small Grey Cotton Blend",
+      "price": 83,
+      "sourcePrice": 49.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/3D76C8D3-0D99-44F8-94FB-836492134938.webp?v=1790244358",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3D76C8D3-0D99-44F8-94FB-836492134938.webp?v=1790244358",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0BEFA4B8-E7BF-4822-A830-FDF1C207AA04.webp?v=1790244357",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A85BDD5B-BDB4-47A1-8F57-21BB8FDA5A2C.webp?v=1790244358"
+      ],
+      "sizes": [
+        "Small"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/loose-fit-carhartt-hoodie-mens-grey-small-131916-a",
+      "brand": "Carhartt",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 64,
+      "views": 0,
+      "addedAt": "2026-11-12T22:01:53.758Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16425083437443,
+      "sourceId": 16425083437443,
+      "name": "Patagonia Hoodie - Medium Grey Cotton Blend",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/E161B806-5758-4ECB-956D-1B7879839E54.webp?v=1793809458",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E161B806-5758-4ECB-956D-1B7879839E54.webp?v=1793809458",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5EF2302-FA0C-4D7F-9898-E067DACEEBEE.webp?v=1793809458",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/E17F3B62-0D9C-4A03-BA97-A02EE5C576BE.webp?v=1793809459"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "hoodie",
+      "url": "https://www.thrifted.com/products/patagonia-hoodie-mens-grey-medium-128346-a",
       "brand": "Patagonia",
       "material": "Cotton Blend",
-      "era": "2020S",
-      "condition": "Very Good",
+      "era": "2010S",
+      "condition": "Good",
       "tier": "drops",
       "status": "available",
-      "score": 65,
+      "score": 63,
       "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
+      "addedAt": "2026-11-12T22:01:53.758Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16425080947075,
-      "sourceId": 16425080947075,
-      "name": "Vans Spellout Hoodie - Medium Grey Cotton Blend",
-      "price": 85,
-      "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/571B3995-26A5-41AD-9F10-2844E39E8581.webp?v=1793809294",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/571B3995-26A5-41AD-9F10-2844E39E8581.webp?v=1793809294",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/DE57B3DD-289C-4CC5-A654-03840998E346.webp?v=1793809294",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/1F6A505F-0324-477B-86A9-1889B83F943D.webp?v=1793809294"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/vans-hoodie-mens-grey-medium-128228-a",
-      "brand": "Vans",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 60,
-      "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16425080684931,
-      "sourceId": 16425080684931,
-      "name": "Vans Spellout Hoodie - Medium Blue Cotton Blend",
-      "price": 85,
-      "sourcePrice": 51.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/C6C5AECB-1DD3-40F2-B25E-298C2600BB5D.webp?v=1793809267",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C6C5AECB-1DD3-40F2-B25E-298C2600BB5D.webp?v=1793809267",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/3188B474-A2B7-477D-9985-280098D743BC.webp?v=1793809267",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/85182E3D-4949-45A6-9AC0-2E5F7254D32A.webp?v=1793809267"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "hoodie",
-      "url": "https://www.thrifted.com/products/vans-hoodie-mens-blue-medium-128220-a",
-      "brand": "Vans",
-      "material": "Cotton Blend",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 60,
-      "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16423021543811,
-      "sourceId": 16423021543811,
-      "name": "Seattle Mariners Lee Sport Mlb Sweatshirt - Medium Navy Cotton Blend",
-      "price": 83,
-      "sourcePrice": 49.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/9DAD529E-A660-42A0-8A0A-A08E3033838F.webp?v=1793719946",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/9DAD529E-A660-42A0-8A0A-A08E3033838F.webp?v=1793719946",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6F04812E-EB45-4B18-B0B3-CF3333DD1526.webp?v=1793719946",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/37F08B2B-B828-4DB8-A130-377C5B5CEC32.webp?v=1793719946"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/seattle-mariners-lee-sport-sweatshirt-mens-navy-medium-128121-a",
-      "brand": "Lee Sport",
-      "material": "Cotton Blend",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 54,
-      "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16416526369155,
-      "sourceId": 16416526369155,
-      "name": "Green Bay Packers Lee Sport Nfl Sweatshirt - Medium Grey Polyester Blend",
-      "price": 83,
-      "sourcePrice": 49.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/0F2A8905-B269-443D-BF56-1D5B479EDC74.webp?v=1793356828",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0F2A8905-B269-443D-BF56-1D5B479EDC74.webp?v=1793356828",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/6656F0F5-6216-4CA9-B8A5-C052BD235FFF.webp?v=1793356828",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/30F981E7-3FB2-485C-A0A9-256643BDE8AC.webp?v=1793356828"
-      ],
-      "sizes": [
-        "Medium"
-      ],
-      "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/green-bay-packers-lee-sport-sweatshirt-mens-grey-medium-125635-a",
-      "brand": "Lee Sport",
-      "material": "Polyester Blend",
-      "era": "1990S",
-      "condition": "Very Good",
-      "tier": "drops",
-      "status": "available",
-      "score": 54,
-      "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
-      "soldAt": null,
-      "carriedOver": false
-    },
-    {
-      "id": 16416601932163,
-      "sourceId": 16416601932163,
+      "id": 16373459943811,
+      "sourceId": 16373459943811,
       "name": "Carhartt Sweatshirt - Large Grey Cotton Blend",
       "price": 77,
       "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/61BFD7BC-BD2C-491E-999C-E5482E77D0EE.webp?v=1793358112",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/759CA0E3-83F3-4086-B68D-C8800F790580.webp?v=1791466740",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/61BFD7BC-BD2C-491E-999C-E5482E77D0EE.webp?v=1793358112",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/618A813C-6042-440C-A395-2D69D8209CBE.webp?v=1793358112",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/372E526F-A9CD-473B-BC91-EB641A16974B.webp?v=1793358113"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/759CA0E3-83F3-4086-B68D-C8800F790580.webp?v=1791466740",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/D94D19E5-A76E-4F79-955A-7E0083AAA65C.webp?v=1791466740",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/F7780E9A-51D8-41DC-B3C4-87D7BF91E404.webp?v=1791466740"
       ],
       "sizes": [
         "Large"
       ],
       "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/carhartt-sweatshirt-mens-grey-large-126563-a",
+      "url": "https://www.thrifted.com/products/carhartt-sweatshirt-mens-grey-large-121317-a",
       "brand": "Carhartt",
       "material": "Cotton Blend",
-      "era": "2010S",
+      "era": "2000S",
       "condition": "Good",
       "tier": "drops",
       "status": "available",
       "score": 54,
       "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
+      "addedAt": "2026-11-12T22:01:53.758Z",
       "soldAt": null,
       "carriedOver": false
     },
     {
-      "id": 16416600555907,
-      "sourceId": 16416600555907,
-      "name": "Carhartt Loose Fit Sweatshirt - Large Brown Cotton Blend",
+      "id": 16416611860867,
+      "sourceId": 16416611860867,
+      "name": "The North Face Sweatshirt - Medium Brown Cotton Blend",
       "price": 77,
       "sourcePrice": 43.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/55820069-1FA2-443D-AAF1-27119C173C09.webp?v=1793358091",
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/57584D19-5078-4E7A-9657-79781A3CE2CD.webp?v=1793358270",
       "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/55820069-1FA2-443D-AAF1-27119C173C09.webp?v=1793358091",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/D1EE4657-9EC0-474A-A7FA-6155A26D7390.webp?v=1793358091",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0EF7CB96-CD95-401B-B011-928A7D42EB09.webp?v=1793358092"
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/57584D19-5078-4E7A-9657-79781A3CE2CD.webp?v=1793358270",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/85CE066C-5D1A-42FF-BB31-1754FC6E8245.webp?v=1793358270",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/195C67DE-6B5A-4B69-BE3F-18F9B82371B0.webp?v=1793358270"
       ],
       "sizes": [
-        "Large"
+        "Medium"
       ],
       "category": "sweatshirt",
-      "url": "https://www.thrifted.com/products/carhartt-sweatshirt-mens-brown-large-126557-a",
-      "brand": "Carhartt",
+      "url": "https://www.thrifted.com/products/the-north-face-sweatshirt-mens-brown-medium-126611-a",
+      "brand": "The North Face",
       "material": "Cotton Blend",
       "era": "2010S",
       "condition": "Good",
       "tier": "drops",
       "status": "available",
-      "score": 54,
+      "score": 51,
       "views": 0,
-      "addedAt": "2026-11-07T21:35:11.138Z",
+      "addedAt": "2026-11-12T22:01:53.758Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16416612647299,
+      "sourceId": 16416612647299,
+      "name": "Levis Sweatshirt - Large Pink Cotton",
+      "price": 77,
+      "sourcePrice": 43.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/858C39DD-9E65-45D8-9E8D-D12C3E888561.webp?v=1793358283",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/858C39DD-9E65-45D8-9E8D-D12C3E888561.webp?v=1793358283",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CE982C84-E739-4A48-8E65-C8A7A98F529C.webp?v=1793358283",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/CEF8458C-B254-4521-A6A3-1CAD8EFFE844.webp?v=1793358283"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/levis-sweatshirt-mens-pink-large-126615-a",
+      "brand": "Levis",
+      "material": "Cotton",
+      "era": "2010S",
+      "condition": "Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 51,
+      "views": 0,
+      "addedAt": "2026-11-12T22:01:53.758Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16425080258947,
+      "sourceId": 16425080258947,
+      "name": "Vans Sweatshirt - Medium Cream Cotton Blend",
+      "price": 85,
+      "sourcePrice": 51.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/5D88AF2B-5025-415F-AF60-5EFA826A3735.webp?v=1793809231",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/5D88AF2B-5025-415F-AF60-5EFA826A3735.webp?v=1793809231",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/3DD17CDE-6D7A-40E1-AA66-7227CF520451.webp?v=1793809231",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/77467A70-4F71-474A-9950-ABE0F79C8EA8.webp?v=1793809231"
+      ],
+      "sizes": [
+        "Medium"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/vans-sweatshirt-mens-cream-medium-128209-a",
+      "brand": "Vans",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 50,
+      "views": 0,
+      "addedAt": "2026-11-12T22:01:53.758Z",
+      "soldAt": null,
+      "carriedOver": false
+    },
+    {
+      "id": 16416612254083,
+      "sourceId": 16416612254083,
+      "name": "Hard Rock Cafe Spellout Sweatshirt - Large Grey Cotton Blend",
+      "price": 83,
+      "sourcePrice": 49.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/8E91A905-29DF-423C-9CDC-4F28DB0BCCA7.webp?v=1793358276",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/8E91A905-29DF-423C-9CDC-4F28DB0BCCA7.webp?v=1793358276",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/74FF04E9-CF12-4252-B1BD-0872D08D282C.webp?v=1793358277",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/7991A960-BB53-4516-A590-1C2A0DAF9EF4.webp?v=1793358277"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "sweatshirt",
+      "url": "https://www.thrifted.com/products/hard-rock-cafe-sweatshirt-mens-grey-large-126613-a",
+      "brand": "Hard Rock Cafe",
+      "material": "Cotton Blend",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "drops",
+      "status": "available",
+      "score": 49,
+      "views": 0,
+      "addedAt": "2026-11-12T22:01:53.758Z",
       "soldAt": null,
       "carriedOver": false
     },
