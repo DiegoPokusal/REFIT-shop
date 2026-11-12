@@ -2,26 +2,6 @@
   "lastCycleAt": "2026-11-07T21:34:32.553Z",
   "removedHistory": [
     {
-      "sourceId": 16347760066947,
-      "removedAt": "2026-10-11T13:40:54.600Z"
-    },
-    {
-      "sourceId": 16347746599299,
-      "removedAt": "2026-10-11T13:54:15.949Z"
-    },
-    {
-      "sourceId": 16248384618883,
-      "removedAt": "2026-10-11T14:00:09.824Z"
-    },
-    {
-      "sourceId": 16269276184963,
-      "removedAt": "2026-10-11T14:00:10.053Z"
-    },
-    {
-      "sourceId": 16115905167747,
-      "removedAt": "2026-10-11T14:30:06.966Z"
-    },
-    {
       "sourceId": 16347750334851,
       "removedAt": "2026-10-13T18:34:10.751Z"
     },
@@ -376,6 +356,10 @@
     {
       "sourceId": 16425060729219,
       "removedAt": "2026-11-08T14:34:44.362Z"
+    },
+    {
+      "sourceId": 16115703939459,
+      "removedAt": "2026-11-12T02:30:32.828Z"
     }
   ],
   "products": [
@@ -1028,36 +1012,6 @@
       "manualPick": true
     },
     {
-      "id": 16112455811459,
-      "sourceId": 16112455811459,
-      "name": "Racing Snap On Graphic Jacket - Large Black Polyester",
-      "price": 113,
-      "sourcePrice": 79.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25568323-F08B-4922-9229-EE2A5EB28FA8.webp?v=1784648997",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/25568323-F08B-4922-9229-EE2A5EB28FA8.webp?v=1784648997",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/78D5EF84-1972-4774-A931-C8DFF93C2CC5.webp?v=1784648997",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/0F2D9B42-B86A-4E04-9823-F9A65E4641BF.webp?v=1784648997"
-      ],
-      "sizes": [
-        "Large"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/racing-snap-on-jacket-mens-black-large-111287-a",
-      "brand": "Snap On",
-      "material": "Polyester",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "available",
-      "score": 5,
-      "views": 0,
-      "addedAt": "2026-10-13T15:33:05.839Z",
-      "soldAt": null,
-      "carriedOver": false,
-      "manualPick": true
-    },
-    {
       "id": 16359303053699,
       "sourceId": 16359303053699,
       "name": "Vans Graphic Jacket - Small Black Cotton",
@@ -1084,6 +1038,36 @@
       "views": 1,
       "addedAt": "2026-10-13T15:33:05.839Z",
       "soldAt": null,
+      "carriedOver": false,
+      "manualPick": true
+    },
+    {
+      "id": 16112455811459,
+      "sourceId": 16112455811459,
+      "name": "Racing Snap On Graphic Jacket - Large Black Polyester",
+      "price": 113,
+      "sourcePrice": 79.95,
+      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/25568323-F08B-4922-9229-EE2A5EB28FA8.webp?v=1784648997",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/25568323-F08B-4922-9229-EE2A5EB28FA8.webp?v=1784648997",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/78D5EF84-1972-4774-A931-C8DFF93C2CC5.webp?v=1784648997",
+        "https://cdn.shopify.com/s/files/1/0556/1841/files/0F2D9B42-B86A-4E04-9823-F9A65E4641BF.webp?v=1784648997"
+      ],
+      "sizes": [
+        "Large"
+      ],
+      "category": "jacket",
+      "url": "https://www.thrifted.com/products/racing-snap-on-jacket-mens-black-large-111287-a",
+      "brand": "Snap On",
+      "material": "Polyester",
+      "era": "2000S",
+      "condition": "Very Good",
+      "tier": "premium",
+      "status": "unavailable",
+      "score": 5,
+      "views": 0,
+      "addedAt": "2026-10-13T15:33:05.839Z",
+      "soldAt": "2026-11-12T02:30:32.813Z",
       "carriedOver": false,
       "manualPick": true
     },
@@ -1348,35 +1332,6 @@
       "status": "unavailable",
       "score": 93,
       "views": 1,
-      "addedAt": "2026-09-13T10:00:41.405Z",
-      "soldAt": "2026-09-13T10:30:08.477Z",
-      "carriedOver": false
-    },
-    {
-      "id": 16115703939459,
-      "sourceId": 16115703939459,
-      "name": "The North Face Waterproof Jacket - Small Blue Gore-Tex",
-      "price": 168,
-      "sourcePrice": 106.95,
-      "image": "https://cdn.shopify.com/s/files/1/0556/1841/files/52A85468-E5B6-4BCA-8755-989F5D350EFA.webp?v=1784717724",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/52A85468-E5B6-4BCA-8755-989F5D350EFA.webp?v=1784717724",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/A5E10083-82D6-432D-9D0A-857BBFE4BE28.webp?v=1784717724",
-        "https://cdn.shopify.com/s/files/1/0556/1841/files/C35C1E3B-F4A8-4EFB-99D4-281A2DFD06DA.webp?v=1784717725"
-      ],
-      "sizes": [
-        "Small"
-      ],
-      "category": "jacket",
-      "url": "https://www.thrifted.com/products/the-north-face-waterproof-jacket-mens-blue-small-112198-a",
-      "brand": "The North Face",
-      "material": "Gore-Tex",
-      "era": "2000S",
-      "condition": "Very Good",
-      "tier": "premium",
-      "status": "unavailable",
-      "score": 82,
-      "views": 0,
       "addedAt": "2026-09-13T10:00:41.405Z",
       "soldAt": "2026-09-13T10:30:08.477Z",
       "carriedOver": false
